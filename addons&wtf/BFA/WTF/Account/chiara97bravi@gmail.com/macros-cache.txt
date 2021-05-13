@@ -1,0 +1,25 @@
+VER 3 0000000000000006 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Elementale del Magma Stabilizzato
+END
+VER 3 0000000000000001 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/cm rc
+END
+VER 3 0000000000000003 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cm rm
+END
+VER 3 0000000000000002 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
+/cm rt
+END
+VER 3 0000000000000007 "Pasqua" "INV_MISC_QUESTIONMARK"
+/target easter egg
+END
+VER 3 0000000000000004 "pull" "INV_MISC_QUESTIONMARK"
+/dbm pull 10
+END
+VER 3 0000000000000005 "reclutare" "INV_MISC_QUESTIONMARK"
+/2 The Italian guild "Country Penguins", is recruiting Italian Players to join our ranks. We do all instances mm0/mm+ Eternal Palace 8/8 NM, 8/8 HC!  if you want, feel free to join us!
+END
+VER 3 0000000000000008 "summon" "INV_MISC_QUESTIONMARK"
+/script SummonFriend("Target")
+END

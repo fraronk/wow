@@ -1,0 +1,34 @@
+## Interface: 80300
+#@non-debug@
+## Title: HandyNotes: TravelGuide
+## Notes: Shows the portal, boat and zeppelin locations on the World Map and the MiniMap.
+## Notes-deDE: Zeigt die Positionen von Portalen, Schiffen und Zeppelinen auf der Worldmap und der Minimap an.
+## Notes-ptBR: Mostra portais, localizações de zepelins e navios no Mapa-múndi e minimapa.
+#@end-non-debug@
+#@debug@
+# ## Title: HandyNotes: TravelGuide
+# ## Notes: Shows the portal, boat and zeppelin locations on the World Map and the MiniMap.
+# ## Notes-deDE: Zeigt die Positionen von Portalen, Schiffen und Zeppelinen auf der Worldmap und der Minimap an.
+# ## Notes-ptBR: Mostra portais, localizações de zepelins e navios no Mapa-múndi e minimapa.
+#@end-debug@
+## Author: |cFFFF8C00Dathwada EU-Eredar|r
+## Version: v2.1.5
+## RequiredDeps: HandyNotes
+## DefaultState: enabled
+## SavedVariables: HandyNotes_TravelGuideDB
+## X-Embeds: AceTimer-3.0
+## X-Date: 2020-08-26
+## X-Category: Map
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+Locale\Locales.xml
+Locale\deDE.lua
+Locale\enUS.lua
+Locale\ptBR.lua
+Core\Constants.lua
+Core\Handler.lua
+Core\Config.lua
+Data\DB.lua

@@ -1,0 +1,49 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.032,
+	["LastPlayerFullName"] = "Vallati-Sethraliss",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		[6] = {
+			["ID"] = 157704,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157704::::::::20:70:512:::20:::|h[Cinturone della Luce dell'Anima]|h|r",
+		},
+		[7] = {
+			["ID"] = 157702,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157702::::::::20:70:512:::20:::|h[Gambali Corazzati della Luce dell'Anima]|h|r",
+		},
+		[8] = {
+			["ID"] = 157699,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157699::::::::20:70:512:::20:::|h[Calzari della Luce dell'Anima]|h|r",
+		},
+		[10] = {
+			["ID"] = 157700,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157700::::::::20:70:512:::20:::|h[Guanti Lunghi della Luce dell'Anima]|h|r",
+		},
+		[16] = {
+			["ID"] = 157631,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157631::::::::20:70:512:::20:::|h[Maglio della Punizione]|h|r",
+		},
+		[5] = {
+			["ID"] = 157698,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157698::::::::20:70:512:::20:::|h[Corazza Feroce della Luce dell'Anima]|h|r",
+		},
+		[9] = {
+			["ID"] = 157705,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157705::::::::20:70:512:::20:::|h[Avambracci della Luce dell'Anima]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

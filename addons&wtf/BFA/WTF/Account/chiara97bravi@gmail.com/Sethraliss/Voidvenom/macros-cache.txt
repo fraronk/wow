@@ -1,0 +1,13 @@
+VER 3 0100000000000004 "cura pet" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/lancia [@Player] Cura Spirituale(Abilità Esotica)
+END
+VER 3 0100000000000002 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Difensori principali:1:3:Gruppo:
+END
+VER 3 0100000000000001 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Cicci:g3:ayer-10-0076C68C:1:Maria:g1:ayer-10-003447B7:1:Voidv:p:ayer-10-004B3A0C:1:Drusm:g2:ayer-10-0076C687:1:
+END
+VER 3 0100000000000003 "silence" "INV_MISC_QUESTIONMARK"
+cast [@focus] Tiro di Contrasto
+END

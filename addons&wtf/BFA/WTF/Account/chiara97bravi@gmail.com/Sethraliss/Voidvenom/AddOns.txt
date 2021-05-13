@@ -1,0 +1,4 @@
+WeakAurasCompanion: enabled
+ElvUI: disabled
+HealBot: disabled
+MaxDps: disabled

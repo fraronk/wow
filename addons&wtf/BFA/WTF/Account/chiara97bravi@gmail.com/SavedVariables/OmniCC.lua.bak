@@ -1,0 +1,24 @@
+
+OmniCC4Config = {
+	["groupSettings"] = {
+		["base"] = {
+			["styles"] = {
+				["seconds"] = {
+				},
+				["minutes"] = {
+				},
+				["soon"] = {
+				},
+				["hours"] = {
+				},
+				["charging"] = {
+				},
+				["controlled"] = {
+				},
+			},
+		},
+	},
+	["groups"] = {
+	},
+	["version"] = "8.2.5",
+}

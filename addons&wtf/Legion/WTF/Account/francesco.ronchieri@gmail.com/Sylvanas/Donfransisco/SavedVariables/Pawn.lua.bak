@@ -1,0 +1,49 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0246,
+	["LastPlayerFullName"] = "Donfransisco-Sylvanas",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["ItemLevels"] = {
+		[6] = {
+			["ID"] = 157712,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157712::::::::20:256:512:::20:::|h[Fascia del Curato]|h|r",
+		},
+		[7] = {
+			["ID"] = 157709,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157709::::::::20:256:512:::20:::|h[Pantaloni del Curato]|h|r",
+		},
+		[8] = {
+			["ID"] = 157706,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157706::::::::20:256:512:::20:::|h[Stivali del Curato]|h|r",
+		},
+		[10] = {
+			["ID"] = 157707,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157707::::::::20:256:512:::20:::|h[Guanti del Curato]|h|r",
+		},
+		[16] = {
+			["ID"] = 157632,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157632::::::::20:256:512:::20:::|h[Bastone del Potere Intrecciato]|h|r",
+		},
+		[5] = {
+			["ID"] = 157710,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157710::::::::20:256:512:::20:::|h[Tonaca del Curato]|h|r",
+		},
+		[9] = {
+			["ID"] = 157713,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:157713::::::::20:256:512:::20:::|h[Manette del Curato]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PRIEST",
+	["LastAdded"] = 1,
+}

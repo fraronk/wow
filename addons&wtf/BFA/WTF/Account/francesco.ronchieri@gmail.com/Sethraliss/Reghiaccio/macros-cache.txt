@@ -1,0 +1,16 @@
+VER 3 0100000000000001 "Congelamento" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Congelamento
+END
+VER 3 0100000000000002 "dis" "236227"
+/cast Disincantamento
+/use Bracciali di Lino Spruzzato di Mare dell'Aurora
+/use Bracciali di Lino Spruzzato di Mare dell'Armonia
+/use Bracciali di Lino Spruzzato di Mare dell'Impareggiabile
+/use Bracciali di Lino Spruzzato di Mare della Lama Veloce
+END
+VER 3 0100000000000006 "dis2" "135992"
+/cast Disincantamento
+/use Bracciali di Lino Spruzzato di Mare della Bramosia
+/use Bracciali di Lino Spruzzato di Mare della Folgore
+END

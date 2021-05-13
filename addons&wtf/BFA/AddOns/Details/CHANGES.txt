@@ -1,0 +1,10 @@
+lightweight tag bc04237981dbf14e110b7081dd6d764c19a3e34d DetailsRetail.8.3.0.7356.141
+Author:	Tercio Jose <terciob19@hotmail.com>
+Date:	Tue Aug 11 18:05:37 2020 -0300
+
+commit bc04237981dbf14e110b7081dd6d764c19a3e34d
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Tue Aug 11 18:05:37 2020 -0300
+
+    Making sure the merge trash is enabled on new installations
+

@@ -1,0 +1,6 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+MaxDps_Rogue: disabled
+MaxDps_Monk: disabled
+MaxDps_Druid: disabled
+MaxDps_Shaman: enabled

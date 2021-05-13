@@ -1,0 +1,4 @@
+WeakAurasCompanion: enabled
+ElvUI: disabled
+DBM-Core: enabled
+HealBot: disabled

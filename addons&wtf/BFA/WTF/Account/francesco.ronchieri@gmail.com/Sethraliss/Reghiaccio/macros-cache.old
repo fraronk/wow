@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "Congelamento" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Congelamento
+END

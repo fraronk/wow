@@ -1,0 +1,28 @@
+
+DataStore_CraftsDB = {
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Voidvenom - Sethraliss",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Sethraliss.Voidvenom"] = {
+				["Professions"] = {
+					["Estrazione"] = {
+						["CurrentLevelName"] = "Estrazione di Kul Tiras",
+					},
+					["Ingegneria"] = {
+						["CurrentLevelName"] = "Ingegneria di Kul Tiras",
+					},
+				},
+				["Prof2"] = "Ingegneria",
+				["lastUpdate"] = 1605388503,
+				["Prof1"] = "Estrazione",
+			},
+		},
+	},
+}
+DataStore_CraftsRefDB = {
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Voidvenom - Sethraliss",
+	},
+}

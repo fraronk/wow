@@ -1,0 +1,23 @@
+
+HHTD_SavedVariables = {
+	["char"] = {
+		["Ciccioz - Sethraliss"] = {
+			["settingsMigrated"] = false,
+		},
+	},
+	["global"] = {
+		["settingsMigrated"] = false,
+		["oldNameEnableState"] = 0,
+	},
+	["profileKeys"] = {
+		["Ciccioz - Sethraliss"] = "Ciccioz - Sethraliss",
+	},
+	["namespaces"] = {
+		["Announcer"] = {
+		},
+		["CM"] = {
+		},
+		["NPH"] = {
+		},
+	},
+}

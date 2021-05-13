@@ -1,0 +1,3539 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Bellavista"] = {
+			["GUID"] = "Player-10-00646B3E",
+			["LastEventHealth"] = {
+				177660, -- [1]
+				177660, -- [2]
+				204309, -- [3]
+				204309, -- [4]
+				204309, -- [5]
+				204309, -- [6]
+				204309, -- [7]
+				204309, -- [8]
+				204309, -- [9]
+				204309, -- [10]
+				204309, -- [11]
+				204309, -- [12]
+				204309, -- [13]
+				184226, -- [14]
+				184226, -- [15]
+				184226, -- [16]
+				184226, -- [17]
+				184226, -- [18]
+				184226, -- [19]
+				184226, -- [20]
+				184226, -- [21]
+				204447, -- [22]
+			},
+			["LastAttackedBy"] = "Globo del Vuoto",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"HEAL", -- [22]
+			},
+			["TimeWindows"] = {
+				["Absorbs"] = {
+					8398, -- [1]
+				},
+				["TimeHeal"] = {
+					3, -- [1]
+				},
+				["ActiveTime"] = {
+					20.43, -- [1]
+				},
+				["HealingTaken"] = {
+					8398, -- [1]
+				},
+				["TimeDamage"] = {
+					17.43, -- [1]
+				},
+				["DamageTaken"] = {
+					32094, -- [1]
+				},
+				["Damage"] = {
+					141873, -- [1]
+				},
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = true,
+			["level"] = 120,
+			["LastDamageAbility"] = "Globo del Vuoto",
+			["LastFightIn"] = 0,
+			["LastHealTime"] = 367301.75,
+			["type"] = "Grouped",
+			["FightsSaved"] = 1,
+			["LastEventHealthMax"] = {
+				177660, -- [1]
+				177660, -- [2]
+				204309, -- [3]
+				204309, -- [4]
+				204309, -- [5]
+				204309, -- [6]
+				204309, -- [7]
+				204309, -- [8]
+				204309, -- [9]
+				204309, -- [10]
+				204309, -- [11]
+				204309, -- [12]
+				204309, -- [13]
+				204309, -- [14]
+				204309, -- [15]
+				204309, -- [16]
+				204309, -- [17]
+				204309, -- [18]
+				204309, -- [19]
+				204309, -- [20]
+				204309, -- [21]
+				204447, -- [22]
+			},
+			["LastDamageTaken"] = 20083,
+			["Owner"] = false,
+			["TimeLast"] = {
+				["Absorbs"] = 367301.717,
+				["TimeHeal"] = 367301.717,
+				["HealingTaken"] = 367301.717,
+				["ActiveTime"] = 367306.718,
+				["TimeDamage"] = 367306.718,
+				["OVERALL"] = 367306.718,
+				["DamageTaken"] = 367301.717,
+				["Damage"] = 367306.718,
+			},
+			["NextEventNum"] = 23,
+			["LastDamageTime"] = 367307.244,
+			["LastEvents"] = {
+				"Oratore Oscuro Jo'la Melee Bellavista Absorb -3613 (3613 Absorbed) (1)", -- [1]
+				"Bellavista Melee Oratore Oscuro Jo'la Hit -3290 (Physical)", -- [2]
+				"Bellavista Giudizio Oratore Oscuro Jo'la Crit -14556 (Holy)", -- [3]
+				"Bellavista Lama della Giustizia Oratore Oscuro Jo'la Hit -7440 (Physical)", -- [4]
+				"Bellavista Melee Oratore Oscuro Jo'la Crit -6944 (Physical)", -- [5]
+				"Oratore Oscuro Jo'la Flagello Mentale (DoT) Bellavista Absorb -2422 (2422 Absorbed) (Shadow)", -- [6]
+				"Bellavista Tempesta Divina Oratore Oscuro Jo'la Hit -14253 (Holy)", -- [7]
+				"Bellavista Verdetto dei Templari Oratore Oscuro Jo'la Hit -15485 (Holy)", -- [8]
+				"Bellavista Melee Oratore Oscuro Jo'la Hit -3271 (Physical)", -- [9]
+				"Bellavista Melee Oratore Oscuro Jo'la Hit -3505 (Physical)", -- [10]
+				"Bellavista Lama della Giustizia Oratore Oscuro Jo'la Hit -7440 (Physical)", -- [11]
+				"Bellavista Melee Oratore Oscuro Jo'la Hit -3355 (Physical)", -- [12]
+				"Bellavista Giudizio Oratore Oscuro Jo'la Hit -7278 (Holy)", -- [13]
+				"Globo del Vuoto Globo del Vuoto Bellavista Absorb -5976 (Shadow)", -- [14]
+				"Globo del Vuoto Globo del Vuoto Bellavista Hit -20083 (5976 Absorbed) (Shadow)", -- [15]
+				"Bellavista Assalto del Crociato Oratore Oscuro Jo'la Hit -3140 (Physical)", -- [16]
+				"Bellavista Melee Oratore Oscuro Jo'la Crit -6408 (Physical)", -- [17]
+				"Bellavista Verdetto dei Templari Oratore Oscuro Jo'la Hit -19356 (Holy)", -- [18]
+				"Bellavista Lama della Giustizia Oratore Oscuro Jo'la Hit -7440 (Physical)", -- [19]
+				"Bellavista Melee Oratore Oscuro Jo'la Hit -3227 (Physical)", -- [20]
+				"Bellavista Verdetto dei Templari Oratore Oscuro Jo'la Hit -15485 (Holy)", -- [21]
+				"Tonellotto Dono di Ysera Bellavista Hit +12033 (1134 Overheal)", -- [22]
+			},
+			["Name"] = "Bellavista",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				true, -- [6]
+				false, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				true, -- [14]
+				true, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				true, -- [22]
+			},
+			["LastEventTimes"] = {
+				367286.588, -- [1]
+				367286.869, -- [2]
+				367289.811, -- [3]
+				367290.494, -- [4]
+				367290.494, -- [5]
+				367291.215, -- [6]
+				367291.636, -- [7]
+				367293.893, -- [8]
+				367293.893, -- [9]
+				367296.652, -- [10]
+				367297.5, -- [11]
+				367299.122, -- [12]
+				367301.487, -- [13]
+				367301.75, -- [14]
+				367301.75, -- [15]
+				367302.425, -- [16]
+				367303.193, -- [17]
+				367303.729, -- [18]
+				367305.102, -- [19]
+				367306.009, -- [20]
+				367307.244, -- [21]
+				367312.655, -- [22]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["TimeHealing"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["TimeSpent"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 2.9,
+								},
+								["Melee"] = {
+									["count"] = 6.18,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 3.27,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 0.94,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 1.14,
+								},
+								["Giudizio"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 17.43,
+						},
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DamageTaken"] = 32094,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Flagello Mentale (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 3613,
+									["min"] = 3613,
+									["count"] = 1,
+									["amount"] = 3613,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3613,
+						},
+						["Flagello Mentale (DoT)"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 2422,
+									["min"] = 2422,
+									["count"] = 1,
+									["amount"] = 2422,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2422,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 5976,
+									["min"] = 5976,
+									["count"] = 1,
+									["amount"] = 5976,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5976,
+						},
+					},
+					["ActiveTime"] = 20.43,
+					["ElementTaken"] = {
+						["Melee"] = 3613,
+						["Shadow"] = 28481,
+					},
+					["Damage"] = 141873,
+					["WhoHealed"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 8398,
+								},
+							},
+							["amount"] = 8398,
+						},
+					},
+					["TimeHeal"] = 3,
+					["ElementDone"] = {
+						["Holy"] = 86413,
+						["Melee"] = 30000,
+						["Physical"] = 25460,
+					},
+					["HealedWho"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 8398,
+								},
+							},
+							["amount"] = 8398,
+						},
+					},
+					["Heals"] = {
+						["Benedizione Superiore dei Re"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 5976,
+									["min"] = 2422,
+									["count"] = 2,
+									["amount"] = 8398,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8398,
+						},
+					},
+					["TimeDamaging"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 2.9,
+								},
+								["Melee"] = {
+									["count"] = 6.18,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 3.27,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 0.94,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 1.14,
+								},
+								["Giudizio"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 17.43,
+						},
+					},
+					["Absorbs"] = 8398,
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["Attacks"] = {
+						["Lama della Giustizia"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 7440,
+									["min"] = 7440,
+									["count"] = 3,
+									["amount"] = 22320,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 22320,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6944,
+									["min"] = 6408,
+									["count"] = 2,
+									["amount"] = 13352,
+								},
+								["Hit"] = {
+									["max"] = 3505,
+									["min"] = 3227,
+									["count"] = 5,
+									["amount"] = 16648,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 30000,
+						},
+						["Verdetto dei Templari"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 19356,
+									["min"] = 15485,
+									["count"] = 3,
+									["amount"] = 50326,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 50326,
+						},
+						["Assalto del Crociato"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3140,
+									["min"] = 3140,
+									["count"] = 1,
+									["amount"] = 3140,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3140,
+						},
+						["Tempesta Divina"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14253,
+									["min"] = 14253,
+									["count"] = 1,
+									["amount"] = 14253,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14253,
+						},
+						["Giudizio"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14556,
+									["min"] = 14556,
+									["count"] = 1,
+									["amount"] = 14556,
+								},
+								["Hit"] = {
+									["max"] = 7278,
+									["min"] = 7278,
+									["count"] = 1,
+									["amount"] = 7278,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21834,
+						},
+					},
+					["HealingTaken"] = 8398,
+					["DamagedWho"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 22320,
+								},
+								["Melee"] = {
+									["count"] = 30000,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 50326,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 3140,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 14253,
+								},
+								["Giudizio"] = {
+									["count"] = 21834,
+								},
+							},
+							["amount"] = 141873,
+						},
+					},
+					["TimeDamage"] = 17.43,
+					["WhoDamaged"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3613,
+								},
+								["Flagello Mentale (DoT)"] = {
+									["count"] = 2422,
+								},
+							},
+							["amount"] = 6035,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["Globo del Vuoto"] = {
+									["count"] = 26059,
+								},
+							},
+							["amount"] = 26059,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 3613,
+						["Shadow"] = 8398,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Absorbed"] = {
+						["Benedizione Superiore dei Re"] = {
+							["Details"] = {
+								["Bellavista"] = {
+									["max"] = 5976,
+									["min"] = 2422,
+									["count"] = 2,
+									["amount"] = 8398,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8398,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["TimeHealing"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["TimeSpent"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 2.9,
+								},
+								["Melee"] = {
+									["count"] = 6.18,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 3.27,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 0.94,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 1.14,
+								},
+								["Giudizio"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 17.43,
+						},
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DamageTaken"] = 32094,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Flagello Mentale (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 3613,
+									["min"] = 3613,
+									["count"] = 1,
+									["amount"] = 3613,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3613,
+						},
+						["Flagello Mentale (DoT)"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 2422,
+									["min"] = 2422,
+									["count"] = 1,
+									["amount"] = 2422,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2422,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 5976,
+									["min"] = 5976,
+									["count"] = 1,
+									["amount"] = 5976,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5976,
+						},
+					},
+					["ActiveTime"] = 20.43,
+					["ElementTaken"] = {
+						["Melee"] = 3613,
+						["Shadow"] = 28481,
+					},
+					["Damage"] = 141873,
+					["WhoHealed"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 8398,
+								},
+							},
+							["amount"] = 8398,
+						},
+					},
+					["TimeHeal"] = 3,
+					["ElementDone"] = {
+						["Holy"] = 86413,
+						["Melee"] = 30000,
+						["Physical"] = 25460,
+					},
+					["HealedWho"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 8398,
+								},
+							},
+							["amount"] = 8398,
+						},
+					},
+					["Heals"] = {
+						["Benedizione Superiore dei Re"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 5976,
+									["min"] = 2422,
+									["count"] = 2,
+									["amount"] = 8398,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8398,
+						},
+					},
+					["TimeDamaging"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 2.9,
+								},
+								["Melee"] = {
+									["count"] = 6.18,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 3.27,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 0.94,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 1.14,
+								},
+								["Giudizio"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 17.43,
+						},
+					},
+					["Absorbs"] = 8398,
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["Attacks"] = {
+						["Lama della Giustizia"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 7440,
+									["min"] = 7440,
+									["count"] = 3,
+									["amount"] = 22320,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 22320,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6944,
+									["min"] = 6408,
+									["count"] = 2,
+									["amount"] = 13352,
+								},
+								["Hit"] = {
+									["max"] = 3505,
+									["min"] = 3227,
+									["count"] = 5,
+									["amount"] = 16648,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 30000,
+						},
+						["Verdetto dei Templari"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 19356,
+									["min"] = 15485,
+									["count"] = 3,
+									["amount"] = 50326,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 50326,
+						},
+						["Assalto del Crociato"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3140,
+									["min"] = 3140,
+									["count"] = 1,
+									["amount"] = 3140,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3140,
+						},
+						["Tempesta Divina"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14253,
+									["min"] = 14253,
+									["count"] = 1,
+									["amount"] = 14253,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14253,
+						},
+						["Giudizio"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14556,
+									["min"] = 14556,
+									["count"] = 1,
+									["amount"] = 14556,
+								},
+								["Hit"] = {
+									["max"] = 7278,
+									["min"] = 7278,
+									["count"] = 1,
+									["amount"] = 7278,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21834,
+						},
+					},
+					["HealingTaken"] = 8398,
+					["DamagedWho"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 22320,
+								},
+								["Melee"] = {
+									["count"] = 30000,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 50326,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 3140,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 14253,
+								},
+								["Giudizio"] = {
+									["count"] = 21834,
+								},
+							},
+							["amount"] = 141873,
+						},
+					},
+					["TimeDamage"] = 17.43,
+					["WhoDamaged"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3613,
+								},
+								["Flagello Mentale (DoT)"] = {
+									["count"] = 2422,
+								},
+							},
+							["amount"] = 6035,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["Globo del Vuoto"] = {
+									["count"] = 26059,
+								},
+							},
+							["amount"] = 26059,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 3613,
+						["Shadow"] = 8398,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Absorbed"] = {
+						["Benedizione Superiore dei Re"] = {
+							["Details"] = {
+								["Bellavista"] = {
+									["max"] = 5976,
+									["min"] = 2422,
+									["count"] = 2,
+									["amount"] = 8398,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8398,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["TimeHealing"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["TimeSpent"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 2.9,
+								},
+								["Melee"] = {
+									["count"] = 6.18,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 3.27,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 0.94,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 1.14,
+								},
+								["Giudizio"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 17.43,
+						},
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DamageTaken"] = 32094,
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Flagello Mentale (DoT)"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 3613,
+									["min"] = 3613,
+									["count"] = 1,
+									["amount"] = 3613,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3613,
+						},
+						["Flagello Mentale (DoT)"] = {
+							["Details"] = {
+								["Absorbed"] = {
+									["max"] = 2422,
+									["min"] = 2422,
+									["count"] = 1,
+									["amount"] = 2422,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 2422,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 5976,
+									["min"] = 5976,
+									["count"] = 1,
+									["amount"] = 5976,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5976,
+						},
+					},
+					["ActiveTime"] = 20.43,
+					["ElementTaken"] = {
+						["Melee"] = 3613,
+						["Shadow"] = 28481,
+					},
+					["Damage"] = 141873,
+					["WhoHealed"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 8398,
+								},
+							},
+							["amount"] = 8398,
+						},
+					},
+					["TimeHeal"] = 3,
+					["ElementDone"] = {
+						["Holy"] = 86413,
+						["Melee"] = 30000,
+						["Physical"] = 25460,
+					},
+					["HealedWho"] = {
+						["Bellavista"] = {
+							["Details"] = {
+								["Benedizione Superiore dei Re"] = {
+									["count"] = 8398,
+								},
+							},
+							["amount"] = 8398,
+						},
+					},
+					["Heals"] = {
+						["Benedizione Superiore dei Re"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 5976,
+									["min"] = 2422,
+									["count"] = 2,
+									["amount"] = 8398,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8398,
+						},
+					},
+					["TimeDamaging"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 2.9,
+								},
+								["Melee"] = {
+									["count"] = 6.18,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 3.27,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 0.94,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 1.14,
+								},
+								["Giudizio"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 17.43,
+						},
+					},
+					["Absorbs"] = 8398,
+					["ElementHitsDone"] = {
+						["Holy"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 6,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["Attacks"] = {
+						["Lama della Giustizia"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 7440,
+									["min"] = 7440,
+									["count"] = 3,
+									["amount"] = 22320,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 22320,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 6944,
+									["min"] = 6408,
+									["count"] = 2,
+									["amount"] = 13352,
+								},
+								["Hit"] = {
+									["max"] = 3505,
+									["min"] = 3227,
+									["count"] = 5,
+									["amount"] = 16648,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 30000,
+						},
+						["Verdetto dei Templari"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 19356,
+									["min"] = 15485,
+									["count"] = 3,
+									["amount"] = 50326,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 50326,
+						},
+						["Assalto del Crociato"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3140,
+									["min"] = 3140,
+									["count"] = 1,
+									["amount"] = 3140,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3140,
+						},
+						["Tempesta Divina"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 14253,
+									["min"] = 14253,
+									["count"] = 1,
+									["amount"] = 14253,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 14253,
+						},
+						["Giudizio"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 14556,
+									["min"] = 14556,
+									["count"] = 1,
+									["amount"] = 14556,
+								},
+								["Hit"] = {
+									["max"] = 7278,
+									["min"] = 7278,
+									["count"] = 1,
+									["amount"] = 7278,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 21834,
+						},
+					},
+					["HealingTaken"] = 8398,
+					["DamagedWho"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Lama della Giustizia"] = {
+									["count"] = 22320,
+								},
+								["Melee"] = {
+									["count"] = 30000,
+								},
+								["Verdetto dei Templari"] = {
+									["count"] = 50326,
+								},
+								["Assalto del Crociato"] = {
+									["count"] = 3140,
+								},
+								["Tempesta Divina"] = {
+									["count"] = 14253,
+								},
+								["Giudizio"] = {
+									["count"] = 21834,
+								},
+							},
+							["amount"] = 141873,
+						},
+					},
+					["TimeDamage"] = 17.43,
+					["WhoDamaged"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 3613,
+								},
+								["Flagello Mentale (DoT)"] = {
+									["count"] = 2422,
+								},
+							},
+							["amount"] = 6035,
+						},
+						["Globo del Vuoto"] = {
+							["Details"] = {
+								["Globo del Vuoto"] = {
+									["count"] = 26059,
+								},
+							},
+							["amount"] = 26059,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 3613,
+						["Shadow"] = 8398,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+								["Absorb"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["Absorbed"] = {
+						["Benedizione Superiore dei Re"] = {
+							["Details"] = {
+								["Bellavista"] = {
+									["max"] = 5976,
+									["min"] = 2422,
+									["count"] = 2,
+									["amount"] = 8398,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8398,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 367285.727,
+			["LastActive"] = 367311.724,
+		},
+		["Tonellotto"] = {
+			["GUID"] = "Player-10-00646AF8",
+			["LastEventHealth"] = {
+				387410, -- [1]
+				387410, -- [2]
+				387410, -- [3]
+				387410, -- [4]
+				387410, -- [5]
+				387410, -- [6]
+				387410, -- [7]
+				387410, -- [8]
+				387410, -- [9]
+				385598, -- [10]
+				385598, -- [11]
+				385598, -- [12]
+				385598, -- [13]
+				385597, -- [14]
+				385597, -- [15]
+				385597, -- [16]
+				385597, -- [17]
+				387410, -- [18]
+				387410, -- [19]
+				387410, -- [20]
+				387410, -- [21]
+				387410, -- [22]
+				387410, -- [23]
+				387410, -- [24]
+				387410, -- [25]
+				387410, -- [26]
+				387410, -- [27]
+				387410, -- [28]
+				387410, -- [29]
+				387410, -- [30]
+				387410, -- [31]
+				387410, -- [32]
+				387410, -- [33]
+				387410, -- [34]
+				387410, -- [35]
+				387410, -- [36]
+				401111, -- [37]
+				401111, -- [38]
+				434849, -- [39]
+				434849, -- [40]
+				434849, -- [41]
+				434849, -- [42]
+				401111, -- [43]
+			},
+			["LastAttackedBy"] = "Oratore Oscuro Jo'la",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"MISC", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"HEAL", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"HEAL", -- [42]
+				"HEAL", -- [43]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					7.11, -- [1]
+				},
+				["Healing"] = {
+					5145, -- [1]
+				},
+				["DamageTaken"] = {
+					9415, -- [1]
+				},
+				["HealingTaken"] = {
+					6107, -- [1]
+				},
+				["Absorbs"] = {
+					962, -- [1]
+				},
+				["RageGain"] = {
+					30, -- [1]
+				},
+				["Overhealing"] = {
+					19522, -- [1]
+				},
+				["TimeDamage"] = {
+					17.79, -- [1]
+				},
+				["ActiveTime"] = {
+					24.9, -- [1]
+				},
+				["Interrupts"] = {
+					1, -- [1]
+				},
+				["DOT_Time"] = {
+					42, -- [1]
+				},
+				["Damage"] = {
+					74934, -- [1]
+				},
+			},
+			["enClass"] = "DRUID",
+			["unit"] = "Tonellotto",
+			["level"] = 120,
+			["LastDamageAbility"] = "Melee",
+			["LastFightIn"] = 0,
+			["LastDamageTaken"] = 3332,
+			["type"] = "Self",
+			["FightsSaved"] = 1,
+			["LastHealTime"] = 367307.244,
+			["TimeLast"] = {
+				["TimeHeal"] = 367306.718,
+				["HealingTaken"] = 367306.718,
+				["OVERALL"] = 367306.718,
+				["DamageTaken"] = 367305.724,
+				["Healing"] = 367306.718,
+				["Absorbs"] = 367305.724,
+				["RageGain"] = 367306.718,
+				["Overhealing"] = 367306.718,
+				["TimeDamage"] = 367305.724,
+				["Interrupts"] = 367291.717,
+				["ActiveTime"] = 367306.718,
+				["DOT_Time"] = 367305.724,
+				["Damage"] = 367305.724,
+			},
+			["Owner"] = false,
+			["LastEventHealthMax"] = {
+				387410, -- [1]
+				387410, -- [2]
+				387410, -- [3]
+				387410, -- [4]
+				387410, -- [5]
+				387410, -- [6]
+				387410, -- [7]
+				387410, -- [8]
+				387410, -- [9]
+				387410, -- [10]
+				387410, -- [11]
+				387410, -- [12]
+				387410, -- [13]
+				387410, -- [14]
+				387410, -- [15]
+				387410, -- [16]
+				387410, -- [17]
+				387410, -- [18]
+				387410, -- [19]
+				387410, -- [20]
+				387410, -- [21]
+				387410, -- [22]
+				387410, -- [23]
+				387410, -- [24]
+				387410, -- [25]
+				387410, -- [26]
+				387410, -- [27]
+				387410, -- [28]
+				387410, -- [29]
+				387410, -- [30]
+				387410, -- [31]
+				387410, -- [32]
+				387410, -- [33]
+				387410, -- [34]
+				387410, -- [35]
+				387410, -- [36]
+				401111, -- [37]
+				401111, -- [38]
+				434849, -- [39]
+				434849, -- [40]
+				434849, -- [41]
+				434849, -- [42]
+				401111, -- [43]
+			},
+			["NextEventNum"] = 44,
+			["LastDamageTime"] = 367306.13,
+			["LastEvents"] = {
+				"Tonellotto Fuoco Lunare Oratore Oscuro Jo'la Hit -777 (Arcane)", -- [1]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1340 (Arcane)", -- [2]
+				"Tonellotto interrupts Oratore Oscuro Jo'la Flagello Mentale (Craniata)", -- [3]
+				"Tonellotto Melee Oratore Oscuro Jo'la Hit -2466 (Physical)", -- [4]
+				"Tonellotto Tocco d'Oro Oratore Oscuro Jo'la Crit -5374 (Physical)", -- [5]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Crit -2680 (Arcane)", -- [6]
+				"Tonellotto Falciata Oratore Oscuro Jo'la Hit -3806 (Physical)", -- [7]
+				"Oratore Oscuro Jo'la Melee Tonellotto Absorb -828 (1)", -- [8]
+				"Oratore Oscuro Jo'la Melee Tonellotto Hit -1812 (828 Absorbed) (Physical)", -- [9]
+				"Tonellotto Melee Oratore Oscuro Jo'la Hit -2630 (Physical)", -- [10]
+				"Tonellotto Tocco d'Oro Oratore Oscuro Jo'la Hit -2687 (Physical)", -- [11]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1366 (Arcane)", -- [12]
+				"Tonellotto Spazzata Oratore Oscuro Jo'la Hit -2216 (Physical)", -- [13]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1366 (Arcane)", -- [14]
+				"Tonellotto Fuoco Lunare Oratore Oscuro Jo'la Hit -792 (Arcane)", -- [15]
+				"Tonellotto Falciata (DoT) Oratore Oscuro Jo'la Tick -263 (Physical)", -- [16]
+				"Tonellotto Dilaniamento Oratore Oscuro Jo'la Hit -4477 (Physical)", -- [17]
+				"Tonellotto Dono di Ysera Tonellotto Hit +11622 (9809 Overheal)", -- [18]
+				"Tonellotto Melee Oratore Oscuro Jo'la Crit -4988 (Physical)", -- [19]
+				"Tonellotto Tocco d'Oro Oratore Oscuro Jo'la Hit -2687 (Physical)", -- [20]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1366 (Arcane)", -- [21]
+				"Tonellotto Fuoco Lunare Oratore Oscuro Jo'la Hit -3168 (Arcane)", -- [22]
+				"Tonellotto Falciata (DoT) Oratore Oscuro Jo'la Tick -263 (Physical)", -- [23]
+				"Tonellotto Melee Oratore Oscuro Jo'la Hit -2713 (Physical)", -- [24]
+				"Tonellotto Tocco d'Oro Oratore Oscuro Jo'la Crit -5374 (Physical)", -- [25]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1366 (Arcane)", -- [26]
+				"Tonellotto Spazzata Oratore Oscuro Jo'la Hit -2216 (Physical)", -- [27]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Crit -2732 (Arcane)", -- [28]
+				"Tonellotto Falciata (DoT) Oratore Oscuro Jo'la Tick -263 (Physical)", -- [29]
+				"Tonellotto Spazzata Oratore Oscuro Jo'la Hit -2216 (Physical)", -- [30]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1366 (Arcane)", -- [31]
+				"Tonellotto Falciata (DoT) Oratore Oscuro Jo'la Tick -263 (Physical)", -- [32]
+				"Tonellotto Melee Oratore Oscuro Jo'la Hit -2711 (Physical)", -- [33]
+				"Tonellotto Tocco d'Oro Oratore Oscuro Jo'la Hit -2687 (Physical)", -- [34]
+				"Oratore Oscuro Jo'la Melee Tonellotto Absorb -67 (1)", -- [35]
+				"Oratore Oscuro Jo'la Melee Tonellotto Hit -3309 (67 Absorbed) (Physical)", -- [36]
+				"Tonellotto Dilaniamento Oratore Oscuro Jo'la Hit -4477 (Physical)", -- [37]
+				"Tonellotto Fuoco Lunare (DoT) Oratore Oscuro Jo'la Tick -1542 (Arcane)", -- [38]
+				"Tonellotto Falciata (DoT) Oratore Oscuro Jo'la Tick -296 (Physical)", -- [39]
+				"Oratore Oscuro Jo'la Melee Tonellotto Absorb -67 (1)", -- [40]
+				"Oratore Oscuro Jo'la Melee Tonellotto Hit -3332 (67 Absorbed) (Physical)", -- [41]
+				"Tonellotto Dono di Ysera Tonellotto Hit +13045 (9713 Overheal)", -- [42]
+				"Tonellotto Dono di Ysera Bellavista Hit +12033 (1134 Overheal)", -- [43]
+			},
+			["Name"] = "Tonellotto",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				true, -- [8]
+				true, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				false, -- [15]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				false, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				true, -- [35]
+				true, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				true, -- [42]
+				false, -- [43]
+			},
+			["LastEventTimes"] = {
+				367289.811, -- [1]
+				367291.347, -- [2]
+				367292.104, -- [3]
+				367292.4, -- [4]
+				367292.4, -- [5]
+				367293.477, -- [6]
+				367293.893, -- [7]
+				367294.144, -- [8]
+				367294.144, -- [9]
+				367294.73, -- [10]
+				367294.73, -- [11]
+				367294.88, -- [12]
+				367295.101, -- [13]
+				367296.135, -- [14]
+				367296.135, -- [15]
+				367296.135, -- [16]
+				367296.652, -- [17]
+				367296.652, -- [18]
+				367296.652, -- [19]
+				367296.652, -- [20]
+				367297.651, -- [21]
+				367297.952, -- [22]
+				367298.075, -- [23]
+				367298.693, -- [24]
+				367298.693, -- [25]
+				367299.328, -- [26]
+				367300.777, -- [27]
+				367301.75, -- [28]
+				367301.75, -- [29]
+				367302.425, -- [30]
+				367303.34, -- [31]
+				367303.34, -- [32]
+				367303.729, -- [33]
+				367303.729, -- [34]
+				367303.922, -- [35]
+				367303.922, -- [36]
+				367304.666, -- [37]
+				367304.812, -- [38]
+				367306.13, -- [39]
+				367306.13, -- [40]
+				367306.13, -- [41]
+				367307.244, -- [42]
+				367312.655, -- [43]
+			},
+			["Fights"] = {
+				["Fight1"] = {
+					["DOTs"] = {
+						["Fuoco Lunare (DoT)"] = {
+							["Details"] = {
+								["Oratore Oscuro Jo'la"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Falciata (DoT)"] = {
+							["Details"] = {
+								["Oratore Oscuro Jo'la"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["TimeSpent"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 1.8,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1.44,
+								},
+								["Melee"] = {
+									["count"] = 2.9,
+								},
+								["Dilaniamento"] = {
+									["count"] = 1.46,
+								},
+								["Falciata"] = {
+									["count"] = 0.42,
+								},
+								["Spazzata"] = {
+									["count"] = 2.34,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 7.43,
+								},
+							},
+							["amount"] = 17.79,
+						},
+						["Tonellotto"] = {
+							["Details"] = {
+								["Impatto Lacerante"] = {
+									["count"] = 4.5,
+								},
+								["Dono di Ysera"] = {
+									["count"] = 2.61,
+								},
+							},
+							["amount"] = 7.11,
+						},
+					},
+					["WhoHealed"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Dono di Ysera"] = {
+									["count"] = 5145,
+								},
+								["Impatto Lacerante"] = {
+									["count"] = 186,
+								},
+								["Custode della Terra"] = {
+									["count"] = 776,
+								},
+							},
+							["amount"] = 6107,
+						},
+					},
+					["RageGainedFrom"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Falciata"] = {
+									["count"] = 10,
+								},
+								["Dilaniamento"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["Absorbs"] = 962,
+					["Overhealing"] = 19522,
+					["ElementTaken"] = {
+						["Melee"] = 9415,
+					},
+					["RageGained"] = {
+						["Falciata"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Dilaniamento"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["Damage"] = 74934,
+					["TimeHeal"] = 7.11,
+					["ElementDone"] = {
+						["Physical"] = 39565,
+						["Melee"] = 15508,
+						["Arcane"] = 19861,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 5,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["WhoDamaged"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9415,
+								},
+							},
+							["amount"] = 9415,
+						},
+					},
+					["Absorbed"] = {
+						["Impatto Lacerante"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["max"] = 67,
+									["min"] = 52,
+									["count"] = 3,
+									["amount"] = 186,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 186,
+						},
+						["Custode della Terra"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["max"] = 776,
+									["min"] = 776,
+									["count"] = 1,
+									["amount"] = 776,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 776,
+						},
+					},
+					["TimeHealing"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Impatto Lacerante"] = {
+									["count"] = 4.5,
+								},
+								["Dono di Ysera"] = {
+									["count"] = 2.61,
+								},
+							},
+							["amount"] = 7.11,
+						},
+					},
+					["OverHeals"] = {
+						["Dono di Ysera"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9809,
+									["min"] = 9713,
+									["count"] = 2,
+									["amount"] = 19522,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19522,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 828,
+									["min"] = 67,
+									["count"] = 3,
+									["amount"] = 962,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 962,
+						},
+					},
+					["ActiveTime"] = 24.9,
+					["InterruptData"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Flagello Mentale (Craniata)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Dono di Ysera"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3332,
+									["min"] = 1813,
+									["count"] = 2,
+									["amount"] = 5145,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5145,
+						},
+						["Impatto Lacerante"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 67,
+									["min"] = 52,
+									["count"] = 3,
+									["amount"] = 186,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 186,
+						},
+						["Custode della Terra"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 776,
+									["min"] = 776,
+									["count"] = 1,
+									["amount"] = 776,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 776,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 962,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Absorb"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Healing"] = 5145,
+					["HealedWho"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Dono di Ysera"] = {
+									["count"] = 5145,
+								},
+								["Impatto Lacerante"] = {
+									["count"] = 186,
+								},
+								["Custode della Terra"] = {
+									["count"] = 776,
+								},
+							},
+							["amount"] = 6107,
+						},
+					},
+					["Interrupts"] = 1,
+					["Attacks"] = {
+						["Fuoco Lunare"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3168,
+									["min"] = 777,
+									["count"] = 3,
+									["amount"] = 4737,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 4737,
+						},
+						["Falciata (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 296,
+									["min"] = 263,
+									["count"] = 5,
+									["amount"] = 1348,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 1348,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4988,
+									["min"] = 4988,
+									["count"] = 1,
+									["amount"] = 4988,
+								},
+								["Hit"] = {
+									["max"] = 2713,
+									["min"] = 2466,
+									["count"] = 4,
+									["amount"] = 10520,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 15508,
+						},
+						["Dilaniamento"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4477,
+									["min"] = 4477,
+									["count"] = 2,
+									["amount"] = 8954,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8954,
+						},
+						["Tocco d'Oro"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5374,
+									["min"] = 5374,
+									["count"] = 2,
+									["amount"] = 10748,
+								},
+								["Hit"] = {
+									["max"] = 2687,
+									["min"] = 2687,
+									["count"] = 3,
+									["amount"] = 8061,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 18809,
+						},
+						["Spazzata"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2216,
+									["min"] = 2216,
+									["count"] = 3,
+									["amount"] = 6648,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 6648,
+						},
+						["Falciata"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3806,
+									["min"] = 3806,
+									["count"] = 1,
+									["amount"] = 3806,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3806,
+						},
+						["Fuoco Lunare (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2732,
+									["min"] = 2680,
+									["count"] = 2,
+									["amount"] = 5412,
+								},
+								["Tick"] = {
+									["max"] = 1542,
+									["min"] = 1340,
+									["count"] = 7,
+									["amount"] = 9712,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 15124,
+						},
+					},
+					["RageGain"] = 30,
+					["DOT_Time"] = 42,
+					["TimeDamage"] = 17.79,
+					["TimeDamaging"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 1.8,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1.44,
+								},
+								["Melee"] = {
+									["count"] = 2.9,
+								},
+								["Dilaniamento"] = {
+									["count"] = 1.46,
+								},
+								["Falciata"] = {
+									["count"] = 0.42,
+								},
+								["Spazzata"] = {
+									["count"] = 2.34,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 7.43,
+								},
+							},
+							["amount"] = 17.79,
+						},
+					},
+					["DamageTaken"] = 9415,
+					["HealingTaken"] = 6107,
+					["DamagedWho"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 4737,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1348,
+								},
+								["Melee"] = {
+									["count"] = 15508,
+								},
+								["Dilaniamento"] = {
+									["count"] = 8954,
+								},
+								["Tocco d'Oro"] = {
+									["count"] = 18809,
+								},
+								["Spazzata"] = {
+									["count"] = 6648,
+								},
+								["Falciata"] = {
+									["count"] = 3806,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 15124,
+								},
+							},
+							["amount"] = 74934,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["Fuoco Lunare (DoT)"] = {
+							["Details"] = {
+								["Oratore Oscuro Jo'la"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Falciata (DoT)"] = {
+							["Details"] = {
+								["Oratore Oscuro Jo'la"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["TimeSpent"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 1.8,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1.44,
+								},
+								["Melee"] = {
+									["count"] = 2.9,
+								},
+								["Dilaniamento"] = {
+									["count"] = 1.46,
+								},
+								["Falciata"] = {
+									["count"] = 0.42,
+								},
+								["Spazzata"] = {
+									["count"] = 2.34,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 7.43,
+								},
+							},
+							["amount"] = 17.79,
+						},
+						["Tonellotto"] = {
+							["Details"] = {
+								["Impatto Lacerante"] = {
+									["count"] = 4.5,
+								},
+								["Dono di Ysera"] = {
+									["count"] = 2.61,
+								},
+							},
+							["amount"] = 7.11,
+						},
+					},
+					["WhoHealed"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Dono di Ysera"] = {
+									["count"] = 5145,
+								},
+								["Impatto Lacerante"] = {
+									["count"] = 186,
+								},
+								["Custode della Terra"] = {
+									["count"] = 776,
+								},
+							},
+							["amount"] = 6107,
+						},
+					},
+					["RageGainedFrom"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Falciata"] = {
+									["count"] = 10,
+								},
+								["Dilaniamento"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["Absorbs"] = 962,
+					["Overhealing"] = 19522,
+					["ElementTaken"] = {
+						["Melee"] = 9415,
+					},
+					["RageGained"] = {
+						["Falciata"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Dilaniamento"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["Damage"] = 74934,
+					["TimeHeal"] = 7.11,
+					["ElementDone"] = {
+						["Physical"] = 39565,
+						["Melee"] = 15508,
+						["Arcane"] = 19861,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 5,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["WhoDamaged"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9415,
+								},
+							},
+							["amount"] = 9415,
+						},
+					},
+					["Absorbed"] = {
+						["Impatto Lacerante"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["max"] = 67,
+									["min"] = 52,
+									["count"] = 3,
+									["amount"] = 186,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 186,
+						},
+						["Custode della Terra"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["max"] = 776,
+									["min"] = 776,
+									["count"] = 1,
+									["amount"] = 776,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 776,
+						},
+					},
+					["TimeHealing"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Impatto Lacerante"] = {
+									["count"] = 4.5,
+								},
+								["Dono di Ysera"] = {
+									["count"] = 2.61,
+								},
+							},
+							["amount"] = 7.11,
+						},
+					},
+					["OverHeals"] = {
+						["Dono di Ysera"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9809,
+									["min"] = 9713,
+									["count"] = 2,
+									["amount"] = 19522,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19522,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 828,
+									["min"] = 67,
+									["count"] = 3,
+									["amount"] = 962,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 962,
+						},
+					},
+					["ActiveTime"] = 24.9,
+					["InterruptData"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Flagello Mentale (Craniata)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Dono di Ysera"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3332,
+									["min"] = 1813,
+									["count"] = 2,
+									["amount"] = 5145,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5145,
+						},
+						["Impatto Lacerante"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 67,
+									["min"] = 52,
+									["count"] = 3,
+									["amount"] = 186,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 186,
+						},
+						["Custode della Terra"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 776,
+									["min"] = 776,
+									["count"] = 1,
+									["amount"] = 776,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 776,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 962,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Absorb"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Healing"] = 5145,
+					["HealedWho"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Dono di Ysera"] = {
+									["count"] = 5145,
+								},
+								["Impatto Lacerante"] = {
+									["count"] = 186,
+								},
+								["Custode della Terra"] = {
+									["count"] = 776,
+								},
+							},
+							["amount"] = 6107,
+						},
+					},
+					["Interrupts"] = 1,
+					["Attacks"] = {
+						["Fuoco Lunare"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3168,
+									["min"] = 777,
+									["count"] = 3,
+									["amount"] = 4737,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 4737,
+						},
+						["Falciata (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 296,
+									["min"] = 263,
+									["count"] = 5,
+									["amount"] = 1348,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 1348,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4988,
+									["min"] = 4988,
+									["count"] = 1,
+									["amount"] = 4988,
+								},
+								["Hit"] = {
+									["max"] = 2713,
+									["min"] = 2466,
+									["count"] = 4,
+									["amount"] = 10520,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 15508,
+						},
+						["Dilaniamento"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4477,
+									["min"] = 4477,
+									["count"] = 2,
+									["amount"] = 8954,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8954,
+						},
+						["Tocco d'Oro"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5374,
+									["min"] = 5374,
+									["count"] = 2,
+									["amount"] = 10748,
+								},
+								["Hit"] = {
+									["max"] = 2687,
+									["min"] = 2687,
+									["count"] = 3,
+									["amount"] = 8061,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 18809,
+						},
+						["Spazzata"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2216,
+									["min"] = 2216,
+									["count"] = 3,
+									["amount"] = 6648,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 6648,
+						},
+						["Falciata"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3806,
+									["min"] = 3806,
+									["count"] = 1,
+									["amount"] = 3806,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3806,
+						},
+						["Fuoco Lunare (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2732,
+									["min"] = 2680,
+									["count"] = 2,
+									["amount"] = 5412,
+								},
+								["Tick"] = {
+									["max"] = 1542,
+									["min"] = 1340,
+									["count"] = 7,
+									["amount"] = 9712,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 15124,
+						},
+					},
+					["RageGain"] = 30,
+					["DOT_Time"] = 42,
+					["TimeDamage"] = 17.79,
+					["TimeDamaging"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 1.8,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1.44,
+								},
+								["Melee"] = {
+									["count"] = 2.9,
+								},
+								["Dilaniamento"] = {
+									["count"] = 1.46,
+								},
+								["Falciata"] = {
+									["count"] = 0.42,
+								},
+								["Spazzata"] = {
+									["count"] = 2.34,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 7.43,
+								},
+							},
+							["amount"] = 17.79,
+						},
+					},
+					["DamageTaken"] = 9415,
+					["HealingTaken"] = 6107,
+					["DamagedWho"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 4737,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1348,
+								},
+								["Melee"] = {
+									["count"] = 15508,
+								},
+								["Dilaniamento"] = {
+									["count"] = 8954,
+								},
+								["Tocco d'Oro"] = {
+									["count"] = 18809,
+								},
+								["Spazzata"] = {
+									["count"] = 6648,
+								},
+								["Falciata"] = {
+									["count"] = 3806,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 15124,
+								},
+							},
+							["amount"] = 74934,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+					},
+					["PartialAbsorb"] = {
+					},
+					["DamagedWho"] = {
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DOTs"] = {
+						["Fuoco Lunare (DoT)"] = {
+							["Details"] = {
+								["Oratore Oscuro Jo'la"] = {
+									["count"] = 27,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Falciata (DoT)"] = {
+							["Details"] = {
+								["Oratore Oscuro Jo'la"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+					},
+					["TimeSpent"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 1.8,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1.44,
+								},
+								["Melee"] = {
+									["count"] = 2.9,
+								},
+								["Dilaniamento"] = {
+									["count"] = 1.46,
+								},
+								["Falciata"] = {
+									["count"] = 0.42,
+								},
+								["Spazzata"] = {
+									["count"] = 2.34,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 7.43,
+								},
+							},
+							["amount"] = 17.79,
+						},
+						["Tonellotto"] = {
+							["Details"] = {
+								["Impatto Lacerante"] = {
+									["count"] = 4.5,
+								},
+								["Dono di Ysera"] = {
+									["count"] = 2.61,
+								},
+							},
+							["amount"] = 7.11,
+						},
+					},
+					["WhoHealed"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Dono di Ysera"] = {
+									["count"] = 5145,
+								},
+								["Impatto Lacerante"] = {
+									["count"] = 186,
+								},
+								["Custode della Terra"] = {
+									["count"] = 776,
+								},
+							},
+							["amount"] = 6107,
+						},
+					},
+					["RageGainedFrom"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Falciata"] = {
+									["count"] = 10,
+								},
+								["Dilaniamento"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 30,
+						},
+					},
+					["Absorbs"] = 962,
+					["Overhealing"] = 19522,
+					["ElementTaken"] = {
+						["Melee"] = 9415,
+					},
+					["RageGained"] = {
+						["Falciata"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["count"] = 10,
+								},
+							},
+							["amount"] = 10,
+						},
+						["Dilaniamento"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+					},
+					["Damage"] = 74934,
+					["TimeHeal"] = 7.11,
+					["ElementDone"] = {
+						["Physical"] = 39565,
+						["Melee"] = 15508,
+						["Arcane"] = 19861,
+					},
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 5,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 9,
+								},
+							},
+							["amount"] = 16,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Arcane"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 7,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["WhoDamaged"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Melee"] = {
+									["count"] = 9415,
+								},
+							},
+							["amount"] = 9415,
+						},
+					},
+					["Absorbed"] = {
+						["Impatto Lacerante"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["max"] = 67,
+									["min"] = 52,
+									["count"] = 3,
+									["amount"] = 186,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 186,
+						},
+						["Custode della Terra"] = {
+							["Details"] = {
+								["Tonellotto"] = {
+									["max"] = 776,
+									["min"] = 776,
+									["count"] = 1,
+									["amount"] = 776,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 776,
+						},
+					},
+					["TimeHealing"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Impatto Lacerante"] = {
+									["count"] = 4.5,
+								},
+								["Dono di Ysera"] = {
+									["count"] = 2.61,
+								},
+							},
+							["amount"] = 7.11,
+						},
+					},
+					["OverHeals"] = {
+						["Dono di Ysera"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 9809,
+									["min"] = 9713,
+									["count"] = 2,
+									["amount"] = 19522,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 19522,
+						},
+					},
+					["PartialResist"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Resist"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+					},
+					["PartialAbsorb"] = {
+						["Melee"] = {
+							["Details"] = {
+								["No Absorb"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Absorbed"] = {
+									["max"] = 828,
+									["min"] = 67,
+									["count"] = 3,
+									["amount"] = 962,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 962,
+						},
+					},
+					["ActiveTime"] = 24.9,
+					["InterruptData"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Flagello Mentale (Craniata)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["Heals"] = {
+						["Dono di Ysera"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3332,
+									["min"] = 1813,
+									["count"] = 2,
+									["amount"] = 5145,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 5145,
+						},
+						["Impatto Lacerante"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 67,
+									["min"] = 52,
+									["count"] = 3,
+									["amount"] = 186,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 186,
+						},
+						["Custode della Terra"] = {
+							["Details"] = {
+								["Absorb"] = {
+									["max"] = 776,
+									["min"] = 776,
+									["count"] = 1,
+									["amount"] = 776,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 776,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+						["Melee"] = 962,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+								["Absorb"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["Healing"] = 5145,
+					["HealedWho"] = {
+						["Tonellotto"] = {
+							["Details"] = {
+								["Dono di Ysera"] = {
+									["count"] = 5145,
+								},
+								["Impatto Lacerante"] = {
+									["count"] = 186,
+								},
+								["Custode della Terra"] = {
+									["count"] = 776,
+								},
+							},
+							["amount"] = 6107,
+						},
+					},
+					["Interrupts"] = 1,
+					["Attacks"] = {
+						["Fuoco Lunare"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3168,
+									["min"] = 777,
+									["count"] = 3,
+									["amount"] = 4737,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 4737,
+						},
+						["Falciata (DoT)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 296,
+									["min"] = 263,
+									["count"] = 5,
+									["amount"] = 1348,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 1348,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 4988,
+									["min"] = 4988,
+									["count"] = 1,
+									["amount"] = 4988,
+								},
+								["Hit"] = {
+									["max"] = 2713,
+									["min"] = 2466,
+									["count"] = 4,
+									["amount"] = 10520,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 15508,
+						},
+						["Dilaniamento"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 4477,
+									["min"] = 4477,
+									["count"] = 2,
+									["amount"] = 8954,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 8954,
+						},
+						["Tocco d'Oro"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 5374,
+									["min"] = 5374,
+									["count"] = 2,
+									["amount"] = 10748,
+								},
+								["Hit"] = {
+									["max"] = 2687,
+									["min"] = 2687,
+									["count"] = 3,
+									["amount"] = 8061,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 18809,
+						},
+						["Spazzata"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 2216,
+									["min"] = 2216,
+									["count"] = 3,
+									["amount"] = 6648,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 6648,
+						},
+						["Falciata"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 3806,
+									["min"] = 3806,
+									["count"] = 1,
+									["amount"] = 3806,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 3806,
+						},
+						["Fuoco Lunare (DoT)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 2732,
+									["min"] = 2680,
+									["count"] = 2,
+									["amount"] = 5412,
+								},
+								["Tick"] = {
+									["max"] = 1542,
+									["min"] = 1340,
+									["count"] = 7,
+									["amount"] = 9712,
+								},
+							},
+							["count"] = 9,
+							["amount"] = 15124,
+						},
+					},
+					["RageGain"] = 30,
+					["DOT_Time"] = 42,
+					["TimeDamage"] = 17.79,
+					["TimeDamaging"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 1.8,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1.44,
+								},
+								["Melee"] = {
+									["count"] = 2.9,
+								},
+								["Dilaniamento"] = {
+									["count"] = 1.46,
+								},
+								["Falciata"] = {
+									["count"] = 0.42,
+								},
+								["Spazzata"] = {
+									["count"] = 2.34,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 7.43,
+								},
+							},
+							["amount"] = 17.79,
+						},
+					},
+					["DamageTaken"] = 9415,
+					["HealingTaken"] = 6107,
+					["DamagedWho"] = {
+						["Oratore Oscuro Jo'la"] = {
+							["Details"] = {
+								["Fuoco Lunare"] = {
+									["count"] = 4737,
+								},
+								["Falciata (DoT)"] = {
+									["count"] = 1348,
+								},
+								["Melee"] = {
+									["count"] = 15508,
+								},
+								["Dilaniamento"] = {
+									["count"] = 8954,
+								},
+								["Tocco d'Oro"] = {
+									["count"] = 18809,
+								},
+								["Spazzata"] = {
+									["count"] = 6648,
+								},
+								["Falciata"] = {
+									["count"] = 3806,
+								},
+								["Fuoco Lunare (DoT)"] = {
+									["count"] = 15124,
+								},
+							},
+							["amount"] = 74934,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 367289.712,
+			["LastActive"] = 367311.724,
+		},
+	},
+	["FightNum"] = 1,
+	["CombatTimes"] = {
+		{
+			367285.727, -- [1]
+			367307.714, -- [2]
+			"00:36:03", -- [3]
+			"00:36:24", -- [4]
+			"Oratore Oscuro Jo'la", -- [5]
+		}, -- [1]
+	},
+	["FoughtWho"] = {
+		"Oratore Oscuro Jo'la 00:36:03-00:36:24", -- [1]
+	},
+}

@@ -1,0 +1,31 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Gargamélla - Sethraliss"] = "Gargamélla - Sethraliss",
+		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
+		["Picinbono - Sethraliss"] = "Picinbono - Sethraliss",
+		["Reghiaccio - Sethraliss"] = "Reghiaccio - Sethraliss",
+		["Berlusconi - Sethraliss"] = "Berlusconi - Sethraliss",
+		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
+	},
+	["profiles"] = {
+		["Gargamélla - Sethraliss"] = {
+		},
+		["Mariagreco - Sethraliss"] = {
+			["minimap"] = {
+				["minimapPos"] = 236.7065833260831,
+			},
+		},
+		["Picinbono - Sethraliss"] = {
+		},
+		["Reghiaccio - Sethraliss"] = {
+		},
+		["Berlusconi - Sethraliss"] = {
+			["minimap"] = {
+				["minimapPos"] = 234.916656347074,
+			},
+		},
+		["Corsini - Sethraliss"] = {
+		},
+	},
+}

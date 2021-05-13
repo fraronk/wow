@@ -1,0 +1,23 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Ciccioz - Sethraliss"] = "Ciccioz - Sethraliss",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Sethraliss.Ciccioz"] = {
+				["lastUpdate"] = 1605378591,
+				["Stats"] = {
+					["Ranged"] = "905-906|3.4730000495911|0|0|10.828538894653",
+					["HealthMax"] = 34471,
+					["Melee"] = "997-1077|3.4730000495911|1492|0|10.828538894653|40",
+					["MaxPower"] = "0|12940",
+					["Spell"] = "1432|1432|0|14.828538894653|138|825",
+					["PVP"] = "0|0",
+					["Base"] = "412|1330|1626|1101|185",
+					["Defense"] = "185|0|18.489999771118|0|0|0",
+				},
+			},
+		},
+	},
+}

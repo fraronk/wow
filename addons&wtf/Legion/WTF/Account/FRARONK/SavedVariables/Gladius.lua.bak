@@ -1,0 +1,32 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Donfransisco - Sylvanas"] = "Donfransisco - Sylvanas",
+		["Fdsgdsg - Greymane (PvP Tournament)"] = "Fdsgdsg - Greymane (PvP Tournament)",
+		["Mariagreco - Sylvanas"] = "Mariagreco - Sylvanas",
+		["Annibale - Greymane (PvP Tournament)"] = "Annibale - Greymane (PvP Tournament)",
+		["Berlusconi - Sylvanas"] = "Berlusconi - Sylvanas",
+	},
+	["profiles"] = {
+		["Donfransisco - Sylvanas"] = {
+			["tagsVersion"] = 4,
+			["drTrackerAttachTo"] = "Frame",
+		},
+		["Fdsgdsg - Greymane (PvP Tournament)"] = {
+			["drTrackerAttachTo"] = "Frame",
+			["tagsVersion"] = 4,
+		},
+		["Mariagreco - Sylvanas"] = {
+			["tagsVersion"] = 4,
+			["drTrackerAttachTo"] = "Frame",
+		},
+		["Annibale - Greymane (PvP Tournament)"] = {
+			["tagsVersion"] = 4,
+			["drTrackerAttachTo"] = "Frame",
+		},
+		["Berlusconi - Sylvanas"] = {
+			["drTrackerAttachTo"] = "Frame",
+			["tagsVersion"] = 4,
+		},
+	},
+}

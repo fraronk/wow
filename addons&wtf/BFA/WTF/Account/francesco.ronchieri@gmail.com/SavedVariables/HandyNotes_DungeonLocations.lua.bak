@@ -1,0 +1,13 @@
+
+HandyNotes_DungeonLocationsDB = {
+	["profileKeys"] = {
+		["Berlusconi - Sethraliss"] = "Default",
+		["Mariagreco - Sethraliss"] = "Default",
+		["Nuncevedo - Sethraliss"] = "Default",
+		["Corsini - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

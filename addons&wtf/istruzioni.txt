@@ -1,0 +1,5 @@
+1) Aprire una finestra powershell come amministratore
+2) eseguire "cmd" e aprire una command line
+3) eseguire i comandi sottostanti con le cartelle giuste
+    mklink /D C:\BFA\WTF "C:\0REPO\wow\addons&wtf\BFA\WTF" 
+    mklink /D C:\BFA\Interface\AddOns "C:\0REPO\wow\addons&wtf\BFA\AddOns" 

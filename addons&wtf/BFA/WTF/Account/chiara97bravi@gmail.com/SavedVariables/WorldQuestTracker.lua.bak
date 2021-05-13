@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-10-004B3A0C"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-10-004B3A0C"] = {
+					["class"] = "HUNTER",
+					["name"] = "Voidvenom",
+					["realm"] = "Sethraliss",
+				},
+			},
+		},
+	},
+}

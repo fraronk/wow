@@ -1,0 +1,31 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Ciccioz - Sethraliss"] = "Ciccioz - Sethraliss",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Sethraliss.Ciccioz"] = {
+				["XPMax"] = 865630,
+				["played"] = 9689,
+				["playedThisLevel"] = 557,
+				["isResting"] = true,
+				["lastUpdate"] = 1605378646,
+				["class"] = "Druido",
+				["race"] = "Kul Tirano",
+				["level"] = 116,
+				["XP"] = 408638,
+				["RestXP"] = 0,
+				["money"] = 6619009,
+				["gender"] = 2,
+				["englishClass"] = "DRUID",
+				["name"] = "Ciccioz",
+				["faction"] = "Alliance",
+				["englishRace"] = "KulTiran",
+				["zone"] = "Zuldazar",
+				["lastLogoutTimestamp"] = 1605378646,
+				["subZone"] = "Accampamento dei Naufraghi",
+			},
+		},
+	},
+}

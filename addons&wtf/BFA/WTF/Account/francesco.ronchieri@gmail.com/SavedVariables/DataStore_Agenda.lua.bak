@@ -1,0 +1,1340 @@
+
+DataStore_AgendaDB = {
+	["profileKeys"] = {
+		["Grandepùffo - Sethraliss"] = "Grandepùffo - Sethraliss",
+		["Gargamélla - Sethraliss"] = "Gargamélla - Sethraliss",
+		["Cimino - Sethraliss"] = "Cimino - Sethraliss",
+		["Picinbono - Sethraliss"] = "Picinbono - Sethraliss",
+		["Vallati - Sethraliss"] = "Vallati - Sethraliss",
+		["Antonioprete - Sethraliss"] = "Antonioprete - Sethraliss",
+		["Cabobo - Sethraliss"] = "Cabobo - Sethraliss",
+		["Lilyput - Sethraliss"] = "Lilyput - Sethraliss",
+		["Dontuch - Sethraliss"] = "Dontuch - Sethraliss",
+		["Tonellotto - Sethraliss"] = "Tonellotto - Sethraliss",
+		["Reghiaccio - Sethraliss"] = "Reghiaccio - Sethraliss",
+		["Berlusconi - Sethraliss"] = "Berlusconi - Sethraliss",
+		["Nuncevedo - Sethraliss"] = "Nuncevedo - Sethraliss",
+		["Brùslì - Sethraliss"] = "Brùslì - Sethraliss",
+		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
+		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
+		["Nanotano - Sethraliss"] = "Nanotano - Sethraliss",
+		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
+		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
+	},
+	["global"] = {
+		["Options"] = {
+			["WeeklyResetHour"] = 6,
+			["WeeklyResetDay"] = 3,
+			["NextWeeklyReset"] = "2020-12-16",
+		},
+		["Characters"] = {
+			["Default.Sethraliss.Reghiaccio"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1604360774,
+			},
+			["Default.Sethraliss.Gargamélla"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1603925951,
+			},
+			["Default.Sethraliss.Stempi"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1603972907,
+			},
+			["Default.Sethraliss.Berlusconi"] = {
+				["Contacts"] = {
+					["Drusmillina"] = {
+						["note"] = "",
+					},
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Mahayana"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["DungeonIDs"] = {
+					["Palazzo Eterno Eroica|21405"] = "570459|1607520747|0|1",
+				},
+				["lastUpdate"] = 1607520802,
+			},
+			["Default.Sethraliss.Vallati"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Gesuinfame"] = {
+						["note"] = "",
+					},
+					["Lådygâga"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Takemyarrow"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Donnone"] = {
+						["note"] = "",
+					},
+					["Awash"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Giovannadead"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Xiaomeilin"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shâkìra"] = {
+						["note"] = "",
+					},
+					["Thedoctorok"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1586025256,
+			},
+			["Default.Sethraliss.Dontuch"] = {
+				["Contacts"] = {
+					["Drusmillina"] = {
+						["note"] = "",
+					},
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+						["class"] = "Cacciatrice",
+						["level"] = 120,
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Mahayana"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1607124860,
+			},
+			["Default.Sethraliss.Mariagreco"] = {
+				["Contacts"] = {
+					["Drusmillina"] = {
+						["note"] = "",
+					},
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Mahayana"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1607520594,
+			},
+			["Default.Sethraliss.Antonioprete"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1603926206,
+			},
+			["Default.Sethraliss.Nuncevedo"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1603925712,
+			},
+			["Default.Sethraliss.Grandepùffo"] = {
+				["Contacts"] = {
+					["Ruttosempre"] = {
+						["note"] = "",
+					},
+					["Jhøn"] = {
+						["note"] = "",
+						["class"] = "Warrior",
+						["level"] = 120,
+					},
+					["Rhosin"] = {
+						["note"] = "",
+					},
+					["Shannyel"] = {
+						["note"] = "",
+					},
+					["Tezcatlipoca"] = {
+						["note"] = "",
+					},
+					["Martorella"] = {
+						["note"] = "",
+					},
+					["Fyan"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+						["class"] = "Rogue",
+						["level"] = 120,
+					},
+					["Mavrane"] = {
+						["note"] = "",
+					},
+					["Ripto"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1568065096,
+			},
+			["Default.Sethraliss.Picinbono"] = {
+				["Contacts"] = {
+					["Drusmillina"] = {
+						["note"] = "",
+					},
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Mahayana"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1605963553,
+			},
+			["Default.Sethraliss.Nanotano"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Lådygâga"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Takemyarrow"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Donnone"] = {
+						["note"] = "",
+					},
+					["Awash"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Shâkìra"] = {
+						["note"] = "",
+					},
+					["Xiaomeilin"] = {
+						["note"] = "",
+					},
+					["Giovannadead"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Thedoctorok"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1581169622,
+			},
+			["Default.Sethraliss.Corsini"] = {
+				["Contacts"] = {
+					["Drusmillina"] = {
+						["note"] = "",
+					},
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Mahayana"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1606157604,
+			},
+			["Default.Sethraliss.Brùslì"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+						["class"] = "Sciamana",
+						["level"] = 118,
+					},
+					["Lådygâga"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+						["class"] = "Druido",
+						["level"] = 120,
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Takemyarrow"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Giovannadead"] = {
+						["note"] = "",
+					},
+					["Donnone"] = {
+						["note"] = "",
+					},
+					["Awash"] = {
+						["note"] = "",
+					},
+					["Gesuinfame"] = {
+						["note"] = "",
+					},
+					["Thedoctorok"] = {
+						["note"] = "",
+						["class"] = "Druido",
+						["level"] = 120,
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Xiaomeilin"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Shâkìra"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1585252036,
+			},
+			["Default.Sethraliss.Tonellotto"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+						["class"] = "Paladina",
+						["level"] = 120,
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1603926548,
+			},
+			["Default.Sethraliss.Cimino"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Làdygàgà"] = {
+						["note"] = "",
+					},
+					["Keshà"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Arrowqt"] = {
+						["note"] = "",
+					},
+					["Voidvenom"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Tugozzi"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+						["class"] = "Paladina",
+						["level"] = 120,
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Shàkìrà"] = {
+						["note"] = "",
+					},
+					["Charankoo"] = {
+						["note"] = "",
+					},
+					["Tumamirica"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1603926794,
+			},
+			["Default.Sethraliss.Cabobo"] = {
+				["Contacts"] = {
+					["Majogari"] = {
+						["note"] = "",
+					},
+					["Caprafocosa"] = {
+						["note"] = "",
+					},
+					["Lådygâga"] = {
+						["note"] = "",
+						["level"] = 120,
+						["class"] = "Cacciatrice",
+					},
+					["Yùnìe"] = {
+						["note"] = "",
+					},
+					["Nuoce"] = {
+						["note"] = "",
+					},
+					["Rihänña"] = {
+						["note"] = "",
+					},
+					["Queikiwi"] = {
+						["note"] = "",
+					},
+					["Fryan"] = {
+						["note"] = "",
+						["level"] = 120,
+						["class"] = "Druido",
+					},
+					["Shàññýæl"] = {
+						["note"] = "",
+					},
+					["Marrosso"] = {
+						["note"] = "",
+					},
+					["Takemyarrow"] = {
+						["note"] = "",
+						["level"] = 120,
+						["class"] = "Cacciatrice",
+					},
+					["Ranhdalf"] = {
+						["note"] = "",
+					},
+					["Osvaldinoo"] = {
+						["note"] = "",
+					},
+					["Majingari"] = {
+						["note"] = "",
+					},
+					["Donnone"] = {
+						["note"] = "",
+					},
+					["Awash"] = {
+						["note"] = "",
+					},
+					["Loønely"] = {
+						["note"] = "",
+					},
+					["Bellavista"] = {
+						["note"] = "",
+					},
+					["Thedoctorok"] = {
+						["note"] = "",
+					},
+					["Gesuinfame"] = {
+						["note"] = "",
+					},
+					["Ironbloodaxe"] = {
+						["note"] = "",
+					},
+					["Xiaomeilin"] = {
+						["note"] = "",
+					},
+					["Giovannadead"] = {
+						["note"] = "",
+					},
+					["Clorofylla"] = {
+						["note"] = "",
+					},
+					["Shâkìra"] = {
+						["note"] = "",
+					},
+				},
+				["lastUpdate"] = 1586367597,
+			},
+		},
+	},
+}

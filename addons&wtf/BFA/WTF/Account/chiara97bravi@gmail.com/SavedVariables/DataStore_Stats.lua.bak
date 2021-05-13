@@ -1,0 +1,23 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Voidvenom - Sethraliss",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Sethraliss.Voidvenom"] = {
+				["lastUpdate"] = 1605388505,
+				["Stats"] = {
+					["Ranged"] = "5069-5411|2.5620000362396|8138|0|35.263889312744",
+					["HealthMax"] = 364389,
+					["Melee"] = "4103-4105|2.5620000362396|8138|0|35.263889312744|40",
+					["MaxPower"] = "2|120",
+					["Defense"] = "3860|0|17.790000915527|0|0|0",
+					["PVP"] = "2109|0",
+					["Base"] = "892|8138|15843|1205|3860",
+					["Spell"] = "1205|1215|0|39.263889312744|1161|0",
+				},
+			},
+		},
+	},
+}

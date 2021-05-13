@@ -1,0 +1,11 @@
+VER 3 0000000000000002 "c" "135848"
+/cast Congelamento
+END
+VER 3 0000000000000003 "qastion" "INV_MISC_QUESTIONMARK"
+/5 is there any zone for fast exp by killing mobs from 58-80?
+END
+VER 3 0000000000000001 "quest" "INV_MISC_QUESTIONMARK"
+/dump IsQuestFlaggedCompleted(40123)
+END
+VER 3 0000000000000004 "ZygorAction1" "134400"
+END

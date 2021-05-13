@@ -1,0 +1,22 @@
+VER 3 0000000000000004 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/script print('no button yet')
+END
+VER 3 0000000000000005 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/cm rc
+END
+VER 3 0000000000000007 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cancelform [nostance:5]
+/cm rm
+END
+VER 3 0000000000000006 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
+/cm rt
+END
+VER 3 0000000000000002 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Difensori principali:1:2:Gruppo:
+END
+VER 3 0000000000000001 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Maria:g2:ayer-10-003447B7:1:Cicci:p:ayer-10-0076C68C:1:Drusm:g1:ayer-10-0076C687:1:Voidv:g3:ayer-10-004B3A0C:1:
+END
+VER 3 0000000000000003 "summ" "1029587"
+/script SummonFriend("Target")
+END

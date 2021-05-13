@@ -1,0 +1,12 @@
+tag 2d15cf8cf5554c8c170d108f2f2be003662f9cde v7.3.5
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Sat May 12 20:37:09 2018 +0200
+
+v7.3.5 - Balance + Feral updates
+
+commit a6150d38b436aaeeed132eb2355163be29da3bc9
+Author: Pawel <zacdbg@gmail.com>
+Date:   Sat May 12 20:36:55 2018 +0200
+
+    v7.3.5 - Balance + Feral updates
+

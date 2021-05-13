@@ -1,0 +1,12 @@
+tag 9f498a289b7153b11b2c706ec7482e7dc9b80cf2 v7.3.5
+Author:	Pawel <zacdbg@gmail.com>
+Date:	Mon Apr 23 23:48:54 2018 +0200
+
+v7.3.5 - Dominos/SyncUI/LUI support
+
+commit 989cbe7a94809f7acc73d039b9ffb8aae90efa02
+Author: Pawel <zacdbg@gmail.com>
+Date:   Mon Apr 23 23:48:38 2018 +0200
+
+    v7.3.5 - Dominos/SyncUI/LUI support
+

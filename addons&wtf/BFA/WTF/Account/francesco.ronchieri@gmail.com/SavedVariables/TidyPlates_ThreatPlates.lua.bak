@@ -1,0 +1,220 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["Grandepùffo - Sethraliss"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Gargamélla - Sethraliss"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Cimino - Sethraliss"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Picinbono - Sethraliss"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["Vallati - Sethraliss"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+				false, -- [3]
+			},
+			["welcome"] = true,
+		},
+		["Antonioprete - Sethraliss"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Cabobo - Sethraliss"] = {
+			["welcome"] = true,
+			["spec"] = {
+				[3] = false,
+			},
+		},
+		["Dontuch - Sethraliss"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Tonellotto - Sethraliss"] = {
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
+			["welcome"] = true,
+		},
+		["Reghiaccio - Sethraliss"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Berlusconi - Sethraliss"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Nuncevedo - Sethraliss"] = {
+			["spec"] = {
+				nil, -- [1]
+				true, -- [2]
+			},
+			["welcome"] = true,
+		},
+		["Stempi - Sethraliss"] = {
+			["spec"] = {
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Brùslì - Sethraliss"] = {
+			["spec"] = {
+				true, -- [1]
+				[3] = false,
+			},
+			["welcome"] = true,
+		},
+		["Nanotano - Sethraliss"] = {
+			["spec"] = {
+				[3] = true,
+			},
+			["welcome"] = true,
+		},
+		["Mariagreco - Sethraliss"] = {
+			["welcome"] = true,
+			["spec"] = {
+				nil, -- [1]
+				nil, -- [2]
+				true, -- [3]
+				false, -- [4]
+			},
+		},
+		["Corsini - Sethraliss"] = {
+			["welcome"] = true,
+			["spec"] = {
+				true, -- [1]
+				[3] = false,
+			},
+		},
+	},
+	["global"] = {
+		["version"] = "9.3.3",
+	},
+	["profileKeys"] = {
+		["Grandepùffo - Sethraliss"] = "Default",
+		["Gargamélla - Sethraliss"] = "Default",
+		["Cimino - Sethraliss"] = "Default",
+		["Picinbono - Sethraliss"] = "Default",
+		["Vallati - Sethraliss"] = "Default",
+		["Antonioprete - Sethraliss"] = "Default",
+		["Cabobo - Sethraliss"] = "Default",
+		["Dontuch - Sethraliss"] = "Default",
+		["Tonellotto - Sethraliss"] = "Default",
+		["Reghiaccio - Sethraliss"] = "Default",
+		["Berlusconi - Sethraliss"] = "Default",
+		["Nuncevedo - Sethraliss"] = "Default",
+		["Stempi - Sethraliss"] = "Default",
+		["Brùslì - Sethraliss"] = "Default",
+		["Nanotano - Sethraliss"] = "Default",
+		["Mariagreco - Sethraliss"] = "Default",
+		["Corsini - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["uniqueSettings"] = {
+				nil, -- [1]
+				{
+				}, -- [2]
+				{
+				}, -- [3]
+				{
+				}, -- [4]
+				{
+				}, -- [5]
+				{
+				}, -- [6]
+				{
+				}, -- [7]
+				{
+				}, -- [8]
+				{
+				}, -- [9]
+				{
+				}, -- [10]
+				{
+				}, -- [11]
+				{
+				}, -- [12]
+				{
+				}, -- [13]
+				{
+				}, -- [14]
+				nil, -- [15]
+				{
+				}, -- [16]
+				{
+				}, -- [17]
+				nil, -- [18]
+				nil, -- [19]
+				{
+				}, -- [20]
+				{
+				}, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				{
+				}, -- [24]
+				{
+				}, -- [25]
+				nil, -- [26]
+				{
+				}, -- [27]
+				{
+				}, -- [28]
+				{
+				}, -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				{
+				}, -- [32]
+			},
+			["CVarsBackup"] = {
+				["showQuestTrackingTooltips"] = "0",
+			},
+			["AuraWidget"] = {
+				["Debuffs"] = {
+					["Scale"] = 1.3,
+				},
+			},
+			["settings"] = {
+				["frame"] = {
+					["height"] = 52.875,
+					["width"] = 154,
+				},
+			},
+			["targetWidget"] = {
+				["theme"] = "arrows",
+			},
+		},
+	},
+}

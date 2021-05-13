@@ -1,0 +1,7 @@
+VER 3 0100000000000002 "dsafd" "136103"
+/target Gattaladra
+END
+VER 3 0100000000000001 "Ros" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rosicchiamento
+END

@@ -1,0 +1,2 @@
+
+DataStore_GarrisonsDB = nil

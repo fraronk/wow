@@ -1,0 +1,83 @@
+VER 3 0100000000000016 "BF:F" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/lancia [@target] Bestia Feroce: Falco(Talento PvP)
+END
+VER 3 0100000000000004 "BL" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Rabbia Primordiale
+END
+VER 3 0100000000000014 "botta" "INV_MISC_QUESTIONMARK"
+#shotooltip
+/lancia Botta(Attacco di Base)
+END
+VER 3 010000000000000D "CS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Tiro del Cobra
+END
+VER 3 0100000000000013 "cura" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/lancia Cura Spirituale(Abilità Esotica)
+END
+VER 3 0100000000000001 "disp" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Folgore Fatua
+/cast Folgore Spirituale
+/cast Chi-Ji
+/cast Polvere della Serenità
+/cast Acqua del Sollievo
+END
+VER 3 0100000000000017 "disp SB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/lancia Folgore Spirituale(Abilità Speciale)
+END
+VER 3 010000000000000C "fakeDeath" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petfollow
+/petpassive
+/lancia Morte Apparente
+END
+VER 3 0100000000000007 "GO" "INV_MISC_QUESTIONMARK"
+/cast Vai
+END
+VER 3 010000000000000B "kill" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Ordine di Morte
+END
+VER 3 010000000000000F "LS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Tiro Lacerante
+END
+VER 3 0100000000000006 "me" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@palyer] Ruggito del Sacrificio
+END
+VER 3 0100000000000015 "missdir" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/lancia [@focus] Depistaggio
+END
+VER 3 010000000000000E "MS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Tiro Multiplo
+END
+VER 3 0100000000000012 "Paracadute" "1762580"
+/use 15
+END
+VER 3 0100000000000005 "Ric" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player] Richiamo del Padrone
+END
+VER 3 0100000000000010 "SP" "1408831"
+/petfollow
+/petpassive
+END
+VER 3 0100000000000011 "speed" "1360764"
+/use 6
+END

@@ -1,0 +1,15 @@
+## Title: MaxDps_Rogue
+## Version: 8.3.0
+## Author: Kaminaris
+## Interface: 80300
+## Dependencies: MaxDps
+## LoadOnDemand: 1
+## SavedVariables: MaxDpsRogueOptions
+## X-Curse-Project-ID: 256432
+## X-WoWI-ID: 24649
+
+Main.lua
+Config.lua
+Specialization\Assassination.lua
+Specialization\Outlaw.lua
+Specialization\Subtlety.lua

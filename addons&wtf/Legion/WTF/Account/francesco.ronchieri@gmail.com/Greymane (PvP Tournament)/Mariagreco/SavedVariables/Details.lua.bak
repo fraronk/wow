@@ -1,0 +1,2670 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005669,
+							["damage_from"] = {
+								["Melma Velenosa"] = true,
+							},
+							["targets"] = {
+								["Melma Velenosa"] = 1093571,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1093571.005669,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1602882682,
+							["friendlyfire_total"] = 0,
+							["spec"] = 103,
+							["nome"] = "Mariagreco",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 1,
+										["c_dmg"] = 30464,
+										["g_amt"] = 0,
+										["n_max"] = 15232,
+										["targets"] = {
+											["Melma Velenosa"] = 86823,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 56359,
+										["n_min"] = 10663,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 86823,
+										["c_max"] = 30464,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 10663,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 30464,
+									}, -- [1]
+									[155722] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 120768,
+										["g_amt"] = 0,
+										["n_max"] = 60384,
+										["targets"] = {
+											["Melma Velenosa"] = 181152,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 60384,
+										["n_min"] = 60384,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 181152,
+										["c_max"] = 120768,
+										["id"] = 155722,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 120768,
+									},
+									[22568] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 272116,
+										["targets"] = {
+											["Melma Velenosa"] = 272116,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 272116,
+										["n_min"] = 272116,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 272116,
+										["c_max"] = 0,
+										["id"] = 22568,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[5221] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 442784,
+										["g_amt"] = 0,
+										["n_max"] = 110696,
+										["targets"] = {
+											["Melma Velenosa"] = 553480,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 110696,
+										["n_min"] = 110696,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 553480,
+										["c_max"] = 221392,
+										["id"] = 5221,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 221392,
+									},
+								},
+							},
+							["grupo"] = true,
+							["total"] = 1093571.005669,
+							["serial"] = "Player-1-0016E4C4",
+							["last_dps"] = 182110.075881457,
+							["custom"] = 0,
+							["last_event"] = 1602882681,
+							["damage_taken"] = 138600.005669,
+							["start_time"] = 1602882676,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 4,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 4,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 4,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[58180] = {
+										["activedamt"] = 0,
+										["id"] = 58180,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[155722] = {
+										["activedamt"] = 0,
+										["id"] = 155722,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 13,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[69369] = {
+										["activedamt"] = 2,
+										["id"] = 69369,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[768] = {
+										["activedamt"] = 1,
+										["id"] = 768,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[135700] = {
+										["activedamt"] = 2,
+										["id"] = 135700,
+										["targets"] = {
+										},
+										["uptime"] = 4,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 10,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 103,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[5221] = 3,
+								[16953] = 1,
+								[22568] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1602882682,
+							["nome"] = "Mariagreco",
+							["pets"] = {
+							},
+							["serial"] = "Player-1-0016E4C4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 4,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Capralucente"] = true,
+					["Mariagreco"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Melma Velenosa",
+				["combat_counter"] = 43,
+				["totals"] = {
+					1093570.996263, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Mariagreco"] = {
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882684.976, -- [4]
+							3232165, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882687.994, -- [4]
+							3264792, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882690.988, -- [4]
+							3264792, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [3]
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882693.989, -- [4]
+							3264792, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 5,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Mariagreco"] = 1093571.005669,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 531852.919,
+				["combat_id"] = 4,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Melma Velenosa"] = 1,
+				},
+				["data_fim"] = "23:11:23",
+				["data_inicio"] = "23:11:17",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1093571, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 531846.914,
+				["contra"] = "Melma Velenosa",
+				["TimeData"] = {
+				},
+			}, -- [1]
+			{
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002397,
+							["damage_from"] = {
+								["Melma Velenosa"] = true,
+							},
+							["targets"] = {
+								["Melma Velenosa"] = 1387474,
+							},
+							["total"] = 1387474.002397,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1387474.002397,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1602882676,
+							["friendlyfire_total"] = 0,
+							["spec"] = 103,
+							["nome"] = "Mariagreco",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 15232,
+										["targets"] = {
+											["Melma Velenosa"] = 30464,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 30464,
+										["n_min"] = 15232,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 30464,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[22568] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 181410,
+										["targets"] = {
+											["Melma Velenosa"] = 181410,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 181410,
+										["n_min"] = 181410,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 181410,
+										["c_max"] = 0,
+										["id"] = 22568,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[1822] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 72722,
+										["targets"] = {
+											["Melma Velenosa"] = 133324,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 133324,
+										["n_min"] = 60602,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 133324,
+										["c_max"] = 0,
+										["id"] = 1822,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[106830] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 27246,
+										["targets"] = {
+											["Melma Velenosa"] = 27246,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 27246,
+										["n_min"] = 27246,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 27246,
+										["c_max"] = 0,
+										["id"] = 106830,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[155722] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 72460,
+										["targets"] = {
+											["Melma Velenosa"] = 144920,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 144920,
+										["n_min"] = 72460,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 144920,
+										["c_max"] = 0,
+										["id"] = 155722,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[202028] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 269011,
+										["targets"] = {
+											["Melma Velenosa"] = 538022,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 538022,
+										["n_min"] = 269011,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 538022,
+										["c_max"] = 0,
+										["id"] = 202028,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[5221] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 221392,
+										["g_amt"] = 0,
+										["n_max"] = 110696,
+										["targets"] = {
+											["Melma Velenosa"] = 332088,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 110696,
+										["n_min"] = 110696,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 332088,
+										["c_max"] = 221392,
+										["id"] = 5221,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 221392,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1-0016E4C4",
+							["last_dps"] = 198125.660776081,
+							["custom"] = 0,
+							["last_event"] = 1602882676,
+							["damage_taken"] = 181456.002397,
+							["start_time"] = 1602882626,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 3,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 3,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 3,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[155722] = {
+										["activedamt"] = 0,
+										["id"] = 155722,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[58180] = {
+										["activedamt"] = 0,
+										["id"] = 58180,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[106830] = {
+										["activedamt"] = 0,
+										["id"] = 106830,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 11,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[69369] = {
+										["activedamt"] = 1,
+										["id"] = 69369,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[145152] = {
+										["activedamt"] = 1,
+										["id"] = 145152,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[768] = {
+										["activedamt"] = 1,
+										["id"] = 768,
+										["targets"] = {
+										},
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[135700] = {
+										["activedamt"] = 1,
+										["id"] = 135700,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cc_break"] = 2.002293,
+							["debuff_uptime"] = 13,
+							["cc_break_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[2782] = {
+										["cc_break_oque"] = {
+											[34969] = 2,
+										},
+										["id"] = 2782,
+										["cc_break"] = 2,
+										["targets"] = {
+											["Mariagreco"] = 2,
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 103,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[22568] = 1,
+								[5221] = 2,
+								[106830] = 1,
+								[202028] = 1,
+								[155722] = 1,
+								[16953] = 1,
+								[1822] = 1,
+							},
+							["cc_break_oque"] = {
+								[34969] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1602882668,
+							["nome"] = "Mariagreco",
+							["cc_break_targets"] = {
+								["Mariagreco"] = 2,
+							},
+							["serial"] = "Player-1-0016E4C4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Capralucente"] = true,
+					["Mariagreco"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Melma Velenosa",
+				["combat_counter"] = 41,
+				["totals"] = {
+					1387473.998115, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 2,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Mariagreco"] = {
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882634.87, -- [4]
+							3167044, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							1, -- [2]
+							20963, -- [3]
+							1602882662.968, -- [4]
+							3284700, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882668.17, -- [4]
+							3264792, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [3]
+						{
+							true, -- [1]
+							1, -- [2]
+							22929, -- [3]
+							1602882675.878, -- [4]
+							3284700, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 5,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Mariagreco"] = 1842189.010193,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 531803.622,
+				["combat_id"] = 3,
+				["instance_type"] = "none",
+				["resincked"] = true,
+				["frags"] = {
+					["Melma Velenosa"] = 1,
+				},
+				["data_fim"] = "23:10:33",
+				["data_inicio"] = "23:10:26",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1387474, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 2,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 531796.619,
+				["contra"] = "Melma Velenosa",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007506,
+							["damage_from"] = {
+								["Melma Velenosa"] = true,
+							},
+							["targets"] = {
+								["Melma Velenosa"] = 1136890,
+							},
+							["total"] = 1136890.007506,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1136890.007506,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1602882626,
+							["friendlyfire_total"] = 0,
+							["spec"] = 103,
+							["nome"] = "Mariagreco",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 1,
+										["c_dmg"] = 60928,
+										["g_amt"] = 0,
+										["n_max"] = 15232,
+										["targets"] = {
+											["Melma Velenosa"] = 147751,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 86823,
+										["n_min"] = 10663,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 147751,
+										["c_max"] = 30464,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 10663,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 30464,
+									}, -- [1]
+									[22568] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 323948,
+										["targets"] = {
+											["Melma Velenosa"] = 323948,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 323948,
+										["n_min"] = 323948,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 323948,
+										["c_max"] = 0,
+										["id"] = 22568,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[1822] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 60602,
+										["targets"] = {
+											["Melma Velenosa"] = 60602,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 60602,
+										["n_min"] = 60602,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 60602,
+										["c_max"] = 0,
+										["id"] = 1822,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[155722] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 60384,
+										["targets"] = {
+											["Melma Velenosa"] = 60384,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 60384,
+										["n_min"] = 60384,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 60384,
+										["c_max"] = 0,
+										["id"] = 155722,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[202028] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 322813,
+										["targets"] = {
+											["Melma Velenosa"] = 322813,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 322813,
+										["n_min"] = 322813,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 322813,
+										["c_max"] = 0,
+										["id"] = 202028,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[5221] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 221392,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Melma Velenosa"] = 221392,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 221392,
+										["c_max"] = 221392,
+										["id"] = 5221,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 221392,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1-0016E4C4",
+							["last_dps"] = 186818.455611635,
+							["custom"] = 0,
+							["last_event"] = 1602882626,
+							["damage_taken"] = 65425.007506,
+							["start_time"] = 1602882608,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 2,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Mariagreco"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "DRUID",
+							["totalover"] = 75102.00519,
+							["total_without_pet"] = 53944.00519,
+							["total"] = 53944.00519,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-1-0016E4C4",
+							["totalabsorb"] = 0.00519,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Mariagreco"] = 125462,
+							},
+							["totalover_without_pet"] = 0.00519,
+							["healing_taken"] = 53944.00519,
+							["fight_component"] = true,
+							["end_time"] = 1602882614,
+							["targets_overheal"] = {
+								["Mariagreco"] = 75102,
+							},
+							["nome"] = "Mariagreco",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[8936] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Mariagreco"] = 75102,
+										},
+										["n_max"] = 53944,
+										["targets"] = {
+											["Mariagreco"] = 53944,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 75102,
+										["total"] = 53944,
+										["c_max"] = 0,
+										["id"] = 8936,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 53944,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1602882612,
+							["custom"] = 0,
+							["last_event"] = 1602882614,
+							["spec"] = 103,
+							["totaldenied"] = 0.00519,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 2,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 2,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[155722] = {
+										["activedamt"] = 0,
+										["id"] = 155722,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[58180] = {
+										["activedamt"] = 0,
+										["id"] = 58180,
+										["targets"] = {
+										},
+										["uptime"] = 5,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 15,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[768] = {
+										["activedamt"] = 1,
+										["id"] = 768,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[135700] = {
+										["activedamt"] = 2,
+										["id"] = 135700,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[8936] = {
+										["activedamt"] = 1,
+										["id"] = 8936,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[145152] = {
+										["activedamt"] = 1,
+										["id"] = 145152,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[69369] = {
+										["activedamt"] = 2,
+										["id"] = 69369,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cc_break"] = 1.001746,
+							["fight_component"] = true,
+							["debuff_uptime"] = 10,
+							["cc_break_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[2782] = {
+										["cc_break_oque"] = {
+											[34969] = 1,
+										},
+										["id"] = 2782,
+										["cc_break"] = 1,
+										["targets"] = {
+											["Mariagreco"] = 1,
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 103,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[22568] = 1,
+								[202028] = 1,
+								[5221] = 1,
+								[145152] = 1,
+								[8936] = 1,
+								[155722] = 1,
+								[16953] = 1,
+								[1822] = 1,
+							},
+							["cc_break_oque"] = {
+								[34969] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1602882617,
+							["nome"] = "Mariagreco",
+							["cc_break_targets"] = {
+								["Mariagreco"] = 1,
+							},
+							["serial"] = "Player-1-0016E4C4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 2,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Capralucente"] = true,
+					["Mariagreco"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Melma Velenosa",
+				["combat_counter"] = 40,
+				["totals"] = {
+					1136889.997957, -- [1]
+					53944, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Mariagreco"] = {
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882616.877, -- [4]
+							3264792, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [1]
+						{
+						}, -- [2]
+						{
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 2,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Mariagreco"] = 53944.00519,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Mariagreco"] = 1121658.007506,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 531784.317,
+				["combat_id"] = 2,
+				["instance_type"] = "none",
+				["frags"] = {
+					["Melma Velenosa"] = 1,
+				},
+				["data_fim"] = "23:10:14",
+				["data_inicio"] = "23:10:08",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1136890, -- [1]
+					53944, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 1,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 531778.313,
+				["contra"] = "Melma Velenosa",
+				["TimeData"] = {
+				},
+			}, -- [3]
+			{
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003071,
+							["damage_from"] = {
+								["Melma Velenosa"] = true,
+							},
+							["targets"] = {
+								["Melma Velenosa"] = 1356430,
+							},
+							["total"] = 1356430.003071,
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["classe"] = "DRUID",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1356430.003071,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1602882608,
+							["friendlyfire_total"] = 0,
+							["spec"] = 103,
+							["nome"] = "Mariagreco",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 30464,
+										["g_amt"] = 0,
+										["n_max"] = 15232,
+										["targets"] = {
+											["Melma Velenosa"] = 121856,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 91392,
+										["n_min"] = 15232,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 121856,
+										["c_max"] = 30464,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 30464,
+									}, -- [1]
+									[22568] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 239721,
+										["targets"] = {
+											["Melma Velenosa"] = 239721,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 239721,
+										["n_min"] = 239721,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 239721,
+										["c_max"] = 0,
+										["id"] = 22568,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[1822] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 60602,
+										["targets"] = {
+											["Melma Velenosa"] = 121204,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 121204,
+										["n_min"] = 60602,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 121204,
+										["c_max"] = 0,
+										["id"] = 1822,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[155722] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 60384,
+										["targets"] = {
+											["Melma Velenosa"] = 60384,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 60384,
+										["n_min"] = 60384,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 60384,
+										["c_max"] = 0,
+										["id"] = 155722,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[202028] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 269011,
+										["targets"] = {
+											["Melma Velenosa"] = 269011,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 269011,
+										["n_min"] = 269011,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 269011,
+										["c_max"] = 0,
+										["id"] = 202028,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[5221] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 433558,
+										["g_amt"] = 0,
+										["n_max"] = 110696,
+										["targets"] = {
+											["Melma Velenosa"] = 544254,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 110696,
+										["n_min"] = 110696,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 544254,
+										["c_max"] = 221392,
+										["id"] = 5221,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 212166,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-1-0016E4C4",
+							["last_dps"] = 190551.87395006,
+							["custom"] = 0,
+							["last_event"] = 1602882608,
+							["damage_taken"] = 109582.003071,
+							["start_time"] = 1602882566,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 1,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 1,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 1,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[58180] = {
+										["activedamt"] = 0,
+										["id"] = 58180,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[155722] = {
+										["activedamt"] = 0,
+										["id"] = 155722,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 10,
+							["classe"] = "DRUID",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[135700] = {
+										["activedamt"] = 1,
+										["id"] = 135700,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[768] = {
+										["activedamt"] = 1,
+										["id"] = 768,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[69369] = {
+										["activedamt"] = 1,
+										["id"] = 69369,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cc_break"] = 2.00649,
+							["debuff_uptime"] = 12,
+							["cc_break_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[2782] = {
+										["cc_break_oque"] = {
+											[34969] = 2,
+										},
+										["id"] = 2782,
+										["cc_break"] = 2,
+										["targets"] = {
+											["Mariagreco"] = 2,
+										},
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 103,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[22568] = 1,
+								[5221] = 2,
+								[202028] = 1,
+								[155722] = 1,
+								[16953] = 1,
+								[1822] = 2,
+							},
+							["cc_break_oque"] = {
+								[34969] = 2,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1602882600,
+							["nome"] = "Mariagreco",
+							["cc_break_targets"] = {
+								["Mariagreco"] = 2,
+							},
+							["serial"] = "Player-1-0016E4C4",
+							["tipo"] = 4,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 1,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Capralucente"] = true,
+					["Mariagreco"] = true,
+				},
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Melma Velenosa",
+				["combat_counter"] = 38,
+				["totals"] = {
+					1356429.991448, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 2,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+					["Mariagreco"] = {
+						{
+							true, -- [1]
+							1, -- [2]
+							20223, -- [3]
+							1602882593.181, -- [4]
+							3284700, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							34969, -- [2]
+							19908, -- [3]
+							1602882599.87, -- [4]
+							3264792, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							8, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							1, -- [2]
+							28335, -- [3]
+							1602882607.972, -- [4]
+							3284700, -- [5]
+							"Melma Velenosa", -- [6]
+							nil, -- [7]
+							1, -- [8]
+							false, -- [9]
+							0, -- [10]
+						}, -- [3]
+						{
+						}, -- [4]
+						{
+						}, -- [5]
+						{
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 4,
+					},
+				},
+				["frags_need_refresh"] = true,
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Mariagreco"] = 2614416.009339,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 531742.817,
+				["combat_id"] = 1,
+				["instance_type"] = "none",
+				["resincked"] = true,
+				["frags"] = {
+					["Melma Velenosa"] = 1,
+				},
+				["data_fim"] = "23:09:33",
+				["data_inicio"] = "23:09:27",
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					1356430, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 2,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 531736.812,
+				["contra"] = "Melma Velenosa",
+				["TimeData"] = {
+				},
+			}, -- [4]
+		},
+	},
+	["last_version"] = "v7.3.5.5572",
+	["character_data"] = {
+		["logons"] = 5,
+	},
+	["tabela_instancias"] = {
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["is_open"] = true,
+			["isLocked"] = false,
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -359.999816894531,
+					["x"] = 589.999755859375,
+					["w"] = 320,
+					["h"] = 129.999984741211,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["cached_talents"] = {
+		["Player-1-0016E4C4"] = {
+			18571, -- [1]
+			21778, -- [2]
+			22158, -- [3]
+			21711, -- [4]
+			21649, -- [5]
+			22364, -- [6]
+			21708, -- [7]
+		},
+		["Player-1-00085047"] = {
+		},
+		["Player-1-0016E4C5"] = {
+			22590, -- [1]
+			22591, -- [2]
+			22319, -- [3]
+			22483, -- [4]
+			22595, -- [5]
+			22896, -- [6]
+			22182, -- [7]
+		},
+	},
+	["last_instance_id"] = 0,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 0,
+	["active_profile"] = "Mariagreco-Greymane (PvP Tournament)",
+	["last_realversion"] = 130,
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["animate"] = false,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["author"] = "Details! Team",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_TIME_ATTACK"] = {
+			["enabled"] = true,
+			["realm_last_shown"] = 40,
+			["saved_as_anonymous"] = true,
+			["recently_as_anonymous"] = true,
+			["dps"] = 0,
+			["disable_sharing"] = false,
+			["history"] = {
+			},
+			["time"] = 40,
+			["history_lastindex"] = 0,
+			["realm_lastamt"] = 0,
+			["realm_history"] = {
+			},
+			["author"] = "Details! Team",
+		},
+		["DETAILS_PLUGIN_DAMAGE_RANK"] = {
+			["lasttry"] = {
+			},
+			["annouce"] = true,
+			["dpshistory"] = {
+			},
+			["dps"] = 0,
+			["author"] = "Details! Team",
+			["level"] = 1,
+			["enabled"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_texture"] = "Details Serenity",
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["hide_on_combat"] = false,
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["encounter_timers_dbm"] = {
+			},
+		},
+		["DETAILS_PLUGIN_DPS_TUNING"] = {
+			["enabled"] = true,
+			["author"] = "Details! Team",
+			["SpellBarsShowType"] = 1,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = true,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.000030517578, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 144.893889412986,
+				["radius"] = 160,
+				["hide"] = true,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["author"] = "Details! Team",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.05175781250e-005,
+				["x"] = 3.05175781250e-005,
+				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
+			},
+			["y"] = 4.577636718750e-005,
+			["main_frame_strata"] = "LOW",
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1604155166,
+		["last_version"] = 10,
+	},
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["last_day"] = "16",
+	["combat_counter"] = 43,
+	["combat_id"] = 4,
+	["savedStyles"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 37,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags_need_refresh"] = false,
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["CombatSkillCache"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["player_last_events"] = {
+		},
+	},
+	["force_font_outline"] = "",
+	["SoloTablesSaved"] = {
+		["LastSelected"] = "DETAILS_PLUGIN_DAMAGE_RANK",
+		["Mode"] = 1,
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["announce_cooldowns"] = {
+		["enabled"] = false,
+		["ignored_cooldowns"] = {
+		},
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+		["Player-1-0016E4C5"] = 70,
+	},
+}

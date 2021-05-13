@@ -1,0 +1,12 @@
+tag f98690eb41be4c0243e8169c6dcbaa87a7112f55 5.2.2
+Author:	Adam Koch <me@adamko.ch>
+Date:	Fri Jul 10 18:00:01 2020 -0400
+
+5.2.2 Release
+
+commit b497584e73518bfa6e61e4e4819eb89a99d5b2f9
+Author: Adam Koch <me@adamko.ch>
+Date:   Fri Jul 10 17:59:42 2020 -0400
+
+    Fix for ElvUI's datatext changes in 11.43.
+

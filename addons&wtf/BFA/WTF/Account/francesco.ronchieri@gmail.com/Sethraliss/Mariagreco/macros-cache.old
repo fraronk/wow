@@ -1,0 +1,21 @@
+VER 3 0100000000000001 "Anto" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@Darkwidøw] Innervazione
+END
+VER 3 0100000000000003 "rest2" "INV_MISC_QUESTIONMARK"
+/s |cff71d5ff|Hspell:267884:0|h[Brivido Corroborante]|h|r
+/s |cff71d5ff|Hspell:280407:0|h[Rito del Sangue]|h|r
+/s |cff71d5ff|Hspell:267882:0|h[Cura Concentrata]|h|r
+END
+VER 3 0100000000000002 "Resto" "INV_MISC_QUESTIONMARK"
+/s |cff71d5ff|Hspell:278515:0|h[Crescita Sfrenata]|h|r
+/s |cff71d5ff|Hspell:279778:0|h[Cura della Selva]|h|r
+/s |cff71d5ff|Hspell:287251:0|h[Raccolta Anticipata]|h|r
+/s |cff71d5ff|Hspell:281841:0|h[Ventisaldi]|h|r 
+END
+VER 3 0100000000000004 "tratti" "611424"
+3x |cff71d5ff|Hspell:289314:0|h[Scarica della Ferocia]|h|r
+1x |cff71d5ff|Hspell:279552:0|h[Manto a Strati]|h|r
+1x |cff71d5ff|Hspell:275906:0|h[Artigli Distorti]|h|r
+1x |cff71d5ff|Hspell:278510:0|h[Rigenerazione Sanguinaria]|h|r
+END

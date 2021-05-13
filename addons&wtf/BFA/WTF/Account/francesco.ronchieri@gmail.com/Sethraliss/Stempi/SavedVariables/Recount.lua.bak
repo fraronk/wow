@@ -1,0 +1,152 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Hatig"] = {
+			["GUID"] = "Player-10-0063DABB",
+			["LastEventHealth"] = {
+				124060, -- [1]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+			},
+			["enClass"] = "DEMONHUNTER",
+			["unit"] = "Hatig",
+			["level"] = 120,
+			["LastFightIn"] = 0,
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["NextEventNum"] = 2,
+			["LastEventHealthMax"] = {
+				124060, -- [1]
+			},
+			["LastEvents"] = {
+				"Тэри Anime Vincolate Hatig Hit +5517 (5517 Overheal)", -- [1]
+			},
+			["Name"] = "Hatig",
+			["LastEventIncoming"] = {
+				true, -- [1]
+			},
+			["LastEventTimes"] = {
+				149623.364, -- [1]
+			},
+			["Fights"] = {
+			},
+			["UnitLockout"] = 149622.671,
+			["LastActive"] = 149622.671,
+		},
+		["Moxsen"] = {
+			["GUID"] = "Player-10-0063184D",
+			["LastEventHealth"] = {
+				155600, -- [1]
+				155600, -- [2]
+				155600, -- [3]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+			},
+			["enClass"] = "PALADIN",
+			["unit"] = "Moxsen",
+			["level"] = 120,
+			["LastFightIn"] = 0,
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["NextEventNum"] = 4,
+			["LastEventHealthMax"] = {
+				155600, -- [1]
+				155600, -- [2]
+				155600, -- [3]
+			},
+			["LastEvents"] = {
+				"Тэри Anime Vincolate Moxsen Hit +5517 (5517 Overheal)", -- [1]
+				"Тэри Anime Vincolate Moxsen Hit +5517 (5517 Overheal)", -- [2]
+				"Тэри Anime Vincolate Moxsen Hit +5517 (5517 Overheal)", -- [3]
+			},
+			["Name"] = "Moxsen",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+			},
+			["LastEventTimes"] = {
+				149613.37, -- [1]
+				149618.348, -- [2]
+				149623.364, -- [3]
+			},
+			["Fights"] = {
+			},
+			["UnitLockout"] = 149612.666,
+			["LastActive"] = 149622.671,
+		},
+		["Тэри"] = {
+			["GUID"] = "Player-10-004D8B3E",
+			["LastEventHealth"] = {
+				339760, -- [1]
+				339760, -- [2]
+				339760, -- [3]
+				339760, -- [4]
+				339760, -- [5]
+				339760, -- [6]
+			},
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"HEAL", -- [2]
+				"HEAL", -- [3]
+				"HEAL", -- [4]
+				"HEAL", -- [5]
+				"HEAL", -- [6]
+			},
+			["enClass"] = "WARRIOR",
+			["unit"] = "Тэри",
+			["level"] = 120,
+			["LastFightIn"] = 0,
+			["type"] = "Grouped",
+			["Owner"] = false,
+			["NextEventNum"] = 7,
+			["LastEventHealthMax"] = {
+				339760, -- [1]
+				339760, -- [2]
+				339760, -- [3]
+				339760, -- [4]
+				339760, -- [5]
+				339760, -- [6]
+			},
+			["LastEvents"] = {
+				"Тэри Anime Vincolate Moxsen Hit +5517 (5517 Overheal)", -- [1]
+				"Тэри Anime Vincolate Тэри Hit +5517 (5517 Overheal)", -- [2]
+				"Тэри Anime Vincolate Moxsen Hit +5517 (5517 Overheal)", -- [3]
+				"Тэри Anime Vincolate Тэри Hit +5517 (5517 Overheal)", -- [4]
+				"Тэри Anime Vincolate Hatig Hit +5517 (5517 Overheal)", -- [5]
+				"Тэри Anime Vincolate Moxsen Hit +5517 (5517 Overheal)", -- [6]
+			},
+			["Name"] = "Тэри",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				true, -- [2]
+				false, -- [3]
+				true, -- [4]
+				false, -- [5]
+				false, -- [6]
+			},
+			["LastEventTimes"] = {
+				149613.37, -- [1]
+				149613.37, -- [2]
+				149618.348, -- [3]
+				149618.348, -- [4]
+				149623.364, -- [5]
+				149623.364, -- [6]
+			},
+			["Fights"] = {
+			},
+			["UnitLockout"] = 149612.666,
+			["LastActive"] = 149622.671,
+		},
+	},
+	["FightNum"] = 0,
+	["CombatTimes"] = {
+	},
+	["FoughtWho"] = {
+	},
+}

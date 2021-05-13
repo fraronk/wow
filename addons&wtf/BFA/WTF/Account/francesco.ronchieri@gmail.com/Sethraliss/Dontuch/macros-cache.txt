@@ -1,0 +1,12 @@
+VER 3 0100000000000002 "Essenze" "135994"
+END
+VER 3 0100000000000001 "Tratti" "135913"
+3x |cff71d5ff|Hspell:278659:0|h[Spasmi di Morte]|h|r
+1x |cff71d5ff|Hspell:275541:0|h[Profondità delle Ombre]|h|r
+1x |cff71d5ff|Hspell:278643:0|h[Luminescenza Persistente]|h|r
+1x |cff71d5ff|Hspell:287355:0|h[Rivelazione Improvvisa]|h|r o Luminescenza
+END
+VER 3 0100000000000003 "tratti shadow" "458229"
+|cff71d5ff|Hspell:277682:0|h[Apparizioni Adirate]|h|r x3
+|cff71d5ff|Hspell:278661:0|h[Coro della Follia]|h|r x2
+END

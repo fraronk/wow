@@ -1,0 +1,34 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Voidvenom - Sethraliss",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Sethraliss.Voidvenom"] = {
+				["XPMax"] = 893550,
+				["played"] = 2324306,
+				["playedThisLevel"] = 2084527,
+				["isResting"] = false,
+				["lastUpdate"] = 1605388602,
+				["class"] = "Cacciatrice",
+				["race"] = "Elfa del Vuoto",
+				["level"] = 120,
+				["XP"] = 745,
+				["RestXP"] = 0,
+				["name"] = "Voidvenom",
+				["money"] = 339360197,
+				["gender"] = 3,
+				["zone"] = "Zuldazar",
+				["guildRankName"] = "Officer Pinguì",
+				["faction"] = "Alliance",
+				["guildRankIndex"] = 1,
+				["guildName"] = "Country penguins",
+				["englishRace"] = "VoidElf",
+				["subZone"] = "Ritiro di Talanji",
+				["lastLogoutTimestamp"] = 1605388602,
+				["englishClass"] = "HUNTER",
+			},
+		},
+	},
+}

@@ -1,0 +1,18 @@
+
+HandyNotesDraenorDB = {
+	["profileKeys"] = {
+		["Mariagreco - Sethraliss"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Integration"] = {
+				["TomTom"] = {
+					["Loaded"] = false,
+				},
+				["DBM"] = {
+					["Loaded"] = true,
+				},
+			},
+		},
+	},
+}
