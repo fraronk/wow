@@ -84,13 +84,13 @@ HealBot_Config_Spells = {
 	},
 	["EnemyKeyCombo"] = {
 	},
-	["DisabledSpellTrinket1"] = {
-	},
+	["ButtonCastMethod"] = 2,
 	["DisabledSpellTarget"] = {
+	},
+	["DisabledSpellTrinket1"] = {
 	},
 	["DisabledAvoidBlueCursor"] = {
 	},
-	["ButtonCastMethod"] = 2,
 	["EnabledKeyCombo"] = {
 		["Alt-ShiftRight4"] = "C:B",
 		["Alt-ShiftMiddle2"] = "",
@@ -340,10 +340,10 @@ HealBot_Config_Cures = {
 	["HealBot_CDCWarnRange_Screen"] = 2,
 	["DebuffWatchInCombat"] = true,
 	["HealBot_Custom_Defuffs_All"] = {
-		["Poison"] = false,
 		["Curse"] = false,
-		["Magic"] = false,
 		["Disease"] = false,
+		["Magic"] = false,
+		["Poison"] = false,
 	},
 	["HealBotDebuffDropDown"] = {
 		4, -- [1]
@@ -368,25 +368,25 @@ HealBot_Config_Cures = {
 	["AlwaysShowTimed"] = false,
 	["HealBot_CDCWarnRange_Sound"] = 3,
 	["CDCBarColour"] = {
-		["Poison"] = {
-			["B"] = 0.24,
-			["G"] = 0.46,
-			["R"] = 0.12,
-		},
 		["Curse"] = {
 			["B"] = 0.09,
 			["G"] = 0.43,
 			["R"] = 0.83,
+		},
+		["Disease"] = {
+			["B"] = 0.7,
+			["G"] = 0.19,
+			["R"] = 0.55,
 		},
 		["Magic"] = {
 			["B"] = 0.83,
 			["G"] = 0.33,
 			["R"] = 0.26,
 		},
-		["Disease"] = {
-			["B"] = 0.7,
-			["G"] = 0.19,
-			["R"] = 0.55,
+		["Poison"] = {
+			["B"] = 0.24,
+			["G"] = 0.46,
+			["R"] = 0.12,
 		},
 	},
 	["SoundDebuffWarning"] = false,

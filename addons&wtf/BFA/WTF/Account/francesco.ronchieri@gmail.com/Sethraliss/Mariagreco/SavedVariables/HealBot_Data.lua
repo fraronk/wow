@@ -114,13 +114,13 @@ HealBot_Config_Spells = {
 		["Alt-ShiftLeft2"] = "C:A",
 		["Alt-ShiftRight4"] = "C:B",
 	},
-	["DisabledAvoidBlueCursor"] = {
+	["DisabledSpellTrinket1"] = {
 	},
 	["EnabledAvoidBlueCursor"] = {
 	},
-	["ButtonCastMethod"] = 2,
-	["DisabledSpellTrinket1"] = {
+	["DisabledAvoidBlueCursor"] = {
 	},
+	["ButtonCastMethod"] = 2,
 	["EnabledKeyCombo"] = {
 		["Alt-ShiftRight4"] = "C:B",
 		["Alt-ShiftMiddle2"] = "",
@@ -340,10 +340,10 @@ HealBot_Config_Cures = {
 	["HealBot_CDCWarnRange_Screen"] = 2,
 	["DebuffWatchInCombat"] = true,
 	["HealBot_Custom_Defuffs_All"] = {
-		["Disease"] = false,
 		["Poison"] = false,
-		["Magic"] = false,
 		["Curse"] = false,
+		["Magic"] = false,
+		["Disease"] = false,
 	},
 	["HealBotDebuffDropDown"] = {
 		4, -- [1]
@@ -375,25 +375,25 @@ HealBot_Config_Cures = {
 	["IgnoreOnCooldownDebuffs"] = false,
 	["IgnoreFriendDebuffs"] = true,
 	["CDCBarColour"] = {
-		["Disease"] = {
-			["R"] = 0.55,
-			["G"] = 0.19,
-			["B"] = 0.7,
-		},
 		["Poison"] = {
 			["R"] = 0.12,
 			["G"] = 0.46,
 			["B"] = 0.24,
+		},
+		["Curse"] = {
+			["R"] = 0.83,
+			["G"] = 0.43,
+			["B"] = 0.09,
 		},
 		["Magic"] = {
 			["R"] = 0.26,
 			["G"] = 0.33,
 			["B"] = 0.83,
 		},
-		["Curse"] = {
-			["R"] = 0.83,
-			["G"] = 0.43,
-			["B"] = 0.09,
+		["Disease"] = {
+			["R"] = 0.55,
+			["G"] = 0.19,
+			["B"] = 0.7,
 		},
 	},
 	["HealBotDebuffPriority"] = {

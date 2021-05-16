@@ -28,6 +28,10 @@ VER 3 0100000000000001 "disp" "INV_MISC_QUESTIONMARK"
 /cast Polvere della Serenità
 /cast Acqua del Sollievo
 END
+VER 3 0100000000000017 "disp SB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/lancia Folgore Spirituale(Abilità Speciale)
+END
 VER 3 010000000000000C "fakeDeath" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /petfollow

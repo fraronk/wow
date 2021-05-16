@@ -134,3 +134,4 @@ WeakAurasTemplates: enabled
 WIM_ElvUI_Skin: disabled
 ElvUI_SLE: disabled
 MoveAnything: disabled
+ElvUI_DTBars2: disabled

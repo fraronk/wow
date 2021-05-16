@@ -2,6 +2,7 @@
 HandyNotesDraenorDB = {
 	["profileKeys"] = {
 		["Mariagreco - Sethraliss"] = "Default",
+		["Berlusconi - Sethraliss"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.032,
+	["LastVersion"] = 2.0336,
 	["LastPlayerFullName"] = "Berlusconi-Sethraliss",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
@@ -12,8 +12,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 457,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:253:512:11:4:4936:4929:5814:1594:110:::|h[Cuore di Azeroth]|h|r",
+			["Level"] = 471,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:253:512:11:4:4936:4929:5814:1608:110:::|h[Cuore di Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159368,
@@ -37,9 +37,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159375::::::::120:253:512:35:4:5026:1612:5850:4783:120:::|h[Gambiere della Stirpe Risvegliata]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 165533,
-			["Level"] = 420,
-			["Link"] = "|cffa335ee|Hitem:165533::::::::120:253:512:6:4:4800:1537:5850:4783:120:::|h[Calzari della Luce della Grazia]|h|r",
+			["ID"] = 168385,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:168385::::::::120:253:512:5:4:4799:42:1502:4786:120:::|h[Stivaloni del Calcaflutti]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 159397,
@@ -70,20 +70,20 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159614::::::::120:253:512:16:4:5026:1602:5850:4783:120:::|h[Dono dell'Invocabrezza]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159628,
-			["Level"] = 430,
+			["ID"] = 169319,
+			["Level"] = 435,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159628::::::::120:254:512:16:4:5025:1597:5850:4783:120:::|h[Binario del Cannone di Kul Tiras]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169319::::::::120:253:512:5:4:4799:1502:5850:4783:120:::|h[Inchiostro Sgocciolante]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 165513,
-			["Level"] = 415,
-			["Link"] = "|cffa335ee|Hitem:165513::::::::120:253:512:6:3:4800:1537:4786:120:::|h[Mantello di Mantoargenteo]|h|r",
+			["ID"] = 168604,
+			["Level"] = 440,
+			["Link"] = "|cffa335ee|Hitem:168604::::::::120:253:512:5:4:4799:1502:5855:4783:120:::|h[Drappo dell'Incubatore]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 158711,
-			["Level"] = 410,
-			["Link"] = "|cffa335ee|Hitem:158711::::::::120:253:512:35:3:5026:1582:4786:120:::|h[Arco Lungo d'Osso Santificato]|h|r",
+			["ID"] = 159637,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:159637:5965:::::::120:253:512:16:4:5026:1602:5850:4783:120:::|h[Arco Ricurvo del Morso del Serpente]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 96232,

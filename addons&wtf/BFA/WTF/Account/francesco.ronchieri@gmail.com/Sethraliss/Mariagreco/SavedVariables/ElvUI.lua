@@ -1,1484 +1,1286 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/roll", -- [1]
-		"/cw Ripto :P", -- [2]
-		"/in Daniar?", -- [3]
-		"/in Dainar*", -- [4]
-		"/g gg", -- [5]
-		"/cw Lapatagna eravamo troppo vicini alle anime", -- [6]
-		"/in MESSI", -- [7]
-		"/in Rob se vuoi posso provare ma non ho MAI fatto la meccanica", -- [8]
-		"/in mi impegnerò al massimo", -- [9]
-		"/in non è che era difensivi.... o immunità o crepi :S", -- [10]
-		"/in GG finger", -- [11]
-		"/in forza ai druidi", -- [12]
-		"/in forse", -- [13]
-		"/in la ho uguale", -- [14]
-		"/in io nel gruppo da 3", -- [15]
-		"/in +", -- [16]
-		"/in il caffè", -- [17]
-		"/g |cffa335ee|Hitem:174279::::::::120:102:512:::120:::|h[Testo Crittografato di Ny'alotha]|h|r ma dove vanno usati?", -- [18]
-		"/g giusto", -- [19]
-		"/g sera", -- [20]
+		"/gr |cff0070dd|Hitem:172849::::::::120:104:512:47:3:42:1537:4785:120:::|h[Distintivo del Pretendente Corrotto]|h|r a me ne serve una che dia  un trinket ...", -- [1]
+		"/gr e vi mettete la spec tank :P", -- [2]
+		"/gr |cff0070dd|Hitem:159626::::::::120:104::1:1:3524:::|h[Baccelli Persistenti]|h|r", -- [3]
+		"/gr secondo me conviene", -- [4]
+		"/gr impegnato", -- [5]
+		"/readycheck", -- [6]
+		"/gr no :P", -- [7]
+		"/gr io no", -- [8]
+		"/g +", -- [9]
+		"/gr va bene se si prova BG epico", -- [10]
+		"/gr sperando di attaccare", -- [11]
+		"/gr prendo il silenzio come un si+", -- [12]
+		"/gr okok", -- [13]
+		"/g -", -- [14]
+		"/g  /", -- [15]
+		"/g guarda su discord", -- [16]
+		"/hug", -- [17]
+		"/g |cff71d5ff|Hspell:472:0|h[Pinto]|h|r", -- [18]
+		"/g ma la spawn dell'alpaca è uguale per tutti", -- [19]
+		"/i broke the towers", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"non lo so", -- [1]
-			"Sudeky", -- [2]
-			"Comune", -- [3]
+			"share", -- [1]
+			"Devanaga", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
+			"Devanaga-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4194, -- [11]
-			"Player-10-007740AA", -- [12]
+			949, -- [11]
+			"Player-10-0080CDC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620855950,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff00fe95Devanaga|r",
+			[51] = 1621170532,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [1]
 		{
-			"Interrupted |cff71d5ff|Hspell:307177:0|h[Dardo del Vuoto]|h|r on Ritualista Vincolamagie", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
+			"make mooore demolish", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4195, -- [11]
-			"Player-10-004B3A0C", -- [12]
+			951, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1620855950,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170539,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [2]
 		{
-			"3", -- [1]
-			"Mgnwhitejack", -- [2]
-			"Comune", -- [3]
+			"people in middle .-. noob", -- [1]
+			"Megrimm", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Mgnwhitejack-Sethraliss", -- [5]
+			"Megrimm-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4196, -- [11]
-			"Player-10-003490CB", -- [12]
+			959, -- [11]
+			"Player-10-00577571", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Mgnwhitejack|r",
-			[51] = 1620855954,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeMegrimm|r",
+			[51] = 1621170573,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [3]
 		{
-			"2", -- [1]
-			"Mgnwhitejack", -- [2]
-			"Comune", -- [3]
+			"kyc ome", -- [1]
+			"Dorht", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Mgnwhitejack-Sethraliss", -- [5]
+			"Dorht-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4197, -- [11]
-			"Player-10-003490CB", -- [12]
+			969, -- [11]
+			"Player-10-0080D8FA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Mgnwhitejack|r",
-			[51] = 1620855955,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff006fdcDorht|r",
+			[51] = 1621170600,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [4]
 		{
-			"1", -- [1]
-			"Mgnwhitejack", -- [2]
-			"Comune", -- [3]
+			"base def", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Mgnwhitejack-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4199, -- [11]
-			"Player-10-003490CB", -- [12]
+			987, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Mgnwhitejack|r",
-			[51] = 1620855956,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170665,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [5]
 		{
-			"Encroaching Shadows on Outofmind", -- [1]
-			"Outofmind", -- [2]
-			"Comune", -- [3]
+			"base def", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Outofmind-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4203, -- [11]
-			"Player-10-0071B504", -- [12]
+			988, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Outofmind|r",
-			[51] = 1620855964,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170666,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [6]
 		{
-			"Ombre Opprimenti su Marò", -- [1]
-			"Marò", -- [2]
-			"Comune", -- [3]
+			"make mooore demolish", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Marò-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4204, -- [11]
-			"Player-10-00754611", -- [12]
+			989, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620855964,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170672,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [7]
 		{
-			"3", -- [1]
-			"Outofmind", -- [2]
-			"Comune", -- [3]
+			"in base", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Outofmind-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4207, -- [11]
-			"Player-10-0071B504", -- [12]
+			992, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Outofmind|r",
-			[51] = 1620855969,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170686,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [8]
 		{
-			"3", -- [1]
-			"Marò", -- [2]
+			"|cff66bbff|Hjournal:1:2365:14|h[Maut]|h|r Normal!", -- [1]
+			"Dkfatt", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Marò-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Dkfatt-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4208, -- [11]
-			"Player-10-00754611", -- [12]
+			994, -- [11]
+			"Player-10-005990E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620855969,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Dkfatt|r",
+			[51] = 1621170701,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"2", -- [1]
-			"Outofmind", -- [2]
-			"Comune", -- [3]
+			"share 10 ally quest pls", -- [1]
+			"Devanaga", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Outofmind-Sethraliss", -- [5]
+			"Devanaga-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4209, -- [11]
-			"Player-10-0071B504", -- [12]
+			998, -- [11]
+			"Player-10-0080CDC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Outofmind|r",
-			[51] = 1620855970,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Devanaga|r",
+			[51] = 1621170718,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [10]
 		{
-			"2", -- [1]
-			"Marò", -- [2]
-			"Comune", -- [3]
+			"make mooore demolish", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Marò-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4210, -- [11]
-			"Player-10-00754611", -- [12]
+			1007, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620855970,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170749,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [11]
 		{
-			"1", -- [1]
-			"Marò", -- [2]
-			"Comune", -- [3]
+			"in base", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Marò-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4211, -- [11]
-			"Player-10-00754611", -- [12]
+			1008, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620855971,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170752,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [12]
 		{
-			"Ombre Opprimenti su Sudeky", -- [1]
-			"Sudeky", -- [2]
+			"|cff66bbff|Hjournal:0:1180:14|h[Ny'alotha, Ciudad del Despertar]|h|r Normal Maut! tank", -- [1]
+			"Dkfatt", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Dkfatt-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4215, -- [11]
-			"Player-10-007740AA", -- [12]
+			1015, -- [11]
+			"Player-10-005990E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620855979,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Dkfatt|r",
+			[51] = 1621170764,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"Encroaching Shadows on Istardron", -- [1]
-			"Istardron", -- [2]
+			"Chromatic english guild is recruiting and looking for new players over 440ilvl for new raid Nyalotha, EP Progression: 4/8 M, Nyalotha 6/7 hc . Raiding on Thursday/Sunday. Any extra info needed drop me a whisper!", -- [1]
+			"Nelieli", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Istardron-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Nelieli-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4216, -- [11]
-			"Player-10-0069B91A", -- [12]
+			1021, -- [11]
+			"Player-10-00689C22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Istardron|r",
-			[51] = 1620855979,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Nelieli|r",
+			[51] = 1621170770,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [14]
 		{
-			"3", -- [1]
-			"Sudeky", -- [2]
+			"WTS |cffa335ee|Hitem:137686::::::::120:66:512:13::120:::|h[Stahlgebundenes Geschirr]|h|r", -- [1]
+			"Dragobar", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Dragobar-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4217, -- [11]
-			"Player-10-007740AA", -- [12]
+			1042, -- [11]
+			"Player-10-00717153", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620855984,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff38bb9Dragobar|r",
+			[51] = 1621170805,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"3", -- [1]
-			"Istardron", -- [2]
+			"|cff66bbff|Hjournal:1:2365:14|h[Maut]|h|r Normal Need tank!", -- [1]
+			"Dkfatt", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Istardron-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Dkfatt-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4218, -- [11]
-			"Player-10-0069B91A", -- [12]
+			1049, -- [11]
+			"Player-10-005990E8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Istardron|r",
-			[51] = 1620855984,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39Dkfatt|r",
+			[51] = 1621170840,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"2", -- [1]
-			"Sudeky", -- [2]
-			"Comune", -- [3]
+			"SB", -- [1]
+			"长发披肩", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
+			"长发披肩-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4219, -- [11]
-			"Player-10-007740AA", -- [12]
+			1096, -- [11]
+			"Player-10-00755659", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620855985,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc31d39长发披肩|r",
+			[51] = 1621170888,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [17]
 		{
-			"2", -- [1]
-			"Istardron", -- [2]
-			"Comune", -- [3]
+			"make mooore demolish in base", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Istardron-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4220, -- [11]
-			"Player-10-0069B91A", -- [12]
+			1097, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Istardron|r",
-			[51] = 1620855985,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621170901,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [18]
 		{
-			"1", -- [1]
-			"Sudeky", -- [2]
+			"REFLECTING", -- [1]
+			"Bodlja", -- [2]
 			"Comune", -- [3]
 			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
+			"Bodlja-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4221, -- [11]
-			"Player-10-007740AA", -- [12]
+			1111, -- [11]
+			"Player-10-00597BFA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620855986,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cBodlja|r",
+			[51] = 1621170941,
+			[50] = "CHAT_MSG_YELL",
 		}, -- [19]
 		{
-			"1", -- [1]
-			"Istardron", -- [2]
-			"Comune", -- [3]
+			"share q", -- [1]
+			"Devanaga", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Istardron-Sethraliss", -- [5]
+			"Devanaga-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4222, -- [11]
-			"Player-10-0069B91A", -- [12]
+			1112, -- [11]
+			"Player-10-0080CDC5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Istardron|r",
-			[51] = 1620855986,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff00fe95Devanaga|r",
+			[51] = 1621170942,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [20]
 		{
-			"Ombre Opprimenti su Ryumajin", -- [1]
-			"Ryumajin", -- [2]
-			"Comune", -- [3]
+			"take base", -- [1]
+			"Megrimm", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Ryumajin-Sethraliss", -- [5]
+			"Megrimm-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4226, -- [11]
-			"Player-10-0064930C", -- [12]
+			1118, -- [11]
+			"Player-10-00577571", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcRyumajin|r",
-			[51] = 1620855994,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffefefeMegrimm|r",
+			[51] = 1621170965,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [21]
 		{
-			"3", -- [1]
-			"Ryumajin", -- [2]
-			"Comune", -- [3]
+			"share?", -- [1]
+			"Titanuscz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Ryumajin-Sethraliss", -- [5]
+			"Titanuscz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4227, -- [11]
-			"Player-10-0064930C", -- [12]
+			1137, -- [11]
+			"Player-10-006ED534", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcRyumajin|r",
-			[51] = 1620855999,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc59a6cTitanuscz|r",
+			[51] = 1621171003,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [22]
 		{
-			"Encroaching Shadows on Edwardngate", -- [1]
-			"Edwardngate", -- [2]
-			"Comune", -- [3]
+			"make mooore demolish in base", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Edwardngate-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4232, -- [11]
-			"Player-10-0066AC53", -- [12]
+			1139, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cEdwardngate|r",
-			[51] = 1620856009,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621171023,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [23]
 		{
-			"WTS |cffa335ee|Hitem:175010::::::::120:103:512:5:4:4823:6541:1502:4786:120:::|h[Rempart de l’adhérent affolé]|h|r 220k", -- [1]
-			"Gloubïx", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Gloubïx-Sethraliss", -- [5]
+			"shareee", -- [1]
+			"Titanuscz", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Titanuscz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			4240, -- [11]
-			"Player-10-004EBA94", -- [12]
+			1151, -- [11]
+			"Player-10-006ED534", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Gloubïx|r",
-			[51] = 1620856020,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc59a6cTitanuscz|r",
+			[51] = 1621171072,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [24]
 		{
-			"Despair fading in 3", -- [1]
-			"Diiogosantos", -- [2]
-			"Comune", -- [3]
+			"whats the objection here @D", -- [1]
+			"Theracist", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Diiogosantos-Sethraliss", -- [5]
+			"Theracist-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4241, -- [11]
-			"Player-10-005CA212", -- [12]
+			1163, -- [11]
+			"Player-10-00126144", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Diiogosantos|r",
-			[51] = 1620856023,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Theracist|r",
+			[51] = 1621171112,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [25]
 		{
-			"Despair fading in 2", -- [1]
-			"Diiogosantos", -- [2]
-			"Comune", -- [3]
+			":D", -- [1]
+			"Theracist", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Diiogosantos-Sethraliss", -- [5]
+			"Theracist-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4244, -- [11]
-			"Player-10-005CA212", -- [12]
+			1164, -- [11]
+			"Player-10-00126144", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Diiogosantos|r",
-			[51] = 1620856024,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Theracist|r",
+			[51] = 1621171113,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [26]
 		{
-			"Encroaching Shadows on Outofmind", -- [1]
-			"Outofmind", -- [2]
-			"Comune", -- [3]
+			"objective", -- [1]
+			"Theracist", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Outofmind-Sethraliss", -- [5]
+			"Theracist-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4245, -- [11]
-			"Player-10-0071B504", -- [12]
+			1167, -- [11]
+			"Player-10-00126144", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Outofmind|r",
-			[51] = 1620856024,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3ec5e9Theracist|r",
+			[51] = 1621171121,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [27]
 		{
-			"Despair fading in 1", -- [1]
-			"Diiogosantos", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Diiogosantos-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4246, -- [11]
-			"Player-10-005CA212", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Diiogosantos|r",
-			[51] = 1620856025,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"come sono morto", -- [1]
-			"Edwardngate", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Edwardngate-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4252, -- [11]
-			"Player-10-0066AC53", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cEdwardngate|r",
-			[51] = 1620856030,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
-		{
-			"ah ecco", -- [1]
-			"Edwardngate", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Edwardngate-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4253, -- [11]
-			"Player-10-0066AC53", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cEdwardngate|r",
-			[51] = 1620856033,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
-		{
-			"healer", -- [1]
-			"Marò", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Marò-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4254, -- [11]
-			"Player-10-00754611", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620856033,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"I see what you are selling", -- [1]
-			"Atlic", -- [2]
+			"nyalotha", -- [1]
+			"Qtuwupie", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Atlic-Sethraliss", -- [5]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			4257, -- [11]
-			"Player-10-00190187", -- [12]
+			1176, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Atlic|r",
-			[51] = 1620856042,
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171155,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [28]
+		{
+			"+", -- [1]
+			"Zerosen", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zerosen-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1177, -- [11]
+			"Player-10-007CE51B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc59a6cZerosen|r",
+			[51] = 1621171159,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [29]
+		{
+			"take bases", -- [1]
+			"Megrimm", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Megrimm-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1178, -- [11]
+			"Player-10-00577571", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeMegrimm|r",
+			[51] = 1621171179,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [30]
+		{
+			"because reasons", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1180, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171207,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [31]
+		{
+			"its 8.3.7", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1181, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171212,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [32]
 		{
-			"non so perchè mi ha applicato 4 volte lo stak", -- [1]
-			"Sudeky", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4260, -- [11]
-			"Player-10-007740AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620856052,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
-		{
-			"io vado a letto xD", -- [1]
-			"Kreferis", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Kreferis-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4261, -- [11]
-			"Player-10-00675CF0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKreferis|r",
-			[51] = 1620856054,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [34]
-		{
-			"e poi non so perchè avevo il raggio", -- [1]
-			"Sudeky", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4265, -- [11]
-			"Player-10-007740AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620856059,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
-		{
-			"HO IL RESS", -- [1]
-			"Outofmind", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Outofmind-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4267, -- [11]
-			"Player-10-0071B504", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Outofmind|r",
-			[51] = 1620856062,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
-		{
-			"anche io vi saluto raga", -- [1]
-			"Cædrel", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Cædrel-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4268, -- [11]
-			"Player-10-007A273F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeCædrel|r",
-			[51] = 1620856062,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
-		{
-			"o.O", -- [1]
-			"Sudeky", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4269, -- [11]
-			"Player-10-007740AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620856063,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [38]
-		{
-			"FERMI", -- [1]
-			"Outofmind", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Outofmind-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4270, -- [11]
-			"Player-10-0071B504", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Outofmind|r",
-			[51] = 1620856064,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [39]
-		{
-			"grazie", -- [1]
-			"Kreferis", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Kreferis-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4271, -- [11]
-			"Player-10-00675CF0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKreferis|r",
-			[51] = 1620856067,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
-		{
-			"tim", -- [1]
-			"Utcher", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Utcher-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4272, -- [11]
-			"Player-10-0074260C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Utcher|r",
-			[51] = 1620856068,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
-		{
-			"io vado ", -- [1]
-			"Kreferis", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Kreferis-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4273, -- [11]
-			"Player-10-00675CF0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKreferis|r",
-			[51] = 1620856069,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
-		{
-			"dimmi", -- [1]
-			"Kreferis", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Kreferis-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4274, -- [11]
-			"Player-10-00675CF0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcKreferis|r",
-			[51] = 1620856071,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
-		{
-			"si ci sta ", -- [1]
-			"Lapatagna", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Lapatagna-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4275, -- [11]
-			"Player-10-007CDDE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecLapatagna|r",
-			[51] = 1620856072,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
-		{
-			"said my name saiod my name saaaaaaaaaaaaaaaid my name", -- [1]
-			"Karzav", -- [2]
+			"need tank for |cff66bbff|Hjournal:0:1012:23|h[Vena Madre]|h|r m0 425+", -- [1]
+			"Rezya", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Karzav-Sethraliss", -- [5]
+			"Rezya-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			4276, -- [11]
-			"Player-10-007F6F11", -- [12]
+			1182, -- [11]
+			"Player-10-00811B19", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Karzav|r",
-			[51] = 1620856073,
+			[52] = "|cfffef367Rezya|r",
+			[51] = 1621171214,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [33]
+		{
+			"这智商打尼玛啊", -- [1]
+			"长发披肩", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"长发披肩-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1191, -- [11]
+			"Player-10-00755659", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39长发披肩|r",
+			[51] = 1621171231,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [34]
+		{
+			"yea server hitted its top", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1196, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171251,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [35]
+		{
+			"only downhill from here", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1197, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171260,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [36]
+		{
+			"Chromatic english guild is recruiting and looking for new players over 440ilvl for new raid Nyalotha, EP Progression: 4/8 M, Nyalotha 6/7 hc . Raiding on Thursday/Sunday. Any extra info needed drop me a whisper!", -- [1]
+			"Nelieli", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Nelieli-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1215, -- [11]
+			"Player-10-00689C22", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Nelieli|r",
+			[51] = 1621171282,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [37]
+		{
+			"why are u pvping on a private server", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1240, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171333,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"pvp is all about donors", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1245, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171338,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"theres a dh with 7x gushing wound corruptions", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1251, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171359,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"u wanna face him?", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1254, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171364,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"if u aint a shitter, u can afford it from the shop", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1277, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171436,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"so basically pvp here is p2w", -- [1]
+			"Jedoxx", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Jedoxx-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1278, -- [11]
+			"Player-10-0081612E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Jedoxx|r",
+			[51] = 1621171449,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
+		{
+			"on every priuvate server pvp is p2w", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1284, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171459,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"damn", -- [1]
+			"Jedoxx", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Jedoxx-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1285, -- [11]
+			"Player-10-0081612E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Jedoxx|r",
+			[51] = 1621171463,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"ma", -- [1]
-			"Utcher", -- [2]
-			"Comune", -- [3]
+			"take bases", -- [1]
+			"Megrimm", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Utcher-Sethraliss", -- [5]
+			"Megrimm-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4279, -- [11]
-			"Player-10-0074260C", -- [12]
+			1286, -- [11]
+			"Player-10-00577571", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Utcher|r",
-			[51] = 1620856080,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffefefeMegrimm|r",
+			[51] = 1621171467,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [46]
 		{
-			"chi vuole |cffa335ee|Hkeystone:158923:353:15:9:11:2:120|h[Chiave del Potere: Assedio di Boralus (15)]|h|r", -- [1]
-			"Lapatagna", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Lapatagna-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4280, -- [11]
-			"Player-10-007CDDE6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecLapatagna|r",
-			[51] = 1620856084,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
-		{
-			"heissenberg ,3", -- [1]
-			"Mahowkman", -- [2]
+			"guess im going for pve lmao", -- [1]
+			"Jedoxx", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Mahowkman-Sethraliss", -- [5]
+			"Jedoxx-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			4281, -- [11]
-			"Player-10-001A0A30", -- [12]
+			1290, -- [11]
+			"Player-10-0081612E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Mahowkman|r",
-			[51] = 1620856095,
+			[52] = "|cffc31d39Jedoxx|r",
+			[51] = 1621171470,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"doesnt matter what expac", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			1291, -- [11]
+			"Player-10-007D439D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171473,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"okay ?", -- [1]
-			"Karzav", -- [2]
+			"#GazaUnderAttack", -- [1]
+			"Trappanda", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Karzav-Sethraliss", -- [5]
+			"Trappanda-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			4290, -- [11]
-			"Player-10-007F6F11", -- [12]
+			1320, -- [11]
+			"Player-10-003CEDC6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Karzav|r",
-			[51] = 1620856108,
+			[52] = "|cffa9d271Trappanda|r",
+			[51] = 1621171570,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"say my namе", -- [1]
-			"Cumer", -- [2]
+			"Chromatic english guild is recruiting and looking for new players over 440ilvl for new raid Nyalotha, EP Progression: 4/8 M, Nyalotha 6/7 hc . Raiding on Thursday/Sunday. Any extra info needed drop me a whisper!", -- [1]
+			"Nelieli", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Cumer-Sethraliss", -- [5]
+			"Nelieli-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			4293, -- [11]
-			"Player-10-00765AB5", -- [12]
+			1327, -- [11]
+			"Player-10-00689C22", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Cumer|r",
-			[51] = 1620856114,
+			[52] = "|cffa22fc8Nelieli|r",
+			[51] = 1621171595,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"buonanotte amori", -- [1]
-			"Utcher", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Utcher-Sethraliss", -- [5]
+			"thats not our problem tho", -- [1]
+			"Qtuwupie", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4315, -- [11]
-			"Player-10-0074260C", -- [12]
+			1340, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc31d39Utcher|r",
-			[51] = 1620856145,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171604,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"jajajajajjajaja", -- [1]
-			"Shuayim", -- [2]
+			"Survi Hunt 1.9 cr LF Heal 2s ", -- [1]
+			"Trappanda", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Shuayim-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Trappanda-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			4322, -- [11]
-			"Player-10-006F7FEF", -- [12]
+			1364, -- [11]
+			"Player-10-003CEDC6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Shuayim|r",
-			[51] = 1620856154,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffa9d271Trappanda|r",
+			[51] = 1621171612,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"but only thе first 3 lеttеrs", -- [1]
-			"Cumer", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Cumer-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
-			0, -- [10]
-			4325, -- [11]
-			"Player-10-00765AB5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Cumer|r",
-			[51] = 1620856170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"|cffa335ee|Hitem:174279::::::::120:102:512:::120:::|h[Testo Crittografato di Ny'alotha]|h|r ma dove vanno usati?", -- [1]
-			"Mariagreco", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4340, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1620856225,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
-		{
-			"si dai", -- [1]
-			"Sudeky", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4341, -- [11]
-			"Player-10-007740AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620856226,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
-		{
-			"me la faccio io", -- [1]
-			"Sudeky", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sudeky-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4342, -- [11]
-			"Player-10-007740AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSudeky|r",
-			[51] = 1620856228,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
-		{
-			"servono x creare le essenze", -- [1]
-			"Tespanolano", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tespanolano-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4344, -- [11]
-			"Player-10-00164402", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Tespanolano|r",
-			[51] = 1620856262,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [57]
-		{
-			"ovunque", -- [1]
-			"Marò", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Marò-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4345, -- [11]
-			"Player-10-00754611", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620856262,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
-		{
-			"si, ne ho 15 ma non me li combina", -- [1]
-			"Tespanolano", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tespanolano-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4347, -- [11]
-			"Player-10-00164402", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Tespanolano|r",
-			[51] = 1620856274,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [59]
-		{
-			"se hai il lv 1 ne servono 30", -- [1]
-			"Marò", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Marò-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4349, -- [11]
-			"Player-10-00754611", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620856278,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
-		{
-			"lo hai gia lvl 1?", -- [1]
-			"Tespanolano", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tespanolano-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4351, -- [11]
-			"Player-10-00164402", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Tespanolano|r",
-			[51] = 1620856283,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [61]
-		{
-			"per il 2", -- [1]
-			"Marò", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Marò-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4352, -- [11]
-			"Player-10-00754611", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Marò|r",
-			[51] = 1620856284,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [62]
-		{
-			"sono per |cffe6cc80|Hitem:173884::::::::120:252:512:::120:::|h[Burgeoning Void Droplet]|h|r", -- [1]
-			"Istardron", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Istardron-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4354, -- [11]
-			"Player-10-0069B91A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Istardron|r",
-			[51] = 1620856291,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
-		{
-			"giusto", -- [1]
-			"Mariagreco", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4360, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1620856320,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
-		{
-			"alguien para un grupo", -- [1]
-			"Lermam", -- [2]
+			"door DEF", -- [1]
+			"Paradoxyzz", -- [2]
 			"Orchesco", -- [3]
 			"", -- [4]
-			"Lermam-Sethraliss", -- [5]
+			"Paradoxyzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			390, -- [11]
-			"Player-10-005F88A2", -- [12]
+			1388, -- [11]
+			"Player-10-005FD494", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Lermam|r",
-			[51] = 1620940498,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [65]
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621171637,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [53]
 		{
-			"any of division?", -- [1]
-			"Ðìøs", -- [2]
+			"kill mashine", -- [1]
+			"Paradoxyzz", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Paradoxyzz-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1393, -- [11]
+			"Player-10-005FD494", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Paradoxyzz|r",
+			[51] = 1621171644,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [54]
+		{
+			"world_senos", -- [1]
+			"Qtuwupie", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ðìøs-Sethraliss", -- [5]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			403, -- [11]
-			"Player-10-007F80D7", -- [12]
+			1394, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ðìøs|r",
-			[51] = 1620940527,
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171645,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [55]
 		{
-			"sera", -- [1]
+			"compartan micion", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1407, -- [11]
+			"Player-10-00799383", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171653,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [56]
+		{
+			"share mision", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1429, -- [11]
+			"Player-10-00799383", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171679,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [57]
+		{
+			"broke the towers", -- [1]
 			"Mariagreco", -- [2]
-			"", -- [3]
+			"Orchesco", -- [3]
 			"", -- [4]
 			"Mariagreco-Sethraliss", -- [5]
 			"", -- [6]
@@ -1486,7 +1288,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			407, -- [11]
+			1441, -- [11]
 			"Player-10-003447B7", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1494,712 +1296,910 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1620940534,
+			[51] = 1621171709,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [58]
+		{
+			"make tank fast", -- [1]
+			"Megrimm", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Megrimm-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1442, -- [11]
+			"Player-10-00577571", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeMegrimm|r",
+			[51] = 1621171712,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [59]
+		{
+			"share mission", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1448, -- [11]
+			"Player-10-00799383", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171734,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [60]
+		{
+			"share mission", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1479, -- [11]
+			"Player-10-00799383", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171764,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [61]
+		{
+			"full tsnk fast", -- [1]
+			"Megrimm", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Megrimm-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1488, -- [11]
+			"Player-10-00577571", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeMegrimm|r",
+			[51] = 1621171786,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [62]
+		{
+			"share mission", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1489, -- [11]
+			"Player-10-00799383", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171796,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [63]
+		{
+			"share quest pls", -- [1]
+			"Imaril", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Imaril-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1490, -- [11]
+			"Player-10-000D26DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Imaril|r",
+			[51] = 1621171804,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [64]
+		{
+			"1 dps per raid?", -- [1]
+			"Ripto", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ripto-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1495, -- [11]
+			"Player-10-000318D8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Ripto|r",
+			[51] = 1621171821,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [65]
+		{
+			"++", -- [1]
+			"Ihealyoualot", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihealyoualot-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1496, -- [11]
+			"Player-10-004EB9AB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Ihealyoualot|r",
+			[51] = 1621171822,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [66]
+		{
+			"share mission", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1497, -- [11]
+			"Player-10-00799383", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171824,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [67]
 		{
-			"healer for shrine of the storm 7", -- [1]
-			"Elizabethya", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Elizabethya-Sethraliss", -- [5]
+			"non dps tho", -- [1]
+			"Ihealyoualot", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihealyoualot-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			408, -- [11]
-			"Player-10-007FF845", -- [12]
+			1498, -- [11]
+			"Player-10-004EB9AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Elizabethya|r",
-			[51] = 1620940538,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffe7b09Ihealyoualot|r",
+			[51] = 1621171825,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [68]
 		{
-			"ciao fra", -- [1]
-			"Codyellow", -- [2]
-			"", -- [3]
+			"share mission plis", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
 			"", -- [4]
-			"Codyellow-Sethraliss", -- [5]
+			"Lurkers-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			409, -- [11]
-			"Player-10-007F2B74", -- [12]
+			1499, -- [11]
+			"Player-10-00799383", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Codyellow|r",
-			[51] = 1620940542,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171827,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [69]
 		{
-			"salveee", -- [1]
-			"Elizabethya", -- [2]
+			"puzza dps", -- [1]
+			"Ihealyoualot", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Elizabethya-Sethraliss", -- [5]
+			"Ihealyoualot-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			410, -- [11]
-			"Player-10-007FF845", -- [12]
+			1508, -- [11]
+			"Player-10-004EB9AB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffa22fc8Elizabethya|r",
-			[51] = 1620940551,
+			[52] = "|cfffe7b09Ihealyoualot|r",
+			[51] = 1621171839,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [70]
 		{
-			"|cffa335ee|Hitem:174119::::::::120:63:512:3:5:4822:1487:6504:4786:4775:120:::|h[Robes of Unreality]|h|r Guys, is Heart of Darkness working when my ressistance is higher than total ?", -- [1]
-			"Kalent", -- [2]
+			"lmfaooo", -- [1]
+			"Jedoxx", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Kalent-Sethraliss", -- [5]
+			"Jedoxx-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			417, -- [11]
-			"Player-10-0080399C", -- [12]
+			1513, -- [11]
+			"Player-10-0081612E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Kalent|r",
-			[51] = 1620940566,
+			[52] = "|cffc31d39Jedoxx|r",
+			[51] = 1621171847,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [71]
 		{
-			"<D I V I S I O N> looking for raiders interested in Nyalotha progression .Our requirements are 460+ with good knowledge of the class you are playing.Having mythic raiding experience is mandatory./w me for more info.", -- [1]
-			"Nêvermorexqt", -- [2]
+			"they are mongols", -- [1]
+			"Qtuwupie", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Nêvermorexqt-Sethraliss", -- [5]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			422, -- [11]
-			"Player-10-00469E69", -- [12]
+			1515, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8686ecNêvermorexqt|r",
-			[51] = 1620940588,
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171854,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"when i take portal to draenor im in storshield how can i go to frostfire ridge or anywhere else", -- [1]
-			"Buddhabob", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Buddhabob-Sethraliss", -- [5]
+			"share pls", -- [1]
+			"Imaril", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Imaril-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			425, -- [11]
-			"Player-10-004F3846", -- [12]
+			1519, -- [11]
+			"Player-10-000D26DB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Buddhabob|r",
-			[51] = 1620940610,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff38bb9Imaril|r",
+			[51] = 1621171857,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [73]
 		{
-			"Walk", -- [1]
-			"Vandamne", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Vandamne-Sethraliss", -- [5]
+			"share mission plis", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			427, -- [11]
-			"Player-10-007F4BA9", -- [12]
+			1528, -- [11]
+			"Player-10-00799383", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcVandamne|r",
-			[51] = 1620940624,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171864,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [74]
 		{
-			"Need All for Transmo Mm |cff66bbff|Hjournal:0:875:16|h[Tombe de Sargeras]|h|r", -- [1]
-			"Ilyõr", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Ilyõr-Sethraliss", -- [5]
+			"share mission plis", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			428, -- [11]
-			"Player-10-0070635D", -- [12]
+			1529, -- [11]
+			"Player-10-00799383", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Ilyõr|r",
-			[51] = 1620940630,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171866,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [75]
 		{
-			"finish dark portal questline", -- [1]
-			"Ingloríon", -- [2]
+			"lmao i cant", -- [1]
+			"Jedoxx", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Jedoxx-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			429, -- [11]
-			"Player-10-0009F155", -- [12]
+			1531, -- [11]
+			"Player-10-0081612E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940640,
+			[52] = "|cffc31d39Jedoxx|r",
+			[51] = 1621171873,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [76]
 		{
-			"damn walk is only oprion", -- [1]
-			"Buddhabob", -- [2]
+			"direct descendants of ghenghis khan", -- [1]
+			"Qtuwupie", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Buddhabob-Sethraliss", -- [5]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			430, -- [11]
-			"Player-10-004F3846", -- [12]
+			1532, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Buddhabob|r",
-			[51] = 1620940641,
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171884,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [77]
 		{
-			"make ur garrison", -- [1]
-			"Ingloríon", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"share mission plis", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			431, -- [11]
-			"Player-10-0009F155", -- [12]
+			1534, -- [11]
+			"Player-10-00799383", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940645,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171891,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [78]
 		{
-			"if i had any quests i would do it", -- [1]
-			"Buddhabob", -- [2]
+			"bruh if it wasnt for the Bulgarians russians would be speaking some other language", -- [1]
+			"Jedoxx", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Buddhabob-Sethraliss", -- [5]
+			"Jedoxx-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			432, -- [11]
-			"Player-10-004F3846", -- [12]
+			1535, -- [11]
+			"Player-10-0081612E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Buddhabob|r",
-			[51] = 1620940661,
+			[52] = "|cffc31d39Jedoxx|r",
+			[51] = 1621171901,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"my garrison was bugged", -- [1]
-			"Meimetro", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Meimetro-Sethraliss", -- [5]
+			"share mission plis", -- [1]
+			"Lurkers", -- [2]
+			"Orchesco", -- [3]
+			"", -- [4]
+			"Lurkers-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			435, -- [11]
-			"Player-10-0080EB0E", -- [12]
+			1536, -- [11]
+			"Player-10-00799383", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Meimetro|r",
-			[51] = 1620940668,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff38bb9Lurkers|r",
+			[51] = 1621171915,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [80]
 		{
-			"had to swim across the continent", -- [1]
-			"Meimetro", -- [2]
+			"if it wasn't for the russians we would all speak german", -- [1]
+			"Illidanstorn", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Meimetro-Sethraliss", -- [5]
+			"Illidanstorn-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			438, -- [11]
-			"Player-10-0080EB0E", -- [12]
+			1569, -- [11]
+			"Player-10-0055FB0B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffef367Meimetro|r",
-			[51] = 1620940674,
+			[52] = "|cffa22fc8Illidanstorn|r",
+			[51] = 1621171934,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"tchoutchou", -- [1]
-			"Xeeni", -- [2]
-			"Orchesco", -- [3]
-			"", -- [4]
-			"Xeeni-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			439, -- [11]
-			"Player-10-004D81AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Xeeni|r",
-			[51] = 1620940676,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [82]
-		{
-			"take a quest from guy in SW", -- [1]
-			"Ingloríon", -- [2]
+			"mongols didnt even settle there ", -- [1]
+			"Aethelric", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Aethelric-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			440, -- [11]
-			"Player-10-0009F155", -- [12]
+			2376, -- [11]
+			"Player-10-00811FD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940682,
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621171950,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"they did collect tribute and that's all", -- [1]
+			"Aethelric", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Aethelric-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			2377, -- [11]
+			"Player-10-00811FD9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621171950,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"lol", -- [1]
-			"Codeyna", -- [2]
+			"WTS |cffa335ee|Hitem:175007::::::::120:72:512:5:4:4823:6545:1502:4786:120:::|h[Footpads of Terrible Delusions]|h|r", -- [1]
+			"Royalwar", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Codeyna-Sethraliss", -- [5]
+			"Royalwar-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			442, -- [11]
-			"Player-10-0080B2FD", -- [12]
+			2378, -- [11]
+			"Player-10-007F883C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeCodeyna|r",
-			[51] = 1620940684,
+			[52] = "|cffc59a6cRoyalwar|r",
+			[51] = 1621171950,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"or maybe u have it", -- [1]
-			"Ingloríon", -- [2]
+			"just check their phisical traits, their faces are exact like mongols", -- [1]
+			"Qtuwupie", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			443, -- [11]
-			"Player-10-0009F155", -- [12]
+			2380, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940689,
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621171956,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"its auto", -- [1]
-			"Ingloríon", -- [2]
+			"wtf the conversation is here?", -- [1]
+			"Fjavier", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Fjavier-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			444, -- [11]
-			"Player-10-0009F155", -- [12]
+			2381, -- [11]
+			"Player-10-00751CAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940695,
+			[52] = "|cffa9d271Fjavier|r",
+			[51] = 1621171957,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"asd", -- [1]
-			"Ararankauz", -- [2]
-			"Orchesco", -- [3]
-			"", -- [4]
-			"Ararankauz-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			446, -- [11]
-			"Player-10-00064AE8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Ararankauz|r",
-			[51] = 1620940704,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"FIX THE FUCKING PERMA COMBAT INSIDE THE ISTANCE AND U CANNOT GET OUT OF THE FUCKING OBELISK!", -- [1]
-			"Kreferis", -- [2]
+			"well if you are blind then you are right", -- [1]
+			"Aethelric", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Kreferis-Sethraliss", -- [5]
+			"Aethelric-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			449, -- [11]
-			"Player-10-00675CF0", -- [12]
+			2385, -- [11]
+			"Player-10-00811FD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff006fdcKreferis|r",
-			[51] = 1620940714,
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621171967,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"yet if you ask anthropologists they are slavic.", -- [1]
+			"Azariáh", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Azariáh-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			2391, -- [11]
+			"Player-10-00810B55", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Azariáh|r",
+			[51] = 1621171984,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [88]
 		{
-			"the best is when u land shadowmond valley is to create the garrison (u will get the garrison hearthsone)", -- [1]
-			"Codeyna", -- [2]
+			"and slavs.", -- [1]
+			"Azariáh", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Codeyna-Sethraliss", -- [5]
+			"Azariáh-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			450, -- [11]
-			"Player-10-0080B2FD", -- [12]
+			2392, -- [11]
+			"Player-10-00810B55", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeCodeyna|r",
-			[51] = 1620940718,
+			[52] = "|cffa22fc8Azariáh|r",
+			[51] = 1621171988,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"^", -- [1]
-			"Ingloríon", -- [2]
+			"people in west russia look slavic", -- [1]
+			"Aethelric", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Aethelric-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			451, -- [11]
-			"Player-10-0009F155", -- [12]
+			2395, -- [11]
+			"Player-10-00811FD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940728,
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621171992,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"yea but he need to finish questline", -- [1]
-			"Ingloríon", -- [2]
+			"majority are mongols", -- [1]
+			"Qtuwupie", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Qtuwupie-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			452, -- [11]
-			"Player-10-0009F155", -- [12]
+			2398, -- [11]
+			"Player-10-007D439D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940734,
+			[52] = "|cfffef367Qtuwupie|r",
+			[51] = 1621172010,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [91]
 		{
-			"i got to the point when we leave for shadowmoon valley and i spawned in horde land where stormshield is", -- [1]
-			"Buddhabob", -- [2]
+			"buryats and alike do look mongolic", -- [1]
+			"Aethelric", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Buddhabob-Sethraliss", -- [5]
+			"Aethelric-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			453, -- [11]
-			"Player-10-004F3846", -- [12]
+			2405, -- [11]
+			"Player-10-00811FD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Buddhabob|r",
-			[51] = 1620940743,
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621172027,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [92]
 		{
-			"Need All for Transmo Mm |cff66bbff|Hjournal:0:875:16|h[Tombe de Sargeras]|h|r", -- [1]
-			"Ilyõr", -- [2]
+			"but they are not ethnic russians", -- [1]
+			"Aethelric", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ilyõr-Sethraliss", -- [5]
+			"Aethelric-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			454, -- [11]
-			"Player-10-0070635D", -- [12]
+			2410, -- [11]
+			"Player-10-00811FD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffe7b09Ilyõr|r",
-			[51] = 1620940753,
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621172035,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [93]
 		{
-			"Guys, how much is this |cffa335ee|Hitem:175004::::::::120:63:512:3:6:4822:6579:6578:6560:1487:4786:120:::|h[Legwraps of Horrifying Figments]|h|r ?", -- [1]
-			"Kalent", -- [2]
+			"so this started from an insult to russians?", -- [1]
+			"Illidanstorn", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Kalent-Sethraliss", -- [5]
+			"Illidanstorn-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			455, -- [11]
-			"Player-10-0080399C", -- [12]
+			2413, -- [11]
+			"Player-10-0055FB0B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3ec5e9Kalent|r",
-			[51] = 1620940754,
+			[52] = "|cffa22fc8Illidanstorn|r",
+			[51] = 1621172046,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [94]
 		{
-			"i'll swim to shadowmoon then", -- [1]
-			"Buddhabob", -- [2]
+			"idk this guy is just bored i guess and tries to troll", -- [1]
+			"Aethelric", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Buddhabob-Sethraliss", -- [5]
+			"Aethelric-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			456, -- [11]
-			"Player-10-004F3846", -- [12]
+			2420, -- [11]
+			"Player-10-00811FD9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Buddhabob|r",
-			[51] = 1620940763,
+			[52] = "|cff8686ecAethelric|r",
+			[51] = 1621172062,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [95]
 		{
-			"..", -- [1]
-			"Ingloríon", -- [2]
+			"Pbg prest 460+ 2/5", -- [1]
+			"Øbuzz", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Ingloríon-Sethraliss", -- [5]
+			"Øbuzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			457, -- [11]
-			"Player-10-0009F155", -- [12]
+			2421, -- [11]
+			"Player-10-00590EA2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Ingloríon|r",
-			[51] = 1620940768,
+			[52] = "|cff00fe95Øbuzz|r",
+			[51] = 1621172065,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"|cffa335ee|Hitem:63042::::::::120:104:512:::120:::|h[Redini del Draco di Pietra Fosforescente]|h|r", -- [1]
-			"Shynga", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shynga-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			458, -- [11]
-			"Player-10-007ABAAA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Shynga|r",
-			[51] = 1620940769,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
-		{
-			"yep after the quest of orcs land shadowmoon valley and create garrison or u wil need to walk/swim a lot xD", -- [1]
-			"Codeyna", -- [2]
+			"not an insult", -- [1]
+			"Vaeleguar", -- [2]
 			"Comune", -- [3]
 			"4. world_en", -- [4]
-			"Codeyna-Sethraliss", -- [5]
+			"Vaeleguar-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world_en", -- [9]
 			0, -- [10]
-			459, -- [11]
-			"Player-10-0080B2FD", -- [12]
+			2424, -- [11]
+			"Player-10-00740D4C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeCodeyna|r",
-			[51] = 1620940771,
+			[52] = "|cffa22fc8Vaeleguar|r",
+			[51] = 1621172072,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"A fact", -- [1]
+			"Vaeleguar", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Vaeleguar-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			2427, -- [11]
+			"Player-10-00740D4C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Vaeleguar|r",
+			[51] = 1621172073,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"CORRAN HORDAS QUE LLEGO LA CABALLERIA!", -- [1]
-			"Caballero", -- [2]
+			"Pbg prest 460+ 4/5", -- [1]
+			"Øbuzz", -- [2]
 			"Comune", -- [3]
-			"", -- [4]
-			"Caballero-Sethraliss", -- [5]
+			"4. world_en", -- [4]
+			"Øbuzz-Sethraliss", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world_en", -- [9]
 			0, -- [10]
-			460, -- [11]
-			"Player-10-00011074", -- [12]
+			2447, -- [11]
+			"Player-10-00590EA2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff00fe95Caballero|r",
-			[51] = 1620940777,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff00fe95Øbuzz|r",
+			[51] = 1621172110,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }
