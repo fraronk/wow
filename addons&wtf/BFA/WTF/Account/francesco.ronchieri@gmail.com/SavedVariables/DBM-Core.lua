@@ -149,14 +149,14 @@ DBM_AllSavedOptions = {
 		["HideTooltips"] = false,
 		["ModelSoundValue"] = "Short",
 		["RangeFrameSound2"] = "none",
-		["MovieFilter2"] = "OnlyFight",
 		["CountdownVoice3v2"] = "Pewsey",
+		["AutoCorrectTimer"] = false,
 		["RangeFrameRadarPoint"] = "LEFT",
 		["SpecialWarningY"] = 75,
 		["WarningY"] = 260,
 		["DontRestoreRange"] = false,
 		["RangeFrameUpdates"] = "Average",
-		["AutoCorrectTimer"] = false,
+		["MovieFilter2"] = "OnlyFight",
 		["SpecialWarningFlashRepeat3"] = true,
 		["RaidWarningSound"] = 11742,
 		["CustomSounds"] = -0,
@@ -253,5 +253,5 @@ DBM_AllSavedOptions = {
 	},
 }
 DBM_MinimapIcon = {
-	["minimapPos"] = 151.6991706330241,
+	["minimapPos"] = 150.3331351818163,
 }

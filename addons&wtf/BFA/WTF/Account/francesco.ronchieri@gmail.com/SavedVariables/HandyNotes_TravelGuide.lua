@@ -1,13 +1,16 @@
 
 HandyNotes_TravelGuideDB = {
 	["profileKeys"] = {
-		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
+		["Reghiaccio - Sethraliss"] = "Reghiaccio - Sethraliss",
 		["Berlusconi - Sethraliss"] = "Berlusconi - Sethraliss",
+		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
 	},
 	["profiles"] = {
-		["Mariagreco - Sethraliss"] = {
+		["Reghiaccio - Sethraliss"] = {
 		},
 		["Berlusconi - Sethraliss"] = {
+		},
+		["Mariagreco - Sethraliss"] = {
 		},
 	},
 }

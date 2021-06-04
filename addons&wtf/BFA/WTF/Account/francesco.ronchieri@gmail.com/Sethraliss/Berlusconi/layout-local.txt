@@ -27,3 +27,10 @@ X: 0
 Y: 0
 W: 600
 H: 465
+Frame: WorldQuestTrackerFinderFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -209
+Y: -217
+W: 240
+H: 170

@@ -1,8 +1,9 @@
 
 HandyNotesArathiDB = {
 	["profileKeys"] = {
-		["Mariagreco - Sethraliss"] = "Default",
+		["Reghiaccio - Sethraliss"] = "Default",
 		["Berlusconi - Sethraliss"] = "Default",
+		["Mariagreco - Sethraliss"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -14,7 +14,7 @@ Grid: disabled
 AllTheThings: disabled
 WorldQuestTracker: enabled
 AAP-Core: disabled
-TidyPlates_ThreatPlates: enabled
+TidyPlates_ThreatPlates: disabled
 Altoholic: enabled
 Altoholic_Achievements: enabled
 Altoholic_Agenda: enabled
@@ -90,7 +90,7 @@ DBM-Party-BfA: enabled
 DBM-EternalPalace: enabled
 DBM-Uldir: enabled
 DBM-WorldEvents: enabled
-HealBot: disabled
+HealBot: enabled
 MaxDps_DemonHunter: disabled
 MaxDps_Paladin: disabled
 MaxDps_Priest: disabled
@@ -128,3 +128,10 @@ WIM_ElvUI_Skin: disabled
 ElvUI_OptionsUI: enabled
 ElvUI_SLE: disabled
 MoveAnything: disabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+ElvUI_CustomTweaks: disabled
+ElvUI_DTBars2: disabled

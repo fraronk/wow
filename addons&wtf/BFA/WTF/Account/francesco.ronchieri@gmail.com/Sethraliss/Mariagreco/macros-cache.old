@@ -2,6 +2,9 @@ VER 3 0100000000000001 "Anto" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@Darkwidøw] Innervazione
 END
+VER 3 0100000000000005 "bopcancel" "INV_MISC_QUESTIONMARK"
+/cancelaura |cff71d5ff|Hspell:1022:0|h[Benedizione della Protezione]|h|r
+END
 VER 3 0100000000000003 "rest2" "INV_MISC_QUESTIONMARK"
 /s |cff71d5ff|Hspell:267884:0|h[Brivido Corroborante]|h|r
 /s |cff71d5ff|Hspell:280407:0|h[Rito del Sangue]|h|r

@@ -22,8 +22,8 @@ VER 3 0100000000000013 "cura" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000001 "disp" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast Folgore Fatua
 /cast Folgore Spirituale
+/cast Folgore Fatua
 /cast Chi-Ji
 /cast Polvere della Serenità
 /cast Acqua del Sollievo

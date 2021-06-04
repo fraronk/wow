@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.032,
-	["LastPlayerFullName"] = "Reghiaccio-Sethraliss",
-	["AutoSelectScales"] = false,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0336,
 	["ItemLevels"] = {
 		{
 			["ID"] = 161401,
@@ -86,6 +83,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:160689::::::::120:64:512::4:4799:1497:1822:4786:120:::|h[Bastone Infuocato del Purificatore Rigurgitato]|h|r",
 		}, -- [16]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Reghiaccio-Sethraliss",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

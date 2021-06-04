@@ -19,11 +19,11 @@ MikScrollingBattleText: enabled
 MoveTalkingHead: enabled
 ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
-TidyPlates_ThreatPlates: enabled
+TidyPlates_ThreatPlates: disabled
 ElvUI: enabled
 TidyPlates: disabled
 HandyNotes: enabled
-HealBot: disabled
+HealBot: enabled
 OmniCC: disabled
 AzeritePowerWeights: enabled
 BigWigs: disabled

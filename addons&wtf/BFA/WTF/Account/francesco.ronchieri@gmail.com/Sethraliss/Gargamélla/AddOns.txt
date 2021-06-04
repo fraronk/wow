@@ -20,7 +20,7 @@ Bagnon_GuildBank: enabled
 Bagnon_VoidStorage: enabled
 WorldQuestTracker: enabled
 Altoholic: enabled
-HealBot: disabled
+HealBot: enabled
 WeakAurasCompanion: enabled
 Simulationcraft: disabled
 TellMeWhen: disabled
@@ -53,7 +53,7 @@ MikScrollingBattleText: enabled
 MoveTalkingHead: enabled
 ShadowedUF_Options: enabled
 ShadowedUnitFrames: enabled
-TidyPlates_ThreatPlates: enabled
+TidyPlates_ThreatPlates: disabled
 ElvUI: enabled
 TidyPlates: disabled
 HandyNotes: enabled
