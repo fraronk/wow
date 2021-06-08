@@ -22,7 +22,7 @@ ElvUI: enabled
 TidyPlates: disabled
 HandyNotes: enabled
 AAP-Core: disabled
-HealBot: enabled
+HealBot: disabled
 OmniCC: disabled
 AzeritePowerWeights: enabled
 BigWigs: disabled

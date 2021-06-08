@@ -1,9 +1,32 @@
-VER 3 0100000000000001 "Anto" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/cast [@Darkwidøw] Innervazione
+VER 3 010000000000000A "." "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Fiamma Concentrata; Fiamma Concentrata
+END
+VER 3 010000000000000B ":" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Guarigione Immediata; Guarigione Immediata
+END
+VER 3 0100000000000009 "Bocciolo" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Bocciolo di Vita; [@target, exists, harm] Artiglio d'Ossidiana Proibito; Bocciolo di Vita
 END
 VER 3 0100000000000005 "bopcancel" "INV_MISC_QUESTIONMARK"
 /cancelaura |cff71d5ff|Hspell:1022:0|h[Benedizione della Protezione]|h|r
+END
+VER 3 0100000000000008 "Crescita Rigogli" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Crescita Rigogliosa; [@target, exists, harm] Ira Solare(Solare); Crescita Rigogliosa
+END
+VER 3 010000000000000F "Cura della natur" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Cura della Natura; Cura della Natura 
+END
+VER 3 010000000000000C "Efflorescenza" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover] Efflorescenza; Efflorescenza
+END
+VER 3 010000000000000D "Innervate" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Innervazione; Innervazione
+END
+VER 3 010000000000000E "Pacificazione" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Pacificazione; Pacificazione
+END
+VER 3 0100000000000010 "Pelle di legno" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Pelle di Legnoduro; Pelle di Legnoduro
 END
 VER 3 0100000000000003 "rest2" "INV_MISC_QUESTIONMARK"
 /s |cff71d5ff|Hspell:267884:0|h[Brivido Corroborante]|h|r
@@ -15,6 +38,12 @@ VER 3 0100000000000002 "Resto" "INV_MISC_QUESTIONMARK"
 /s |cff71d5ff|Hspell:279778:0|h[Cura della Selva]|h|r
 /s |cff71d5ff|Hspell:287251:0|h[Raccolta Anticipata]|h|r
 /s |cff71d5ff|Hspell:281841:0|h[Ventisaldi]|h|r 
+END
+VER 3 0100000000000007 "Ricrescita" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Ricrescita; [@target, exists, harm] Fuoco Lunare(Lunare); Ricrescita
+END
+VER 3 0100000000000006 "Rinvigorimento" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Rinvigorimento; [@target, exists, harm] Fuoco Solare(Solare); Rinvigorimento
 END
 VER 3 0100000000000004 "tratti" "611424"
 3x |cff71d5ff|Hspell:289314:0|h[Scarica della Ferocia]|h|r

@@ -20,7 +20,7 @@ Bagnon_GuildBank: enabled
 Bagnon_VoidStorage: enabled
 WorldQuestTracker: enabled
 Altoholic: enabled
-HealBot: enabled
+HealBot: disabled
 WeakAurasCompanion: enabled
 Simulationcraft: disabled
 TellMeWhen: disabled

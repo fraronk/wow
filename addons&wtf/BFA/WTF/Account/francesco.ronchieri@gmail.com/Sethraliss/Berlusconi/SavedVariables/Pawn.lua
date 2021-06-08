@@ -9,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 493,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:253:512:11:4:4936:4929:5814:1630:110:::|h[Cuore di Azeroth]|h|r",
+			["Level"] = 495,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:253:512:11:4:4936:4929:5814:1632:110:::|h[Cuore di Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159393,
@@ -74,8 +74,8 @@ PawnOptions = {
 		}, -- [14]
 		{
 			["ID"] = 169223,
-			["Level"] = 480,
-			["Link"] = "|cffff8000|Hitem:169223::::::::120:253:512:11:2:1472:6277:120:::|h[Ashjra'kamas, Manto della Risolutezza]|h|r",
+			["Level"] = 486,
+			["Link"] = "|cffff8000|Hitem:169223::::::::120:253:512:11:2:1472:6280:120:::|h[Ashjra'kamas, Manto della Risolutezza]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 159637,

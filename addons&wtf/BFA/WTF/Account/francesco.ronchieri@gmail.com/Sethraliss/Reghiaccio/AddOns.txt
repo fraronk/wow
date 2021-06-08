@@ -90,7 +90,7 @@ DBM-Party-BfA: enabled
 DBM-EternalPalace: enabled
 DBM-Uldir: enabled
 DBM-WorldEvents: enabled
-HealBot: enabled
+HealBot: disabled
 MaxDps_DemonHunter: disabled
 MaxDps_Paladin: disabled
 MaxDps_Priest: disabled

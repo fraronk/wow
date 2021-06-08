@@ -23,7 +23,7 @@ TidyPlates_ThreatPlates: disabled
 ElvUI: enabled
 TidyPlates: disabled
 HandyNotes: enabled
-HealBot: enabled
+HealBot: disabled
 OmniCC: disabled
 AzeritePowerWeights: enabled
 BigWigs: disabled
