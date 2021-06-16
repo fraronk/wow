@@ -11,8 +11,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 499,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:104:512:11:4:4936:4929:5814:1636:110:::|h[Cuore di Azeroth]|h|r",
+			["Level"] = 501,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:103:512:11:4:4936:4929:5814:1638:110:::|h[Cuore di Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159323,
@@ -36,9 +36,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:159297::::::::120:102:512:35:5:6578:6579:6533:1642:4786:120:::|h[Brachette con Cuciture d'Argento]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 159327,
-			["Level"] = 470,
-			["Link"] = "|cffa335ee|Hitem:159327::::::::120:104:512:35:6:6578:6579:6538:6531:1642:4786:120:::|h[Grancalzari Sabbiosi di Pelle di Serpente]|h|r",
+			["ID"] = 155862,
+			["Level"] = 475,
+			["Link"] = "|cffa335ee|Hitem:155862::::::::120:104:512:35:8:4802:6578:6579:6475:6462:6535:1647:4786:120:::|h[Stivali da Scalata di Kragg]|h|r",
 		}, -- [8]
 		{
 			["ID"] = 159332,

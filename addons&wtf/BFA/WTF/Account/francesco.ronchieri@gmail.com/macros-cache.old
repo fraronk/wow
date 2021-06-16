@@ -4,12 +4,6 @@ VER 3 0000000000000001 "GRM_Roster" "inv_bannerpvp_02"
 END
 VER 3 0000000000000002 "GRM_Tool" "INV_MISC_QUESTIONMARK"
 END
-VER 3 0000000000000037 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
-1:N
-END
-VER 3 0000000000000036 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
-Maria:p:ayer-10-003447B7:1:Voidv:g1:ayer-10-004B3A0C:1:
-END
 VER 3 0000000000000003 "Macellaio" "132278"
 /target "Macellaio di Anime Sinistro"
 END

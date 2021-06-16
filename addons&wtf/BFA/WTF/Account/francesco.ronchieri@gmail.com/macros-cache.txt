@@ -7,3 +7,6 @@ END
 VER 3 0000000000000003 "Macellaio" "132278"
 /target "Macellaio di Anime Sinistro"
 END
+VER 3 0000000000000004 "Mouseover" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Rinvigorimento; [@target, exists, harm] Fuoco Solare(Solare); Rinvigorimento
+END

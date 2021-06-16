@@ -6,10 +6,6 @@ VER 3 0100000000000004 "BL" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Rabbia Primordiale
 END
-VER 3 0100000000000014 "botta" "INV_MISC_QUESTIONMARK"
-#shotooltip
-/lancia Botta(Attacco di Base)
-END
 VER 3 010000000000000D "CS" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /petattack
@@ -28,10 +24,6 @@ VER 3 0100000000000001 "disp" "INV_MISC_QUESTIONMARK"
 /cast Polvere della Serenità
 /cast Acqua del Sollievo
 END
-VER 3 0100000000000017 "disp SB" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/lancia Folgore Spirituale(Abilità Speciale)
-END
 VER 3 010000000000000C "fakeDeath" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /petfollow
@@ -40,6 +32,9 @@ VER 3 010000000000000C "fakeDeath" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 "GO" "INV_MISC_QUESTIONMARK"
 /cast Vai
+END
+VER 3 0100000000000019 "Intimidazione" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists, harm] Intimidazione; Intimidazione
 END
 VER 3 010000000000000B "kill" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -80,4 +75,7 @@ VER 3 0100000000000010 "SP" "1408831"
 END
 VER 3 0100000000000011 "speed" "1360764"
 /use 6
+END
+VER 3 0100000000000018 "Tiro di Contrast" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists, harm] Tiro di Contrasto; Tiro di Contrasto
 END

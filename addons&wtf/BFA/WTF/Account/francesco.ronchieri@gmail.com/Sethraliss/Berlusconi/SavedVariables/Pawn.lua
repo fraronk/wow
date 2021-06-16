@@ -9,8 +9,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 495,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:253:512:11:4:4936:4929:5814:1632:110:::|h[Cuore di Azeroth]|h|r",
+			["Level"] = 497,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:253:512:11:4:4936:4929:5814:1634:110:::|h[Cuore di Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159393,
@@ -44,9 +44,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:157989::::::::120:253:512:28:3:4803:1637:4786:120:::|h[Polsiere Foderate di Ventotraverso]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 160213,
-			["Level"] = 445,
-			["Link"] = "|cffa335ee|Hitem:160213::::::::120:253:512:35:6:5026:40:523:1612:5850:4783:120:::|h[Guanti del Costrutto Sepolcrale]|h|r",
+			["ID"] = 168971,
+			["Level"] = 470,
+			["Link"] = "|cffa335ee|Hitem:168971::::::::120:253:512:35:6:6578:6579:6552:6531:1527:4786:120:::|h[Paramani Pneumatici Rapidi]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 169156,
@@ -55,10 +55,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:169156::::::::120:253:512:35:6:6578:6579:6558:6533:1527:4786:120:::|h[Anello Logico della Sinergia]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 158366,
-			["Level"] = 430,
+			["ID"] = 169156,
+			["Level"] = 470,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:158366::::::::120:253:512:16:3:5026:1602:4786:120:::|h[Vera di Arenaria Caricata]|h|r",
+			["Link"] = "|cffa335ee|Hitem:169156:6108:::::::120:253:512:35:6:6578:6579:6558:6533:1527:4786:120:::|h[Anello Logico della Sinergia]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 174044,

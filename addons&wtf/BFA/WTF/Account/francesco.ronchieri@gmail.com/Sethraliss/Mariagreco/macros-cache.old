@@ -42,6 +42,9 @@ END
 VER 3 0100000000000007 "Ricrescita" "INV_MISC_QUESTIONMARK"
 /cast [@mouseover,exists] Ricrescita; [@target, exists, harm] Fuoco Lunare(Lunare); Ricrescita
 END
+VER 3 0100000000000011 "Rimozione Corruz" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists] Rimozione Corruzione; Rimozione Corruzione
+END
 VER 3 0100000000000006 "Rinvigorimento" "INV_MISC_QUESTIONMARK"
 /cast [@mouseover,exists] Rinvigorimento; [@target, exists, harm] Fuoco Solare(Solare); Rinvigorimento
 END
