@@ -1,16 +1,5 @@
 
 EncounterDetailsDB = {
-	["emotes"] = {
-		{
-			["boss"] = "Vol'zith la Sussurrante",
-		}, -- [1]
-		{
-			["boss"] = "Ser Sacraonda",
-		}, -- [2]
-		{
-			["boss"] = "Concilio dei Saggi delle Maree",
-		}, -- [3]
-	},
 	["encounter_spells"] = {
 		[269230] = {
 			["school"] = 1,
@@ -1590,9 +1579,9 @@ EncounterDetailsDB = {
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Bölim",
 		},
@@ -4094,8 +4083,8 @@ EncounterDetailsDB = {
 		[267459] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
 			},
@@ -4726,8 +4715,8 @@ EncounterDetailsDB = {
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Bölim",
 		},
@@ -5310,8 +5299,8 @@ EncounterDetailsDB = {
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Outofmind",
 		},
@@ -6018,9 +6007,9 @@ EncounterDetailsDB = {
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Héxèn",
 		},
@@ -8144,9 +8133,9 @@ EncounterDetailsDB = {
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Bölim",
 		},
@@ -9641,8 +9630,8 @@ EncounterDetailsDB = {
 		[33763] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_PERIODIC_HEAL"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Bölim",
 		},
@@ -11202,12 +11191,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ripto",
 		},
-		[208674] = {
-			["school"] = 1,
+		[269282] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Macellaio di Anime Sinistro",
+			["source"] = "Héxèn",
 		},
 		[264911] = {
 			["school"] = 1,
@@ -11224,14 +11215,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Héxèn",
 		},
-		[312486] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[265761] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sangue di Ny'alotha",
+			["source"] = "Matrona Bryndle",
 		},
 		[258921] = {
 			["school"] = 4,
@@ -11247,13 +11236,12 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[310788] = {
+		[265757] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Organo della Corruzione",
+			["source"] = "Matrona Bryndle",
 		},
 		[113780] = {
 			["school"] = 8,
@@ -11263,15 +11251,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lunysse",
 		},
-		[280583] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[31224] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mgnwhitejack",
+			["source"] = "Lunysse",
 		},
 		[297673] = {
 			["school"] = 16,
@@ -11305,21 +11292,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dama Bracescura",
 		},
-		[257033] = {
-			["school"] = 4,
+		[1943] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Capitano Cavaliere Valyri",
+			["source"] = "Lunysse",
 		},
-		[273323] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[200166] = {
+			["school"] = 124,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Ripto",
 		},
 		[256363] = {
 			["school"] = 1,
@@ -11332,12 +11320,11 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trothak",
 		},
-		[296184] = {
-			["school"] = 8,
+		[259147] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Héxèn",
 		},
 		[247121] = {
 			["school"] = 124,
@@ -11347,28 +11334,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ripto",
 		},
-		[274346] = {
+		[231390] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Alastõr",
+			["source"] = "Voidvenom",
 		},
-		[57755] = {
-			["school"] = 1,
+		[257316] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Harlan Sweete",
+		},
+		[268203] = {
+			["school"] = 32,
+			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Edwardngate",
-		},
-		[264108] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Cioccolatino",
+			["source"] = "Schiavista Sfiorato dalla Morte",
 		},
 		[309961] = {
 			["school"] = 32,
@@ -11381,12 +11367,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Il'gynoth",
 		},
-		[228354] = {
-			["school"] = 16,
+		[272421] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Marò",
+			["source"] = "Ricognitrice dei Bracescura",
 		},
 		[287439] = {
 			["school"] = 1,
@@ -11398,13 +11386,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Crociato Zandalari",
 		},
-		[44614] = {
-			["school"] = 16,
+		[272528] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Marò",
+			["source"] = "Cecchina dei Bracescura",
 		},
 		[311401] = {
 			["school"] = 1,
@@ -11414,14 +11401,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Il'gynoth",
 		},
-		[228318] = {
+		[268202] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Assalitore Sabbioso",
+			["source"] = "Schiavista Sfiorato dalla Morte",
 		},
 		[41635] = {
 			["school"] = 2,
@@ -11432,29 +11420,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Héxèn",
 		},
-		[282945] = {
-			["school"] = 1,
+		[274642] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Malefico del Vudù",
+		},
+		[196771] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sega Rotante",
+			["source"] = "Hygwirn",
 		},
-		[184364] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[303558] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kõhai",
-		},
-		[272422] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Ricognitrice dei Bracescura",
+			["source"] = "Voidvenom",
 		},
 		[311201] = {
 			["school"] = 4,
@@ -11480,19 +11468,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bomba Tonk",
 		},
-		[299093] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-		},
-		[288675] = {
+		[272471] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Thewatergød",
+			["source"] = "Ricognitore dei Bracescura",
+		},
+		[264105] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Sorella Marchiata",
 		},
 		[308941] = {
 			["school"] = 1,
@@ -11504,12 +11497,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Drest'agath",
 		},
-		[287651] = {
+		[295841] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Mano di In'zashi",
+			["source"] = "Ripto",
 		},
 		[299370] = {
 			["school"] = 1,
@@ -11518,11 +11511,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Beboko",
 		},
-		[296331] = {
-			["school"] = 8,
+		[291974] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
+			["source"] = "Re Meccagon",
 		},
 		[277674] = {
 			["school"] = 2,
@@ -11545,22 +11541,21 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[187878] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[77575] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ryumajin",
-		},
-		[264923] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Raal l'Ingordo",
+			["source"] = "Necròs",
+		},
+		[283598] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Ra'wani Kanae",
 		},
 		[198013] = {
 			["school"] = 124,
@@ -11571,14 +11566,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ripto",
 		},
-		[268230] = {
-			["school"] = 1,
+		[310406] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Mozzo dei Bracescura",
 		},
 		[303825] = {
 			["school"] = 1,
@@ -11588,21 +11582,21 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[310406] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-		},
-		[126664] = {
+		[40602] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Kõhai",
+		},
+		[264923] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Raal l'Ingordo",
 		},
 		[73685] = {
 			["school"] = 8,
@@ -11614,12 +11608,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thewatergød",
 		},
-		[255445] = {
-			["school"] = 1,
+		[64901] = {
+			["school"] = 2,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Rezan",
+			["source"] = "Héxèn",
 		},
 		[292565] = {
 			["school"] = 32,
@@ -11638,14 +11634,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[48265] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[295838] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Aigan",
 		},
 		[300174] = {
 			["school"] = 1,
@@ -11664,21 +11660,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sconosciuto",
 		},
-		[308947] = {
-			["school"] = 8,
+		[276068] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Drest'agath",
-		},
-		[297283] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Hadal Fondoscuro",
 		},
 		[310309] = {
 			["school"] = 1,
@@ -11696,31 +11684,35 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dama Bracescura",
 		},
-		[307472] = {
+		[308947] = {
 			["school"] = 8,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Shad'har l'Insaziabile",
+			["source"] = "Drest'agath",
 		},
-		[307478] = {
+		[100] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Shad'har l'Insaziabile",
+			["source"] = "Kõhai",
 		},
-		[264477] = {
-			["school"] = 48,
+		[275425] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Aqu'sirr",
+			["source"] = "Darthdat",
+		},
+		[117828] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Scisma",
 		},
 		[317420] = {
 			["school"] = 32,
@@ -11739,12 +11731,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pallabomba d'Azerite",
 		},
-		[268596] = {
-			["school"] = 1,
+		[310614] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Voidvenom",
+			["source"] = "Tentacolo di Drest'agath",
 		},
 		[184707] = {
 			["school"] = 1,
@@ -11754,12 +11748,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Elfalassion",
 		},
-		[162794] = {
-			["school"] = 127,
+		[268194] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Faccioschifo",
+			["source"] = "Necròs",
 		},
 		[308470] = {
 			["school"] = 32,
@@ -11768,12 +11764,12 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[302384] = {
-			["school"] = 8,
+		[278841] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Elettrotrasmittente X1",
+			["source"] = "Elfalassion",
 		},
 		[271071] = {
 			["school"] = 1,
@@ -11799,13 +11795,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nojak",
 		},
-		[301351] = {
-			["school"] = 1,
+		[258922] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unità di Oppressione Aerea HK-8",
+			["source"] = "Cded",
 		},
 		[303832] = {
 			["school"] = 32,
@@ -11822,13 +11817,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Warhull",
 		},
-		[269456] = {
-			["school"] = 16,
+		[297162] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Viq'goth",
+			["source"] = "Bulkyaf",
 		},
 		[315094] = {
 			["school"] = 32,
@@ -11838,21 +11834,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sconosciuto",
 		},
-		[257348] = {
+		[22842] = {
 			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Tagliatore Ganciorosso",
-		},
-		[296560] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
+			["source"] = "Aigan",
+		},
+		[275779] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Odettah",
 		},
 		[264931] = {
 			["school"] = 1,
@@ -11862,14 +11860,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal l'Ingordo",
 		},
-		[257292] = {
-			["school"] = 1,
+		[307358] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sventratore Marferreo",
+			["source"] = "Shad'har l'Insaziabile",
 		},
 		[184709] = {
 			["school"] = 1,
@@ -11887,31 +11885,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Occhio di Drest'agath",
 		},
-		[269266] = {
+		[55090] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Terrore Polverizzante",
+			["source"] = "Necròs",
 		},
-		[300665] = {
-			["school"] = 40,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Guardingo Tossico",
-		},
-		[282524] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[314347] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Apparizione dall'Aldilà",
+			["source"] = "Assassino Calcacenere",
+		},
+		[302999] = {
+			["school"] = 64,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Regina Azshara",
 		},
 		[316031] = {
 			["school"] = 1,
@@ -11922,13 +11919,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shad'har l'Insaziabile",
 		},
-		[53600] = {
-			["school"] = 2,
+		[270590] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Odettah",
+			["source"] = "Terrore Polverizzante",
 		},
 		[315097] = {
 			["school"] = 1,
@@ -11939,24 +11937,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Il'gynoth",
 		},
-		[268007] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[228598] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Guardiano del Cuore",
+			["source"] = "Marò",
 		},
-		[118779] = {
+		[12294] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Elfalassion",
+			["source"] = "Maccio",
 		},
 		[269029] = {
 			["school"] = 1,
@@ -11972,13 +11966,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maut",
 		},
-		[187874] = {
-			["school"] = 8,
+		[269214] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Codyellow",
 		},
 		[224125] = {
 			["school"] = 4,
@@ -11988,19 +11982,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lupo Spirituale",
 		},
-		[272718] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Frostreina",
-		},
 		[268976] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Cannoniere dei Bracescura",
+		},
+		[268589] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Re Dazar",
 		},
 		[6673] = {
 			["school"] = 1,
@@ -12011,13 +12006,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rainxu",
 		},
-		[263912] = {
-			["school"] = 1,
+		[268007] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Merektha",
+			["source"] = "Guardiano del Cuore",
 		},
 		[269031] = {
 			["school"] = 1,
@@ -12027,12 +12024,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Necròs",
 		},
-		[258864] = {
-			["school"] = 4,
+		[299346] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Soldato dei Bracescura",
+			["source"] = "Wordex",
 		},
 		[256374] = {
 			["school"] = 48,
@@ -12051,21 +12048,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Prole Tempestosa",
 		},
-		[259711] = {
+		[216411] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Custode del Braccio",
+			["source"] = "Babyruth",
 		},
-		[207230] = {
-			["school"] = 16,
+		[256105] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Sovrintendente Korgus",
+		},
+		[3409] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Lunysse",
 		},
 		[263914] = {
 			["school"] = 1,
@@ -12076,21 +12082,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Merektha",
 		},
-		[3409] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Lunysse",
-		},
-		[268591] = {
-			["school"] = 1,
+		[308956] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Re Dazar",
+			["source"] = "Occhio di Drest'agath",
 		},
 		[310402] = {
 			["school"] = 8,
@@ -12100,14 +12098,15 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 		},
-		[202539] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[303799] = {
+			["school"] = 127,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kõhai",
+			["source"] = "Regina Azshara",
 		},
 		[224127] = {
 			["school"] = 8,
@@ -12117,12 +12116,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lupo Spirituale",
 		},
-		[304089] = {
+		[266941] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Beboko",
+			["source"] = "Aka'ali la Conquistatrice",
 		},
 		[45242] = {
 			["school"] = 2,
@@ -12155,13 +12154,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-Den",
 		},
-		[294128] = {
-			["school"] = 4,
+		[196741] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Giocattolo a Razzo",
+			["source"] = "Tobako",
 		},
 		[318378] = {
 			["school"] = 1,
@@ -12181,27 +12180,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Silivaz lo Zelante",
 		},
-		[282617] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Fa'thuul il Temuto",
-		},
-		[277644] = {
+		[285388] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Darthdat",
+			["source"] = "Gnom-O-Pietà X-T3",
 		},
-		[85256] = {
-			["school"] = 2,
+		[315311] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Devastatore Aqir",
+		},
+		[292167] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kàtsumoto",
+			["source"] = "Behemoth Acquanera",
 		},
 		[268013] = {
 			["school"] = 4,
@@ -12213,14 +12221,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Malefico del Vudù",
 		},
-		[296851] = {
+		[268186] = {
 			["school"] = 8,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Pashmar la Fanatica",
 		},
 		[157736] = {
 			["school"] = 4,
@@ -12238,23 +12244,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "나와함께있어",
 		},
-		[257650] = {
-			["school"] = 1,
+		[29166] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tagliatore Ganciorosso",
+			["source"] = "Shynga",
 		},
 		[61295] = {
 			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
 			["source"] = "Cioccolatino",
 		},
@@ -12267,34 +12273,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Cded",
 		},
-		[81262] = {
-			["school"] = 8,
+		[271843] = {
+			["school"] = 2,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Efflorescenza",
+			["source"] = "Warhull",
 		},
-		[282517] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[298897] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sconosciuto",
+			["source"] = "Trixie Taser",
 		},
-		[204262] = {
-			["school"] = 8,
+		[280210] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Realtotema",
+			["source"] = "Maccio",
 		},
 		[278253] = {
 			["school"] = 1,
@@ -12304,24 +12306,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Héxèn",
 		},
-		[270661] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[298242] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Mirrormask",
-		},
-		[283540] = {
-			["school"] = 32,
-			["token"] = {
 				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Orgozoa",
+		},
+		[295825] = {
+			["school"] = 8,
+			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sconosciuto",
+			["source"] = "Orgozoa",
 		},
 		[257402] = {
 			["school"] = 1,
@@ -12331,20 +12330,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Harlan Sweete",
 		},
-		[295161] = {
+		[298318] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Zoatroide",
-		},
-		[263922] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Merektha",
+			["source"] = "Maccio",
 		},
 		[317157] = {
 			["school"] = 32,
@@ -12354,21 +12346,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vexiona",
 		},
-		[275488] = {
+		[263922] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Realtotema",
+			["source"] = "Merektha",
 		},
-		[258883] = {
-			["school"] = 124,
+		[286742] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Cded",
+			["source"] = "Fantasma della Rabbia",
+		},
+		[309654] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Inquisitrice Oscura Xanesh",
 		},
 		[287469] = {
 			["school"] = 1,
@@ -12396,12 +12397,12 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[107270] = {
-			["school"] = 1,
+		[81297] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aphropard",
+			["source"] = "Odettah",
 		},
 		[307945] = {
 			["school"] = 32,
@@ -12427,31 +12428,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ser Sacraonda",
 		},
-		[263325] = {
-			["school"] = 1,
+		[268953] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Viperis",
+			["source"] = "Zedarcane",
 		},
-		[203277] = {
+		[282801] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tryharderr",
+			["source"] = "Flagellatore Platinato",
 		},
-		[260703] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[295855] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sorella Malady",
+			["source"] = "Guardiano di Azeroth",
 		},
 		[184689] = {
 			["school"] = 2,
@@ -12468,20 +12469,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Nucleo d'Energia",
 		},
-		[299917] = {
-			["school"] = 1,
+		[295822] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Silivaz lo Zelante",
+			["source"] = "Megera Azsh'ari",
 		},
-		[55095] = {
-			["school"] = 16,
+		[165961] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Naamaya",
 		},
 		[290450] = {
 			["school"] = 2,
@@ -12500,14 +12504,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Galvazzt",
 		},
-		[267444] = {
-			["school"] = 32,
+		[281744] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vol'zith la Sussurrante",
+			["source"] = "Vinli",
 		},
 		[276212] = {
 			["school"] = 4,
@@ -12517,21 +12521,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Magnate Trucirazzi",
 		},
-		[280012] = {
+		[288075] = {
 			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Wordex",
-		},
-		[316745] = {
-			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vexiona",
+			["source"] = "Thebígdaddy",
+		},
+		[292162] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Behemoth Acquanera",
 		},
 		[273470] = {
 			["school"] = 1,
@@ -12562,27 +12565,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Silivaz lo Zelante",
 		},
-		[263858] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Apina",
-		},
-		[299915] = {
-			["school"] = 1,
+		[295536] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Silivaz lo Zelante",
+			["source"] = "Unità di Oppressione Aerea HK-8",
 		},
-		[196718] = {
-			["school"] = 1,
+		[63619] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sarfdh",
+			["source"] = "Spirito d'Ombra",
+		},
+		[260701] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sorella Prunospina",
 		},
 		[301808] = {
 			["school"] = 16,
@@ -12591,12 +12596,10 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Silivaz lo Zelante",
 		},
-		[317001] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[256710] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 		},
 		[3110] = {
@@ -12615,13 +12618,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Regina Azshara",
 		},
-		[256459] = {
+		[299914] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Nutrien",
+			["source"] = "Silivaz lo Zelante",
 		},
 		[306928] = {
 			["school"] = 32,
@@ -12634,14 +12637,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shad'har l'Insaziabile",
 		},
-		[260697] = {
-			["school"] = 1,
+		[306930] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sorella Prunospina",
+			["source"] = "Shad'har l'Insaziabile",
 		},
 		[296691] = {
 			["school"] = 8,
@@ -12703,15 +12708,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidvenom",
 		},
-		[298197] = {
+		[306929] = {
 			["school"] = 8,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vinli",
+			["source"] = "Shad'har l'Insaziabile",
 		},
 		[296693] = {
 			["school"] = 16,
@@ -12740,15 +12746,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shad'har l'Insaziabile",
 		},
-		[277703] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[317020] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Zedarcane",
+			["source"] = "Thebígdaddy",
 		},
 		[273720] = {
 			["school"] = 64,
@@ -12850,21 +12854,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maccio",
 		},
-		[285010] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[292361] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+			["source"] = "Thebígdaddy",
 		},
-		[269242] = {
-			["school"] = 32,
+		[269493] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Héxèn",
+			["source"] = "Sfollagente a Gettoni",
 		},
 		[287070] = {
 			["school"] = 1,
@@ -12874,39 +12879,39 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Opulenza",
 		},
-		[190319] = {
-			["school"] = 4,
+		[191840] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Yajsha",
+			["source"] = "Kmeerr",
 		},
-		[295248] = {
+		[264420] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ryuend",
+			["source"] = "Supergnöm",
 		},
-		[51505] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Chròma",
-		},
-		[285894] = {
+		[282736] = {
 			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Aspetto di Pa'ku",
+		},
+		[93402] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aspetto di Gonk",
+			["source"] = "Shynga",
 		},
 		[271105] = {
 			["school"] = 1,
@@ -12916,20 +12921,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oloudin",
 		},
-		[185099] = {
-			["school"] = 1,
+		[282886] = {
+			["school"] = 16,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aphropard",
+			["source"] = "Runa Oceanica",
 		},
-		[279899] = {
+		[299337] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ahyamano",
+			["source"] = "Faccioschifo",
 		},
 		[294652] = {
 			["school"] = 32,
@@ -12953,24 +12959,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Panpaniscus",
 		},
-		[291878] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Unità Aerea R-21/X",
-		},
-		[155158] = {
-			["school"] = 4,
+		[269301] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Zedarcane",
+			["source"] = "Abominio Indomabile",
+		},
+		[260923] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sorella Solena",
 		},
 		[267888] = {
 			["school"] = 8,
@@ -12998,22 +13003,27 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gran Macchinista Flussascintille",
 		},
-		[260773] = {
+		[285185] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sorella Solena",
+			["source"] = "Uu'nat",
 		},
-		[298121] = {
-			["school"] = 8,
+		[306111] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Aethenel",
+			["source"] = "Irathion",
+		},
+		[310011] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Ra-Den",
 		},
 		[210320] = {
 			["school"] = 2,
@@ -13023,38 +13033,32 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Synshin",
 		},
-		[310011] = {
+		[17364] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ra-Den",
+			["source"] = "Ryumajin",
 		},
-		[114250] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Xubuntu",
-		},
-		[306942] = {
+		[296566] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Shad'har l'Insaziabile",
-		},
-		[7384] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Maccio",
+			["source"] = "Radiosità di Azshara",
+		},
+		[196725] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Kmeerr",
 		},
 		[310012] = {
 			["school"] = 1,
@@ -13063,14 +13067,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-Den",
 		},
-		[31884] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[263309] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Kàtsumoto",
+			["source"] = "Viperis",
 		},
 		[246152] = {
 			["school"] = 1,
@@ -13097,22 +13100,21 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[302847] = {
-			["school"] = 8,
+		[306942] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Friedebert",
+			["source"] = "Shad'har l'Insaziabile",
 		},
-		[267385] = {
-			["school"] = 32,
+		[194084] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Tentacolo",
+			["source"] = "Ryumajin",
 		},
 		[300800] = {
 			["school"] = 1,
@@ -13130,15 +13132,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kmeerr",
 		},
-		[288091] = {
-			["school"] = 1,
+		[267874] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Elfalassion",
 		},
 		[131493] = {
 			["school"] = 1,
@@ -13165,13 +13165,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Abitante Sommerso",
 		},
-		[257092] = {
+		[281178] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "La Regina delle Sabbie",
+			["source"] = "Oloudin",
 		},
 		[307968] = {
 			["school"] = 32,
@@ -13190,20 +13190,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Faccioschifo",
 		},
-		[51533] = {
-			["school"] = 8,
+		[299368] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Khaterian",
 		},
-		[284377] = {
+		[311210] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sconosciuto",
+			["source"] = "Jeom",
 		},
 		[267360] = {
 			["school"] = 32,
@@ -13213,13 +13212,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vol'zith la Sussurrante",
 		},
-		[48107] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[299373] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Zedarcane",
+			["source"] = "Yajsha",
 		},
 		[295921] = {
 			["school"] = 8,
@@ -13255,14 +13253,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "B.O.O.M.B.A.",
 		},
-		[108280] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[257478] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Realtotema",
+			["source"] = "Mastino dei Marferreo",
 		},
 		[275992] = {
 			["school"] = 1,
@@ -13293,29 +13293,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pashmar la Fanatica",
 		},
-		[275429] = {
-			["school"] = 1,
+		[194249] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Camadon",
+		},
+		[201427] = {
+			["school"] = 127,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vaajj",
+			["source"] = "Ripto",
 		},
-		[267890] = {
-			["school"] = 8,
+		[280177] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_HEAL"] = true,
 			},
-		},
-		[255836] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Sacerdotessa Alun'za",
+			["source"] = "Marò",
 		},
 		[301830] = {
 			["school"] = 32,
@@ -13325,12 +13327,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pashmar la Fanatica",
 		},
-		[289893] = {
+		[246852] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Re Rastakhan",
+			["source"] = "Ryuend",
 		},
 		[53365] = {
 			["school"] = 1,
@@ -13341,23 +13345,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Necròs",
 		},
-		[258875] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Barile dell'Oscuramento",
-		},
-		[204242] = {
+		[223819] = {
 			["school"] = 2,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vinli",
+			["source"] = "Kàtsumoto",
+		},
+		[273285] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Baccello Instabile",
 		},
 		[302855] = {
 			["school"] = 8,
@@ -13375,14 +13377,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Irathion",
 		},
-		[262115] = {
+		[278719] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Maccio",
+			["source"] = "Cioccolatino",
 		},
 		[301832] = {
 			["school"] = 32,
@@ -13393,19 +13393,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pashmar la Fanatica",
 		},
-		[201428] = {
-			["school"] = 127,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Ripto",
-		},
-		[299357] = {
+		[284730] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Faccioschifo",
+			["source"] = "Spezzassedio Roka",
+		},
+		[285453] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Uu'nat",
 		},
 		[80353] = {
 			["school"] = 64,
@@ -13432,14 +13435,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lunysse",
 		},
-		[194310] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[285454] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Drkoo",
+			["source"] = "Gran Macchinista Flussascintille",
 		},
 		[268050] = {
 			["school"] = 16,
@@ -13500,13 +13501,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fa'thuul il Temuto",
 		},
-		[276190] = {
+		[248622] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Jolok",
+			["source"] = "Maccio",
 		},
 		[275934] = {
 			["school"] = 1,
@@ -13532,12 +13534,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spezzassedio Roka",
 		},
-		[130736] = {
-			["school"] = 32,
+		[80354] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Necròs",
+			["source"] = "Marò",
 		},
 		[263958] = {
 			["school"] = 1,
@@ -13567,12 +13570,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aphropard",
 		},
-		[258338] = {
-			["school"] = 1,
+		[286779] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Capitano Raoul",
+			["source"] = "Fantasma del Massacro",
 		},
 		[117032] = {
 			["school"] = 1,
@@ -13581,13 +13588,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kundozen",
 		},
-		[313208] = {
+		[51460] = {
 			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sconosciuto",
+			["source"] = "Necròs",
 		},
 		[49143] = {
 			["school"] = 16,
@@ -13596,14 +13604,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hygwirn",
 		},
-		[51124] = {
-			["school"] = 16,
+		[319237] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Thebígdaddy",
 		},
 		[61684] = {
 			["school"] = 1,
@@ -13623,12 +13630,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Voidvenom",
 		},
-		[32182] = {
+		[285460] = {
 			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Gran Macchinista Flussascintille",
 		},
 		[11426] = {
 			["school"] = 16,
@@ -13664,13 +13674,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Outofmind",
 		},
-		[283650] = {
-			["school"] = 2,
+		[268904] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Crociato Zandalari",
+			["source"] = "Xubuntu",
 		},
 		[300817] = {
 			["school"] = 1,
@@ -13679,22 +13690,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Comandante Abissale Sivara",
 		},
-		[257308] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Cannone dei Marferreo",
-		},
-		[311159] = {
+		[292971] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Il'gynoth",
+		},
+		[153564] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Zedarcane",
 		},
 		[267034] = {
 			["school"] = 32,
@@ -13722,20 +13731,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Anticarro v1",
 		},
-		[115357] = {
+		[303453] = {
 			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Gladiatore Zanj'ir",
 		},
-		[304866] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[208086] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mietitore del Vuoto Shirakess",
+			["source"] = "Maccio",
 		},
 		[268059] = {
 			["school"] = 16,
@@ -13754,19 +13764,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wordex",
 		},
-		[278609] = {
-			["school"] = 2,
+		[267299] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Odettah",
+			["source"] = "Vol'zith la Sussurrante",
 		},
-		[281327] = {
-			["school"] = 1,
+		[146347] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Namuel",
 		},
 		[296725] = {
 			["school"] = 1,
@@ -13779,21 +13792,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dama Bracescura",
 		},
-		[305663] = {
+		[264913] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Maut",
+			["source"] = "Aqu'sirr",
 		},
-		[266180] = {
-			["school"] = 1,
+		[269085] = {
+			["school"] = 2,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Voidvenom",
+			["source"] = "Kmeerr",
 		},
 		[250258] = {
 			["school"] = 8,
@@ -13850,14 +13863,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hygwirn",
 		},
-		[280653] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[299094] = {
+			["school"] = 127,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Xubuntu",
+			["source"] = "Regina Azshara",
 		},
 		[250259] = {
 			["school"] = 8,
@@ -13883,26 +13897,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Shynga",
 		},
-		[264605] = {
+		[2823] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Rummy Mancomb",
+			["source"] = "Silencexx",
 		},
-		[279642] = {
+		[49184] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Hygwirn",
+		},
+		[316274] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Outofmind",
-		},
-		[295799] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
+			["source"] = "Inquisitrice Oscura Xanesh",
 		},
 		[285468] = {
 			["school"] = 4,
@@ -13965,22 +13982,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bwonsamdi",
 		},
-		[232698] = {
-			["school"] = 32,
+		[1044] = {
+			["school"] = 2,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vkookisreal",
+			["source"] = "Scassacaiser",
 		},
-		[304645] = {
-			["school"] = 16,
+		[263927] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Sarfdh",
+			["source"] = "Merektha",
 		},
 		[291613] = {
 			["school"] = 4,
@@ -14002,15 +14020,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Totem del Muro Terrigeno",
 		},
-		[315161] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[304877] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kreferis",
+			["source"] = "Faccioschifo",
 		},
 		[274210] = {
 			["school"] = 32,
@@ -14019,28 +14034,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Marinaio Riesumato",
-		},
-		[301424] = {
-			["school"] = 65,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Console dei Titani",
-		},
-		[270117] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Vinli",
-		},
-		[285472] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Vinli",
 		},
 		[298781] = {
 			["school"] = 64,
@@ -14051,13 +14044,40 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Regina Azshara",
 		},
-		[25504] = {
-			["school"] = 1,
+		[295444] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Za'qul",
+		},
+		[285472] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Vinli",
+		},
+		[315161] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Kreferis",
+		},
+		[260805] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sorella Solena",
 		},
 		[284449] = {
 			["school"] = 2,
@@ -14067,15 +14087,6 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra'wani Kanae",
 		},
-		[303344] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Kàtsumoto",
-		},
 		[298782] = {
 			["school"] = 64,
 			["token"] = {
@@ -14084,6 +14095,13 @@ EncounterDetailsDB = {
 				["SPELL_HEAL"] = true,
 			},
 			["source"] = "Regina Azshara",
+		},
+		[270117] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Vinli",
 		},
 		[256405] = {
 			["school"] = 1,
@@ -14137,14 +14155,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Warhull",
 		},
-		[90361] = {
-			["school"] = 8,
-			["type"] = "BUFF",
+		[295796] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Anacleto",
+			["source"] = "Comandante Abissale Sivara",
 		},
 		[306974] = {
 			["school"] = 32,
@@ -14187,23 +14204,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marò",
 		},
-		[23161] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[260103] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Dharlaa",
 		},
-		[256199] = {
-			["school"] = 1,
+		[272979] = {
+			["school"] = 2,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sovrintendente Korgus",
+			["source"] = "Odettah",
 		},
 		[265002] = {
 			["school"] = 1,
@@ -14226,20 +14241,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Synshin",
 		},
-		[295795] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Comandante Abissale Sivara",
-		},
-		[278758] = {
+		[299890] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Elfalassion",
+			["source"] = "Devoto di Azshara",
+		},
+		[202602] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Lîlynette",
 		},
 		[282407] = {
 			["school"] = 32,
@@ -14249,13 +14265,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fa'thuul il Temuto",
 		},
-		[202188] = {
-			["school"] = 8,
+		[273272] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Realtotema",
+			["source"] = "Guglia Polarizzata",
 		},
 		[276265] = {
 			["school"] = 1,
@@ -14274,12 +14290,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Odettah",
 		},
-		[284719] = {
+		[256198] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Spezzassedio Roka",
+			["source"] = "Sovrintendente Korgus",
 		},
 		[70890] = {
 			["school"] = 32,
@@ -14305,12 +14324,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Raal l'Ingordo",
 		},
-		[240447] = {
+		[288828] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
+			["source"] = "Maestro delle Bestie Rastari",
 		},
 		[260699] = {
 			["school"] = 32,
@@ -14346,12 +14366,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vaajj",
 		},
-		[269361] = {
-			["school"] = 1,
+		[642] = {
+			["school"] = 2,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Re Dazar",
+			["source"] = "Oloudin",
 		},
 		[276268] = {
 			["school"] = 1,
@@ -14408,14 +14430,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Anziana Leaxa",
 		},
-		[285572] = {
-			["school"] = 32,
+		[257946] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Fantasma del Castigo",
+			["source"] = "Ryuend",
 		},
 		[291626] = {
 			["school"] = 8,
@@ -14448,12 +14469,12 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[273461] = {
+		[160067] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Cioccolatino",
+			["source"] = "Dethtilac",
 		},
 		[296746] = {
 			["school"] = 64,
@@ -14464,13 +14485,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Radiosità di Azshara",
 		},
-		[293923] = {
-			["school"] = 1,
+		[296078] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sangue Ribollente",
+			["source"] = "Za'qul",
 		},
 		[210854] = {
 			["school"] = 16,
@@ -14479,12 +14502,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Altrove",
 		},
-		[282939] = {
-			["school"] = 4,
+		[256546] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Protettore di Yalat",
+			["source"] = "Trothak",
 		},
 		[263987] = {
 			["school"] = 1,
@@ -14493,30 +14516,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Panpaniscus",
 		},
-		[312336] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Inquisitrice Oscura Xanesh",
-		},
-		[295791] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Comandante Abissale Sivara",
-		},
-		[263234] = {
+		[297311] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Viperis",
+			["source"] = "Re Gobbamak",
+		},
+		[303981] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Regina Azshara",
+		},
+		[256016] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
 		},
 		[257314] = {
 			["school"] = 1,
@@ -14527,14 +14549,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Granatiere Marferreo",
 		},
-		[259092] = {
-			["school"] = 8,
+		[131347] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Invocatore delle Tempeste Marferreo",
+			["source"] = "Ripto",
 		},
 		[315176] = {
 			["school"] = 32,
@@ -14563,21 +14583,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Dama Crestabianca",
 		},
-		[225311] = {
-			["school"] = 2,
+		[250585] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Synshin",
 		},
-		[212423] = {
-			["school"] = 1,
+		[261563] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Furtivo Rianimato",
+			["source"] = "Hadal Fondoscuro",
 		},
 		[260811] = {
 			["school"] = 4,
@@ -14587,29 +14607,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Magnate Trucirazzi",
 		},
-		[260508] = {
-			["school"] = 1,
+		[204079] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Goliath Vincolato",
-		},
-		[288080] = {
-			["school"] = 1,
-			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Panpaniscus",
-		},
-		[228260] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Camadon",
+			["source"] = "Odettah",
 		},
 		[312107] = {
 			["school"] = 4,
@@ -14628,14 +14633,31 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[298018] = {
-			["school"] = 16,
-			["type"] = "BUFF",
+		[260508] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Goliath Vincolato",
+		},
+		[228260] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Camadon",
+		},
+		[315179] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Aethenel",
+			["source"] = "Wordex",
 		},
 		[282419] = {
 			["school"] = 32,
@@ -14643,29 +14665,30 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[298787] = {
-			["school"] = 64,
+		[268308] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Regina Azshara",
+			["source"] = "Dama Crestabianca",
 		},
-		[271903] = {
-			["school"] = 1,
+		[299153] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sfollagente a Gettoni",
-		},
-		[297835] = {
-			["school"] = 40,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sporcheria",
+			["source"] = "Trixie Taser",
+		},
+		[301930] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Behemoth Acquanera",
 		},
 		[270882] = {
 			["school"] = 4,
@@ -14674,14 +14697,6 @@ EncounterDetailsDB = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Pallabomba d'Azerite",
-		},
-		[284468] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Discepola Rezani",
 		},
 		[268088] = {
 			["school"] = 1,
@@ -14692,13 +14707,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sorella Malady",
 		},
-		[311143] = {
-			["school"] = 32,
+		[284468] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sangue di Ny'alotha",
+			["source"] = "Discepola Rezani",
+		},
+		[251836] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Greatinn",
 		},
 		[1953] = {
 			["school"] = 64,
@@ -14726,30 +14749,32 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra'wani Kanae",
 		},
-		[273264] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ryuend",
-		},
-		[270657] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Namuel",
-		},
-		[264603] = {
-			["school"] = 64,
+		[297834] = {
+			["school"] = 40,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Anziana Leaxa",
+			["source"] = "Sporcheria",
+		},
+		[307218] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Vexiona",
+		},
+		[257777] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Jes Ululis",
 		},
 		[31616] = {
 			["school"] = 8,
@@ -14758,20 +14783,25 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kreferis",
 		},
-		[299535] = {
-			["school"] = 4,
+		[287648] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Fulminatore Testapistone",
+			["source"] = "Mano di In'zashi",
 		},
-		[272790] = {
+		[289890] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ryuend",
+			["source"] = "Re Rastakhan",
 		},
 		[283534] = {
 			["school"] = 8,
@@ -14795,13 +14825,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sacerdotessa Alun'za",
 		},
-		[260279] = {
+		[285190] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+			["source"] = "Bwonsamdi",
 		},
 		[282113] = {
 			["school"] = 2,
@@ -14812,13 +14843,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra'wani Kanae",
 		},
-		[268932] = {
+		[96231] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Re Dazar",
+			["source"] = "Codyellow",
 		},
 		[285496] = {
 			["school"] = 1,
@@ -14838,22 +14868,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Irathion",
 		},
-		[306996] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[307284] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Asceso del Vuoto",
-		},
-		[231843] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Oloudin",
+			["source"] = "Vexiona",
 		},
 		[256979] = {
 			["school"] = 1,
@@ -14864,13 +14886,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Capitano Eudora",
 		},
-		[294711] = {
-			["school"] = 16,
-			["type"] = "DEBUFF",
+		[85739] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Comandante Abissale Sivara",
+			["source"] = "Elfalassion",
+		},
+		[306996] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Asceso del Vuoto",
 		},
 		[260512] = {
 			["school"] = 1,
@@ -14896,36 +14928,41 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hygwirn",
 		},
-		[250036] = {
+		[34914] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[275477] = {
-			["school"] = 2,
-			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Odettah",
+			["source"] = "Camadon",
 		},
-		[303390] = {
-			["school"] = 8,
+		[77762] = {
+			["school"] = 4,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Zeramos",
 		},
-		[633] = {
-			["school"] = 2,
+		[282914] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Fa'thuul il Temuto",
+		},
+		[268008] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Scassacaiser",
+			["source"] = "Dottoressa della Pestilenza",
 		},
 		[295415] = {
 			["school"] = 16,
@@ -14935,14 +14972,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Comandante Abissale Sivara",
 		},
-		[90325] = {
+		[305393] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Bruto Soggiogato",
+			["source"] = "Flagellatore Platinato",
 		},
 		[304951] = {
 			["school"] = 64,
@@ -14962,22 +14998,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kundozen",
 		},
-		[279956] = {
+		[285452] = {
 			["school"] = 4,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Oloudin",
+			["source"] = "Zeramos",
 		},
-		[162264] = {
-			["school"] = 127,
+		[166302] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Ripto",
+			["source"] = "Sconosciuto",
 		},
 		[306184] = {
 			["school"] = 32,
@@ -14989,14 +15024,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-Den",
 		},
-		[259975] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[283637] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "La Regina delle Sabbie",
+			["source"] = "Crociato Zandalari",
 		},
 		[294715] = {
 			["school"] = 8,
@@ -15006,46 +15040,45 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Comandante Abissale Sivara",
 		},
-		[114093] = {
-			["school"] = 1,
+		[256896] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Odettah",
 		},
-		[267618] = {
-			["school"] = 8,
+		[236299] = {
+			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Mchimba l'Imbalsamatore",
+			["source"] = "Oratore delle Fiamme Rastari",
 		},
-		[267665] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Oloudin",
-		},
-		[263984] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Xubuntu",
-		},
-		[266091] = {
+		[186254] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Scisma",
+			["source"] = "Voidvenom",
+		},
+		[296726] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Dama Bracescura",
+		},
+		[307041] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Irathion",
 		},
 		[280384] = {
 			["school"] = 8,
@@ -15072,14 +15105,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fa'thuul il Temuto",
 		},
-		[29722] = {
-			["school"] = 4,
+		[309697] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Scisma",
+			["source"] = "Ritualista Vincolamagie",
 		},
 		[280385] = {
 			["school"] = 1,
@@ -15088,15 +15120,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Arianisha",
 		},
-		[260067] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[236060] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Bobby Howlis",
+			["source"] = "Motimoto",
 		},
 		[257956] = {
 			["school"] = 32,
@@ -15129,15 +15159,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oloudin",
 		},
-		[291843] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[224266] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Cioccolatino",
+			["source"] = "Kàtsumoto",
 		},
 		[267981] = {
 			["school"] = 16,
@@ -15149,12 +15177,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Templare del Santuario",
 		},
-		[295263] = {
-			["school"] = 4,
+		[268234] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Zedarcane",
+			["source"] = "Melma Biliosa",
 		},
 		[274441] = {
 			["school"] = 1,
@@ -15163,12 +15193,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ahyamano",
 		},
-		[95987] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[306015] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Irathion",
 		},
 		[271174] = {
 			["school"] = 8,
@@ -15177,13 +15210,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Divoratore Pallido",
 		},
-		[264712] = {
-			["school"] = 8,
+		[57723] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
+			["source"] = "Enaumonk",
 		},
 		[45438] = {
 			["school"] = 16,
@@ -15194,21 +15227,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marò",
 		},
-		[306228] = {
+		[308029] = {
 			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Sconosciuto",
+			["source"] = "Profeta Skitra",
 		},
-		[259182] = {
-			["school"] = 32,
+		[132404] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Yazma",
+			["source"] = "나와함께있어",
 		},
 		[280389] = {
 			["school"] = 1,
@@ -15236,13 +15269,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Creatura dell'Aldilà",
 		},
-		[265914] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
+		[303986] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Regina Azshara",
 		},
 		[264912] = {
 			["school"] = 1,
@@ -15251,12 +15283,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqu'sirr",
 		},
-		[257593] = {
-			["school"] = 8,
+		[224126] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Azerokk",
+			["source"] = "Lupo Spirituale",
 		},
 		[58875] = {
 			["school"] = 1,
@@ -15290,21 +15323,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tiratore Sferzasabbia",
 		},
-		[1064] = {
-			["school"] = 8,
+		[300504] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Thewatergød",
+			["source"] = "Regina Azshara",
 		},
-		[287774] = {
+		[260312] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Cioccolatino",
+			["source"] = "Faucilarghe l'Infestato",
 		},
 		[115175] = {
 			["school"] = 8,
@@ -15324,23 +15357,20 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[270576] = {
+		[298946] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Voidvenom",
+			["source"] = "Naeno Megaschianto",
 		},
-		[19574] = {
+		[283810] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Voidvenom",
+			["source"] = "Elfalassion",
 		},
 		[284488] = {
 			["school"] = 2,
@@ -15365,22 +15395,25 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Comandante Abissale Sivara",
 		},
-		[268278] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Dama Crestabianca",
-		},
-		[197908] = {
-			["school"] = 1,
+		[305602] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Kmeerr",
+			["source"] = "Zoatroide",
+		},
+		[250096] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Yazma",
 		},
 		[310083] = {
 			["school"] = 1,
@@ -15397,22 +15430,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Opulenza",
 		},
-		[281517] = {
+		[285152] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Heliur",
+			["source"] = "Gnom-O-Pietà X-T3",
 		},
-		[257418] = {
+		[288754] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Lyiu",
+			["source"] = "Faccioschifo",
 		},
 		[314179] = {
 			["school"] = 32,
@@ -15429,19 +15459,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Elfalassion",
 		},
-		[257278] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Harlan Sweete",
-		},
-		[295365] = {
+		[303572] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Outofmind",
+			["source"] = "Maccio",
+		},
+		[282444] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Aspetto di Kimbul",
 		},
 		[157122] = {
 			["school"] = 2,
@@ -15468,13 +15503,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pianta Incospicua",
 		},
-		[83381] = {
+		[263962] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Apina",
+			["source"] = "Voidvenom",
 		},
 		[273231] = {
 			["school"] = 1,
@@ -15483,19 +15517,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Faccioschifo",
 		},
-		[250368] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Vol'kaal",
-		},
-		[295351] = {
+		[85288] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Namuel",
+			["source"] = "Elfalassion",
+		},
+		[304081] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Aphropard",
 		},
 		[197561] = {
 			["school"] = 2,
@@ -15514,14 +15548,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ripto",
 		},
-		[116768] = {
+		[303568] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Aphropard",
+			["source"] = "Maccio",
 		},
 		[287693] = {
 			["school"] = 32,
@@ -15531,19 +15563,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Guardiano Imperituro",
 		},
-		[190984] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Shynga",
-		},
-		[304055] = {
-			["school"] = 1,
+		[257310] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Aphropard",
+			["source"] = "Cannone dei Marferreo",
+		},
+		[307017] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Scheggia Crepitante",
 		},
 		[282447] = {
 			["school"] = 1,
@@ -15555,13 +15588,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kimbul",
 		},
-		[19483] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[311045] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Infernale",
+			["source"] = "Proselita Zelante",
 		},
 		[201657] = {
 			["school"] = 8,
@@ -15571,12 +15605,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Richiamo della Tempesta",
 		},
-		[50401] = {
-			["school"] = 16,
+		[283422] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Gnom-O-Pietà X-T3",
 		},
 		[87024] = {
 			["school"] = 4,
@@ -15594,13 +15630,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ripto",
 		},
-		[294847] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[25914] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Comandante Abissale Sivara",
+			["source"] = "Synshin",
 		},
 		[310090] = {
 			["school"] = 1,
@@ -15635,15 +15670,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Console dei Titani",
 		},
-		[300492] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[307020] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Serena Sfregiasquame",
+			["source"] = "Vexiona",
 		},
 		[44544] = {
 			["school"] = 16,
@@ -15673,13 +15708,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ser Sacraonda",
 		},
-		[266191] = {
+		[260334] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Faucilarghe l'Infestato",
 		},
 		[2818] = {
 			["school"] = 8,
@@ -15690,14 +15724,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lunysse",
 		},
-		[307977] = {
-			["school"] = 32,
+		[303550] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Profeta Skitra",
+			["source"] = "Plasmamaree Korvess",
 		},
 		[204301] = {
 			["school"] = 2,
@@ -15725,20 +15757,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Drkoo",
 		},
-		[280849] = {
-			["school"] = 1,
+		[310019] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+		},
+		[259574] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Elfalassion",
-		},
-		[203539] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Märth",
+			["source"] = "Vol'kaal",
 		},
 		[184092] = {
 			["school"] = 2,
@@ -15780,22 +15813,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Faccioschifo",
 		},
-		[317265] = {
-			["school"] = 64,
+		[268122] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Sorella Prunospina",
+		},
+		[268125] = {
+			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Shynga",
-		},
-		[280410] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Voidvenom",
 		},
 		[280407] = {
 			["school"] = 1,
@@ -15811,13 +15843,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Elfalassion",
 		},
-		[271456] = {
+		[300882] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Magnate Trucirazzi",
+			["source"] = "Comandante Abissale Sivara",
 		},
 		[271194] = {
 			["school"] = 4,
@@ -15837,13 +15870,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Comandante Abissale Sivara",
 		},
-		[265168] = {
+		[311121] = {
 			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Rummy Mancomb",
+			["source"] = "Tentacolo Spinoso",
 		},
 		[298836] = {
 			["school"] = 1,
@@ -15869,22 +15902,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bölim",
 		},
-		[311121] = {
+		[265168] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Tentacolo Spinoso",
-		},
-		[300882] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Comandante Abissale Sivara",
+			["source"] = "Rummy Mancomb",
+		},
+		[271456] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Magnate Trucirazzi",
 		},
 		[295766] = {
 			["school"] = 1,
@@ -15894,21 +15926,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mirmidone Zanj'ir",
 		},
-		[268125] = {
-			["school"] = 1,
+		[317265] = {
+			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
+			["source"] = "Shynga",
 		},
-		[268122] = {
+		[280410] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sorella Prunospina",
+			["source"] = "Voidvenom",
 		},
 		[260016] = {
 			["school"] = 1,
@@ -15952,21 +15985,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Thebígdaddy",
 		},
-		[259574] = {
-			["school"] = 8,
+		[203539] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Märth",
+		},
+		[280849] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vol'kaal",
-		},
-		[310019] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
+			["source"] = "Elfalassion",
 		},
 		[265056] = {
 			["school"] = 1,
@@ -15985,19 +16017,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Warhull",
 		},
-		[303550] = {
-			["school"] = 16,
+		[307977] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Plasmamaree Korvess",
-		},
-		[260334] = {
-			["school"] = 1,
-			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Faucilarghe l'Infestato",
+			["source"] = "Profeta Skitra",
+		},
+		[266191] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
 		},
 		[257458] = {
 			["school"] = 64,
@@ -16007,15 +16042,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Harlan Sweete",
 		},
-		[307020] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[300492] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Vexiona",
+			["source"] = "Serena Sfregiasquame",
 		},
 		[267105] = {
 			["school"] = 16,
@@ -16025,45 +16060,42 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Totem del Torrente",
 		},
-		[25914] = {
-			["school"] = 2,
+		[294847] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Synshin",
+			["source"] = "Comandante Abissale Sivara",
 		},
-		[283422] = {
+		[50401] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Hygwirn",
+		},
+		[19483] = {
+			["school"] = 4,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Infernale",
+		},
+		[304055] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gnom-O-Pietà X-T3",
+			["source"] = "Aphropard",
 		},
-		[311045] = {
-			["school"] = 32,
+		[190984] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Proselita Zelante",
-		},
-		[307017] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Scheggia Crepitante",
-		},
-		[257310] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Cannone dei Marferreo",
+			["source"] = "Shynga",
 		},
 		[257459] = {
 			["school"] = 1,
@@ -16075,33 +16107,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tagliatore Ganciorosso",
 		},
-		[303568] = {
+		[116768] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Maccio",
-		},
-		[304081] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
 			["source"] = "Aphropard",
 		},
-		[85288] = {
+		[295351] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Elfalassion",
+			["source"] = "Namuel",
 		},
-		[263962] = {
+		[250368] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Vol'kaal",
+		},
+		[83381] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Voidvenom",
+			["source"] = "Apina",
 		},
 		[157644] = {
 			["school"] = 1,
@@ -16111,24 +16146,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Motimoto",
 		},
-		[282444] = {
+		[295365] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Aspetto di Kimbul",
+			["source"] = "Outofmind",
 		},
-		[303572] = {
-			["school"] = 1,
+		[257278] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Maccio",
+			["source"] = "Harlan Sweete",
 		},
 		[257460] = {
 			["school"] = 4,
@@ -16138,19 +16168,22 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[288754] = {
+		[257418] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Faccioschifo",
+			["source"] = "Lyiu",
 		},
-		[285152] = {
+		[281517] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Gnom-O-Pietà X-T3",
+			["source"] = "Heliur",
 		},
 		[300893] = {
 			["school"] = 1,
@@ -16160,64 +16193,63 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Faccioschifo",
 		},
-		[250096] = {
+		[197908] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Kmeerr",
+		},
+		[268278] = {
 			["school"] = 32,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Yazma",
+			["source"] = "Dama Crestabianca",
 		},
-		[305602] = {
+		[19574] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Voidvenom",
+		},
+		[270576] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Voidvenom",
+		},
+		[287774] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Cioccolatino",
+		},
+		[1064] = {
 			["school"] = 8,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Zoatroide",
-		},
-		[283810] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Elfalassion",
-		},
-		[298946] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Naeno Megaschianto",
+			["source"] = "Thewatergød",
 		},
-		[260312] = {
-			["school"] = 1,
+		[257593] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Faucilarghe l'Infestato",
-		},
-		[300504] = {
-			["school"] = 64,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Regina Azshara",
-		},
-		[224126] = {
-			["school"] = 16,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Lupo Spirituale",
+			["source"] = "Azerokk",
 		},
 		[164812] = {
 			["school"] = 64,
@@ -16230,46 +16262,44 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aigan",
 		},
-		[303986] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Regina Azshara",
-		},
-		[132404] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "나와함께있어",
-		},
-		[308029] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Profeta Skitra",
-		},
-		[57723] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Enaumonk",
-		},
-		[306015] = {
+		[265914] = {
 			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+		},
+		[259182] = {
+			["school"] = 32,
+			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Irathion",
+			["source"] = "Yazma",
+		},
+		[306228] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sconosciuto",
+		},
+		[264712] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+		},
+		[95987] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
 		},
 		[298849] = {
 			["school"] = 8,
@@ -16279,14 +16309,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Trixie Taser",
 		},
-		[268234] = {
-			["school"] = 1,
+		[295263] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Melma Biliosa",
+			["source"] = "Zedarcane",
 		},
 		[209858] = {
 			["school"] = 1,
@@ -16297,13 +16325,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Viperis",
 		},
-		[224266] = {
-			["school"] = 2,
+		[291843] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Kàtsumoto",
+			["source"] = "Cioccolatino",
 		},
 		[270185] = {
 			["school"] = 8,
@@ -16322,69 +16352,74 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mirmidone Zanj'ir",
 		},
-		[236060] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Motimoto",
-		},
-		[309697] = {
+		[260067] = {
 			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ritualista Vincolamagie",
-		},
-		[307041] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Irathion",
-		},
-		[296726] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Dama Bracescura",
-		},
-		[186254] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Voidvenom",
-		},
-		[236299] = {
-			["school"] = 64,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Oratore delle Fiamme Rastari",
+			["source"] = "Bobby Howlis",
 		},
-		[256896] = {
-			["school"] = 2,
+		[29722] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Odettah",
+			["source"] = "Scisma",
 		},
-		[283637] = {
-			["school"] = 2,
+		[266091] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Scisma",
+		},
+		[263984] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Xubuntu",
+		},
+		[267665] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Oloudin",
+		},
+		[267618] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Mchimba l'Imbalsamatore",
+		},
+		[114093] = {
+			["school"] = 1,
+			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Crociato Zandalari",
+			["source"] = "Ryumajin",
+		},
+		[259975] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "La Regina delle Sabbie",
 		},
 		[228287] = {
 			["school"] = 1,
@@ -16394,29 +16429,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kundozen",
 		},
-		[166302] = {
-			["school"] = 1,
+		[162264] = {
+			["school"] = 127,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sconosciuto",
-		},
-		[285452] = {
-			["school"] = 4,
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Zeramos",
+			["source"] = "Ripto",
 		},
-		[305393] = {
-			["school"] = 1,
+		[279956] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Flagellatore Platinato",
+			["source"] = "Oloudin",
+		},
+		[90325] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Bruto Soggiogato",
 		},
 		[164815] = {
 			["school"] = 8,
@@ -16429,50 +16466,44 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aigan",
 		},
-		[268008] = {
-			["school"] = 32,
+		[633] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Dottoressa della Pestilenza",
-		},
-		[282914] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Fa'thuul il Temuto",
-		},
-		[77762] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Zeramos",
-		},
-		[34914] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Camadon",
+			["source"] = "Scassacaiser",
 		},
-		[85739] = {
-			["school"] = 1,
+		[303390] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Elfalassion",
+			["source"] = "Hygwirn",
+		},
+		[275477] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Odettah",
+		},
+		[250036] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[294711] = {
+			["school"] = 16,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Comandante Abissale Sivara",
 		},
 		[266095] = {
 			["school"] = 1,
@@ -16483,21 +16514,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gorjesh il Fracassatore",
 		},
-		[307284] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[231843] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vexiona",
+			["source"] = "Oloudin",
 		},
-		[96231] = {
+		[268932] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Codyellow",
+			["source"] = "Re Dazar",
 		},
 		[273262] = {
 			["school"] = 1,
@@ -16506,14 +16537,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ahyamano",
 		},
-		[285190] = {
+		[260279] = {
 			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Bwonsamdi",
 		},
 		[57984] = {
 			["school"] = 4,
@@ -16531,60 +16561,53 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Edwardngate",
 		},
-		[289890] = {
+		[272790] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Re Rastakhan",
+			["source"] = "Ryuend",
 		},
-		[287648] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[299535] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Fulminatore Testapistone",
+		},
+		[264603] = {
+			["school"] = 64,
+			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Mano di In'zashi",
+			["source"] = "Anziana Leaxa",
 		},
-		[257777] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[270657] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Jes Ululis",
+			["source"] = "Namuel",
 		},
-		[307218] = {
+		[273264] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ryuend",
+		},
+		[311143] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Vexiona",
-		},
-		[297834] = {
-			["school"] = 40,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Sporcheria",
-		},
-		[251836] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Greatinn",
+			["source"] = "Sangue di Ny'alotha",
 		},
 		[118000] = {
 			["school"] = 1,
@@ -16603,39 +16626,38 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Capitano Cavaliere Valyri",
 		},
-		[301930] = {
-			["school"] = 8,
+		[297835] = {
+			["school"] = 40,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Behemoth Acquanera",
+			["source"] = "Sporcheria",
 		},
-		[299153] = {
-			["school"] = 8,
+		[271903] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Trixie Taser",
+			["source"] = "Sfollagente a Gettoni",
 		},
-		[268308] = {
-			["school"] = 32,
+		[298787] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Dama Crestabianca",
+			["source"] = "Regina Azshara",
 		},
-		[315179] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[298018] = {
+			["school"] = 16,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Wordex",
+			["source"] = "Aethenel",
 		},
 		[297836] = {
 			["school"] = 8,
@@ -16655,14 +16677,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lyiu",
 		},
-		[204079] = {
-			["school"] = 2,
-			["type"] = "DEBUFF",
+		[288080] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Odettah",
+			["source"] = "Panpaniscus",
 		},
 		[280433] = {
 			["school"] = 1,
@@ -16672,21 +16692,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zeramos",
 		},
-		[261563] = {
-			["school"] = 16,
+		[212423] = {
+			["school"] = 1,
 			["token"] = {
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Hadal Fondoscuro",
+			["source"] = "Furtivo Rianimato",
 		},
-		[250585] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[225311] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
+			["source"] = "Synshin",
 		},
 		[303980] = {
 			["school"] = 1,
@@ -16695,12 +16715,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Regina Azshara",
 		},
-		[131347] = {
-			["school"] = 1,
+		[259092] = {
+			["school"] = 8,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ripto",
+			["source"] = "Invocatore delle Tempeste Marferreo",
 		},
 		[255421] = {
 			["school"] = 1,
@@ -16711,61 +16733,61 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rezan",
 		},
-		[256016] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-		},
-		[303981] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Regina Azshara",
-		},
-		[297311] = {
+		[263234] = {
 			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Re Gobbamak",
-		},
-		[256546] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Trothak",
-		},
-		[296078] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Za'qul",
+			["source"] = "Viperis",
 		},
-		[160067] = {
+		[295791] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Dethtilac",
+			["source"] = "Comandante Abissale Sivara",
 		},
-		[257946] = {
+		[312336] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Inquisitrice Oscura Xanesh",
+		},
+		[282939] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Protettore di Yalat",
+		},
+		[293923] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ryuend",
+			["source"] = "Sangue Ribollente",
+		},
+		[273461] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Cioccolatino",
+		},
+		[285572] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Fantasma del Castigo",
 		},
 		[226757] = {
 			["school"] = 4,
@@ -16793,14 +16815,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Goliath Vincolato",
 		},
-		[642] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[269361] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Oloudin",
+			["source"] = "Re Dazar",
 		},
 		[261565] = {
 			["school"] = 16,
@@ -16817,15 +16837,44 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Warhull",
 		},
-		[288828] = {
+		[240447] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[284719] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Maestro delle Bestie Rastari",
+			["source"] = "Spezzassedio Roka",
 		},
-		[256198] = {
+		[202188] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Realtotema",
+		},
+		[278758] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Elfalassion",
+		},
+		[295795] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Comandante Abissale Sivara",
+		},
+		[256199] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
@@ -16835,45 +16884,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sovrintendente Korgus",
 		},
-		[273272] = {
+		[23161] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Guglia Polarizzata",
-		},
-		[202602] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Lîlynette",
-		},
-		[299890] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Devoto di Azshara",
-		},
-		[272979] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Odettah",
-		},
-		[260103] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
+			["source"] = "Dharlaa",
 		},
 		[307057] = {
 			["school"] = 32,
@@ -16883,13 +16900,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vexiona",
 		},
-		[295796] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[90361] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Comandante Abissale Sivara",
+			["source"] = "Anacleto",
 		},
 		[35079] = {
 			["school"] = 1,
@@ -16914,22 +16932,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Yajsha",
 		},
-		[260805] = {
+		[303344] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sorella Solena",
+			["source"] = "Kàtsumoto",
 		},
-		[295444] = {
-			["school"] = 32,
+		[25504] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Za'qul",
+			["source"] = "Ryumajin",
 		},
 		[265085] = {
 			["school"] = 1,
@@ -16940,30 +16958,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rummy Mancomb",
 		},
-		[304877] = {
-			["school"] = 1,
+		[301424] = {
+			["school"] = 65,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Faccioschifo",
+			["source"] = "Console dei Titani",
 		},
-		[263927] = {
-			["school"] = 8,
+		[304645] = {
+			["school"] = 16,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Merektha",
+			["source"] = "Sarfdh",
 		},
-		[1044] = {
-			["school"] = 2,
+		[232698] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Scassacaiser",
+			["source"] = "Vkookisreal",
 		},
 		[265086] = {
 			["school"] = 1,
@@ -16982,29 +16999,26 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Oloudin",
 		},
-		[316274] = {
+		[295799] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Inquisitrice Oscura Xanesh",
 		},
-		[49184] = {
-			["school"] = 16,
+		[279642] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Hygwirn",
+			["source"] = "Outofmind",
 		},
-		[2823] = {
+		[264605] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Silencexx",
+			["source"] = "Rummy Mancomb",
 		},
 		[188370] = {
 			["school"] = 2,
@@ -17014,15 +17028,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Synshin",
 		},
-		[299094] = {
-			["school"] = 127,
-			["type"] = "DEBUFF",
+		[280653] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Regina Azshara",
+			["source"] = "Xubuntu",
 		},
 		[300919] = {
 			["school"] = 1,
@@ -17040,54 +17053,50 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rummy Mancomb",
 		},
-		[269085] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Kmeerr",
-		},
-		[264913] = {
+		[266180] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Aqu'sirr",
+			["source"] = "Voidvenom",
 		},
-		[146347] = {
-			["school"] = 32,
+		[305663] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Namuel",
-		},
-		[267299] = {
-			["school"] = 32,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Vol'zith la Sussurrante",
-		},
-		[208086] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Maccio",
-		},
-		[303453] = {
-			["school"] = 1,
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Gladiatore Zanj'ir",
+			["source"] = "Maut",
+		},
+		[281327] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Hygwirn",
+		},
+		[278609] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Odettah",
+		},
+		[304866] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Mietitore del Vuoto Shirakess",
+		},
+		[115357] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ryumajin",
 		},
 		[288636] = {
 			["school"] = 1,
@@ -17105,29 +17114,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Abominio Indomabile",
 		},
-		[153564] = {
-			["school"] = 4,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Zedarcane",
-		},
-		[292971] = {
+		[311159] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[268904] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Xubuntu",
+			["source"] = "Il'gynoth",
+		},
+		[257308] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Cannone dei Marferreo",
+		},
+		[283650] = {
+			["school"] = 2,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Crociato Zandalari",
 		},
 		[297851] = {
 			["school"] = 1,
@@ -17138,32 +17148,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sconosciuto",
 		},
-		[285460] = {
+		[32182] = {
 			["school"] = 8,
-			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Gran Macchinista Flussascintille",
+			["source"] = "Ryumajin",
 		},
-		[319237] = {
-			["school"] = 1,
+		[51124] = {
+			["school"] = 16,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Thebígdaddy",
+			["source"] = "Hygwirn",
 		},
-		[51460] = {
+		[313208] = {
 			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Necròs",
+			["source"] = "Sconosciuto",
 		},
 		[301947] = {
 			["school"] = 1,
@@ -17173,16 +17180,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pashmar la Fanatica",
 		},
-		[286779] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[258338] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Fantasma del Massacro",
+			["source"] = "Capitano Raoul",
 		},
 		[260547] = {
 			["school"] = 4,
@@ -17192,13 +17195,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Controllo del Fulmine",
 		},
-		[80354] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[130736] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Marò",
+			["source"] = "Necròs",
 		},
 		[257476] = {
 			["school"] = 1,
@@ -17217,14 +17219,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hoffu",
 		},
-		[248622] = {
+		[276190] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Maccio",
+			["source"] = "Jolok",
 		},
 		[272260] = {
 			["school"] = 2,
@@ -17235,87 +17236,86 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bölim",
 		},
-		[285454] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Gran Macchinista Flussascintille",
-		},
-		[285453] = {
+		[194310] = {
 			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Uu'nat",
-		},
-		[284730] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Spezzassedio Roka",
-		},
-		[278719] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Cioccolatino",
-		},
-		[273285] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Baccello Instabile",
-		},
-		[223819] = {
-			["school"] = 2,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Kàtsumoto",
-		},
-		[246852] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ryuend",
-		},
-		[280177] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Marò",
+			["source"] = "Drkoo",
 		},
-		[201427] = {
+		[299357] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Faccioschifo",
+		},
+		[201428] = {
 			["school"] = 127,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Ripto",
 		},
-		[194249] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[262115] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Maccio",
+		},
+		[204242] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Camadon",
+			["source"] = "Vinli",
+		},
+		[258875] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Barile dell'Oscuramento",
+		},
+		[289893] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Re Rastakhan",
+		},
+		[255836] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Sacerdotessa Alun'za",
+		},
+		[267890] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+		},
+		[275429] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Vaajj",
 		},
 		[283524] = {
 			["school"] = 32,
@@ -17337,16 +17337,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-Den",
 		},
-		[257478] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[108280] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Mastino dei Marferreo",
+			["source"] = "Realtotema",
 		},
 		[311166] = {
 			["school"] = 1,
@@ -17355,12 +17353,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wordex",
 		},
-		[299373] = {
-			["school"] = 1,
+		[48107] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Yajsha",
+			["source"] = "Zedarcane",
 		},
 		[288644] = {
 			["school"] = 1,
@@ -17371,27 +17370,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Namuel",
 		},
-		[311210] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Jeom",
-		},
-		[299368] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Khaterian",
-		},
-		[281178] = {
+		[284377] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Oloudin",
+			["source"] = "Sconosciuto",
+		},
+		[51533] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Ryumajin",
+		},
+		[257092] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "La Regina delle Sabbie",
 		},
 		[313215] = {
 			["school"] = 32,
@@ -17401,56 +17401,59 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[267874] = {
-			["school"] = 4,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-		},
-		[194084] = {
-			["school"] = 4,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Ryumajin",
-		},
-		[263309] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Viperis",
-		},
-		[196725] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Kmeerr",
-		},
-		[296566] = {
+		[288091] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
+			},
+			["source"] = "Elfalassion",
+		},
+		[267385] = {
+			["school"] = 32,
+			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Radiosità di Azshara",
+			["source"] = "Tentacolo",
 		},
-		[17364] = {
-			["school"] = 1,
+		[302847] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Ryumajin",
+			["source"] = "Friedebert",
+		},
+		[31884] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Kàtsumoto",
+		},
+		[7384] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Maccio",
+		},
+		[114250] = {
+			["school"] = 2,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Xubuntu",
 		},
 		[260551] = {
 			["school"] = 1,
@@ -17460,20 +17463,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Goliath Vincolato",
 		},
-		[306111] = {
-			["school"] = 4,
+		[298121] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Irathion",
+			["source"] = "Aethenel",
 		},
-		[285185] = {
+		[260773] = {
 			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Uu'nat",
+			["source"] = "Sorella Solena",
 		},
 		[315265] = {
 			["school"] = 1,
@@ -17484,23 +17489,24 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Portale della Vita",
 		},
-		[260923] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sorella Solena",
-		},
-		[269301] = {
-			["school"] = 32,
+		[155158] = {
+			["school"] = 4,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Abominio Indomabile",
+			["source"] = "Zedarcane",
+		},
+		[291878] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Unità Aerea R-21/X",
 		},
 		[157153] = {
 			["school"] = 8,
@@ -17518,55 +17524,54 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Tobako",
 		},
-		[299337] = {
+		[279899] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Faccioschifo",
+			["source"] = "Ahyamano",
 		},
-		[282886] = {
-			["school"] = 16,
+		[185099] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Runa Oceanica",
+			["source"] = "Aphropard",
 		},
-		[93402] = {
-			["school"] = 8,
+		[285894] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Shynga",
+			["source"] = "Aspetto di Gonk",
 		},
-		[282736] = {
+		[51505] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Chròma",
+		},
+		[295248] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Aspetto di Pa'ku",
+			["source"] = "Ryuend",
 		},
-		[264420] = {
-			["school"] = 1,
+		[190319] = {
+			["school"] = 4,
 			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Supergnöm",
-		},
-		[191840] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_HEAL"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
-			},
-			["source"] = "Kmeerr",
+			["source"] = "Yajsha",
 		},
 		[255434] = {
 			["school"] = 1,
@@ -17578,22 +17583,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Rezan",
 		},
-		[269493] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[269242] = {
+			["school"] = 32,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sfollagente a Gettoni",
+			["source"] = "Héxèn",
 		},
-		[292361] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[285010] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Thebígdaddy",
 		},
 		[256970] = {
 			["school"] = 4,
@@ -17629,43 +17633,42 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Megera Azsh'ari",
 		},
-		[317020] = {
-			["school"] = 32,
+		[277703] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Zedarcane",
+		},
+		[298197] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Vinli",
+		},
+		[260697] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sorella Prunospina",
+		},
+		[256459] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Thebígdaddy",
-		},
-		[306929] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Shad'har l'Insaziabile",
-		},
-		[306930] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Shad'har l'Insaziabile",
-		},
-		[299914] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Silivaz lo Zelante",
+			["source"] = "Nutrien",
 		},
 		[288653] = {
 			["school"] = 1,
@@ -17676,35 +17679,35 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Namuel",
 		},
-		[256710] = {
-			["school"] = 4,
+		[317001] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[260701] = {
+		[196718] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Sorella Prunospina",
-		},
-		[63619] = {
-			["school"] = 32,
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Spirito d'Ombra",
+			["source"] = "Sarfdh",
 		},
-		[295536] = {
-			["school"] = 8,
+		[299915] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Unità di Oppressione Aerea HK-8",
+			["source"] = "Silivaz lo Zelante",
+		},
+		[263858] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Apina",
 		},
 		[259531] = {
 			["school"] = 32,
@@ -17715,29 +17718,30 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Totem della Rianimazione",
 		},
-		[292162] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Behemoth Acquanera",
-		},
-		[288075] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Thebígdaddy",
-		},
-		[281744] = {
-			["school"] = 1,
+		[316745] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Vinli",
+			["source"] = "Vexiona",
+		},
+		[280012] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Wordex",
+		},
+		[267444] = {
+			["school"] = 32,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Vol'zith la Sussurrante",
 		},
 		[273299] = {
 			["school"] = 1,
@@ -17747,23 +17751,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirito di Fuoco",
 		},
-		[165961] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[55095] = {
+			["school"] = 16,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Naamaya",
+			["source"] = "Hygwirn",
 		},
-		[295822] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[299917] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Megera Azsh'ari",
+			["source"] = "Silivaz lo Zelante",
 		},
 		[272276] = {
 			["school"] = 2,
@@ -17773,31 +17774,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Héxèn",
 		},
-		[295855] = {
+		[260703] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Sorella Malady",
+		},
+		[203277] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Guardiano di Azeroth",
+			["source"] = "Tryharderr",
 		},
-		[282801] = {
+		[263325] = {
 			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Flagellatore Platinato",
-		},
-		[268953] = {
-			["school"] = 4,
-			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Zedarcane",
+			["source"] = "Viperis",
 		},
 		[313227] = {
 			["school"] = 32,
@@ -17808,12 +17809,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ra-Den",
 		},
-		[81297] = {
-			["school"] = 2,
+		[107270] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Odettah",
+			["source"] = "Aphropard",
 		},
 		[282515] = {
 			["school"] = 32,
@@ -17823,23 +17824,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zaxasj l'Oratore",
 		},
-		[309654] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Inquisitrice Oscura Xanesh",
-		},
-		[286742] = {
-			["school"] = 32,
+		[258883] = {
+			["school"] = 124,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Fantasma della Rabbia",
+			["source"] = "Cded",
+		},
+		[275488] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Realtotema",
 		},
 		[11366] = {
 			["school"] = 4,
@@ -17850,54 +17849,61 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Motimoto",
 		},
-		[298318] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
-			},
-			["source"] = "Maccio",
-		},
-		[295825] = {
+		[295161] = {
 			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Orgozoa",
+			["source"] = "Zoatroide",
 		},
-		[298242] = {
-			["school"] = 8,
+		[283540] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Orgozoa",
+			["source"] = "Sconosciuto",
 		},
-		[280210] = {
+		[270661] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Maccio",
-		},
-		[298897] = {
-			["school"] = 8,
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Trixie Taser",
+			["source"] = "Mirrormask",
 		},
-		[271843] = {
-			["school"] = 2,
+		[204262] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
+			},
+			["source"] = "Realtotema",
+		},
+		[282517] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sconosciuto",
+		},
+		[81262] = {
+			["school"] = 8,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Warhull",
+			["source"] = "Efflorescenza",
 		},
 		[296850] = {
 			["school"] = 1,
@@ -17907,14 +17913,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pashmar la Fanatica",
 		},
-		[29166] = {
-			["school"] = 8,
+		[257650] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Shynga",
+			["source"] = "Tagliatore Ganciorosso",
 		},
 		[298898] = {
 			["school"] = 1,
@@ -17931,43 +17937,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Darthdat",
 		},
-		[268186] = {
-			["school"] = 8,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-		},
-		[292167] = {
+		[296851] = {
 			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Behemoth Acquanera",
+			["source"] = "Pashmar la Fanatica",
 		},
-		[315311] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[85256] = {
+			["school"] = 2,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Devastatore Aqir",
+			["source"] = "Kàtsumoto",
 		},
-		[285388] = {
+		[277644] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Gnom-O-Pietà X-T3",
+			["source"] = "Darthdat",
+		},
+		[282617] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Fa'thuul il Temuto",
 		},
 		[296852] = {
 			["school"] = 8,
@@ -17977,13 +17976,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pashmar la Fanatica",
 		},
-		[196741] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[294128] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tobako",
+			["source"] = "Giocattolo a Razzo",
 		},
 		[255952] = {
 			["school"] = 1,
@@ -17993,22 +17992,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Capitano dei Cieli Kragg",
 		},
-		[266941] = {
+		[304089] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Aka'ali la Conquistatrice",
+			["source"] = "Beboko",
 		},
-		[303799] = {
-			["school"] = 127,
-			["type"] = "DEBUFF",
+		[202539] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Regina Azshara",
+			["source"] = "Kõhai",
 		},
 		[285592] = {
 			["school"] = 1,
@@ -18017,13 +18015,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Fantasma del Castigo",
 		},
-		[308956] = {
-			["school"] = 32,
+		[268591] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Occhio di Drest'agath",
+			["source"] = "Re Dazar",
 		},
 		[287640] = {
 			["school"] = 8,
@@ -18034,37 +18032,36 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Carica Instabile",
 		},
-		[256105] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Sovrintendente Korgus",
-		},
-		[216411] = {
-			["school"] = 1,
-			["type"] = "BUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Babyruth",
-		},
-		[299346] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Wordex",
-		},
-		[268589] = {
-			["school"] = 1,
+		[207230] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Re Dazar",
+			["source"] = "Hygwirn",
+		},
+		[259711] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Custode del Braccio",
+		},
+		[258864] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+			["source"] = "Soldato dei Bracescura",
+		},
+		[263912] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Merektha",
 		},
 		[236502] = {
 			["school"] = 1,
@@ -18074,37 +18071,37 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Realtotema",
 		},
-		[269214] = {
+		[187874] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Ryumajin",
+		},
+		[118779] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Codyellow",
+			["source"] = "Elfalassion",
 		},
-		[12294] = {
+		[272718] = {
 			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Frostreina",
+		},
+		[53600] = {
+			["school"] = 2,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Maccio",
-		},
-		[228598] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Marò",
-		},
-		[270590] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Terrore Polverizzante",
+			["source"] = "Odettah",
 		},
 		[306070] = {
 			["school"] = 64,
@@ -18114,80 +18111,79 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Maut",
 		},
-		[302999] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Regina Azshara",
-		},
-		[314347] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Assassino Calcacenere",
-		},
-		[55090] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Necròs",
-		},
-		[307358] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Shad'har l'Insaziabile",
-		},
-		[275779] = {
-			["school"] = 2,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Odettah",
-		},
-		[22842] = {
-			["school"] = 1,
+		[282524] = {
+			["school"] = 32,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Aigan",
+			["source"] = "Apparizione dall'Aldilà",
 		},
-		[297162] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[300665] = {
+			["school"] = 40,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Bulkyaf",
+			["source"] = "Guardingo Tossico",
 		},
-		[258922] = {
-			["school"] = 4,
+		[269266] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Terrore Polverizzante",
+		},
+		[257292] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Sventratore Marferreo",
+		},
+		[296560] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
+			},
+		},
+		[257348] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Tagliatore Ganciorosso",
+		},
+		[269456] = {
+			["school"] = 16,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Viq'goth",
+		},
+		[301351] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Unità di Oppressione Aerea HK-8",
+		},
+		[302384] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Cded",
-		},
-		[278841] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Elfalassion",
+			["source"] = "Elettrotrasmittente X1",
 		},
 		[295835] = {
 			["school"] = 4,
@@ -18197,23 +18193,19 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Elfalassion",
 		},
-		[268194] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[162794] = {
+			["school"] = 127,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Necròs",
-		},
-		[310614] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Tentacolo di Drest'agath",
+			["source"] = "Faccioschifo",
+		},
+		[268596] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Voidvenom",
 		},
 		[311192] = {
 			["school"] = 4,
@@ -18233,28 +18225,31 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Demolitore Omega",
 		},
-		[117828] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[264477] = {
+			["school"] = 48,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Aqu'sirr",
+		},
+		[307478] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Shad'har l'Insaziabile",
+		},
+		[307472] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
+			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Scisma",
-		},
-		[275425] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Darthdat",
-		},
-		[100] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-			},
-			["source"] = "Kõhai",
+			["source"] = "Shad'har l'Insaziabile",
 		},
 		[295837] = {
 			["school"] = 1,
@@ -18273,13 +18268,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aqu'sirr",
 		},
-		[276068] = {
-			["school"] = 16,
+		[297283] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Hadal Fondoscuro",
 		},
 		[188389] = {
 			["school"] = 4,
@@ -18292,14 +18288,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Zeramos",
 		},
-		[295838] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[48265] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Aigan",
+			["source"] = "Hygwirn",
 		},
 		[300957] = {
 			["school"] = 1,
@@ -18308,19 +18304,18 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Comandante Abissale Sivara",
 		},
-		[64901] = {
-			["school"] = 2,
-			["type"] = "BUFF",
+		[255445] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Héxèn",
+			["source"] = "Rezan",
 		},
-		[40602] = {
+		[126664] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Kõhai",
 		},
@@ -18332,21 +18327,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Murana",
 		},
-		[283598] = {
+		[268230] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Ra'wani Kanae",
-		},
-		[77575] = {
-			["school"] = 32,
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Necròs",
+			["source"] = "Mozzo dei Bracescura",
+		},
+		[187878] = {
+			["school"] = 8,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Ryumajin",
 		},
 		[315291] = {
 			["school"] = 32,
@@ -18368,14 +18364,11 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[291974] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[296331] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Re Meccagon",
 		},
 		[311197] = {
 			["school"] = 1,
@@ -18384,31 +18377,26 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wordex",
 		},
-		[295841] = {
+		[287651] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Ripto",
+			["source"] = "Mano di In'zashi",
 		},
-		[264105] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Sorella Marchiata",
-		},
-		[272471] = {
+		[288675] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ricognitore dei Bracescura",
+			["source"] = "Thewatergød",
+		},
+		[299093] = {
+			["school"] = 64,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+			},
 		},
 		[311198] = {
 			["school"] = 1,
@@ -18426,29 +18414,29 @@ EncounterDetailsDB = {
 			},
 			["source"] = "나와함께있어",
 		},
-		[303558] = {
-			["school"] = 8,
+		[272422] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Voidvenom",
-		},
-		[196771] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Hygwirn",
-		},
-		[274642] = {
-			["school"] = 4,
-			["token"] = {
 				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Ricognitrice dei Bracescura",
+		},
+		[184364] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Kõhai",
+		},
+		[282945] = {
+			["school"] = 1,
+			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Malefico del Vudù",
+			["source"] = "Sega Rotante",
 		},
 		[295843] = {
 			["school"] = 1,
@@ -18457,15 +18445,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ripto",
 		},
-		[268202] = {
+		[228318] = {
 			["school"] = 1,
-			["type"] = "DEBUFF",
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Schiavista Sfiorato dalla Morte",
+			["source"] = "Assalitore Sabbioso",
 		},
 		[257495] = {
 			["school"] = 8,
@@ -18477,43 +18464,43 @@ EncounterDetailsDB = {
 			},
 			["source"] = "La Regina delle Sabbie",
 		},
-		[272528] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Cecchina dei Bracescura",
-		},
-		[272421] = {
-			["school"] = 64,
-			["type"] = "DEBUFF",
+		[44614] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Ricognitrice dei Bracescura",
+			["source"] = "Marò",
 		},
-		[268203] = {
-			["school"] = 32,
+		[228354] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Schiavista Sfiorato dalla Morte",
+			["source"] = "Marò",
 		},
-		[257316] = {
-			["school"] = 8,
+		[264108] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Harlan Sweete",
+			["source"] = "Cioccolatino",
 		},
-		[231390] = {
+		[57755] = {
+			["school"] = 1,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "Edwardngate",
+		},
+		[274346] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Voidvenom",
+			["source"] = "Alastõr",
 		},
 		[23881] = {
 			["school"] = 1,
@@ -18523,28 +18510,28 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Elfalassion",
 		},
-		[259147] = {
-			["school"] = 32,
+		[296184] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
+			["source"] = "Héxèn",
 		},
-		[200166] = {
-			["school"] = 124,
-			["type"] = "DEBUFF",
+		[273323] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Ripto",
+			["source"] = "Ryumajin",
 		},
-		[1943] = {
-			["school"] = 1,
+		[257033] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lunysse",
+			["source"] = "Capitano Cavaliere Valyri",
 		},
 		[295846] = {
 			["school"] = 1,
@@ -18553,14 +18540,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "나와함께있어",
 		},
-		[31224] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[280583] = {
+			["school"] = 4,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Lunysse",
+			["source"] = "Mgnwhitejack",
 		},
 		[273324] = {
 			["school"] = 8,
@@ -18569,19 +18557,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Ryumajin",
 		},
-		[265757] = {
+		[310788] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Matrona Bryndle",
+			["source"] = "Organo della Corruzione",
 		},
-		[265761] = {
-			["school"] = 1,
+		[312486] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Matrona Bryndle",
+			["source"] = "Sangue di Ny'alotha",
 		},
 		[264111] = {
 			["school"] = 32,
@@ -18590,14 +18581,23 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sorella Marchiata",
 		},
-		[269282] = {
-			["school"] = 32,
+		[208674] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Héxèn",
+			["source"] = "Macellaio di Anime Sinistro",
 		},
+	},
+	["emotes"] = {
+		{
+			["boss"] = "Vol'zith la Sussurrante",
+		}, -- [1]
+		{
+			["boss"] = "Ser Sacraonda",
+		}, -- [2]
+		{
+			["boss"] = "Concilio dei Saggi delle Maree",
+		}, -- [3]
 	},
 }

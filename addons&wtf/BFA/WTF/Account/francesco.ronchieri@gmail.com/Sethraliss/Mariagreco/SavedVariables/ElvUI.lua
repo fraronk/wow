@@ -24,468 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Interrupted Ser Sacraonda's |cff71d5ff|Hspell:268347:0|h[Dardo del Vuoto]|h|r!", -- [1]
-			"Mariagreco", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1073, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1623795539,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"Plagiamente Antico su Voidvenom", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1075, -- [11]
-			"Player-10-004B3A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1623795556,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
-		{
-			"Interrupted |cff71d5ff|Hspell:268315:0|h[Sferzata]|h|r on Abitante dell'Abisso", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1079, -- [11]
-			"Player-10-004B3A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1623795614,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
-		{
-			"anyone know how to fix the bug from the 2 mount person that the other person can't mount ?", -- [1]
-			"Velkayla", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Velkayla-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
-			0, -- [10]
-			1080, -- [11]
-			"Player-10-00828FA5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeVelkayla|r",
-			[51] = 1623795634,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"Interrupted Cultista dell'Abisso's |cff71d5ff|Hspell:268375:0|h[Rivelazione Pensieri]|h|r!", -- [1]
-			"Mariagreco", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1081, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1623795634,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"try relogging", -- [1]
-			"Thorrumli", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Thorrumli-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
-			0, -- [10]
-			1082, -- [11]
-			"Player-10-0018D425", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Thorrumli|r",
-			[51] = 1623795650,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"Interrupted Araldo delle Profondità Annegato's |cff71d5ff|Hspell:274703:0|h[Dardo del Vuoto]|h|r!", -- [1]
-			"Mariagreco", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1083, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1623795659,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"Interrupted |cff71d5ff|Hspell:276767:0|h[Consumo del Vuoto]|h|r on Cultista dell'Abisso", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1084, -- [11]
-			"Player-10-004B3A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1623795663,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Interrupted Araldo delle Profondità Annegato's |cff71d5ff|Hspell:274703:0|h[Dardo del Vuoto]|h|r!", -- [1]
-			"Mariagreco", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1085, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1623795709,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"Interrupted |cff71d5ff|Hspell:274703:0|h[Dardo del Vuoto]|h|r on Araldo delle Profondità Annegato", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1086, -- [11]
-			"Player-10-004B3A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1623795717,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
-			"Mariagreco", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1087, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1623795839,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
-			"Uraine", -- [2]
-			"Comune", -- [3]
-			"4. world_en", -- [4]
-			"Uraine-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world_en", -- [9]
-			0, -- [10]
-			1088, -- [11]
-			"Player-10-0010503F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Uraine|r",
-			[51] = 1623795859,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"3", -- [1]
-			"Tobako", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Tobako-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1089, -- [11]
-			"Player-10-00011AEA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Tobako|r",
-			[51] = 1623795860,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"3", -- [1]
-			"Namuel", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Namuel-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1090, -- [11]
-			"Player-10-00648475", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cNamuel|r",
-			[51] = 1623795860,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"3", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1091, -- [11]
-			"Player-10-004B3A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1623795861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"3", -- [1]
-			"Héxèn", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Héxèn-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1092, -- [11]
-			"Player-10-006F2AD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHéxèn|r",
-			[51] = 1623795861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
-		{
-			"2", -- [1]
-			"Tobako", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Tobako-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1093, -- [11]
-			"Player-10-00011AEA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Tobako|r",
-			[51] = 1623795861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"2", -- [1]
-			"Namuel", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Namuel-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1094, -- [11]
-			"Player-10-00648475", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cNamuel|r",
-			[51] = 1623795861,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
-		{
-			"2", -- [1]
-			"Voidvenom", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Voidvenom-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1095, -- [11]
-			"Player-10-004B3A0C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa9d271Voidvenom|r",
-			[51] = 1623795862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
-		{
-			"2", -- [1]
-			"Héxèn", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Héxèn-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1096, -- [11]
-			"Player-10-006F2AD8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeHéxèn|r",
-			[51] = 1623795862,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"1", -- [1]
-			"Tobako", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Tobako-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1097, -- [11]
-			"Player-10-00011AEA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff00fe95Tobako|r",
-			[51] = 1623795863,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
 			"1", -- [1]
 			"Namuel", -- [2]
 			"Comune", -- [3]
@@ -506,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [1]
 		{
 			"1", -- [1]
 			"Voidvenom", -- [2]
@@ -528,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [2]
 		{
 			"s", -- [1]
 			"Perollan", -- [2]
@@ -550,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Perollan|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [3]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -572,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795873,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [4]
 		{
 			"I've died while already dead now I can't release?", -- [1]
 			"Perollan", -- [2]
@@ -594,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Perollan|r",
 			[51] = 1623795880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [5]
 		{
 			"xd", -- [1]
 			"Wës", -- [2]
@@ -616,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Wës|r",
 			[51] = 1623795892,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [6]
 		{
 			"unstuck", -- [1]
 			"Thorrumli", -- [2]
@@ -638,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thorrumli|r",
 			[51] = 1623795905,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [7]
 		{
 			"go to fst site and unstsutk", -- [1]
 			"Rockgods", -- [2]
@@ -660,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRockgods|r",
 			[51] = 1623795908,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [8]
 		{
 			"ñ", -- [1]
 			"Samú", -- [2]
@@ -682,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Samú|r",
 			[51] = 1623795911,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [9]
 		{
 			"I just logged in to my dead character and he died in spirit form", -- [1]
 			"Perollan", -- [2]
@@ -704,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Perollan|r",
 			[51] = 1623795913,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [10]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -726,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795916,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [11]
 		{
 			"deathception", -- [1]
 			"Thorrumli", -- [2]
@@ -748,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thorrumli|r",
 			[51] = 1623795919,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [12]
 		{
 			"3", -- [1]
 			"Voidvenom", -- [2]
@@ -770,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795933,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [13]
 		{
 			"2", -- [1]
 			"Namuel", -- [2]
@@ -792,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [14]
 		{
 			"2", -- [1]
 			"Voidvenom", -- [2]
@@ -814,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [15]
 		{
 			"1", -- [1]
 			"Namuel", -- [2]
@@ -836,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [16]
 		{
 			"1", -- [1]
 			"Voidvenom", -- [2]
@@ -858,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [17]
 		{
 			"Prendere nota", -- [1]
 			"Namuel", -- [2]
@@ -880,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795963,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
+		}, -- [18]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -902,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623795965,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [19]
 		{
 			"Odio le api obese", -- [1]
 			"Namuel", -- [2]
@@ -924,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795966,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
+		}, -- [20]
 		{
 			"qualcuno ha fatto una chiave con chiara", -- [1]
 			"Aphrö", -- [2]
@@ -946,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623795978,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [21]
 		{
 			"E CHE AGGRANO", -- [1]
 			"Namuel", -- [2]
@@ -968,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795980,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [22]
 		{
 			"grazie di tutto, vado a nanna ", -- [1]
 			"Sgnaccherona", -- [2]
@@ -990,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sgnaccherona|r",
 			[51] = 1623795996,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [23]
 		{
 			"ciao", -- [1]
 			"Namuel", -- [2]
@@ -1012,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796001,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [24]
 		{
 			"ossequi", -- [1]
 			"Namuel", -- [2]
@@ -1034,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796003,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [25]
 		{
 			"ciao namuel lunga sta cena eh", -- [1]
 			"나와함께있어", -- [2]
@@ -1056,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6c나와함께있어|r",
 			[51] = 1623796025,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [26]
 		{
 			"cazzo eri a cena con i laziali?", -- [1]
 			"나와함께있어", -- [2]
@@ -1078,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6c나와함께있어|r",
 			[51] = 1623796035,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [27]
 		{
 			"non è colpa mia se a bolzano vi scopate le mucche", -- [1]
 			"Namuel", -- [2]
@@ -1100,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796078,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [28]
 		{
 			"che siete solo bovari", -- [1]
 			"Namuel", -- [2]
@@ -1122,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796082,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [29]
 		{
 			"e montanari eh", -- [1]
 			"Namuel", -- [2]
@@ -1144,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796084,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [30]
 		{
 			"ma cosa c'entra? haha", -- [1]
 			"나와함께있어", -- [2]
@@ -1166,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6c나와함께있어|r",
 			[51] = 1623796091,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [31]
 		{
 			"3", -- [1]
 			"Tobako", -- [2]
@@ -1188,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [32]
 		{
 			"3", -- [1]
 			"Namuel", -- [2]
@@ -1210,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [33]
 		{
 			"2", -- [1]
 			"Tobako", -- [2]
@@ -1232,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796124,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [34]
 		{
 			"2", -- [1]
 			"Namuel", -- [2]
@@ -1254,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796124,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [35]
 		{
 			"1", -- [1]
 			"Tobako", -- [2]
@@ -1276,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796125,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [36]
 		{
 			"1", -- [1]
 			"Namuel", -- [2]
@@ -1298,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796125,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [37]
 		{
 			"Interrupted |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r on Ritualista del Mare Profondo", -- [1]
 			"Voidvenom", -- [2]
@@ -1320,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796127,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [38]
 		{
 			"wtb |cffa335ee|Hitem:175008::::::::120:70:512::6:4823:6578:6579:6541:1502:4786:120:::|h[Elo do Conspirador à Espreita]|h|r with +12% mastery corrup", -- [1]
 			"Anidalap", -- [2]
@@ -1342,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Anidalap|r",
 			[51] = 1623796135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [39]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -1364,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796141,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [40]
 		{
 			"3", -- [1]
 			"Héxèn", -- [2]
@@ -1386,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623796143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [62]
+		}, -- [41]
 		{
 			"3", -- [1]
 			"Voidvenom", -- [2]
@@ -1408,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [42]
 		{
 			"2", -- [1]
 			"Héxèn", -- [2]
@@ -1430,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623796144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [43]
 		{
 			"2", -- [1]
 			"Voidvenom", -- [2]
@@ -1452,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [44]
 		{
 			"1", -- [1]
 			"Héxèn", -- [2]
@@ -1474,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623796145,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [45]
 		{
 			"1", -- [1]
 			"Voidvenom", -- [2]
@@ -1496,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796145,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [46]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -1518,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623796164,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [47]
 		{
 			"Interrupted Abitante Dimenticato's |cff71d5ff|Hspell:267809:0|h[Consumo Essenza]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -1540,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796307,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [48]
 		{
 			"hey all, is artifact class weapons still a thing?", -- [1]
 			"Clexis", -- [2]
@@ -1562,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Clexis|r",
 			[51] = 1623796309,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [49]
 		{
 			"seraaaaaa", -- [1]
 			"Codyellow", -- [2]
@@ -1584,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796317,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [71]
+		}, -- [50]
 		{
 			"wewe", -- [1]
 			"Voidvenom", -- [2]
@@ -1606,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796324,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [51]
 		{
 			"weila", -- [1]
 			"Mgnwhitejack", -- [2]
@@ -1628,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Mgnwhitejack|r",
 			[51] = 1623796328,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [52]
 		{
 			"|cff66bbff|Hjournal:0:1176:16|h[Bataille de Dazar’alor]|h|r NM FAST RUN ", -- [1]
 			"Hiretsuna", -- [2]
@@ -1650,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796329,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [53]
 		{
 			"ciao", -- [1]
 			"Aphrö", -- [2]
@@ -1672,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796331,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
+		}, -- [54]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -1694,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623796332,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [55]
 		{
 			"cody", -- [1]
 			"Aphrö", -- [2]
@@ -1716,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796333,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
+		}, -- [56]
 		{
 			"^(°OO°)^ ", -- [1]
 			"Namuel", -- [2]
@@ -1738,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796378,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [78]
+		}, -- [57]
 		{
 			"what time does server reset?", -- [1]
 			"Sarethh", -- [2]
@@ -1760,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSarethh|r",
 			[51] = 1623796433,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [58]
 		{
 			"4h of morning", -- [1]
 			"Hiretsuna", -- [2]
@@ -1782,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796448,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [59]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14062:Player-10-00665E87:1:6:16:21:4294967295:4294967295:4294967295:4294967295|h[Visione Orripilante di Roccavento]|h|r!", -- [1]
 			"Alastõr", -- [2]
@@ -1804,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Alastõr|r",
 			[51] = 1623796451,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [81]
+		}, -- [60]
 		{
 			"Interrupted Vol'zith la Sussurrante's |cff71d5ff|Hspell:267444:0|h[Presa della Città Sommersa]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -1826,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796452,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [61]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -1848,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623796485,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [62]
 		{
 			"|cff66bbff|Hjournal:0:1176:16|h[Bataille de Dazar’alor]|h|r NM FAST RUN", -- [1]
 			"Hiretsuna", -- [2]
@@ -1870,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796489,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [63]
 		{
 			"qualcuno per una chiave?", -- [1]
 			"Codyellow", -- [2]
@@ -1892,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796519,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [85]
+		}, -- [64]
 		{
 			"!keys", -- [1]
 			"Codyellow", -- [2]
@@ -1914,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [65]
 		{
 			"|cffa335ee|Hkeystone:158923:369:18:9:5:3:120|h[Keystone: Operation: Mechagon - Junkyard (18)]|h|r", -- [1]
 			"Sarfdh", -- [2]
@@ -1936,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sarfdh|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [66]
 		{
 			"|cffa335ee|Hkeystone:158923:247:15:9:5:3:120|h[Chiave del Potere: Vena Madre (15)]|h|r", -- [1]
 			"Garlaw", -- [2]
@@ -1958,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Garlaw|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [67]
 		{
 			"|cffa335ee|Hkeystone:158923:246:15:9:5:3:120|h[Keystone: Tol Dagor (15)]|h|r", -- [1]
 			"Tobako", -- [2]
@@ -1980,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [68]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:250:18:9:5:3:120|h[Keystone: Temple of Sethraliss (18)]|h|r", -- [1]
 			"Shynga", -- [2]
@@ -2002,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Shynga|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [69]
 		{
 			"|cffa335ee|Hkeystone:158923:251:16:9:5:3:120|h[Keystone: The Underrot (16)]|h|r", -- [1]
 			"Aphrö", -- [2]
@@ -2024,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796559,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [70]
 		{
 			"bella", -- [1]
 			"Codyellow", -- [2]
@@ -2046,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796565,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [71]
 		{
 			"Interrupted Vol'zith la Sussurrante's |cff71d5ff|Hspell:267444:0|h[Presa della Città Sommersa]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -2068,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796566,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [72]
 		{
 			"ti va?", -- [1]
 			"Codyellow", -- [2]
@@ -2090,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796574,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
+		}, -- [73]
 		{
 			"Sono appena uscito superstite da una chiave e sono morto dentro", -- [1]
 			"Aphrö", -- [2]
@@ -2112,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796607,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [74]
 		{
 			"tank for boralus m3?", -- [1]
 			"Ranmahh", -- [2]
@@ -2134,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ranmahh|r",
 			[51] = 1623796662,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [75]
 		{
 			"Interrupted Vol'zith la Sussurrante's |cff71d5ff|Hspell:267444:0|h[Presa della Città Sommersa]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -2156,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796667,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [76]
 		{
 			"|cff66bbff|Hjournal:0:1176:16|h[Bataille de Dazar’alor]|h|r NM FAST RUN", -- [1]
 			"Hiretsuna", -- [2]
@@ -2178,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796833,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [77]
 		{
 			"gildarella è online? con qualche alt?", -- [1]
 			"Thewatergød", -- [2]
@@ -2200,6 +1738,468 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcThewatergød|r",
 			[51] = 1623846081,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [78]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4610:Player-10-008288C1:1:6:17:21:4294967295:4294967295:4294967295:4294967295|h[Ossificato (25)]|h|r!", -- [1]
+			"Maexana", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maexana", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			399, -- [11]
+			"Player-10-008288C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Maexana|r",
+			[51] = 1623918811,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [79]
+		{
+			"vuoi fare una chiavetta?", -- [1]
+			"Héxèn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			400, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623918820,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [80]
+		{
+			"ciao leo", -- [1]
+			"Héxèn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			402, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623918832,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [81]
+		{
+			"rpal 1k9 lf 2s", -- [1]
+			"Ësdeath", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Ësdeath-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			407, -- [11]
+			"Player-10-00808BCD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Ësdeath|r",
+			[51] = 1623918836,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"buongiorno", -- [1]
+			"Héxèn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			408, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623918837,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [83]
+		{
+			"ho loggato solo per settare gli addons", -- [1]
+			"Héxèn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			409, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623918845,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [84]
+		{
+			"non ho molto tempo", -- [1]
+			"Héxèn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			410, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623918851,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [85]
+		{
+			"ok", -- [1]
+			"Héxèn", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			411, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623918855,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [86]
+		{
+			"quanta gente", -- [1]
+			"Nexsacrament", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nexsacrament-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			412, -- [11]
+			"Player-10-006D23B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Nexsacrament|r",
+			[51] = 1623918856,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [87]
+		{
+			"|cffffff00|Hquest:56057:-1:120:120:0|h[The Soulbinder]|h|r", -- [1]
+			"Shynga", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Shynga-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			413, -- [11]
+			"Player-10-007ABAAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Shynga|r",
+			[51] = 1623918857,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"LF 2 dps for mythic expeditions - 3 runs /w ilvl", -- [1]
+			"Lgbts", -- [2]
+			"Comune", -- [3]
+			"", -- [4]
+			"Lgbts-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			415, -- [11]
+			"Player-10-0043DE4C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcLgbts|r",
+			[51] = 1623918909,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [89]
+		{
+			"LF 1 dps for mythic expeditions - 3 runs /w ilvl", -- [1]
+			"Lgbts", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Lgbts-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			429, -- [11]
+			"Player-10-0043DE4C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcLgbts|r",
+			[51] = 1623918952,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"full", -- [1]
+			"Lgbts", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Lgbts-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			430, -- [11]
+			"Player-10-0043DE4C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcLgbts|r",
+			[51] = 1623918984,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"la gunship raga non si puo saltare e passare direttamente al 4 boss?", -- [1]
+			"Maexana", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maexana-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			432, -- [11]
+			"Player-10-008288C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Maexana|r",
+			[51] = 1623919010,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"si", -- [1]
+			"Shynga", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Shynga-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			435, -- [11]
+			"Player-10-007ABAAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Shynga|r",
+			[51] = 1623919034,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"e come?", -- [1]
+			"Maexana", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maexana-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"Player-10-008288C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Maexana|r",
+			[51] = 1623919037,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"wts |cffa335ee|Hitem:175004::::::::120:258:512:5:7:4823:42:6578:6579:6562:1502:4786:120:::|h[Pantaloni delle Allucinazioni Orripilanti]|h|r", -- [1]
+			"Héxèn", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Héxèn-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			437, -- [11]
+			"Player-10-006F2AD8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeHéxèn|r",
+			[51] = 1623919074,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"ok fatto", -- [1]
+			"Maexana", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maexana-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			438, -- [11]
+			"Player-10-008288C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Maexana|r",
+			[51] = 1623919097,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"%s has earned the achievement |cffffff00|Hachievement:4613:Player-10-008288C1:1:6:17:21:4294967295:4294967295:4294967295:4294967295|h[Ho fatto un disastro (25)]|h|r!", -- [1]
+			"Maexana", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Maexana", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			444, -- [11]
+			"Player-10-008288C1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Maexana|r",
+			[51] = 1623919277,
+			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+		}, -- [97]
+		{
+			"Hello peeps", -- [1]
+			"Shamalumma", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Shamalumma-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			445, -- [11]
+			"Player-10-0082CBCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcShamalumma|r",
+			[51] = 1623919278,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Sup'!", -- [1]
+			"Dontfomo", -- [2]
+			"Comune", -- [3]
+			"4. world_en", -- [4]
+			"Dontfomo-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world_en", -- [9]
+			0, -- [10]
+			446, -- [11]
+			"Player-10-0080DD34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffe7b09Dontfomo|r",
+			[51] = 1623919297,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},
 }

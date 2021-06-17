@@ -34,28 +34,6 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1070, -- [11]
-			"Player-10-003447B7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Mariagreco|r",
-			[51] = 1623795514,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"Interrupted Ser Sacraonda's |cff71d5ff|Hspell:268347:0|h[Dardo del Vuoto]|h|r!", -- [1]
-			"Mariagreco", -- [2]
-			"Comune", -- [3]
-			"", -- [4]
-			"Mariagreco-Sethraliss", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
 			1073, -- [11]
 			"Player-10-003447B7", -- [12]
 			0, -- [13]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795539,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"Plagiamente Antico su Voidvenom", -- [1]
 			"Voidvenom", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795556,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"Interrupted |cff71d5ff|Hspell:268315:0|h[Sferzata]|h|r on Abitante dell'Abisso", -- [1]
 			"Voidvenom", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795614,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"anyone know how to fix the bug from the 2 mount person that the other person can't mount ?", -- [1]
 			"Velkayla", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeVelkayla|r",
 			[51] = 1623795634,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
+		}, -- [4]
 		{
 			"Interrupted Cultista dell'Abisso's |cff71d5ff|Hspell:268375:0|h[Rivelazione Pensieri]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795634,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [5]
 		{
 			"try relogging", -- [1]
 			"Thorrumli", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thorrumli|r",
 			[51] = 1623795650,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Interrupted Araldo delle Profondità Annegato's |cff71d5ff|Hspell:274703:0|h[Dardo del Vuoto]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795659,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [7]
 		{
 			"Interrupted |cff71d5ff|Hspell:276767:0|h[Consumo del Vuoto]|h|r on Cultista dell'Abisso", -- [1]
 			"Voidvenom", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795663,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Interrupted Araldo delle Profondità Annegato's |cff71d5ff|Hspell:274703:0|h[Dardo del Vuoto]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795709,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [9]
 		{
 			"Interrupted |cff71d5ff|Hspell:274703:0|h[Dardo del Vuoto]|h|r on Araldo delle Profondità Annegato", -- [1]
 			"Voidvenom", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795717,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
+		}, -- [10]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795839,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [11]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623795859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
+		}, -- [12]
 		{
 			"3", -- [1]
 			"Tobako", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623795860,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
+		}, -- [13]
 		{
 			"3", -- [1]
 			"Namuel", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795860,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
+		}, -- [14]
 		{
 			"3", -- [1]
 			"Voidvenom", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
+		}, -- [15]
 		{
 			"3", -- [1]
 			"Héxèn", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623795861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
+		}, -- [16]
 		{
 			"2", -- [1]
 			"Tobako", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623795861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [18]
+		}, -- [17]
 		{
 			"2", -- [1]
 			"Namuel", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795861,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"2", -- [1]
 			"Voidvenom", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"2", -- [1]
 			"Héxèn", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623795862,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
+		}, -- [20]
 		{
 			"1", -- [1]
 			"Tobako", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"1", -- [1]
 			"Namuel", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [22]
 		{
 			"1", -- [1]
 			"Voidvenom", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"s", -- [1]
 			"Perollan", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Perollan|r",
 			[51] = 1623795863,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [24]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795873,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"I've died while already dead now I can't release?", -- [1]
 			"Perollan", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Perollan|r",
 			[51] = 1623795880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [26]
 		{
 			"xd", -- [1]
 			"Wës", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Wës|r",
 			[51] = 1623795892,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [27]
 		{
 			"unstuck", -- [1]
 			"Thorrumli", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thorrumli|r",
 			[51] = 1623795905,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [28]
 		{
 			"go to fst site and unstsutk", -- [1]
 			"Rockgods", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cRockgods|r",
 			[51] = 1623795908,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [29]
 		{
 			"ñ", -- [1]
 			"Samú", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffef367Samú|r",
 			[51] = 1623795911,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [30]
 		{
 			"I just logged in to my dead character and he died in spirit form", -- [1]
 			"Perollan", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Perollan|r",
 			[51] = 1623795913,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623795916,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"deathception", -- [1]
 			"Thorrumli", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Thorrumli|r",
 			[51] = 1623795919,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [33]
 		{
 			"3", -- [1]
 			"Voidvenom", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795933,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"2", -- [1]
 			"Namuel", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"2", -- [1]
 			"Voidvenom", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"1", -- [1]
 			"Namuel", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"1", -- [1]
 			"Voidvenom", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623795935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [38]
 		{
 			"Prendere nota", -- [1]
 			"Namuel", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795963,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
+		}, -- [39]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623795965,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [40]
 		{
 			"Odio le api obese", -- [1]
 			"Namuel", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795966,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
+		}, -- [41]
 		{
 			"qualcuno ha fatto una chiave con chiara", -- [1]
 			"Aphrö", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623795978,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
+		}, -- [42]
 		{
 			"E CHE AGGRANO", -- [1]
 			"Namuel", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623795980,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
+		}, -- [43]
 		{
 			"grazie di tutto, vado a nanna ", -- [1]
 			"Sgnaccherona", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Sgnaccherona|r",
 			[51] = 1623795996,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
+		}, -- [44]
 		{
 			"ciao", -- [1]
 			"Namuel", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796001,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [46]
+		}, -- [45]
 		{
 			"ossequi", -- [1]
 			"Namuel", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796003,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
+		}, -- [46]
 		{
 			"ciao namuel lunga sta cena eh", -- [1]
 			"나와함께있어", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6c나와함께있어|r",
 			[51] = 1623796025,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
+		}, -- [47]
 		{
 			"cazzo eri a cena con i laziali?", -- [1]
 			"나와함께있어", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6c나와함께있어|r",
 			[51] = 1623796035,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
+		}, -- [48]
 		{
 			"non è colpa mia se a bolzano vi scopate le mucche", -- [1]
 			"Namuel", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796078,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
+		}, -- [49]
 		{
 			"che siete solo bovari", -- [1]
 			"Namuel", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796082,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
+		}, -- [50]
 		{
 			"e montanari eh", -- [1]
 			"Namuel", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796084,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
+		}, -- [51]
 		{
 			"ma cosa c'entra? haha", -- [1]
 			"나와함께있어", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6c나와함께있어|r",
 			[51] = 1623796091,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
+		}, -- [52]
 		{
 			"3", -- [1]
 			"Tobako", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [54]
+		}, -- [53]
 		{
 			"3", -- [1]
 			"Namuel", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796123,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
+		}, -- [54]
 		{
 			"2", -- [1]
 			"Tobako", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796124,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [55]
 		{
 			"2", -- [1]
 			"Namuel", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796124,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [57]
+		}, -- [56]
 		{
 			"1", -- [1]
 			"Tobako", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796125,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
+		}, -- [57]
 		{
 			"1", -- [1]
 			"Namuel", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796125,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [58]
 		{
 			"Interrupted |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r on Ritualista del Mare Profondo", -- [1]
 			"Voidvenom", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796127,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [59]
 		{
 			"wtb |cffa335ee|Hitem:175008::::::::120:70:512::6:4823:6578:6579:6541:1502:4786:120:::|h[Elo do Conspirador à Espreita]|h|r with +12% mastery corrup", -- [1]
 			"Anidalap", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Anidalap|r",
 			[51] = 1623796135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [60]
 		{
 			"Interrupted Ritualista del Mare Profondo's |cff71d5ff|Hspell:268309:0|h[Oscurità Interminabile]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -1386,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796141,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [61]
 		{
 			"3", -- [1]
 			"Héxèn", -- [2]
@@ -1408,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623796143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [63]
+		}, -- [62]
 		{
 			"3", -- [1]
 			"Voidvenom", -- [2]
@@ -1430,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796143,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [64]
+		}, -- [63]
 		{
 			"2", -- [1]
 			"Héxèn", -- [2]
@@ -1452,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623796144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [65]
+		}, -- [64]
 		{
 			"2", -- [1]
 			"Voidvenom", -- [2]
@@ -1474,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796144,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [66]
+		}, -- [65]
 		{
 			"1", -- [1]
 			"Héxèn", -- [2]
@@ -1496,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeHéxèn|r",
 			[51] = 1623796145,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [67]
+		}, -- [66]
 		{
 			"1", -- [1]
 			"Voidvenom", -- [2]
@@ -1518,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796145,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [68]
+		}, -- [67]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -1540,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623796164,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [68]
 		{
 			"Interrupted Abitante Dimenticato's |cff71d5ff|Hspell:267809:0|h[Consumo Essenza]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -1562,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796307,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [69]
 		{
 			"hey all, is artifact class weapons still a thing?", -- [1]
 			"Clexis", -- [2]
@@ -1584,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Clexis|r",
 			[51] = 1623796309,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [70]
 		{
 			"seraaaaaa", -- [1]
 			"Codyellow", -- [2]
@@ -1606,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796317,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [72]
+		}, -- [71]
 		{
 			"wewe", -- [1]
 			"Voidvenom", -- [2]
@@ -1628,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Voidvenom|r",
 			[51] = 1623796324,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [73]
+		}, -- [72]
 		{
 			"weila", -- [1]
 			"Mgnwhitejack", -- [2]
@@ -1650,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Mgnwhitejack|r",
 			[51] = 1623796328,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
+		}, -- [73]
 		{
 			"|cff66bbff|Hjournal:0:1176:16|h[Bataille de Dazar’alor]|h|r NM FAST RUN ", -- [1]
 			"Hiretsuna", -- [2]
@@ -1672,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796329,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [74]
 		{
 			"ciao", -- [1]
 			"Aphrö", -- [2]
@@ -1694,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796331,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
+		}, -- [75]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -1716,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623796332,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [76]
 		{
 			"cody", -- [1]
 			"Aphrö", -- [2]
@@ -1738,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796333,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
+		}, -- [77]
 		{
 			"^(°OO°)^ ", -- [1]
 			"Namuel", -- [2]
@@ -1760,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cNamuel|r",
 			[51] = 1623796378,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [79]
+		}, -- [78]
 		{
 			"what time does server reset?", -- [1]
 			"Sarethh", -- [2]
@@ -1782,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cSarethh|r",
 			[51] = 1623796433,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [79]
 		{
 			"4h of morning", -- [1]
 			"Hiretsuna", -- [2]
@@ -1804,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796448,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [80]
 		{
 			"%s has earned the achievement |cffffff00|Hachievement:14062:Player-10-00665E87:1:6:16:21:4294967295:4294967295:4294967295:4294967295|h[Visione Orripilante di Roccavento]|h|r!", -- [1]
 			"Alastõr", -- [2]
@@ -1826,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Alastõr|r",
 			[51] = 1623796451,
 			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [82]
+		}, -- [81]
 		{
 			"Interrupted Vol'zith la Sussurrante's |cff71d5ff|Hspell:267444:0|h[Presa della Città Sommersa]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -1848,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796452,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [82]
 		{
 			"Wts |cffa335ee|Hitem:175005::::::::120:253:512::4:4823:6539:1502:4786:120:::|h[Cinturón de propósito oculto]|h|r", -- [1]
 			"Uraine", -- [2]
@@ -1870,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Uraine|r",
 			[51] = 1623796485,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [83]
 		{
 			"|cff66bbff|Hjournal:0:1176:16|h[Bataille de Dazar’alor]|h|r NM FAST RUN", -- [1]
 			"Hiretsuna", -- [2]
@@ -1892,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796489,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [84]
 		{
 			"qualcuno per una chiave?", -- [1]
 			"Codyellow", -- [2]
@@ -1914,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796519,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
+		}, -- [85]
 		{
 			"!keys", -- [1]
 			"Codyellow", -- [2]
@@ -1936,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
+		}, -- [86]
 		{
 			"|cffa335ee|Hkeystone:158923:369:18:9:5:3:120|h[Keystone: Operation: Mechagon - Junkyard (18)]|h|r", -- [1]
 			"Sarfdh", -- [2]
@@ -1958,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Sarfdh|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
+		}, -- [87]
 		{
 			"|cffa335ee|Hkeystone:158923:247:15:9:5:3:120|h[Chiave del Potere: Vena Madre (15)]|h|r", -- [1]
 			"Garlaw", -- [2]
@@ -1980,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Garlaw|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
+		}, -- [88]
 		{
 			"|cffa335ee|Hkeystone:158923:246:15:9:5:3:120|h[Keystone: Tol Dagor (15)]|h|r", -- [1]
 			"Tobako", -- [2]
@@ -2002,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Tobako|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [89]
 		{
 			"Astral Keys: |cffa335ee|Hkeystone:158923:250:18:9:5:3:120|h[Keystone: Temple of Sethraliss (18)]|h|r", -- [1]
 			"Shynga", -- [2]
@@ -2024,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Shynga|r",
 			[51] = 1623796525,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
+		}, -- [90]
 		{
 			"|cffa335ee|Hkeystone:158923:251:16:9:5:3:120|h[Keystone: The Underrot (16)]|h|r", -- [1]
 			"Aphrö", -- [2]
@@ -2046,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796559,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [91]
 		{
 			"bella", -- [1]
 			"Codyellow", -- [2]
@@ -2068,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796565,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [92]
 		{
 			"Interrupted Vol'zith la Sussurrante's |cff71d5ff|Hspell:267444:0|h[Presa della Città Sommersa]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -2090,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796566,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [93]
 		{
 			"ti va?", -- [1]
 			"Codyellow", -- [2]
@@ -2112,7 +2090,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Codyellow|r",
 			[51] = 1623796574,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [94]
 		{
 			"Sono appena uscito superstite da una chiave e sono morto dentro", -- [1]
 			"Aphrö", -- [2]
@@ -2134,7 +2112,7 @@ ElvCharacterDB = {
 			[52] = "|cffa9d271Aphrö|r",
 			[51] = 1623796607,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [95]
 		{
 			"tank for boralus m3?", -- [1]
 			"Ranmahh", -- [2]
@@ -2156,7 +2134,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Ranmahh|r",
 			[51] = 1623796662,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [96]
 		{
 			"Interrupted Vol'zith la Sussurrante's |cff71d5ff|Hspell:267444:0|h[Presa della Città Sommersa]|h|r!", -- [1]
 			"Mariagreco", -- [2]
@@ -2178,7 +2156,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Mariagreco|r",
 			[51] = 1623796667,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [97]
 		{
 			"|cff66bbff|Hjournal:0:1176:16|h[Bataille de Dazar’alor]|h|r NM FAST RUN", -- [1]
 			"Hiretsuna", -- [2]
@@ -2200,6 +2178,28 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Hiretsuna|r",
 			[51] = 1623796833,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"gildarella è online? con qualche alt?", -- [1]
+			"Thewatergød", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Thewatergød-Sethraliss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			411, -- [11]
+			"Player-10-003ABD9E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcThewatergød|r",
+			[51] = 1623846081,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [99]
 	},
 }
