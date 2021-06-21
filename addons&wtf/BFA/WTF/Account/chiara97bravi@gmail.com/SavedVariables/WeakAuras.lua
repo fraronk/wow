@@ -4,15 +4,15 @@ WeakAurasSaved = {
 	},
 	["displays"] = {
 	},
+	["lastArchiveClear"] = 1623944352,
 	["minimap"] = {
-		["hide"] = false,
+		["minimapPos"] = 335.3232077616771,
+		["hide"] = true,
 	},
-	["lastUpgrade"] = 1605387903,
-	["dbVersion"] = 24,
+	["lastUpgrade"] = 1623944365,
+	["dbVersion"] = 33,
 	["clearOldHistory"] = 30,
 	["registered"] = {
 	},
 	["login_squelch_time"] = 10,
-	["history"] = {
-	},
 }

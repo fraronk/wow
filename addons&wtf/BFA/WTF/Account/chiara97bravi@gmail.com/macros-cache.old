@@ -1,0 +1,36 @@
+VER 3 0000000000000006 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Elementale del Magma Stabilizzato
+END
+VER 3 0000000000000001 "CollectMeRC" "INV_PET_BABYBLIZZARDBEAR"
+/cm rc
+END
+VER 3 0000000000000003 "CollectMeRM" "ABILITY_MOUNT_BIGBLIZZARDBEAR"
+/cm rm
+END
+VER 3 0000000000000002 "CollectMeRT" "INV_PET_SCORCHEDSTONE"
+/cm rt
+END
+VER 3 000000000000000D "GRM_Tool" "INV_MISC_QUESTIONMARK"
+END
+VER 3 000000000000000C "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+2:H:1:1:Difensori principali:1:2:Guaritori:1:4:Gruppo 1:1:7:Gruppo 2:
+END
+VER 3 000000000000000A "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Maria:5:ayer-10-003447B7:1:Bigri:p:ayer-10-004E9451:1:Mung√:10:ayer-10-00661E01:1:Konoy:3:ayer-10-0005293D:1:Lpebl:2:ayer-10-00801E72:1:Trapp:1:ayer-10-003CEDC6:1:Mat√¨:8:ayer-10-0077F601:1:Nylot:7:ayer-10-007392D6:1:
+END
+VER 3 000000000000000B "hbCrashProt_2" "Spell_Holy_SealOfSacrifice"
+Volti:9:ayer-10-00624E8C:1:–õ–∞—:6:ayer-10-0057E4E9:1:
+END
+VER 3 0000000000000007 "Pasqua" "INV_MISC_QUESTIONMARK"
+/target easter egg
+END
+VER 3 0000000000000004 "pull" "INV_MISC_QUESTIONMARK"
+/dbm pull 10
+END
+VER 3 0000000000000005 "reclutare" "INV_MISC_QUESTIONMARK"
+/2 The Italian guild "Country Penguins", is recruiting Italian Players to join our ranks. We do all instances mm0/mm+ Eternal Palace 8/8 NM, 8/8 HC!  if you want, feel free to join us!
+END
+VER 3 0000000000000008 "summon" "INV_MISC_QUESTIONMARK"
+/script SummonFriend("Target")
+END

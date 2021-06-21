@@ -1440,9 +1440,9 @@ ElvDB = {
 					["buttons"] = 12,
 				},
 				["bar4"] = {
-					["backdrop"] = false,
 					["point"] = "BOTTOMLEFT",
 					["buttonsize"] = 35,
+					["backdrop"] = false,
 				},
 				["microbar"] = {
 					["enabled"] = true,
@@ -1504,12 +1504,40 @@ ElvDB = {
 						},
 						["width"] = 100,
 					},
-					["party"] = {
-						["width"] = 150,
-					},
 					["boss"] = {
 						["health"] = {
 							["frequentUpdates"] = true,
+						},
+					},
+					["player"] = {
+						["debuffs"] = {
+							["attachTo"] = "BUFFS",
+						},
+						["portrait"] = {
+							["enable"] = true,
+							["style"] = "2D",
+						},
+						["power"] = {
+							["yOffset"] = 10,
+						},
+						["width"] = 250,
+						["name"] = {
+							["position"] = "LEFT",
+						},
+						["health"] = {
+							["frequentUpdates"] = true,
+							["yOffset"] = 10,
+						},
+						["height"] = 45,
+						["buffs"] = {
+							["enable"] = true,
+							["attachTo"] = "FRAME",
+						},
+						["castbar"] = {
+							["width"] = 250,
+						},
+						["aurabar"] = {
+							["enable"] = false,
 						},
 					},
 					["arena"] = {
@@ -1518,15 +1546,15 @@ ElvDB = {
 						},
 					},
 					["focus"] = {
-						["health"] = {
-							["frequentUpdates"] = true,
-						},
 						["portrait"] = {
 							["style"] = "2D",
 						},
 						["name"] = {
 							["yOffset"] = -8,
 							["position"] = "LEFT",
+						},
+						["health"] = {
+							["frequentUpdates"] = true,
 						},
 					},
 					["target"] = {
@@ -1559,36 +1587,8 @@ ElvDB = {
 						["numGroups"] = 8,
 						["width"] = 60,
 					},
-					["player"] = {
-						["debuffs"] = {
-							["attachTo"] = "BUFFS",
-						},
-						["portrait"] = {
-							["enable"] = true,
-							["style"] = "2D",
-						},
-						["power"] = {
-							["yOffset"] = 10,
-						},
-						["width"] = 250,
-						["name"] = {
-							["position"] = "LEFT",
-						},
-						["health"] = {
-							["frequentUpdates"] = true,
-							["yOffset"] = 10,
-						},
-						["height"] = 45,
-						["buffs"] = {
-							["enable"] = true,
-							["attachTo"] = "FRAME",
-						},
-						["castbar"] = {
-							["width"] = 250,
-						},
-						["aurabar"] = {
-							["enable"] = false,
-						},
+					["party"] = {
+						["width"] = 150,
 					},
 					["pet"] = {
 						["castbar"] = {
@@ -1668,14 +1668,23 @@ ElvDB = {
 			["Sethraliss"] = true,
 		},
 	},
-	["faction"] = {
-		["Sethraliss"] = {
-			["Berlusconi"] = "Alliance",
-			["Reghiaccio"] = "Alliance",
-			["Mariagreco"] = "Alliance",
-		},
-	},
 	["LuaErrorDisabledAddOns"] = {
+	},
+	["gold"] = {
+		["Sethraliss"] = {
+			["Dontuch"] = 138889594,
+			["Gargamélla"] = 69274318,
+			["Berlusconi"] = 85294110,
+			["Mariagreco"] = 825062942,
+			["Reghiaccio"] = 81403759,
+			["Tonellotto"] = 330956355,
+			["Antonioprete"] = 28379528,
+			["Cimino"] = 29259634,
+			["Corsini"] = 236730398,
+			["Nuncevedo"] = 60981078,
+			["Picinbono"] = 109212551,
+			["Stempi"] = 119567726,
+		},
 	},
 	["profileKeys"] = {
 		["Nuncevedo - Sethraliss"] = "AAAA Comune",
@@ -1692,20 +1701,11 @@ ElvDB = {
 	},
 	["SLErrorDisabledAddOns"] = {
 	},
-	["gold"] = {
+	["faction"] = {
 		["Sethraliss"] = {
-			["Dontuch"] = 138889594,
-			["Gargamélla"] = 69274318,
-			["Berlusconi"] = 85294110,
-			["Mariagreco"] = 825062942,
-			["Reghiaccio"] = 81403759,
-			["Tonellotto"] = 330956355,
-			["Antonioprete"] = 28379528,
-			["Cimino"] = 29259634,
-			["Corsini"] = 236730398,
-			["Nuncevedo"] = 60981078,
-			["Picinbono"] = 109212551,
-			["Stempi"] = 119567726,
+			["Berlusconi"] = "Alliance",
+			["Reghiaccio"] = "Alliance",
+			["Mariagreco"] = "Alliance",
 		},
 	},
 	["SLEMinimize"] = {

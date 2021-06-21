@@ -1201,20 +1201,6 @@ DataStore_GarrisonsDB = {
 						}, -- [1]
 					},
 				},
-				[1364] = {
-					["durationSeconds"] = 25200,
-					["type"] = "7.0 Class Hall - Generic Missions",
-					["cost"] = 200,
-					["level"] = 110,
-					["rewards"] = {
-						{
-							["itemID"] = 146938,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
-					["iLevel"] = 820,
-				},
 				[1607] = {
 					["durationSeconds"] = 172800,
 					["type"] = "7.0 Class Hall - Generic Missions",
@@ -1228,6 +1214,20 @@ DataStore_GarrisonsDB = {
 					},
 					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
 					["iLevel"] = 850,
+				},
+				[1364] = {
+					["durationSeconds"] = 25200,
+					["type"] = "7.0 Class Hall - Generic Missions",
+					["cost"] = 200,
+					["level"] = 110,
+					["rewards"] = {
+						{
+							["itemID"] = 146938,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "ClassHall-CombatIcon-Desaturated",
+					["iLevel"] = 820,
 				},
 				[1918] = {
 					["durationSeconds"] = 28800,
@@ -1257,6 +1257,20 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "ClassHall-TreasureIcon-Desaturated",
 					["level"] = 110,
 				},
+				[456] = {
+					["durationSeconds"] = 28800,
+					["type"] = "Combattimento",
+					["cost"] = 100,
+					["level"] = 100,
+					["rewards"] = {
+						{
+							["itemID"] = 122486,
+							["quantity"] = 1,
+						}, -- [1]
+					},
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
+					["iLevel"] = 660,
+				},
 				[473] = {
 					["durationSeconds"] = 14400,
 					["type"] = "Esplorazione",
@@ -1272,20 +1286,6 @@ DataStore_GarrisonsDB = {
 							["currencyID"] = 829,
 						}, -- [1]
 					},
-				},
-				[456] = {
-					["durationSeconds"] = 28800,
-					["type"] = "Combattimento",
-					["cost"] = 100,
-					["level"] = 100,
-					["rewards"] = {
-						{
-							["itemID"] = 122486,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 660,
 				},
 				[2072] = {
 					["durationSeconds"] = 43200,

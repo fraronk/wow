@@ -217,11 +217,6 @@ VExRT = {
 		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeNoValorUpgrade"] = false,
 	},
-	["Addon"] = {
-		["Timer"] = 0.1,
-		["Version"] = 4040,
-		["PreVersion"] = 4040,
-	},
 	["Timers"] = {
 		["specTimes"] = {
 			[62] = 10,
@@ -264,62 +259,10 @@ VExRT = {
 		["Strata"] = "HIGH",
 		["timeToKillAnalyze"] = 15,
 	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
-	["Profiles"] = {
-	},
-	["Profile"] = "default",
-	["WhoPulled"] = {
-	},
-	["Note"] = {
-		["BlackNames"] = {
-		},
-		["FontSize"] = 12,
-		["AutoLoad"] = {
-		},
-		["Width"] = 199.9999084472656,
-		["BlackLastUpdateName"] = {
-		},
-		["OnlyPromoted"] = true,
-		["Strata"] = "HIGH",
-		["Height"] = 100.0000076293945,
-		["Black"] = {
-			"", -- [1]
-			"", -- [2]
-			"", -- [3]
-		},
-		["BlackLastUpdateTime"] = {
-		},
-		["OptionsFormatting"] = true,
-	},
-	["RaidCheck"] = {
-		["FlaskExp"] = 1,
-		["BuffsCheck"] = true,
-		["ReadyCheckFrameTimerFade"] = 4,
-	},
-	["Logging"] = {
-	},
-	["MarksBar"] = {
-		["pulltimer"] = 10,
-		["Strata"] = "HIGH",
-		["Show"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-		},
-	},
-	["VisNote"] = {
-		["data"] = {
-		},
-		["sync_data"] = {
-		},
+	["Addon"] = {
+		["Timer"] = 0.1,
+		["Version"] = 4170,
+		["PreVersion"] = 4170,
 	},
 	["InviteTool"] = {
 		["Words"] = "инв inv byd штм 123",
@@ -335,5 +278,67 @@ VExRT = {
 		["PromoteNames"] = "",
 		["OnlyGuild"] = true,
 		["Rank"] = 1,
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["AutoLoad"] = {
+		},
+		["Width"] = 199.9999084472656,
+		["BlackLastUpdateName"] = {
+		},
+		["OnlyPromoted"] = true,
+		["Strata"] = "HIGH",
+		["Height"] = 100.0000228881836,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["BlackLastUpdateTime"] = {
+		},
+		["OptionsFormatting"] = true,
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["BuffsCheck"] = true,
+		["ReadyCheckFrame"] = true,
+		["ReadyCheckFrameTimerFade"] = 4,
+		["ReadyCheckFrameOnlyRL"] = true,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["Strata"] = "HIGH",
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+		["pulltimer_right"] = 10,
+	},
+	["VisNote"] = {
+		["data"] = {
+		},
+		["sync_data"] = {
+		},
+	},
+	["WhoPulled"] = {
 	},
 }

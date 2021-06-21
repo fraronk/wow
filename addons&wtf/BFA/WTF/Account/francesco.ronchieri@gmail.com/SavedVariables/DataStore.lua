@@ -22,6 +22,11 @@ DataStoreDB = {
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
 	["global"] = {
+		["Guilds"] = {
+			["Default.Sethraliss.Country penguins"] = {
+				["faction"] = "Alliance",
+			},
+		},
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Sethraliss.Mariagreco"] = {

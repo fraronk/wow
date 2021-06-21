@@ -2,3 +2,5 @@ WeakAurasCompanion: enabled
 ElvUI: disabled
 HealBot: disabled
 MaxDps: disabled
+WeakAurasArchive: enabled
+ZygorGuidesViewer: disabled

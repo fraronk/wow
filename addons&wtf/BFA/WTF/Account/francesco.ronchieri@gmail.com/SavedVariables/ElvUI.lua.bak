@@ -1458,9 +1458,9 @@ ElvDB = {
 					["buttonSize"] = 15,
 				},
 				["bar4"] = {
-					["point"] = "BOTTOMLEFT",
 					["buttonsize"] = 35,
 					["backdrop"] = false,
+					["point"] = "BOTTOMLEFT",
 				},
 			},
 			["unitframe"] = {
@@ -1505,11 +1505,6 @@ ElvDB = {
 							["width"] = 100,
 						},
 					},
-					["boss"] = {
-						["health"] = {
-							["frequentUpdates"] = true,
-						},
-					},
 					["player"] = {
 						["debuffs"] = {
 							["attachTo"] = "BUFFS",
@@ -1541,6 +1536,9 @@ ElvDB = {
 							["enable"] = false,
 						},
 					},
+					["party"] = {
+						["width"] = 150,
+					},
 					["raid"] = {
 						["debuffs"] = {
 							["enable"] = true,
@@ -1551,15 +1549,15 @@ ElvDB = {
 						["width"] = 60,
 					},
 					["focus"] = {
-						["portrait"] = {
-							["style"] = "2D",
-						},
 						["name"] = {
 							["position"] = "LEFT",
 							["yOffset"] = -8,
 						},
 						["health"] = {
 							["frequentUpdates"] = true,
+						},
+						["portrait"] = {
+							["style"] = "2D",
 						},
 					},
 					["target"] = {
@@ -1588,8 +1586,10 @@ ElvDB = {
 							["frequentUpdates"] = true,
 						},
 					},
-					["party"] = {
-						["width"] = 150,
+					["boss"] = {
+						["health"] = {
+							["frequentUpdates"] = true,
+						},
 					},
 					["targettarget"] = {
 						["portrait"] = {
@@ -1668,8 +1668,6 @@ ElvDB = {
 			["Sethraliss"] = true,
 		},
 	},
-	["LuaErrorDisabledAddOns"] = {
-	},
 	["gold"] = {
 		["Sethraliss"] = {
 			["Dontuch"] = 138889594,
@@ -1684,6 +1682,13 @@ ElvDB = {
 			["Nuncevedo"] = 60981078,
 			["Corsini"] = 236730398,
 			["Tonellotto"] = 330956355,
+		},
+	},
+	["faction"] = {
+		["Sethraliss"] = {
+			["Berlusconi"] = "Alliance",
+			["Reghiaccio"] = "Alliance",
+			["Mariagreco"] = "Alliance",
 		},
 	},
 	["SLErrorDisabledAddOns"] = {
@@ -1701,12 +1706,7 @@ ElvDB = {
 		["Dontuch - Sethraliss"] = "AAAA Comune",
 		["Corsini - Sethraliss"] = "AAAA Comune",
 	},
-	["faction"] = {
-		["Sethraliss"] = {
-			["Berlusconi"] = "Alliance",
-			["Reghiaccio"] = "Alliance",
-			["Mariagreco"] = "Alliance",
-		},
+	["LuaErrorDisabledAddOns"] = {
 	},
 	["SLEMinimize"] = {
 	},

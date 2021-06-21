@@ -6,7 +6,7 @@ DataStore_TalentsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Sethraliss.Voidvenom"] = {
-				["lastUpdate"] = 1605388510,
+				["lastUpdate"] = 1605389464,
 				["Specializations"] = {
 					5785, -- [1]
 				},

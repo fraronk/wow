@@ -66,27 +66,6 @@ DataStore_QuestsDB = {
 					0, -- [27]
 				},
 				["HistorySize"] = 1748,
-				["QuestHeaders"] = {
-					"Alto Monte", -- [1]
-					"Azsuna", -- [2]
-					"Baia di Tiragarde", -- [3]
-					"Dalaran", -- [4]
-					"Krokuun", -- [5]
-					"Mac'aree", -- [6]
-					"Marche Occidentali", -- [7]
-					"Nazjatar", -- [8]
-					"Riva Dispersa", -- [9]
-					"Roccavento", -- [10]
-					"Stromheim", -- [11]
-					"Suramar", -- [12]
-					"Val'sharah", -- [13]
-					"Missing header! (quest designers)", -- [14]
-					"Crogiolo delle Tempeste", -- [15]
-					"Evento della Settimana", -- [16]
-					"PvP classificato", -- [17]
-					"PvP nel mondo di gioco", -- [18]
-					"Scorrerie sulle Isole", -- [19]
-				},
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
@@ -95,11 +74,13 @@ DataStore_QuestsDB = {
 					128, -- [5]
 					128, -- [6]
 					128, -- [7]
-					[9] = 128,
-					[10] = 128,
+					[24] = 81,
 					[13] = 128,
+					[26] = 255,
 					[14] = 128,
 					[15] = 128,
+					[9] = 128,
+					[10] = 128,
 					[17] = 128,
 					[18] = 128,
 					[19] = 128,
@@ -107,9 +88,7 @@ DataStore_QuestsDB = {
 					[21] = 143,
 					[22] = 143,
 					[23] = 62,
-					[24] = 81,
 					[25] = 256,
-					[26] = 255,
 				},
 				["History"] = {
 					[1035] = 292,
@@ -627,6 +606,27 @@ DataStore_QuestsDB = {
 					[1518] = 49152,
 					[1258] = 16384,
 				},
+				["QuestHeaders"] = {
+					"Alto Monte", -- [1]
+					"Azsuna", -- [2]
+					"Baia di Tiragarde", -- [3]
+					"Dalaran", -- [4]
+					"Krokuun", -- [5]
+					"Mac'aree", -- [6]
+					"Marche Occidentali", -- [7]
+					"Nazjatar", -- [8]
+					"Riva Dispersa", -- [9]
+					"Roccavento", -- [10]
+					"Stromheim", -- [11]
+					"Suramar", -- [12]
+					"Val'sharah", -- [13]
+					"Missing header! (quest designers)", -- [14]
+					"Crogiolo delle Tempeste", -- [15]
+					"Evento della Settimana", -- [16]
+					"PvP classificato", -- [17]
+					"PvP nel mondo di gioco", -- [18]
+					"Scorrerie sulle Isole", -- [19]
+				},
 				["Rewards"] = {
 					nil, -- [1]
 					"r|157823|1|1", -- [2]
@@ -635,17 +635,17 @@ DataStore_QuestsDB = {
 					"r|157827|1|1", -- [5]
 					"r|157829|1|1", -- [6]
 					"r|157829|1|1", -- [7]
-					[9] = "r|157831|1|1",
-					[10] = "r|157831|1|1",
+					[25] = "r|171198|2|1,r|169716|1|1",
 					[14] = "r|157830|1|1",
 					[15] = "r|157830|1|1",
-					[20] = "r|152654|1|1",
-					[17] = "r|157824|1|1",
-					[21] = "r|152654|1|1",
+					[9] = "r|157831|1|1",
 					[18] = "r|157826|1|1",
+					[10] = "r|157831|1|1",
+					[20] = "r|152654|1|1",
+					[21] = "r|152654|1|1",
 					[22] = "r|152654|1|1",
+					[17] = "r|157824|1|1",
 					[19] = "r|157822|1|1",
-					[25] = "r|171198|2|1,r|169716|1|1",
 				},
 				["lastUpdate"] = 1605389244,
 				["HistoryBuild"] = "31478",

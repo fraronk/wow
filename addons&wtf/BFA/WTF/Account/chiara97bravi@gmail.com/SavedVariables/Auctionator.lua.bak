@@ -1,16 +1,59 @@
 
+AUCTIONATOR_CONFIG = {
+	["gear_vendor_price_multiplier"] = 0,
+	["shift_stack_tooltips"] = true,
+	["show_selling_bag"] = true,
+	["selling_favourite_keys"] = {
+	},
+	["hide_splash_screen"] = false,
+	["lifo_undercut_static_value"] = 0,
+	["auction_tooltips"] = true,
+	["alternate_scan_mode"] = false,
+	["debug"] = false,
+	["vendor_tooltips"] = true,
+	["lifo_default_quantity"] = 0,
+	["selling_buy_shortcut"] = "alt right click",
+	["selling_icon_size"] = 42,
+	["not_lifo_auction_duration"] = 48,
+	["silence_auction_errors"] = true,
+	["feature_selling_1"] = true,
+	["selling_cancel_shortcut"] = "right click",
+	["selling_ignored_keys"] = {
+	},
+	["default_tab"] = 0,
+	["lifo_auction_duration"] = 24,
+	["selling_bag_select_shortcut"] = "alt left click",
+	["lifo_undercut_percentage"] = 0,
+	["selling_auto_select_next"] = false,
+	["not_lifo_undercut_static_value"] = 0,
+	["autoscan"] = true,
+	["not_lifo_default_quantity"] = 1,
+	["undercut_scan_not_lifo"] = true,
+	["auto_list_search"] = true,
+	["mailbox_tooltips"] = true,
+	["auction_chat_log"] = true,
+	["full_scan_step"] = 250,
+	["not_lifo_auction_sales_preference"] = "percentage",
+	["selling_bag_collapsed"] = false,
+	["pet_tooltips"] = true,
+	["show_selling_price_history"] = true,
+	["lifo_auction_sales_preference"] = "percentage",
+	["default_list"] = 0,
+	["splash_screen_version"] = "anything",
+	["enchant_tooltips"] = true,
+	["not_lifo_undercut_percentage"] = 0,
+	["price_history_days"] = 21,
+}
 AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["_2000"] = 100,
-	["_10000"] = 200,
-	["_5000000"] = 10000,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
-	["LOG_DE_DATA_X"] = true,
+	["_10000"] = 200,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
 	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
-}
-AUCTIONATOR_PRICING_HISTORY = {
+	["LOG_DE_DATA_X"] = true,
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
@@ -20,28 +63,8 @@ AUCTIONATOR_SHOPPING_LISTS = {
 		["name"] = "Ricerche recenti",
 	}, -- [1]
 }
-AUCTIONATOR_SHOPPING_LISTS_MIGRATED_V2 = true
 AUCTIONATOR_PRICE_DATABASE = {
-	["__dbversion"] = 4,
-	["Sethraliss_Alliance"] = {
+	["__dbversion"] = 6,
+	["Sethraliss"] = {
 	},
 }
-AUCTIONATOR_LAST_SCAN_TIME = nil
-AUCTIONATOR_TOONS = {
-	["Voidvenom"] = {
-		["firstSeen"] = 1605387909,
-		["guid"] = "Player-10-004B3A0C",
-		["firstVersion"] = "8.2.0",
-	},
-}
-AUCTIONATOR_STACKING_PREFS = {
-}
-AUCTIONATOR_SCAN_MINLEVEL = 1
-AUCTIONATOR_DB_MAXITEM_AGE = 180
-AUCTIONATOR_DB_MAXHIST_AGE = -1
-AUCTIONATOR_DB_MAXHIST_DAYS = 5
-AUCTIONATOR_FS_CHUNK = nil
-AUCTIONATOR_DE_DATA = nil
-AUCTIONATOR_DE_DATA_BAK = nil
-ITEM_ID_VERSION = "3.2.6"
-AUCTIONATOR_SHOW_MAILBOX_TIPS = nil

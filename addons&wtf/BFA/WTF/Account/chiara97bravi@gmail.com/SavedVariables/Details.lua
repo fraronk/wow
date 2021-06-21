@@ -37,7 +37,7 @@ _detalhes_global = {
 		[267467] = 8,
 		[246851] = 3,
 		[212704] = 3,
-		[264420] = 3,
+		[48108] = 8,
 		[303505] = 11,
 		[145109] = 11,
 		[246852] = 3,
@@ -61,56 +61,56 @@ _detalhes_global = {
 		[133] = 8,
 		[302847] = 11,
 		[33917] = 11,
-		[108853] = 8,
 		[186258] = 3,
 		[118089] = 3,
+		[297162] = 3,
 		[75] = 3,
 		[277703] = 8,
 		[297039] = 3,
 		[268877] = 3,
-		[157644] = 8,
-		[48108] = 8,
 		[48107] = 8,
-		[12654] = 8,
+		[1459] = 8,
 		[11366] = 8,
-		[264878] = 3,
 		[31661] = 8,
-		[270657] = 3,
-		[193455] = 3,
-		[267330] = 3,
-		[192090] = 11,
-		[267329] = 3,
 		[299338] = 3,
+		[264878] = 3,
+		[267330] = 3,
+		[270657] = 3,
+		[295835] = 3,
 		[295261] = 3,
-		[303520] = 11,
+		[192090] = 11,
+		[157644] = 8,
 		[186254] = 3,
+		[267329] = 3,
+		[303520] = 11,
+		[12654] = 8,
 		[278565] = 3,
-		[268856] = 11,
+		[267326] = 3,
 		[2643] = 3,
 		[8921] = 11,
-		[165961] = 11,
-		[1459] = 8,
+		[295838] = 3,
+		[108853] = 8,
 		[298823] = 3,
 		[270661] = 8,
 		[5487] = 11,
 		[269239] = 11,
 		[269279] = 3,
-		[295838] = 3,
-		[280713] = 11,
+		[267327] = 3,
+		[165961] = 11,
 		[116267] = 8,
 		[279902] = 3,
-		[295835] = 3,
+		[280713] = 11,
 		[271711] = 3,
-		[267326] = 3,
+		[268856] = 11,
 		[268854] = 11,
-		[256374] = 3,
-		[267331] = 3,
-		[297162] = 3,
+		[193455] = 3,
 		[274443] = 3,
 		[48025] = 3,
+		[267331] = 3,
+		[256374] = 3,
 		[93622] = 11,
 		[213771] = 11,
-		[267327] = 3,
+		[264420] = 3,
 	},
 	["encounter_spell_pool"] = {
 	},
@@ -731,10 +731,10 @@ _detalhes_global = {
 					0.61, -- [2]
 					0.43, -- [3]
 				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
 				},
 				["MAGE"] = {
 					0.41, -- [1]
@@ -766,10 +766,10 @@ _detalhes_global = {
 					0.12, -- [2]
 					0.23, -- [3]
 				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
 				},
 				["UNKNOW"] = {
 					0.2, -- [1]
@@ -781,15 +781,15 @@ _detalhes_global = {
 					1, -- [2]
 					1, -- [3]
 				},
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
+				},
 				["PALADIN"] = {
 					0.96, -- [1]
 					0.55, -- [2]
 					0.73, -- [3]
-				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
 				},
 				["ENEMY"] = {
 					0.94117, -- [1]
@@ -808,10 +808,10 @@ _detalhes_global = {
 					1, -- [2]
 					0, -- [3]
 				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
 				},
 				["ARENA_GREEN"] = {
 					0.4, -- [1]
@@ -832,7 +832,7 @@ _detalhes_global = {
 				["onclick_what_todo"] = 1,
 				["radius"] = 160,
 				["text_type"] = 1,
-				["minimapPos"] = 220,
+				["minimapPos"] = 232.1843468685088,
 				["text_format"] = 3,
 				["hide"] = false,
 			},
@@ -857,11 +857,11 @@ _detalhes_global = {
 				"out", -- [1]
 				0.2, -- [2]
 			},
-			["overall_clear_newboss"] = true,
 			["font_sizes"] = {
 				["menus"] = 10,
 			},
 			["overall_clear_logout"] = false,
+			["overall_clear_newboss"] = true,
 			["report_schema"] = 1,
 			["use_scroll"] = false,
 			["use_battleground_server_parser"] = false,
@@ -871,9 +871,9 @@ _detalhes_global = {
 				{
 					["__pos"] = {
 						["normal"] = {
-							["y"] = -211.0000610351563,
-							["x"] = 547.1337890625,
-							["w"] = 248.4000701904297,
+							["y"] = -318.9999694824219,
+							["x"] = 739.1336669921875,
+							["w"] = 248.4000854492188,
 							["h"] = 128.3999176025391,
 						},
 						["solo"] = {
@@ -906,228 +906,6 @@ _detalhes_global = {
 					},
 					["switch_all_roles_in_combat"] = false,
 					["clickthrough_toolbaricons"] = false,
-					["attribute_text"] = {
-						["enabled"] = true,
-						["shadow"] = false,
-						["side"] = 1,
-						["text_size"] = 12,
-						["custom_text"] = "{name}",
-						["text_face"] = "Accidental Presidency",
-						["anchor"] = {
-							-18, -- [1]
-							3, -- [2]
-						},
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["enable_custom_text"] = false,
-						["show_timer"] = {
-							true, -- [1]
-							true, -- [2]
-							true, -- [3]
-						},
-					},
-					["switch_tank"] = false,
-					["switch_all_roles_after_wipe"] = false,
-					["menu_icons"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-						true, -- [4]
-						true, -- [5]
-						false, -- [6]
-						["space"] = -2,
-						["shadow"] = false,
-					},
-					["switch_damager"] = false,
-					["show_sidebars"] = false,
-					["window_scale"] = 1,
-					["hide_icon"] = true,
-					["toolbar_side"] = 1,
-					["bg_g"] = 0.0941176470588235,
-					["bg_b"] = 0.0941176470588235,
-					["switch_healer_in_combat"] = false,
-					["color"] = {
-						0.0705882352941177, -- [1]
-						0.0705882352941177, -- [2]
-						0.0705882352941177, -- [3]
-						0.639196664094925, -- [4]
-					},
-					["skin"] = "Minimalistic",
-					["following"] = {
-						["enabled"] = false,
-						["bar_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-						["text_color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["switch_healer"] = false,
-					["StatusBarSaved"] = {
-						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
-						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
-						["options"] = {
-							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
-								["textYMod"] = 1,
-								["textXMod"] = 0,
-								["textFace"] = "Accidental Presidency",
-								["textAlign"] = 0,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-							},
-							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["segmentType"] = 2,
-								["textFace"] = "Accidental Presidency",
-								["textXMod"] = 0,
-								["textAlign"] = 0,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
-								["textColor"] = {
-									1, -- [1]
-									1, -- [2]
-									1, -- [3]
-									1, -- [4]
-								},
-								["textFace"] = "Accidental Presidency",
-								["textXMod"] = 6,
-								["textAlign"] = 0,
-								["timeType"] = 1,
-								["textStyle"] = 2,
-								["textSize"] = 10,
-								["textYMod"] = 1,
-							},
-						},
-						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
-					},
-					["switch_tank_in_combat"] = false,
-					["version"] = 3,
-					["__locked"] = false,
-					["menu_alpha"] = {
-						["enabled"] = false,
-						["onenter"] = 1,
-						["iconstoo"] = true,
-						["ignorebars"] = false,
-						["onleave"] = 1,
-					},
-					["show_statusbar"] = false,
-					["__was_opened"] = true,
-					["strata"] = "LOW",
-					["clickthrough_incombatonly"] = true,
-					["__snap"] = {
-					},
-					["menu_icons_size"] = 0.850000023841858,
-					["hide_in_combat_alpha"] = 0,
-					["menu_anchor_down"] = {
-						16, -- [1]
-						-3, -- [2]
-					},
-					["stretch_button_side"] = 1,
-					["libwindow"] = {
-						["y"] = 156.7999420166016,
-						["x"] = -96.6661376953125,
-						["point"] = "BOTTOMRIGHT",
-						["scale"] = 1,
-					},
-					["statusbar_info"] = {
-						["alpha"] = 0.3777777777777,
-						["overlay"] = {
-							0.333333333333333, -- [1]
-							0.333333333333333, -- [2]
-							0.333333333333333, -- [3]
-						},
-					},
-					["switch_damager_in_combat"] = false,
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
-					["backdrop_texture"] = "Details Ground",
-					["bars_sort_direction"] = 1,
-					["auto_hide_menu"] = {
-						["left"] = false,
-						["right"] = false,
-					},
-					["grab_on_top"] = false,
-					["bg_alpha"] = 0.183960914611816,
-					["instance_button_anchor"] = {
-						-27, -- [1]
-						1, -- [2]
-					},
-					["auto_current"] = true,
-					["desaturated_menu"] = false,
-					["clickthrough_rows"] = false,
-					["bars_inverted"] = false,
-					["hide_in_combat"] = false,
-					["posicao"] = {
-						["normal"] = {
-							["y"] = -211.0000610351563,
-							["x"] = 547.1337890625,
-							["w"] = 248.4000701904297,
-							["h"] = 128.3999176025391,
-						},
-						["solo"] = {
-							["y"] = 2,
-							["x"] = 1,
-							["w"] = 300,
-							["h"] = 200,
-						},
-					},
-					["micro_displays_side"] = 2,
-					["plugins_grow_direction"] = 1,
-					["wallpaper"] = {
-						["enabled"] = false,
-						["texcoord"] = {
-							0, -- [1]
-							1, -- [2]
-							0, -- [3]
-							0.7, -- [4]
-						},
-						["overlay"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-							1, -- [4]
-						},
-						["anchor"] = "all",
-						["height"] = 114.042518615723,
-						["alpha"] = 0.5,
-						["width"] = 283.000183105469,
-					},
-					["total_bar"] = {
-						["enabled"] = false,
-						["only_in_group"] = true,
-						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
-						["color"] = {
-							1, -- [1]
-							1, -- [2]
-							1, -- [3]
-						},
-					},
-					["ignore_mass_showhide"] = false,
 					["row_info"] = {
 						["textR_outline"] = false,
 						["spec_file"] = "Interface\\AddOns\\Details\\images\\spec_icons_normal",
@@ -1227,7 +1005,306 @@ _detalhes_global = {
 						["textR_separator"] = "NONE",
 						["use_spec_icons"] = true,
 					},
+					["ignore_mass_showhide"] = false,
+					["switch_all_roles_after_wipe"] = false,
+					["menu_icons"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+						true, -- [4]
+						true, -- [5]
+						false, -- [6]
+						["space"] = -2,
+						["shadow"] = false,
+					},
+					["desaturated_menu"] = false,
+					["micro_displays_side"] = 2,
+					["window_scale"] = 1,
+					["hide_icon"] = true,
+					["toolbar_side"] = 1,
+					["bg_g"] = 0.0941176470588235,
+					["bg_b"] = 0.0941176470588235,
+					["backdrop_texture"] = "Details Ground",
+					["color"] = {
+						0.0705882352941177, -- [1]
+						0.0705882352941177, -- [2]
+						0.0705882352941177, -- [3]
+						0.639196664094925, -- [4]
+					},
+					["hide_on_context"] = {
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [2]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [3]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [4]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [5]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [6]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [7]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [8]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [9]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [10]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [11]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [12]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [13]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [14]
+						{
+							["enabled"] = false,
+							["inverse"] = false,
+							["value"] = 100,
+						}, -- [15]
+					},
+					["skin"] = "Minimalistic",
+					["following"] = {
+						["enabled"] = false,
+						["bar_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["switch_healer"] = false,
+					["StatusBarSaved"] = {
+						["center"] = "DETAILS_STATUSBAR_PLUGIN_CLOCK",
+						["right"] = "DETAILS_STATUSBAR_PLUGIN_PDPS",
+						["options"] = {
+							["DETAILS_STATUSBAR_PLUGIN_PDPS"] = {
+								["textYMod"] = 1,
+								["textXMod"] = 0,
+								["textFace"] = "Accidental Presidency",
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+							},
+							["DETAILS_STATUSBAR_PLUGIN_PSEGMENT"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["segmentType"] = 2,
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 0,
+								["textAlign"] = 0,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+							["DETAILS_STATUSBAR_PLUGIN_CLOCK"] = {
+								["textColor"] = {
+									1, -- [1]
+									1, -- [2]
+									1, -- [3]
+									1, -- [4]
+								},
+								["textFace"] = "Accidental Presidency",
+								["textXMod"] = 6,
+								["textAlign"] = 0,
+								["timeType"] = 1,
+								["textStyle"] = 2,
+								["textSize"] = 10,
+								["textYMod"] = 1,
+							},
+						},
+						["left"] = "DETAILS_STATUSBAR_PLUGIN_PSEGMENT",
+					},
+					["instance_button_anchor"] = {
+						-27, -- [1]
+						1, -- [2]
+					},
+					["version"] = 3,
+					["__locked"] = false,
+					["menu_alpha"] = {
+						["enabled"] = false,
+						["onenter"] = 1,
+						["iconstoo"] = true,
+						["ignorebars"] = false,
+						["onleave"] = 1,
+					},
+					["menu_anchor_down"] = {
+						16, -- [1]
+						-3, -- [2]
+					},
+					["__was_opened"] = true,
+					["strata"] = "LOW",
+					["clickthrough_incombatonly"] = true,
+					["__snap"] = {
+					},
+					["show_statusbar"] = false,
+					["hide_in_combat_alpha"] = 0,
+					["menu_icons_size"] = 0.850000023841858,
+					["bars_inverted"] = false,
+					["libwindow"] = {
+						["y"] = 156.8000183105469,
+						["x"] = -96.6661376953125,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 1,
+					},
+					["statusbar_info"] = {
+						["alpha"] = 0.3777777777777,
+						["overlay"] = {
+							0.333333333333333, -- [1]
+							0.333333333333333, -- [2]
+							0.333333333333333, -- [3]
+						},
+					},
+					["stretch_button_side"] = 1,
 					["bars_grow_direction"] = 1,
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
+					["clickthrough_rows"] = false,
+					["bars_sort_direction"] = 1,
+					["grab_on_top"] = false,
+					["switch_healer_in_combat"] = false,
+					["bg_alpha"] = 0.183960914611816,
+					["auto_current"] = true,
+					["switch_tank_in_combat"] = false,
+					["attribute_text"] = {
+						["enabled"] = true,
+						["shadow"] = false,
+						["side"] = 1,
+						["text_size"] = 12,
+						["custom_text"] = "{name}",
+						["text_face"] = "Accidental Presidency",
+						["anchor"] = {
+							-18, -- [1]
+							3, -- [2]
+						},
+						["text_color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["enable_custom_text"] = false,
+						["show_timer"] = {
+							true, -- [1]
+							true, -- [2]
+							true, -- [3]
+						},
+					},
+					["switch_damager_in_combat"] = false,
+					["hide_in_combat"] = false,
+					["posicao"] = {
+						["normal"] = {
+							["y"] = -318.9999694824219,
+							["x"] = 739.1336669921875,
+							["w"] = 248.4000854492188,
+							["h"] = 128.3999176025391,
+						},
+						["solo"] = {
+							["y"] = 2,
+							["x"] = 1,
+							["w"] = 300,
+							["h"] = 200,
+						},
+					},
+					["auto_hide_menu"] = {
+						["left"] = false,
+						["right"] = false,
+					},
+					["plugins_grow_direction"] = 1,
+					["wallpaper"] = {
+						["enabled"] = false,
+						["texcoord"] = {
+							0, -- [1]
+							1, -- [2]
+							0, -- [3]
+							0.7, -- [4]
+						},
+						["overlay"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+							1, -- [4]
+						},
+						["anchor"] = "all",
+						["height"] = 114.042518615723,
+						["alpha"] = 0.5,
+						["width"] = 283.000183105469,
+					},
+					["total_bar"] = {
+						["enabled"] = false,
+						["only_in_group"] = true,
+						["icon"] = "Interface\\ICONS\\INV_Sigil_Thorim",
+						["color"] = {
+							1, -- [1]
+							1, -- [2]
+							1, -- [3]
+						},
+					},
+					["switch_tank"] = false,
+					["switch_damager"] = false,
+					["show_sidebars"] = false,
 					["skin_custom"] = "",
 				}, -- [1]
 			},
@@ -1247,7 +1324,11 @@ _detalhes_global = {
 	["deathlog_healingdone_min"] = 1,
 	["plater"] = {
 		["realtime_dps_enabled"] = false,
-		["realtime_dps_size"] = 12,
+		["damage_taken_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
 		["realtime_dps_player_shadow"] = true,
 		["damage_taken_enabled"] = false,
 		["realtime_dps_player_size"] = 12,
@@ -1263,12 +1344,8 @@ _detalhes_global = {
 			["x"] = 0,
 			["side"] = 7,
 		},
+		["realtime_dps_size"] = 12,
 		["damage_taken_shadow"] = true,
-		["damage_taken_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
 		["damage_taken_color"] = {
 			1, -- [1]
 			1, -- [2]
@@ -1297,6 +1374,37 @@ _detalhes_global = {
 		["on_leavecombat"] = "\n-- this code runs when the player leave combat",
 		["on_entercombat"] = "\n-- this code runs when the player enters in combat",
 	},
+	["mythic_plus"] = {
+		["make_overall_boss_only"] = false,
+		["mythicrun_chart_frame"] = {
+		},
+		["merge_boss_trash"] = true,
+		["delay_to_show_graphic"] = 5,
+		["always_in_combat"] = false,
+		["make_overall_when_done"] = true,
+		["delete_trash_after_merge"] = true,
+		["show_damage_graphic"] = true,
+		["mythicrun_chart_frame_ready"] = {
+		},
+		["boss_dedicated_segment"] = true,
+		["mythicrun_chart_frame_minimized"] = {
+		},
+		["last_mythicrun_chart"] = {
+		},
+	},
+	["realm_sync"] = true,
+	["global_plugin_database"] = {
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["encounter_timers_bw"] = {
+			},
+			["encounter_timers_dbm"] = {
+			},
+		},
+	},
+	["spellid_ignored"] = {
+	},
+	["createauraframe"] = {
+	},
 	["switchSaved"] = {
 		["slots"] = 4,
 		["table"] = {
@@ -1318,47 +1426,251 @@ _detalhes_global = {
 			}, -- [4]
 		},
 	},
-	["item_level_pool"] = {
-	},
-	["realm_sync"] = true,
-	["createauraframe"] = {
-	},
-	["global_plugin_database"] = {
-		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
-			["encounter_timers_bw"] = {
-			},
-			["encounter_timers_dbm"] = {
-			},
-		},
-	},
-	["mythic_plus"] = {
-		["make_overall_boss_only"] = false,
-		["mythicrun_chart_frame"] = {
-		},
-		["merge_boss_trash"] = true,
-		["delay_to_show_graphic"] = 5,
-		["always_in_combat"] = false,
-		["make_overall_when_done"] = true,
-		["delete_trash_after_merge"] = true,
-		["show_damage_graphic"] = true,
-		["mythicrun_chart_frame_ready"] = {
-		},
-		["boss_dedicated_segment"] = true,
-		["mythicrun_chart_frame_minimized"] = {
-		},
-		["last_mythicrun_chart"] = {
-		},
-	},
 	["update_warning_timeout"] = 10,
+	["savedCustomSpells"] = {
+		{
+			2, -- [1]
+			"Auto Shot", -- [2]
+			"Interface\\ICONS\\INV_Weapon_Bow_07", -- [3]
+		}, -- [1]
+		{
+			3, -- [1]
+			"Environment (Falling)", -- [2]
+			"Interface\\ICONS\\Spell_Magic_FeatherFall", -- [3]
+		}, -- [2]
+		{
+			55090, -- [1]
+			"Assalto del Flagello (Physical)", -- [2]
+			237530, -- [3]
+		}, -- [3]
+		{
+			4, -- [1]
+			"Environment (Drowning)", -- [2]
+			"Interface\\ICONS\\Ability_Suffocate", -- [3]
+		}, -- [4]
+		{
+			5, -- [1]
+			"Environment (Fatigue)", -- [2]
+			"Interface\\ICONS\\Spell_Arcane_MindMastery", -- [3]
+		}, -- [5]
+		{
+			6, -- [1]
+			"Environment (Fire)", -- [2]
+			"Interface\\ICONS\\INV_SummerFest_FireSpirit", -- [3]
+		}, -- [6]
+		{
+			7, -- [1]
+			"Environment (Lava)", -- [2]
+			"Interface\\ICONS\\Ability_Rhyolith_Volcano", -- [3]
+		}, -- [7]
+		{
+			8, -- [1]
+			"Environment (Slime)", -- [2]
+			"Interface\\ICONS\\Ability_Creature_Poison_02", -- [3]
+		}, -- [8]
+		{
+			59638, -- [1]
+			"Dardo di Gelo (Mirror Image)", -- [2]
+			135846, -- [3]
+		}, -- [9]
+		{
+			49184, -- [1]
+			"Folata Gelida (Main Target)", -- [2]
+			135833, -- [3]
+		}, -- [10]
+		{
+			44461, -- [1]
+			"Bomba Vivente (explosion)", -- [2]
+			236220, -- [3]
+		}, -- [11]
+		{
+			278227, -- [1]
+			"Schegge di Corteccia (Trinket)", -- [2]
+			134439, -- [3]
+		}, -- [12]
+		{
+			268998, -- [1]
+			"Anima Accesa (Trinket)", -- [2]
+			651093, -- [3]
+		}, -- [13]
+		{
+			196917, -- [1]
+			"Luce del Martire (Damage)", -- [2]
+			135938, -- [3]
+		}, -- [14]
+		{
+			120761, -- [1]
+			"Lancio di Lame (Glaive #2)", -- [2]
+			132330, -- [3]
+		}, -- [15]
+		{
+			278812, -- [1]
+			"Grazia del Leone (Trinket)", -- [2]
+			464140, -- [3]
+		}, -- [16]
+		{
+			270827, -- [1]
+			"Gemma dell'Anima del Mistico delle Tele (Trinket)", -- [2]
+			237431, -- [3]
+		}, -- [17]
+		{
+			212739, -- [1]
+			"Epidemia (Main Target)", -- [2]
+			136066, -- [3]
+		}, -- [18]
+		{
+			279664, -- [1]
+			"Bile Insanguinata (Trinket)", -- [2]
+			136007, -- [3]
+		}, -- [19]
+		{
+			237680, -- [1]
+			"Folata Gelida (AoE)", -- [2]
+			135833, -- [3]
+		}, -- [20]
+		{
+			215969, -- [1]
+			"Epidemia (AoE)", -- [2]
+			136066, -- [3]
+		}, -- [21]
+		{
+			278359, -- [1]
+			"Odio di Sangue (Trinket)", -- [2]
+			132175, -- [3]
+		}, -- [22]
+		{
+			278155, -- [1]
+			"Potere Persistente di Xalzaix (Trinket)", -- [2]
+			254105, -- [3]
+		}, -- [23]
+		{
+			271115, -- [1]
+			"Miccia della Maga dell'Ignizione (Trinket)", -- [2]
+			1119937, -- [3]
+		}, -- [24]
+		{
+			277179, -- [1]
+			"Medaglione del Gladiatore (Trinket)", -- [2]
+			252267, -- [3]
+		}, -- [25]
+		{
+			70890, -- [1]
+			"Assalto del Flagello (Shadow)", -- [2]
+			237530, -- [3]
+		}, -- [26]
+		{
+			278057, -- [1]
+			"Esplosione di Sangue Instabile (Trinket)", -- [2]
+			538040, -- [3]
+		}, -- [27]
+		{
+			277185, -- [1]
+			"Distintivo del Gladiatore (Trinket)", -- [2]
+			135884, -- [3]
+		}, -- [28]
+		{
+			228649, -- [1]
+			"Calcio dell'Oscuramento (Passive)", -- [2]
+			574575, -- [3]
+		}, -- [29]
+		{
+			121414, -- [1]
+			"Lancio di Lame (Glaive #1)", -- [2]
+			132330, -- [3]
+		}, -- [30]
+		{
+			94472, -- [1]
+			"Espiazione (critical)", -- [2]
+			135887, -- [3]
+		}, -- [31]
+		{
+			277187, -- [1]
+			"Emblema del Gladiatore (Trinket)", -- [2]
+			132344, -- [3]
+		}, -- [32]
+		{
+			277181, -- [1]
+			"Fregio del Gladiatore (Trinket)", -- [2]
+			134501, -- [3]
+		}, -- [33]
+		{
+			278862, -- [1]
+			"Gelo delle Rune (Trinket)", -- [2]
+			252270, -- [3]
+		}, -- [34]
+		{
+			271462, -- [1]
+			"Bambola Vudù Incrostata di Marcio (Trinket)", -- [2]
+			1716867, -- [3]
+		}, -- [35]
+		{
+			270925, -- [1]
+			"Manifestazione d'Acqua (Trinket)", -- [2]
+			1698701, -- [3]
+		}, -- [36]
+		{
+			271071, -- [1]
+			"Conchiglia dei Sussurri Oscuri (Trinket)", -- [2]
+			1498840, -- [3]
+		}, -- [37]
+		{
+			271465, -- [1]
+			"Bambola Vudù Incrostata di Marcio (Trinket)", -- [2]
+			1716867, -- [3]
+		}, -- [38]
+		{
+			33778, -- [1]
+			"Bocciolo di Vita (Bloom)", -- [2]
+			134206, -- [3]
+		}, -- [39]
+		{
+			88082, -- [1]
+			"Palla di Fuoco (Mirror Image)", -- [2]
+			135812, -- [3]
+		}, -- [40]
+		{
+			1, -- [1]
+			"Melee", -- [2]
+			"Interface\\ICONS\\INV_Sword_04", -- [3]
+		}, -- [41]
+		{
+			278383, -- [1]
+			"Tempesta Increspante (Trinket)", -- [2]
+			2103829, -- [3]
+		}, -- [42]
+		{
+			271671, -- [1]
+			"Accordo Cacofonico (Trinket)", -- [2]
+			454048, -- [3]
+		}, -- [43]
+		{
+			98021, -- [1]
+			"Health Exchange", -- [2]
+			237586, -- [3]
+		}, -- [44]
+	},
 	["show_totalhitdamage_on_overkill"] = false,
 	["dungeon_data"] = {
 	},
 	["raid_data"] = {
 	},
+	["plugin_window_pos"] = {
+		["y"] = 7.62939453125e-06,
+		["x"] = 0,
+		["point"] = "CENTER",
+		["scale"] = 1,
+	},
+	["always_use_profile_name"] = "",
+	["savedStyles"] = {
+	},
+	["always_use_profile_exception"] = {
+	},
+	["details_auras"] = {
+	},
 	["tutorial"] = {
 		["unlock_button"] = 0,
-		["main_help_button"] = 4,
-		["logons"] = 4,
+		["main_help_button"] = 8,
+		["logons"] = 8,
 		["version_announce"] = 0,
 		["bookmark_tutorial"] = false,
 		["ctrl_click_close_tutorial"] = false,
@@ -1371,19 +1683,6 @@ _detalhes_global = {
 			false, -- [6]
 		},
 		["STREAMER_PLUGIN_FIRSTRUN"] = true,
-	},
-	["always_use_profile_name"] = "",
-	["savedStyles"] = {
-	},
-	["always_use_profile_exception"] = {
-	},
-	["details_auras"] = {
-	},
-	["plugin_window_pos"] = {
-		["y"] = -7.62939453125e-06,
-		["x"] = -7.62939453125e-05,
-		["point"] = "CENTER",
-		["scale"] = 1,
 	},
 	["savedTimeCaptures"] = {
 	},
@@ -1633,227 +1932,7 @@ _detalhes_global = {
 		"7 - Saving Profiles.", -- [5]
 		"8 - Saving nicktag cache.", -- [6]
 	},
-	["savedCustomSpells"] = {
-		{
-			2, -- [1]
-			"Auto Shot", -- [2]
-			"Interface\\ICONS\\INV_Weapon_Bow_07", -- [3]
-		}, -- [1]
-		{
-			3, -- [1]
-			"Environment (Falling)", -- [2]
-			"Interface\\ICONS\\Spell_Magic_FeatherFall", -- [3]
-		}, -- [2]
-		{
-			55090, -- [1]
-			"Assalto del Flagello (Physical)", -- [2]
-			237530, -- [3]
-		}, -- [3]
-		{
-			4, -- [1]
-			"Environment (Drowning)", -- [2]
-			"Interface\\ICONS\\Ability_Suffocate", -- [3]
-		}, -- [4]
-		{
-			5, -- [1]
-			"Environment (Fatigue)", -- [2]
-			"Interface\\ICONS\\Spell_Arcane_MindMastery", -- [3]
-		}, -- [5]
-		{
-			6, -- [1]
-			"Environment (Fire)", -- [2]
-			"Interface\\ICONS\\INV_SummerFest_FireSpirit", -- [3]
-		}, -- [6]
-		{
-			7, -- [1]
-			"Environment (Lava)", -- [2]
-			"Interface\\ICONS\\Ability_Rhyolith_Volcano", -- [3]
-		}, -- [7]
-		{
-			8, -- [1]
-			"Environment (Slime)", -- [2]
-			"Interface\\ICONS\\Ability_Creature_Poison_02", -- [3]
-		}, -- [8]
-		{
-			59638, -- [1]
-			"Dardo di Gelo (Mirror Image)", -- [2]
-			135846, -- [3]
-		}, -- [9]
-		{
-			49184, -- [1]
-			"Folata Gelida (Main Target)", -- [2]
-			135833, -- [3]
-		}, -- [10]
-		{
-			44461, -- [1]
-			"Bomba Vivente (explosion)", -- [2]
-			236220, -- [3]
-		}, -- [11]
-		{
-			278227, -- [1]
-			"Schegge di Corteccia (Trinket)", -- [2]
-			134439, -- [3]
-		}, -- [12]
-		{
-			268998, -- [1]
-			"Anima Accesa (Trinket)", -- [2]
-			651093, -- [3]
-		}, -- [13]
-		{
-			196917, -- [1]
-			"Luce del Martire (Damage)", -- [2]
-			135938, -- [3]
-		}, -- [14]
-		{
-			120761, -- [1]
-			"Lancio di Lame (Glaive #2)", -- [2]
-			132330, -- [3]
-		}, -- [15]
-		{
-			278812, -- [1]
-			"Grazia del Leone (Trinket)", -- [2]
-			464140, -- [3]
-		}, -- [16]
-		{
-			270827, -- [1]
-			"Gemma dell'Anima del Mistico delle Tele (Trinket)", -- [2]
-			237431, -- [3]
-		}, -- [17]
-		{
-			212739, -- [1]
-			"Epidemia (Main Target)", -- [2]
-			136066, -- [3]
-		}, -- [18]
-		{
-			279664, -- [1]
-			"Bile Insanguinata (Trinket)", -- [2]
-			136007, -- [3]
-		}, -- [19]
-		{
-			237680, -- [1]
-			"Folata Gelida (AoE)", -- [2]
-			135833, -- [3]
-		}, -- [20]
-		{
-			215969, -- [1]
-			"Epidemia (AoE)", -- [2]
-			136066, -- [3]
-		}, -- [21]
-		{
-			278359, -- [1]
-			"Odio di Sangue (Trinket)", -- [2]
-			132175, -- [3]
-		}, -- [22]
-		{
-			278155, -- [1]
-			"Potere Persistente di Xalzaix (Trinket)", -- [2]
-			254105, -- [3]
-		}, -- [23]
-		{
-			271115, -- [1]
-			"Miccia della Maga dell'Ignizione (Trinket)", -- [2]
-			1119937, -- [3]
-		}, -- [24]
-		{
-			277179, -- [1]
-			"Medaglione del Gladiatore (Trinket)", -- [2]
-			252267, -- [3]
-		}, -- [25]
-		{
-			70890, -- [1]
-			"Assalto del Flagello (Shadow)", -- [2]
-			237530, -- [3]
-		}, -- [26]
-		{
-			278057, -- [1]
-			"Esplosione di Sangue Instabile (Trinket)", -- [2]
-			538040, -- [3]
-		}, -- [27]
-		{
-			277185, -- [1]
-			"Distintivo del Gladiatore (Trinket)", -- [2]
-			135884, -- [3]
-		}, -- [28]
-		{
-			228649, -- [1]
-			"Calcio dell'Oscuramento (Passive)", -- [2]
-			574575, -- [3]
-		}, -- [29]
-		{
-			121414, -- [1]
-			"Lancio di Lame (Glaive #1)", -- [2]
-			132330, -- [3]
-		}, -- [30]
-		{
-			94472, -- [1]
-			"Espiazione (critical)", -- [2]
-			135887, -- [3]
-		}, -- [31]
-		{
-			277187, -- [1]
-			"Emblema del Gladiatore (Trinket)", -- [2]
-			132344, -- [3]
-		}, -- [32]
-		{
-			277181, -- [1]
-			"Fregio del Gladiatore (Trinket)", -- [2]
-			134501, -- [3]
-		}, -- [33]
-		{
-			278862, -- [1]
-			"Gelo delle Rune (Trinket)", -- [2]
-			252270, -- [3]
-		}, -- [34]
-		{
-			271462, -- [1]
-			"Bambola Vudù Incrostata di Marcio (Trinket)", -- [2]
-			1716867, -- [3]
-		}, -- [35]
-		{
-			270925, -- [1]
-			"Manifestazione d'Acqua (Trinket)", -- [2]
-			1698701, -- [3]
-		}, -- [36]
-		{
-			271071, -- [1]
-			"Conchiglia dei Sussurri Oscuri (Trinket)", -- [2]
-			1498840, -- [3]
-		}, -- [37]
-		{
-			271465, -- [1]
-			"Bambola Vudù Incrostata di Marcio (Trinket)", -- [2]
-			1716867, -- [3]
-		}, -- [38]
-		{
-			33778, -- [1]
-			"Bocciolo di Vita (Bloom)", -- [2]
-			134206, -- [3]
-		}, -- [39]
-		{
-			88082, -- [1]
-			"Palla di Fuoco (Mirror Image)", -- [2]
-			135812, -- [3]
-		}, -- [40]
-		{
-			1, -- [1]
-			"Melee", -- [2]
-			"Interface\\ICONS\\INV_Sword_04", -- [3]
-		}, -- [41]
-		{
-			278383, -- [1]
-			"Tempesta Increspante (Trinket)", -- [2]
-			2103829, -- [3]
-		}, -- [42]
-		{
-			271671, -- [1]
-			"Accordo Cacofonico (Trinket)", -- [2]
-			454048, -- [3]
-		}, -- [43]
-		{
-			98021, -- [1]
-			"Health Exchange", -- [2]
-			237586, -- [3]
-		}, -- [44]
+	["item_level_pool"] = {
 	},
 	["lastUpdateWarning"] = 0,
 	["always_use_profile"] = false,

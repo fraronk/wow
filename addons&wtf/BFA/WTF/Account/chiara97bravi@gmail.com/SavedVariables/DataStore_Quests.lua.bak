@@ -6,7 +6,7 @@ DataStore_QuestsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Sethraliss.Voidvenom"] = {
-				["HistoryLastUpdate"] = 1605388510,
+				["HistoryLastUpdate"] = 1605388745,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:55784:-1:120:120:0|h[Ripagare il favore]|h|r", -- [1]
 					"|cff40c040|Hquest:42233:110:110:255:0|h[Le Tribù di Alto Monte]|h|r", -- [2]
@@ -66,7 +66,6 @@ DataStore_QuestsDB = {
 					0, -- [27]
 				},
 				["HistorySize"] = 1748,
-				["lastUpdate"] = 1605388504,
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
@@ -75,21 +74,21 @@ DataStore_QuestsDB = {
 					128, -- [5]
 					128, -- [6]
 					128, -- [7]
-					[9] = 128,
-					[10] = 128,
+					[24] = 81,
 					[13] = 128,
+					[26] = 255,
 					[14] = 128,
 					[15] = 128,
+					[25] = 256,
+					[19] = 128,
 					[17] = 128,
 					[18] = 128,
-					[19] = 128,
+					[10] = 128,
 					[20] = 143,
 					[21] = 143,
 					[22] = 143,
 					[23] = 62,
-					[24] = 81,
-					[25] = 256,
-					[26] = 255,
+					[9] = 128,
 				},
 				["History"] = {
 					[1035] = 292,
@@ -607,7 +606,6 @@ DataStore_QuestsDB = {
 					[377] = 8,
 					[314] = 2147483648,
 				},
-				["HistoryBuild"] = "31478",
 				["QuestHeaders"] = {
 					"Alto Monte", -- [1]
 					"Azsuna", -- [2]
@@ -629,6 +627,28 @@ DataStore_QuestsDB = {
 					"PvP nel mondo di gioco", -- [18]
 					"Scorrerie sulle Isole", -- [19]
 				},
+				["Rewards"] = {
+					nil, -- [1]
+					"r|157823|1|1", -- [2]
+					"r|157825|1|1", -- [3]
+					"r|166883|1|1,r|169764|1|1", -- [4]
+					"r|157827|1|1", -- [5]
+					"r|157829|1|1", -- [6]
+					"r|157829|1|1", -- [7]
+					[25] = "r|171198|2|1,r|169716|1|1",
+					[14] = "r|157830|1|1",
+					[15] = "r|157830|1|1",
+					[9] = "r|157831|1|1",
+					[18] = "r|157826|1|1",
+					[10] = "r|157831|1|1",
+					[20] = "r|152654|1|1",
+					[21] = "r|152654|1|1",
+					[22] = "r|152654|1|1",
+					[19] = "r|157822|1|1",
+					[17] = "r|157824|1|1",
+				},
+				["HistoryBuild"] = "31478",
+				["lastUpdate"] = 1605389244,
 				["Quests"] = {
 					7864384, -- [1]
 					7211112, -- [2]
@@ -664,10 +684,10 @@ DataStore_QuestsDB = {
 					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
 					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
-					[48641] = "0|4|92|0/4 Missioni mondiali completate alla Riva Dispersa",
-					[48642] = "0|4|2972|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[48641] = "0|4|80|0/4 Missioni mondiali completate alla Riva Dispersa",
+					[48642] = "0|4|2960|0/4 Missioni mondiali dei Redentori di Argus completate",
 					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
-					[48639] = "0|4|1532|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[48639] = "0|4|1520|0/4 Missioni mondiali dell'Armata della Luce completate",
 				},
 			},
 		},

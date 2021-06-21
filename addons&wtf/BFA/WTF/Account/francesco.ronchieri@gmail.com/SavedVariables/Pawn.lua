@@ -226,6 +226,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID1"] = {
 			["IconTexturePath"] = 136096,
 			["PerCharacterOptions"] = {
+				["Mariagreco-Sethraliss"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "fe7b09",
 			["LocalizedName"] = "Druido: Equilibrio",
@@ -496,9 +499,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
-				["Mariagreco-Sethraliss"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "fe7b09",
 			["LocalizedName"] = "Druido: Guardiano Ferino",

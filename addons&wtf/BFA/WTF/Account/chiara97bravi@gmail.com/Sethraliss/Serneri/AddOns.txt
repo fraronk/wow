@@ -1,3 +1,4 @@
 ElvUI: disabled
 HealBot: disabled
 MaxDps: disabled
+ZygorGuidesViewer: disabled

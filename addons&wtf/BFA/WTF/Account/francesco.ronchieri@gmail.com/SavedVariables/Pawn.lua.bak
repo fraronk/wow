@@ -331,6 +331,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
+				["Mariagreco-Sethraliss"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "fe7b09",
 			["ClassID"] = 11,
@@ -496,9 +499,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
-				["Mariagreco-Sethraliss"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "fe7b09",
 			["ClassID"] = 11,

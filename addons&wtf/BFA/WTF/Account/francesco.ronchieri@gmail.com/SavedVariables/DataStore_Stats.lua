@@ -25,16 +25,16 @@ DataStore_StatsDB = {
 		["Characters"] = {
 			["Default.Sethraliss.Mariagreco"] = {
 				["Stats"] = {
-					["Ranged"] = "10477-10478|1.7480000257492|0|0|18.486110687256",
-					["HealthMax"] = 772874,
-					["Melee"] = "12622-13256|3.1460001468658|15288|0|18.486110687256|40",
-					["MaxPower"] = "0|20000",
-					["Defense"] = "3527|0|29.110000610352|0|0|0",
-					["PVP"] = "1485|0",
-					["Base"] = "629|10715|33898|1467|3527",
-					["Spell"] = "14676|14676|0|18.486110687256|979|1280",
+					["Ranged"] = "6499-6500|1.5370000600815|0|0|20.597221374512",
+					["HealthMax"] = 470640,
+					["Melee"] = "6822-6948|1.9980001449585|14236|0|20.597221374512|40",
+					["MaxPower"] = "8|100",
+					["Defense"] = "3494|0|8.2399997711182|0|0|0",
+					["PVP"] = "1660|0",
+					["Base"] = "629|1469|23532|13699|3494",
+					["Spell"] = "13699|14432|0|20.597221374512|2045|3200",
 				},
-				["lastUpdate"] = 1623918782,
+				["lastUpdate"] = 1624192462,
 				["SeasonBestMaps"] = {
 					[245] = {
 						["texture"] = 1778897,
@@ -50,9 +50,9 @@ DataStore_StatsDB = {
 					},
 					[246] = {
 						["texture"] = 2178737,
-						["level"] = 15,
+						["level"] = 9,
 						["name"] = "Tol Dagor",
-						["timeInSeconds"] = 1917,
+						["timeInSeconds"] = 2047,
 					},
 					[370] = {
 						["texture"] = 3025336,
@@ -100,15 +100,21 @@ DataStore_StatsDB = {
 					},
 					[245] = {
 						["texture"] = 1778897,
-						["level"] = 12,
+						["level"] = 13,
 						["name"] = "Covo della Libertà",
-						["timeInSeconds"] = 1993,
+						["timeInSeconds"] = 2228,
 					},
 					[370] = {
 						["texture"] = 3025336,
 						["level"] = 12,
 						["name"] = "Operazione: Meccagon - Officina",
 						["timeInSeconds"] = 2021,
+					},
+					[246] = {
+						["texture"] = 2178737,
+						["level"] = 10,
+						["name"] = "Tol Dagor",
+						["timeInSeconds"] = 2309,
 					},
 					[247] = {
 						["texture"] = 2178735,

@@ -498,6 +498,51 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-10-003447B7"] = {
+					[52874] = {
+						["expireAt"] = 1624197455,
+						["rewardAmount"] = 254,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51892] = {
+						["expireAt"] = 1624237507,
+						["rewardAmount"] = 262,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[52869] = {
+						["expireAt"] = 1624197455,
+						["rewardAmount"] = 251,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51317] = {
+						["expireAt"] = 1624197455,
+						["rewardAmount"] = 248,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51655] = {
+						["expireAt"] = 1624197455,
+						["rewardAmount"] = 231,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51626] = {
+						["expireAt"] = 1624283855,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = 2201832,
+					},
+					[51847] = {
+						["expireAt"] = 1624197455,
+						["rewardAmount"] = "|cff2292FF415",
+						["rewardTexture"] = "Interface\\ICONS\\INV_Shoulder_25",
+					},
+					[53331] = {
+						["expireAt"] = 1624197455,
+						["rewardAmount"] = 270,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51029] = {
+						["expireAt"] = 1624283824,
+						["rewardAmount"] = 186,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
 				},
 				["Player-10-004F0464"] = {
 				},

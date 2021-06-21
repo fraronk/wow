@@ -59,10 +59,10 @@ DataStore_AgendaDB = {
 					--[[ skipped entry with table key ]]
 					--[[ skipped entry with table key ]]
 				},
-				["lastUpdate"] = 1623918833,
 				["DungeonIDs"] = {
-					["Ny'alotha, la Città Risvegliata Eroica|15017"] = "502028|1623918780|0|1",
+					["Ny'alotha, la Città Risvegliata Eroica|15017"] = "228357|1624192446|0|1",
 				},
+				["lastUpdate"] = 1624192483,
 			},
 		},
 	},

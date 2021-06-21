@@ -498,14 +498,29 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-10-003447B7"] = {
-					[52378] = {
-						["expireAt"] = 1623851814,
-						["rewardAmount"] = 169,
+					[51029] = {
+						["expireAt"] = 1624283824,
+						["rewardAmount"] = 186,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
-					[51033] = {
-						["expireAt"] = 1623851814,
-						["rewardAmount"] = 156,
+					[51892] = {
+						["expireAt"] = 1624237507,
+						["rewardAmount"] = 262,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[53331] = {
+						["expireAt"] = 1624194307,
+						["rewardAmount"] = 270,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51655] = {
+						["expireAt"] = 1624197441,
+						["rewardAmount"] = 231,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51626] = {
+						["expireAt"] = 1624237507,
+						["rewardAmount"] = 198,
 						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
 					},
 				},

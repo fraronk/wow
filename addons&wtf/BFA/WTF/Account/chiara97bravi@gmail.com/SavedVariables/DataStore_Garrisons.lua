@@ -124,26 +124,17 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
 					["iLevel"] = 0,
 				},
-				[208] = {
-					["durationSeconds"] = 5400,
+				[66] = {
+					["durationSeconds"] = 1800,
 					["type"] = "Combattimento",
-					["cost"] = 15,
+					["cost"] = 0,
 					["rewards"] = {
 						{
-							["title"] = "Bonus PE seguace",
-							["followerXP"] = 600,
-							["tooltip"] = "+600 PE",
-							["icon"] = "Interface\\Icons\\XPBonus_Icon",
-							["name"] = "+600 PE",
+							["itemID"] = 114826,
+							["quantity"] = 1,
 						}, -- [1]
-						{
-							["title"] = "Ricompensa in valuta",
-							["quantity"] = 125,
-							["icon"] = 1005027,
-							["currencyID"] = 824,
-						}, -- [2]
 					},
-					["level"] = 93,
+					["level"] = 90,
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
@@ -191,20 +182,6 @@ DataStore_GarrisonsDB = {
 					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
-				[66] = {
-					["durationSeconds"] = 1800,
-					["type"] = "Combattimento",
-					["cost"] = 0,
-					["rewards"] = {
-						{
-							["itemID"] = 114826,
-							["quantity"] = 1,
-						}, -- [1]
-					},
-					["level"] = 90,
-					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
-					["iLevel"] = 0,
-				},
 				[65] = {
 					["durationSeconds"] = 1800,
 					["type"] = "Pattugliamento",
@@ -220,6 +197,29 @@ DataStore_GarrisonsDB = {
 					},
 					["level"] = 90,
 					["typeAtlas"] = "GarrMission_MissionIcon-Patrol",
+					["iLevel"] = 0,
+				},
+				[208] = {
+					["durationSeconds"] = 5400,
+					["type"] = "Combattimento",
+					["cost"] = 15,
+					["rewards"] = {
+						{
+							["title"] = "Bonus PE seguace",
+							["followerXP"] = 600,
+							["tooltip"] = "+600 PE",
+							["icon"] = "Interface\\Icons\\XPBonus_Icon",
+							["name"] = "+600 PE",
+						}, -- [1]
+						{
+							["title"] = "Ricompensa in valuta",
+							["quantity"] = 125,
+							["icon"] = 1005027,
+							["currencyID"] = 824,
+						}, -- [2]
+					},
+					["level"] = 93,
+					["typeAtlas"] = "GarrMission_MissionIcon-Combat",
 					["iLevel"] = 0,
 				},
 				[1502] = {

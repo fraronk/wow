@@ -48,13 +48,13 @@ AUCTIONATOR_SAVEDVARS = {
 	["_50000"] = 500,
 	["TimeOfLastScan"] = 1622120585,
 	["_2000"] = 100,
-	["_5000000"] = 10000,
 	["_200000"] = 1000,
-	["_1000000"] = 2500,
 	["_10000"] = 200,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
+	["STARTING_DISCOUNT"] = 5,
 	["_500"] = 5,
 	["LOG_DE_DATA_X"] = true,
-	["STARTING_DISCOUNT"] = 5,
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
@@ -237,12 +237,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3629"] = 5000000,
 			["sc"] = 4,
 		},
-		["Elmo Bicorne di Saronite Prezioso"] = {
-			["mr"] = 25000000,
-			["sc"] = 4,
-			["id"] = "42728:0:0:0:120",
-			["H3629"] = 25000000,
+		["Guanti del Guardiano Tessisale"] = {
+			["mr"] = 310000000,
 			["cc"] = 4,
+			["id"] = "169932:0:0:0:4799",
+			["L3671"] = 310000000,
+			["H3671"] = 1000000000,
+			["sc"] = 2,
 		},
 		["Minerale di Saronite"] = {
 			["mr"] = 50000,
@@ -267,20 +268,19 @@ AUCTIONATOR_PRICE_DATABASE = {
 			["H3629"] = 50000000,
 			["sc"] = 4,
 		},
-		["Guanti del Guardiano Tessisale"] = {
-			["mr"] = 310000000,
-			["cc"] = 4,
-			["id"] = "169932:0:0:0:4799",
-			["L3671"] = 310000000,
-			["H3671"] = 1000000000,
-			["sc"] = 2,
-		},
 		["Elmo Bicorne di Saronite Selvaggio"] = {
 			["mr"] = 25000000,
 			["cc"] = 4,
 			["id"] = "41350:0:0:0:120",
 			["H3629"] = 25000000,
 			["sc"] = 4,
+		},
+		["Elmo Bicorne di Saronite Prezioso"] = {
+			["mr"] = 25000000,
+			["sc"] = 4,
+			["id"] = "42728:0:0:0:120",
+			["H3629"] = 25000000,
+			["cc"] = 4,
 		},
 		["Cintura Foderata di Saronite Selvaggia"] = {
 			["mr"] = 25000000,

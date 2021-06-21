@@ -14035,6 +14035,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Marinaio Riesumato",
 		},
+		[295444] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Za'qul",
+		},
 		[298781] = {
 			["school"] = 64,
 			["type"] = "DEBUFF",
@@ -14043,14 +14051,6 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 			["source"] = "Regina Azshara",
-		},
-		[295444] = {
-			["school"] = 32,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Za'qul",
 		},
 		[285472] = {
 			["school"] = 1,
@@ -18590,14 +18590,5 @@ EncounterDetailsDB = {
 		},
 	},
 	["emotes"] = {
-		{
-			["boss"] = "Vol'zith la Sussurrante",
-		}, -- [1]
-		{
-			["boss"] = "Ser Sacraonda",
-		}, -- [2]
-		{
-			["boss"] = "Concilio dei Saggi delle Maree",
-		}, -- [3]
 	},
 }
