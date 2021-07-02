@@ -9,7 +9,7 @@ H: 18
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -6
+X: -7
 Y: 96
 W: 235
 H: 480

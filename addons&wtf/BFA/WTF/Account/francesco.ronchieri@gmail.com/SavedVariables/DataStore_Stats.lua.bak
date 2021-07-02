@@ -16,25 +16,38 @@ DataStore_StatsDB = {
 		["Nuncevedo - Sethraliss"] = "Nuncevedo - Sethraliss",
 		["Brùslì - Sethraliss"] = "Brùslì - Sethraliss",
 		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
-		["Nanotano - Sethraliss"] = "Nanotano - Sethraliss",
 		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
+		["Nanotano - Sethraliss"] = "Nanotano - Sethraliss",
 		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Sethraliss.Reghiaccio"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|1.7750000953674|0|0|24.166666030884",
+					["HealthMax"] = 135640,
+					["Melee"] = "355-481|3.1950001716614|0|0|24.166666030884|40",
+					["MaxPower"] = "0|100000",
+					["Spell"] = "6122|6330|0|24.166666030884|861|10000",
+					["PVP"] = "14|0",
+					["Base"] = "643|998|6782|6122|1007",
+					["Defense"] = "1007|0|3|0|0|0",
+				},
+				["lastUpdate"] = 1624791106,
+			},
 			["Default.Sethraliss.Mariagreco"] = {
 				["Stats"] = {
-					["Ranged"] = "7388-7390|1.8500001430511|0|0|19.375",
-					["HealthMax"] = 451700,
-					["Melee"] = "7465-7466|1.8500001430511|10391|0|19.375|40",
+					["Ranged"] = "5995-5996|1.4920001029968|0|0|24.972221374512",
+					["HealthMax"] = 811155,
+					["Melee"] = "6942-7068|1.9390001296997|14414|0|24.972221374512|40",
 					["MaxPower"] = "0|20000",
-					["Spell"] = "9975|9975|0|19.375|548|1280",
-					["PVP"] = "1659|0",
-					["Base"] = "629|10391|22585|1613|3521",
-					["Defense"] = "3521|0|24.299999237061|0|0|0",
+					["Defense"] = "3559|0|31.639999389648|0|0|0",
+					["PVP"] = "1771|0",
+					["Base"] = "629|9618|34371|1467|3559",
+					["Spell"] = "13837|13837|0|24.972221374512|2224|1280",
 				},
-				["lastUpdate"] = 1624179813,
+				["lastUpdate"] = 1625160276,
 				["SeasonBestMaps"] = {
 					[245] = {
 						["texture"] = 1778897,
@@ -50,9 +63,9 @@ DataStore_StatsDB = {
 					},
 					[246] = {
 						["texture"] = 2178737,
-						["level"] = 9,
+						["level"] = 15,
 						["name"] = "Tol Dagor",
-						["timeInSeconds"] = 2047,
+						["timeInSeconds"] = 1917,
 					},
 					[370] = {
 						["texture"] = 3025336,
@@ -60,17 +73,17 @@ DataStore_StatsDB = {
 						["name"] = "Operazione: Meccagon - Officina",
 						["timeInSeconds"] = 1145,
 					},
+					[369] = {
+						["texture"] = 3025336,
+						["level"] = 2,
+						["name"] = "Operazione: Meccagon - Discarica",
+						["timeInSeconds"] = 1319,
+					},
 					[244] = {
 						["texture"] = 1778896,
 						["level"] = 13,
 						["name"] = "Atal'dazar",
 						["timeInSeconds"] = 1487,
-					},
-					[251] = {
-						["texture"] = 2178736,
-						["level"] = 14,
-						["name"] = "Grottamarcia",
-						["timeInSeconds"] = 1907,
 					},
 					[252] = {
 						["texture"] = 2178732,
@@ -78,19 +91,19 @@ DataStore_StatsDB = {
 						["name"] = "Santuario della Tempesta",
 						["timeInSeconds"] = 2154,
 					},
-					[369] = {
-						["texture"] = 3025336,
-						["level"] = 2,
-						["name"] = "Operazione: Meccagon - Discarica",
-						["timeInSeconds"] = 1319,
+					[251] = {
+						["texture"] = 2178736,
+						["level"] = 14,
+						["name"] = "Grottamarcia",
+						["timeInSeconds"] = 1907,
 					},
 				},
 				["SeasonBestMapsOvertime"] = {
 					[244] = {
 						["texture"] = 1778896,
-						["level"] = 16,
+						["level"] = 15,
 						["name"] = "Atal'dazar",
-						["timeInSeconds"] = 2194,
+						["timeInSeconds"] = 2133,
 					},
 					[252] = {
 						["texture"] = 2178732,
@@ -100,9 +113,9 @@ DataStore_StatsDB = {
 					},
 					[245] = {
 						["texture"] = 1778897,
-						["level"] = 13,
+						["level"] = 12,
 						["name"] = "Covo della Libertà",
-						["timeInSeconds"] = 2228,
+						["timeInSeconds"] = 1993,
 					},
 					[370] = {
 						["texture"] = 3025336,
@@ -110,17 +123,11 @@ DataStore_StatsDB = {
 						["name"] = "Operazione: Meccagon - Officina",
 						["timeInSeconds"] = 2021,
 					},
-					[246] = {
-						["texture"] = 2178737,
-						["level"] = 10,
-						["name"] = "Tol Dagor",
-						["timeInSeconds"] = 2309,
-					},
 					[247] = {
 						["texture"] = 2178735,
-						["level"] = 14,
+						["level"] = 13,
 						["name"] = "Vena Madre",
-						["timeInSeconds"] = 2969,
+						["timeInSeconds"] = 2818,
 					},
 					[248] = {
 						["texture"] = 2178742,
@@ -134,11 +141,11 @@ DataStore_StatsDB = {
 						["name"] = "Requie dei Re",
 						["timeInSeconds"] = 2763,
 					},
-					[353] = {
-						["texture"] = 2178733,
-						["level"] = 14,
-						["name"] = "Assedio di Boralus",
-						["timeInSeconds"] = 2884,
+					[369] = {
+						["texture"] = 3025336,
+						["level"] = 17,
+						["name"] = "Operazione: Meccagon - Discarica",
+						["timeInSeconds"] = 3517,
 					},
 					[250] = {
 						["texture"] = 2178734,
@@ -146,11 +153,76 @@ DataStore_StatsDB = {
 						["name"] = "Tempio di Sethraliss",
 						["timeInSeconds"] = 2689,
 					},
+					[353] = {
+						["texture"] = 2178733,
+						["level"] = 14,
+						["name"] = "Assedio di Boralus",
+						["timeInSeconds"] = 2884,
+					},
+				},
+			},
+			["Default.Sethraliss.Berlusconi"] = {
+				["Stats"] = {
+					["Ranged"] = "6167-6643|2.5450000762939|9543|0|45.513889312744",
+					["HealthMax"] = 449841,
+					["Melee"] = "4825-4826|2.5450000762939|9543|0|45.513889312744|40",
+					["MaxPower"] = "2|120",
+					["Defense"] = "3950|0|19.909999847412|0|0|0",
+					["PVP"] = "1815|0",
+					["Base"] = "895|9543|20826|1203|3950",
+					["Spell"] = "1203|1216|0|45.513889312744|1213|0",
+				},
+				["lastUpdate"] = 1624985943,
+				["SeasonBestMaps"] = {
+					[245] = {
+						["timeInSeconds"] = 1607,
+						["level"] = 7,
+						["name"] = "Covo della Libertà",
+						["texture"] = 1778897,
+					},
+					[250] = {
+						["timeInSeconds"] = 1576,
+						["level"] = 4,
+						["name"] = "Tempio di Sethraliss",
+						["texture"] = 2178734,
+					},
+					[251] = {
+						["timeInSeconds"] = 1522,
+						["level"] = 2,
+						["name"] = "Grottamarcia",
+						["texture"] = 2178736,
+					},
+					[353] = {
+						["timeInSeconds"] = 2101,
+						["level"] = 10,
+						["name"] = "Assedio di Boralus",
+						["texture"] = 2178733,
+					},
+					[252] = {
+						["timeInSeconds"] = 2426,
+						["level"] = 13,
+						["name"] = "Santuario della Tempesta",
+						["texture"] = 2178732,
+					},
+				},
+				["SeasonBestMapsOvertime"] = {
 					[369] = {
-						["texture"] = 3025336,
-						["level"] = 17,
+						["timeInSeconds"] = 2458,
+						["level"] = 13,
 						["name"] = "Operazione: Meccagon - Discarica",
-						["timeInSeconds"] = 3517,
+						["texture"] = 3025336,
+					},
+					[250] = {
+						["timeInSeconds"] = 2373,
+						["level"] = 14,
+						["name"] = "Tempio di Sethraliss",
+						["texture"] = 2178734,
+					},
+					[244] = {
+						["timeInSeconds"] = 1952,
+						["level"] = 12,
+						["name"] = "Atal'dazar",
+						["texture"] = 1778896,
 					},
 				},
 			},

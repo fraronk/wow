@@ -16,16 +16,16 @@ DataStore_AuctionsDB = {
 		["Nuncevedo - Sethraliss"] = "Nuncevedo - Sethraliss",
 		["Brùslì - Sethraliss"] = "Brùslì - Sethraliss",
 		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
-		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
 		["Nanotano - Sethraliss"] = "Nanotano - Sethraliss",
+		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
 		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Sethraliss.Mariagreco"] = {
-				["lastUpdate"] = 1583069718,
-				["lastVisitDate"] = "2020/03/01 14:35",
+				["lastUpdate"] = 1624536813,
+				["lastVisitDate"] = "2021/06/24 14:13",
 			},
 		},
 	},

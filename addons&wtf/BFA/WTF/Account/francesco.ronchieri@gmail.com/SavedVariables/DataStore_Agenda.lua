@@ -16,8 +16,8 @@ DataStore_AgendaDB = {
 		["Nuncevedo - Sethraliss"] = "Nuncevedo - Sethraliss",
 		["Brùslì - Sethraliss"] = "Brùslì - Sethraliss",
 		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
-		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
 		["Nanotano - Sethraliss"] = "Nanotano - Sethraliss",
+		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
 		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
@@ -25,9 +25,12 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 3,
-			["NextWeeklyReset"] = "2021-06-23",
+			["NextWeeklyReset"] = "2021-07-07",
 		},
 		["Characters"] = {
+			["Default.Sethraliss.Reghiaccio"] = {
+				["lastUpdate"] = 1624787791,
+			},
 			["Default.Sethraliss.Mariagreco"] = {
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
@@ -58,11 +61,15 @@ DataStore_AgendaDB = {
 					--[[ skipped entry with table key ]]
 					--[[ skipped entry with table key ]]
 					--[[ skipped entry with table key ]]
+					--[[ skipped entry with table key ]]
 				},
 				["DungeonIDs"] = {
-					["Ny'alotha, la Città Risvegliata Eroica|15017"] = "228357|1624192446|0|1",
+					["Ny'alotha, la Città Risvegliata Eroica|9545"] = "467841|1625162560|0|1",
 				},
-				["lastUpdate"] = 1624192483,
+				["lastUpdate"] = 1625162609,
+			},
+			["Default.Sethraliss.Berlusconi"] = {
+				["lastUpdate"] = 1624983759,
 			},
 		},
 	},

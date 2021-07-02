@@ -11,8 +11,8 @@ PawnOptions = {
 		}, -- [1]
 		{
 			["ID"] = 158075,
-			["Level"] = 501,
-			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:103:512:11:4:4936:4929:5814:1638:110:::|h[Cuore di Azeroth]|h|r",
+			["Level"] = 503,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:104:512:11:4:4936:4929:5814:1640:110:::|h[Cuore di Azeroth]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 159323,
@@ -63,16 +63,16 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:158314:6111:168641::::::120:102:512:16:4:4802:6535:1637:4786:120:::|h[Anello con sigillo delle Lealtà Dubbie]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 173944,
-			["Level"] = 460,
+			["ID"] = 159623,
+			["Level"] = 465,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:173944::168641::::::120:102:512:5:4:4823:1808:1502:4786:120:::|h[Artiglio d'Ossidiana Proibito]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159623::::::::120:103:512:16:3:6533:1637:4786:120:::|h[Cannocchiale Occhio di Falco]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 159619,
-			["Level"] = 460,
+			["ID"] = 159623,
+			["Level"] = 465,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:159619::::::::120:104:512:16:3:6529:1632:4786:120:::|h[Cirripede Salmastro]|h|r",
+			["Link"] = "|cffa335ee|Hitem:159623::::::::120:102:512:16:3:6533:1637:4786:120:::|h[Cannocchiale Occhio di Falco]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 169223,

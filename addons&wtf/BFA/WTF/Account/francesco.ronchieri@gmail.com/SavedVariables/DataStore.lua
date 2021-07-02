@@ -16,8 +16,8 @@ DataStoreDB = {
 		["Nuncevedo - Sethraliss"] = "Nuncevedo - Sethraliss",
 		["Brùslì - Sethraliss"] = "Brùslì - Sethraliss",
 		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
-		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
 		["Nanotano - Sethraliss"] = "Nanotano - Sethraliss",
+		["Ospf - Sethraliss"] = "Ospf - Sethraliss",
 		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
@@ -29,7 +29,15 @@ DataStoreDB = {
 		},
 		["Version"] = 1,
 		["Characters"] = {
+			["Default.Sethraliss.Reghiaccio"] = {
+				["guildName"] = "Country penguins",
+				["faction"] = "Alliance",
+			},
 			["Default.Sethraliss.Mariagreco"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Country penguins",
+			},
+			["Default.Sethraliss.Berlusconi"] = {
 				["faction"] = "Alliance",
 				["guildName"] = "Country penguins",
 			},
