@@ -119,15 +119,6 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "PALADIN",
 			},
-			["Default.Sethraliss.Tonellotto"] = {
-				["lastUpdate"] = 1603926536,
-				["Specializations"] = {
-					0, -- [1]
-					6874, -- [2]
-					14079, -- [3]
-				},
-				["Class"] = "DRUID",
-			},
 			["Default.Sethraliss.Cimino"] = {
 				["lastUpdate"] = 1603926774,
 				["Specializations"] = {
@@ -137,14 +128,22 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "SHAMAN",
 			},
-			["Default.Sethraliss.Brùslì"] = {
-				["lastUpdate"] = 1585252036,
+			["Default.Sethraliss.Tonellotto"] = {
+				["lastUpdate"] = 1603926536,
 				["Specializations"] = {
-					6617, -- [1]
-					9983, -- [2]
-					0, -- [3]
+					0, -- [1]
+					6874, -- [2]
+					14079, -- [3]
 				},
-				["Class"] = "MONK",
+				["Class"] = "DRUID",
+			},
+			["Default.Sethraliss.Nanotano"] = {
+				["lastUpdate"] = 1581169621,
+				["Specializations"] = {
+					0, -- [1]
+					2, -- [2]
+				},
+				["Class"] = "WARRIOR",
 			},
 			["Default.Sethraliss.Corsini"] = {
 				["lastUpdate"] = 1606157836,
@@ -155,13 +154,14 @@ DataStore_TalentsDB = {
 				},
 				["Class"] = "DEATHKNIGHT",
 			},
-			["Default.Sethraliss.Nanotano"] = {
-				["lastUpdate"] = 1581169621,
+			["Default.Sethraliss.Brùslì"] = {
+				["lastUpdate"] = 1585252036,
 				["Specializations"] = {
-					0, -- [1]
-					2, -- [2]
+					6617, -- [1]
+					9983, -- [2]
+					0, -- [3]
 				},
-				["Class"] = "WARRIOR",
+				["Class"] = "MONK",
 			},
 			["Default.Sethraliss.Grandepùffo"] = {
 				["lastUpdate"] = 1568065096,

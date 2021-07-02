@@ -38,16 +38,16 @@ DataStore_StatsDB = {
 			},
 			["Default.Sethraliss.Mariagreco"] = {
 				["Stats"] = {
-					["Ranged"] = "9014-9015|3.1940002441406|0|0|21.805555343628",
-					["HealthMax"] = 615572,
-					["Melee"] = "10835-11478|3.1940002441406|12546|0|21.805555343628|40",
-					["MaxPower"] = "0|20000",
-					["Spell"] = "12044|12044|0|21.805555343628|788|1280",
-					["PVP"] = "1773|0",
-					["Base"] = "629|11405|26764|1467|3521",
-					["Defense"] = "3521|0|25.010000228882|0|0|0",
+					["Ranged"] = "2882-2882|1.8500001430511|0|0|24.375",
+					["HealthMax"] = 451700,
+					["Melee"] = "2912-2912|0.92500007152557|10421|0|24.375|40",
+					["MaxPower"] = "3|100",
+					["Spell"] = "10004|10004|0|24.375|548|1280",
+					["PVP"] = "1828|0",
+					["Base"] = "629|10421|22585|1467|3521",
+					["Defense"] = "3521|0|24.35000038147|0|0|0",
 				},
-				["lastUpdate"] = 1625162603,
+				["lastUpdate"] = 1625243187,
 				["SeasonBestMaps"] = {
 					[245] = {
 						["texture"] = 1778897,
@@ -73,17 +73,17 @@ DataStore_StatsDB = {
 						["name"] = "Operazione: Meccagon - Officina",
 						["timeInSeconds"] = 1145,
 					},
-					[251] = {
-						["texture"] = 2178736,
-						["level"] = 14,
-						["name"] = "Grottamarcia",
-						["timeInSeconds"] = 1907,
-					},
 					[244] = {
 						["texture"] = 1778896,
 						["level"] = 13,
 						["name"] = "Atal'dazar",
 						["timeInSeconds"] = 1487,
+					},
+					[251] = {
+						["texture"] = 2178736,
+						["level"] = 14,
+						["name"] = "Grottamarcia",
+						["timeInSeconds"] = 1907,
 					},
 					[252] = {
 						["texture"] = 2178732,
@@ -101,9 +101,9 @@ DataStore_StatsDB = {
 				["SeasonBestMapsOvertime"] = {
 					[244] = {
 						["texture"] = 1778896,
-						["level"] = 15,
+						["level"] = 16,
 						["name"] = "Atal'dazar",
-						["timeInSeconds"] = 2133,
+						["timeInSeconds"] = 2194,
 					},
 					[252] = {
 						["texture"] = 2178732,
@@ -125,9 +125,9 @@ DataStore_StatsDB = {
 					},
 					[247] = {
 						["texture"] = 2178735,
-						["level"] = 13,
+						["level"] = 14,
 						["name"] = "Vena Madre",
-						["timeInSeconds"] = 2818,
+						["timeInSeconds"] = 2969,
 					},
 					[248] = {
 						["texture"] = 2178742,

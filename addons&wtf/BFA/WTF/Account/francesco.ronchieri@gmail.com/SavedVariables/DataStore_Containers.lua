@@ -30,48 +30,6 @@ DataStore_ContainersDB = {
 				["numBagSlots"] = 104,
 				["numFreeBagSlots"] = 98,
 				["Containers"] = {
-					["Bag0"] = {
-						["size"] = 16,
-						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
-						["ids"] = {
-							6948, -- [1]
-							6218, -- [2]
-							152875, -- [3]
-							152875, -- [4]
-							nil, -- [5]
-							152876, -- [6]
-							152875, -- [7]
-						},
-						["cooldowns"] = {
-							"149181.44|1.5|1", -- [1]
-						},
-						["freeslots"] = 10,
-						["counts"] = {
-							nil, -- [1]
-							nil, -- [2]
-							22, -- [3]
-							200, -- [4]
-							nil, -- [5]
-							136, -- [6]
-							200, -- [7]
-						},
-						["links"] = {
-							"|cffffffff|Hitem:6948::::::::120:64:512:13::114:::|h[Pietra del Ritorno]|h|r", -- [1]
-							"|cffffffff|Hitem:6218::::::::120:64:512:13::114:::|h[Verga Runica di Rame]|h|r", -- [2]
-							"|cffffffff|Hitem:152875::::::::120:64:512:::120:::|h[Polvere Tenebrosa]|h|r", -- [3]
-							"|cffffffff|Hitem:152875::::::::120:64:512:::120:::|h[Polvere Tenebrosa]|h|r", -- [4]
-							nil, -- [5]
-							"|cff0070dd|Hitem:152876::::::::120:64:512:::120:::|h[Scheggia Ombrale]|h|r", -- [6]
-							"|cffffffff|Hitem:152875::::::::120:64:512:::120:::|h[Polvere Tenebrosa]|h|r", -- [7]
-						},
-					},
-					["Bag4"] = {
-						["rarity"] = 2,
-						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
-						["size"] = 22,
-						["icon"] = 348522,
-						["freeslots"] = 22,
-					},
 					["Bag-3"] = {
 						["ids"] = {
 							nil, -- [1]
@@ -228,21 +186,7 @@ DataStore_ContainersDB = {
 							[62] = "|cffffffff|Hitem:152576::::::::120:64:512:::120:::|h[Lino Spruzzato di Mare]|h|r",
 						},
 					},
-					["Bag1"] = {
-						["rarity"] = 2,
-						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
-						["size"] = 22,
-						["icon"] = 348522,
-						["freeslots"] = 22,
-					},
-					["Bag2"] = {
-						["rarity"] = 2,
-						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
-						["size"] = 22,
-						["icon"] = 348522,
-						["freeslots"] = 22,
-					},
-					["Bag3"] = {
+					["Bag4"] = {
 						["rarity"] = 2,
 						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
 						["size"] = 22,
@@ -304,6 +248,62 @@ DataStore_ContainersDB = {
 							"|cff0070dd|Hitem:152876::::::::120:64:512:::120:::|h[Scheggia Ombrale]|h|r", -- [15]
 						},
 					},
+					["Bag1"] = {
+						["rarity"] = 2,
+						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
+						["size"] = 22,
+						["icon"] = 348522,
+						["freeslots"] = 22,
+					},
+					["Bag2"] = {
+						["rarity"] = 2,
+						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
+						["size"] = 22,
+						["icon"] = 348522,
+						["freeslots"] = 22,
+					},
+					["Bag3"] = {
+						["rarity"] = 2,
+						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
+						["size"] = 22,
+						["icon"] = 348522,
+						["freeslots"] = 22,
+					},
+					["Bag0"] = {
+						["size"] = 16,
+						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
+						["ids"] = {
+							6948, -- [1]
+							6218, -- [2]
+							152875, -- [3]
+							152875, -- [4]
+							nil, -- [5]
+							152876, -- [6]
+							152875, -- [7]
+						},
+						["cooldowns"] = {
+							"149181.44|1.5|1", -- [1]
+						},
+						["freeslots"] = 10,
+						["counts"] = {
+							nil, -- [1]
+							nil, -- [2]
+							22, -- [3]
+							200, -- [4]
+							nil, -- [5]
+							136, -- [6]
+							200, -- [7]
+						},
+						["links"] = {
+							"|cffffffff|Hitem:6948::::::::120:64:512:13::114:::|h[Pietra del Ritorno]|h|r", -- [1]
+							"|cffffffff|Hitem:6218::::::::120:64:512:13::114:::|h[Verga Runica di Rame]|h|r", -- [2]
+							"|cffffffff|Hitem:152875::::::::120:64:512:::120:::|h[Polvere Tenebrosa]|h|r", -- [3]
+							"|cffffffff|Hitem:152875::::::::120:64:512:::120:::|h[Polvere Tenebrosa]|h|r", -- [4]
+							nil, -- [5]
+							"|cff0070dd|Hitem:152876::::::::120:64:512:::120:::|h[Scheggia Ombrale]|h|r", -- [6]
+							"|cffffffff|Hitem:152875::::::::120:64:512:::120:::|h[Polvere Tenebrosa]|h|r", -- [7]
+						},
+					},
 				},
 			},
 			["Default.Sethraliss.Mariagreco"] = {
@@ -314,8 +314,8 @@ DataStore_ContainersDB = {
 					["texture"] = 2178735,
 				},
 				["numBankSlots"] = 92,
-				["lastUpdate"] = 1625162616,
-				["numFreeBagSlots"] = 36,
+				["lastUpdate"] = 1625243186,
+				["numFreeBagSlots"] = 38,
 				["numBagSlots"] = 136,
 				["Containers"] = {
 					["Bag-3"] = {
@@ -469,78 +469,78 @@ DataStore_ContainersDB = {
 							20, -- [72]
 						},
 						["links"] = {
-							"|cffffffff|Hitem:3371::::::::120:104:512:::120:::|h[]|h|r", -- [1]
-							"|cffffffff|Hitem:160059::::::::120:104:512:::120:::|h[]|h|r", -- [2]
-							"|cffffffff|Hitem:160705::::::::120:104:512:::120:::|h[]|h|r", -- [3]
-							"|cffffffff|Hitem:87399::::::::120:104:512:13::120:::|h[]|h|r", -- [4]
-							"|cffffffff|Hitem:124124::::::::120:104:512:::120:::|h[]|h|r", -- [5]
-							"|cffffffff|Hitem:152668::::::::120:104:512:::120:::|h[]|h|r", -- [6]
-							"|cffffffff|Hitem:162460::::::::120:104:512:23::120:::|h[]|h|r", -- [7]
-							"|cffffffff|Hitem:162461::::::::120:104:512:3::120:::|h[]|h|r", -- [8]
-							"|cffffffff|Hitem:165948::::::::120:104:512:16::120:::|h[]|h|r", -- [9]
-							"|cffffffff|Hitem:152505::::::::120:104:512:::120:::|h[]|h|r", -- [10]
-							"|cffffffff|Hitem:152505::::::::120:104:512:::120:::|h[]|h|r", -- [11]
-							"|cffffffff|Hitem:152505::::::::120:104:512:::120:::|h[]|h|r", -- [12]
-							"|cffffffff|Hitem:152505::::::::120:104:512:::120:::|h[]|h|r", -- [13]
-							"|cffffffff|Hitem:152506::::::::120:104:512:::120:::|h[]|h|r", -- [14]
-							"|cffffffff|Hitem:152506::::::::120:104:512:::120:::|h[]|h|r", -- [15]
-							"|cffffffff|Hitem:152506::::::::120:104:512:::120:::|h[]|h|r", -- [16]
-							"|cffffffff|Hitem:152507::::::::120:104:512:::120:::|h[]|h|r", -- [17]
-							"|cffffffff|Hitem:152507::::::::120:104:512:::120:::|h[]|h|r", -- [18]
-							"|cffffffff|Hitem:152508::::::::120:104:512:::120:::|h[]|h|r", -- [19]
-							"|cffffffff|Hitem:152508::::::::120:104:512:::120:::|h[]|h|r", -- [20]
-							"|cffffffff|Hitem:152508::::::::120:104:512:::120:::|h[]|h|r", -- [21]
-							"|cffffffff|Hitem:152509::::::::120:104:512:::120:::|h[]|h|r", -- [22]
-							"|cffffffff|Hitem:152509::::::::120:104:512:::120:::|h[]|h|r", -- [23]
-							"|cffffffff|Hitem:152509::::::::120:104:512:::120:::|h[]|h|r", -- [24]
-							"|cffffffff|Hitem:152509::::::::120:104:512:::120:::|h[]|h|r", -- [25]
-							"|cffffffff|Hitem:152510::::::::120:104:512:::120:::|h[]|h|r", -- [26]
-							"|cffffffff|Hitem:152511::::::::120:104:512:::120:::|h[]|h|r", -- [27]
-							"|cffffffff|Hitem:152511::::::::120:104:512:::120:::|h[]|h|r", -- [28]
-							"|cffffffff|Hitem:152543::::::::120:104:512:::120:::|h[]|h|r", -- [29]
-							"|cffffffff|Hitem:152544::::::::120:104:512:::120:::|h[]|h|r", -- [30]
-							"|cffffffff|Hitem:152545::::::::120:104:512:::120:::|h[]|h|r", -- [31]
-							"|cffffffff|Hitem:152546::::::::120:104:512:::120:::|h[]|h|r", -- [32]
-							"|cffffffff|Hitem:152547::::::::120:104:512:::120:::|h[]|h|r", -- [33]
-							"|cffffffff|Hitem:152548::::::::120:104:512:::120:::|h[]|h|r", -- [34]
-							"|cffffffff|Hitem:152549::::::::120:104:512:::120:::|h[]|h|r", -- [35]
+							"|cffffffff|Hitem:3371::::::::120:103:512:::120:::|h[Ampolla di Cristallo]|h|r", -- [1]
+							"|cffffffff|Hitem:160059::::::::120:103:512:::120:::|h[Olio d'Ambra per Conciatura]|h|r", -- [2]
+							"|cffffffff|Hitem:160705::::::::120:103:512:::120:::|h[Caffè Forte del Maggiore]|h|r", -- [3]
+							"|cffffffff|Hitem:87399::::::::120:103:512:13::120:::|h[Manufatto Restaurato]|h|r", -- [4]
+							"|cff0070dd|Hitem:124124::::::::120:103:512:::120:::|h[Sangue di Sargeras]|h|r", -- [5]
+							"|cff0070dd|Hitem:152668::::::::120:103:512:::120:::|h[Espulsom]|h|r", -- [6]
+							"|cff0070dd|Hitem:162460::::::::120:103:512:23::120:::|h[Idronucleo]|h|r", -- [7]
+							"|cffa335ee|Hitem:162461::::::::120:103:512:3::120:::|h[Sanguicella]|h|r", -- [8]
+							"|cff0070dd|Hitem:165948::::::::120:103:512:16::120:::|h[Nucleo Mareale]|h|r", -- [9]
+							"|cffffffff|Hitem:152505::::::::120:103:512:::120:::|h[Baccello Fluviale]|h|r", -- [10]
+							"|cffffffff|Hitem:152505::::::::120:103:512:::120:::|h[Baccello Fluviale]|h|r", -- [11]
+							"|cffffffff|Hitem:152505::::::::120:103:512:::120:::|h[Baccello Fluviale]|h|r", -- [12]
+							"|cffffffff|Hitem:152505::::::::120:103:512:::120:::|h[Baccello Fluviale]|h|r", -- [13]
+							"|cffffffff|Hitem:152506::::::::120:103:512:::120:::|h[Muschio Stellare]|h|r", -- [14]
+							"|cffffffff|Hitem:152506::::::::120:103:512:::120:::|h[Muschio Stellare]|h|r", -- [15]
+							"|cffffffff|Hitem:152506::::::::120:103:512:::120:::|h[Muschio Stellare]|h|r", -- [16]
+							"|cffffffff|Hitem:152507::::::::120:103:512:::120:::|h[Morso di Akunda]|h|r", -- [17]
+							"|cffffffff|Hitem:152507::::::::120:103:512:::120:::|h[Morso di Akunda]|h|r", -- [18]
+							"|cffffffff|Hitem:152508::::::::120:103:512:::120:::|h[Bacio dell'Inverno]|h|r", -- [19]
+							"|cffffffff|Hitem:152508::::::::120:103:512:::120:::|h[Bacio dell'Inverno]|h|r", -- [20]
+							"|cffffffff|Hitem:152508::::::::120:103:512:::120:::|h[Bacio dell'Inverno]|h|r", -- [21]
+							"|cffffffff|Hitem:152509::::::::120:103:512:::120:::|h[Polline di Sirena]|h|r", -- [22]
+							"|cffffffff|Hitem:152509::::::::120:103:512:::120:::|h[Polline di Sirena]|h|r", -- [23]
+							"|cffffffff|Hitem:152509::::::::120:103:512:::120:::|h[Polline di Sirena]|h|r", -- [24]
+							"|cffffffff|Hitem:152509::::::::120:103:512:::120:::|h[Polline di Sirena]|h|r", -- [25]
+							"|cff1eff00|Hitem:152510::::::::120:103:512:::120:::|h[Alga d'Ancora]|h|r", -- [26]
+							"|cffffffff|Hitem:152511::::::::120:103:512:::120:::|h[Stelo Marino]|h|r", -- [27]
+							"|cffffffff|Hitem:152511::::::::120:103:512:::120:::|h[Stelo Marino]|h|r", -- [28]
+							"|cffffffff|Hitem:152543::::::::120:103:512:::120:::|h[Sfidasabbia]|h|r", -- [29]
+							"|cffffffff|Hitem:152544::::::::120:103:512:::120:::|h[Sgombro Australe]|h|r", -- [30]
+							"|cffffffff|Hitem:152545::::::::120:103:512:::120:::|h[Aringa Frenetica]|h|r", -- [31]
+							"|cffffffff|Hitem:152546::::::::120:103:512:::120:::|h[Barracuda Litoraneo]|h|r", -- [32]
+							"|cffffffff|Hitem:152547::::::::120:103:512:::120:::|h[Pescegatto del Grande Mare]|h|r", -- [33]
+							"|cffffffff|Hitem:152548::::::::120:103:512:::120:::|h[Persico di Tiragarde]|h|r", -- [34]
+							"|cffffffff|Hitem:152549::::::::120:103:512:::120:::|h[Cobite Codarossa]|h|r", -- [35]
 							nil, -- [36]
 							nil, -- [37]
 							nil, -- [38]
 							nil, -- [39]
 							nil, -- [40]
 							nil, -- [41]
-							"|cffffffff|Hitem:152577::::::::120:104:512:::120:::|h[]|h|r", -- [42]
-							"|cffffffff|Hitem:152579::::::::120:104:512:::120:::|h[]|h|r", -- [43]
-							"|cffffffff|Hitem:152631::::::::120:104:512:::120:::|h[]|h|r", -- [44]
-							"|cffffffff|Hitem:154897::::::::120:104:512:::120:::|h[]|h|r", -- [45]
-							"|cffffffff|Hitem:154898::::::::120:104:512:::120:::|h[]|h|r", -- [46]
-							"|cffffffff|Hitem:154899::::::::120:104:512:::120:::|h[]|h|r", -- [47]
+							"|cff1eff00|Hitem:152577::::::::120:103:512:::120:::|h[Raso del Mare Profondo]|h|r", -- [42]
+							"|cffffffff|Hitem:152579::::::::120:103:512:::120:::|h[Minerale di Argento della Tempesta]|h|r", -- [43]
+							"|cffffffff|Hitem:152631::::::::120:103:512:::120:::|h[Carne Salmastra]|h|r", -- [44]
+							"|cffffffff|Hitem:154897::::::::120:103:512:::120:::|h[Lonza Fibrosa]|h|r", -- [45]
+							"|cffffffff|Hitem:154898::::::::120:103:512:::120:::|h[Cosciotto Carnoso]|h|r", -- [46]
+							"|cffffffff|Hitem:154899::::::::120:103:512:::120:::|h[Bistecca Spessa]|h|r", -- [47]
 							nil, -- [48]
-							"|cffffffff|Hitem:160398::::::::120:104:512:::120:::|h[]|h|r", -- [49]
-							"|cffffffff|Hitem:160399::::::::120:104:512:::120:::|h[]|h|r", -- [50]
-							"|cffffffff|Hitem:160400::::::::120:104:512:::120:::|h[]|h|r", -- [51]
-							"|cffffffff|Hitem:160709::::::::120:104:512:::120:::|h[]|h|r", -- [52]
-							"|cffffffff|Hitem:160710::::::::120:104:512:::120:::|h[]|h|r", -- [53]
-							"|cffffffff|Hitem:160711::::::::120:104:512:::120:::|h[]|h|r", -- [54]
-							"|cffffffff|Hitem:160711::::::::120:104:512:13::120:::|h[]|h|r", -- [55]
-							"|cffffffff|Hitem:160712::::::::120:104:512:::120:::|h[]|h|r", -- [56]
-							"|cffffffff|Hitem:168303::::::::120:104:512:::120:::|h[]|h|r", -- [57]
-							"|cffffffff|Hitem:168487::::::::120:104:512:::120:::|h[]|h|r", -- [58]
-							"|cffffffff|Hitem:168645::::::::120:104:512:::120:::|h[]|h|r", -- [59]
-							"|cffffffff|Hitem:174353::::::::120:104:512:::120:::|h[]|h|r", -- [60]
-							"|cffffffff|Hitem:162515::::::::120:104:512:::120:::|h[]|h|r", -- [61]
-							"|cffffffff|Hitem:165703::::::::120:104:512:::120:::|h[]|h|r", -- [62]
-							"|cffffffff|Hitem:165703::::::::120:104:512:6::120:::|h[]|h|r", -- [63]
-							"|cffffffff|Hitem:167738::::::::120:104:512:::120:::|h[]|h|r", -- [64]
-							"|cffffffff|Hitem:167738::::::::120:104:512:::120:::|h[]|h|r", -- [65]
-							"|cffffffff|Hitem:167738::::::::120:104:512:::120:::|h[]|h|r", -- [66]
-							"|cffffffff|Hitem:167738::::::::120:104:512:5::120:::|h[]|h|r", -- [67]
-							"|cffffffff|Hitem:167738::::::::120:104:512:::120:::|h[]|h|r", -- [68]
-							"|cffffffff|Hitem:168487::::::::120:104:512:::120:::|h[]|h|r", -- [69]
-							"|cffffffff|Hitem:152506::::::::120:104:512:::120:::|h[]|h|r", -- [70]
-							"|cffffffff|Hitem:152510::::::::120:104:512:::120:::|h[]|h|r", -- [71]
-							"|cffffffff|Hitem:167562::::::::120:104:512:::120:::|h[]|h|r", -- [72]
+							"|cffffffff|Hitem:160398::::::::120:103:512:::120:::|h[Miele Corale]|h|r", -- [49]
+							"|cffffffff|Hitem:160399::::::::120:103:512:::120:::|h[Farina Selvatica]|h|r", -- [50]
+							"|cffffffff|Hitem:160400::::::::120:103:512:::120:::|h[Fusaka]|h|r", -- [51]
+							"|cffffffff|Hitem:160709::::::::120:103:512:::120:::|h[Patata Novella]|h|r", -- [52]
+							"|cffffffff|Hitem:160710::::::::120:103:512:::120:::|h[Bacche Selvatiche]|h|r", -- [53]
+							"|cffffffff|Hitem:160711::::::::120:103:512:::120:::|h[Olio di Pesce Aromatico]|h|r", -- [54]
+							"|cffffffff|Hitem:160711::::::::120:103:512:13::120:::|h[Olio di Pesce Aromatico]|h|r", -- [55]
+							"|cffffffff|Hitem:160712::::::::120:103:512:::120:::|h[Zucchero in Polvere]|h|r", -- [56]
+							"|cffffffff|Hitem:168303::::::::120:103:512:::120:::|h[Costata Gommosa]|h|r", -- [57]
+							"|cffffffff|Hitem:168487::::::::120:103:512:::120:::|h[Zin'anthid]|h|r", -- [58]
+							"|cffffffff|Hitem:168645::::::::120:103:512:::120:::|h[Filetto Umido]|h|r", -- [59]
+							"|cffffffff|Hitem:174353::::::::120:103:512:::120:::|h[Carne di Dubbia Origine]|h|r", -- [60]
+							"|cff1eff00|Hitem:162515::::::::120:103:512:::120:::|h[Salmone di Mezzanotte]|h|r", -- [61]
+							"|cffa335ee|Hitem:165703::::::::120:103:512:::120:::|h[Respiro di Bwonsamdi]|h|r", -- [62]
+							"|cffa335ee|Hitem:165703::::::::120:103:512:6::120:::|h[Respiro di Bwonsamdi]|h|r", -- [63]
+							"|cff1eff00|Hitem:167738::::::::120:103:512:::120:::|h[Tessuto Mareale Dorato]|h|r", -- [64]
+							"|cff1eff00|Hitem:167738::::::::120:103:512:::120:::|h[Tessuto Mareale Dorato]|h|r", -- [65]
+							"|cff1eff00|Hitem:167738::::::::120:103:512:::120:::|h[Tessuto Mareale Dorato]|h|r", -- [66]
+							"|cff1eff00|Hitem:167738::::::::120:103:512:5::120:::|h[Tessuto Mareale Dorato]|h|r", -- [67]
+							"|cff1eff00|Hitem:167738::::::::120:103:512:::120:::|h[Tessuto Mareale Dorato]|h|r", -- [68]
+							"|cffffffff|Hitem:168487::::::::120:103:512:::120:::|h[Zin'anthid]|h|r", -- [69]
+							"|cffffffff|Hitem:152506::::::::120:103:512:::120:::|h[Muschio Stellare]|h|r", -- [70]
+							"|cff1eff00|Hitem:152510::::::::120:103:512:::120:::|h[Alga d'Ancora]|h|r", -- [71]
+							"|cffffffff|Hitem:167562::::::::120:103:512:::120:::|h[Tinca Ionizzata]|h|r", -- [72]
 						},
 					},
 					["Bag3"] = {
@@ -679,8 +679,46 @@ DataStore_ContainersDB = {
 						},
 						["freeslots"] = 4,
 					},
-					["VoidStorage.Tab1"] = {
-						["size"] = 80,
+					["Bag5"] = {
+						["rarity"] = 3,
+						["link"] = "|cff0070dd|Hitem:154696::::::::120:102:512:::120:::|h[Borsa del Mare Profondo Ricamata]|h|r",
+						["links"] = {
+							[24] = "|cffa335ee|Hitem:159327::::::::120:102:512:35:5:6578:6579:6531:1642:4786:120:::|h[Grancalzari Sabbiosi di Pelle di Serpente]|h|r",
+							[13] = "|cffa335ee|Hitem:159619::::::::120:102:512:16:3:6529:1632:4786:120:::|h[Cirripede Salmastro]|h|r",
+							[26] = "|cffa335ee|Hitem:169157::::::::120:102:512:16:3:6535:1522:4786:120:::|h[Anello Logico della Divisione]|h|r",
+							[14] = "|cffa335ee|Hitem:158318::::::::120:102:512:16:3:6535:1637:4786:120:::|h[Anello con Sigillo Ceruleo di Fosky]|h|r",
+							[28] = "|cff0070dd|Hitem:173409::::::::120:102:512:::120:::|h[Guanti di Cuoio dell'Impero Nero]|h|r",
+							[15] = "|cffa335ee|Hitem:173943::::::::120:102:512:5:3:4823:1502:4786:120:::|h[Tormento in Vitro]|h|r",
+							[30] = "|cffa335ee|Hitem:169482::::::::120:102:512:25:1:1502:120:::|h[Gambiere Bentiche]|h|r",
+							[16] = "|cffa335ee|Hitem:159631::::::::120:102:512:16:4:41:6535:1637:4786:120:::|h[Carillon di Dama Crestabianca]|h|r",
+							[5] = "|cffffffff|Hitem:166804::::::::120:102:512:13::120:::|h[Sanguinaccio d'Orso di Boralus]|h|r",
+							[31] = "|cffa335ee|Hitem:169480::::::::120:102:512:25:1:1502:120:::|h[Corazza Foderata Bentica]|h|r",
+							[6] = "|cffffffff|Hitem:154881::::::::120:102:512:13::120:::|h[Tiramisù di Kul Tiras]|h|r",
+							[29] = "|cffa335ee|Hitem:169484::::::::120:102:512:25:2:43:1487:120:::|h[Guardaspalle Bentici]|h|r",
+							[27] = "|cffa335ee|Hitem:173444::::::::120:102:512:55:6:6412:6579:6578:6542:1527:4786:120:::|h[Cintura Foderata della Fauce Insaziabile]|h|r",
+						},
+						["counts"] = {
+							[5] = 16,
+							[6] = 20,
+						},
+						["freeslots"] = 19,
+						["ids"] = {
+							[24] = 159327,
+							[13] = 159619,
+							[26] = 169157,
+							[14] = 158318,
+							[28] = 173409,
+							[15] = 173943,
+							[30] = 169482,
+							[16] = 159631,
+							[5] = 166804,
+							[31] = 169480,
+							[6] = 154881,
+							[29] = 169484,
+							[27] = 173444,
+						},
+						["icon"] = 2023244,
+						["size"] = 32,
 					},
 					["Bag4"] = {
 						["rarity"] = 3,
@@ -772,8 +810,7 @@ DataStore_ContainersDB = {
 							52251, -- [12]
 							138729, -- [13]
 							167738, -- [14]
-							nil, -- [15]
-							158778, -- [16]
+							152576, -- [15]
 						},
 						["links"] = {
 							"|cffffffff|Hitem:6948::::::::120:103:512:::1:::|h[Pietra del Ritorno]|h|r", -- [1]
@@ -790,25 +827,21 @@ DataStore_ContainersDB = {
 							"|cffa335ee|Hitem:52251::::::::120:103:512:11::120:::|h[Medaglione di Jaina]|h|r", -- [12]
 							"|cff0070dd|Hitem:138729::::::::120:103:512:::120:::|h[Pozione dei Sensi Affinati]|h|r", -- [13]
 							"|cff1eff00|Hitem:167738::::::::120:103:512:::120:::|h[Tessuto Mareale Dorato]|h|r", -- [14]
-							nil, -- [15]
-							"|cff9d9d9d|Hitem:158778::::::::120:103:512:::120:::|h[Tentacolo Mucoso]|h|r", -- [16]
+							"|cffffffff|Hitem:152576::::::::120:103:512:::120:::|h[Lino Spruzzato di Mare]|h|r", -- [15]
 						},
 						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
 						["cooldowns"] = {
-							"2541.021|900|1", -- [1]
+							"82904.935|1800|1", -- [1]
 						},
 						["size"] = 16,
 						["counts"] = {
-							nil, -- [1]
-							nil, -- [2]
-							40, -- [3]
-							14, -- [4]
-							nil, -- [5]
-							nil, -- [6]
-							nil, -- [7]
-							7, -- [8]
-							3, -- [9]
 							[13] = 3,
+							[8] = 7,
+							[3] = 40,
+							[14] = 4,
+							[4] = 14,
+							[9] = 3,
+							[15] = 3,
 						},
 						["freeslots"] = 1,
 					},
@@ -821,30 +854,23 @@ DataStore_ContainersDB = {
 							"|cffffffff|Hitem:169451::::::::120:103:512:13::120:::|h[Pozione di Cura Abissale]|h|r", -- [3]
 							"|cffffffff|Hitem:160711::::::::120:103:512:13::120:::|h[Olio di Pesce Aromatico]|h|r", -- [4]
 							"|cff0070dd|Hitem:169333::::::::120:103:512:::120:::|h[Roccia Vulcanica Strana]|h|r", -- [5]
-							"|cff9d9d9d|Hitem:155636::::::::120:103:512:::120:::|h[Inchiostro Viscoso]|h|r", -- [6]
+							nil, -- [6]
 							"|cffffffff|Hitem:152512::::::::120:103:512:::120:::|h[Minerale di Monelite]|h|r", -- [7]
 							"|cff0070dd|Hitem:165948::::::::120:103:512:16::120:::|h[Nucleo Mareale]|h|r", -- [8]
-							"|cff9d9d9d|Hitem:158859::::::::120:103:512:::120:::|h[Zanna Frastagliata]|h|r", -- [9]
-							nil, -- [10]
-							"|cff0070dd|Hitem:170553::::::::120:103:512:::120:::|h[Scheggia di Focus del Vuoto]|h|r", -- [11]
-							nil, -- [12]
-							"|cff1eff00|Hitem:168802::::::::120:103:512:::120:::|h[Encomio di Battaglia di Nazjatar]|h|r", -- [13]
-							"|cff1eff00|Hitem:166846::::::::120:103:512:11::120:::|h[Pezzi di Ricambio]|h|r", -- [14]
-							"|cff1eff00|Hitem:174764::::::::120:103:512:::120:::|h[Frammento di Reliquia dei Tol'vir]|h|r", -- [15]
-							"|cff0070dd|Hitem:169332::::::::120:103:512:::120:::|h[Acqua Minerale Strana]|h|r", -- [16]
-							"|cffffffff|Hitem:166344::::::::120:103:512:13::120:::|h[Bistecca Marinata e Patate]|h|r", -- [17]
-							"|cffffffff|Hitem:152579::::::::120:103:512:::120:::|h[Minerale di Argento della Tempesta]|h|r", -- [18]
-							"|cffa335ee|Hitem:173464::::::::120:103:512:28:6:6412:4803:40:6555:1497:4786:120:::|h[Guanti della Fauce Insaziabile]|h|r", -- [19]
-							nil, -- [20]
-							"|cffffffff|Hitem:155838::::::::120:103:512:::120:::|h[Spine di Spinomanto]|h|r", -- [21]
-							nil, -- [22]
-							nil, -- [23]
-							"|cff1eff00|Hitem:166971::::::::120:103:512:11::120:::|h[Cella d'Energia Scarica]|h|r", -- [24]
-							"|cff1eff00|Hitem:174760::::::::120:103:512:::120:::|h[Frammento di Reliquia dei Mantid]|h|r", -- [25]
-							nil, -- [26]
-							"|cffa335ee|Hitem:86547::::::::120:103:512:::120:::|h[Frammento Celeste]|h|r", -- [27]
-							"|cffa335ee|Hitem:174287::::::::120:103:512:9::120:::|h[Scintille della Forza Incrollabile]|h|r", -- [28]
-							"|cffa335ee|Hitem:168832::::::::120:103:512:11::120:::|h[Oscillatore Galvanico]|h|r", -- [29]
+							[11] = "|cff0070dd|Hitem:170553::::::::120:103:512:::120:::|h[Scheggia di Focus del Vuoto]|h|r",
+							[13] = "|cff1eff00|Hitem:168802::::::::120:103:512:::120:::|h[Encomio di Battaglia di Nazjatar]|h|r",
+							[14] = "|cff1eff00|Hitem:166846::::::::120:103:512:11::120:::|h[Pezzi di Ricambio]|h|r",
+							[15] = "|cff1eff00|Hitem:174764::::::::120:103:512:::120:::|h[Frammento di Reliquia dei Tol'vir]|h|r",
+							[16] = "|cff0070dd|Hitem:169332::::::::120:103:512:::120:::|h[Acqua Minerale Strana]|h|r",
+							[17] = "|cffffffff|Hitem:166344::::::::120:103:512:13::120:::|h[Bistecca Marinata e Patate]|h|r",
+							[18] = "|cffffffff|Hitem:152579::::::::120:103:512:::120:::|h[Minerale di Argento della Tempesta]|h|r",
+							[19] = "|cffa335ee|Hitem:173464::::::::120:103:512:28:6:6412:4803:40:6555:1497:4786:120:::|h[Guanti della Fauce Insaziabile]|h|r",
+							[27] = "|cffa335ee|Hitem:86547::::::::120:103:512:::120:::|h[Frammento Celeste]|h|r",
+							[24] = "|cff1eff00|Hitem:166971::::::::120:103:512:11::120:::|h[Cella d'Energia Scarica]|h|r",
+							[21] = "|cffffffff|Hitem:155838::::::::120:103:512:::120:::|h[Spine di Spinomanto]|h|r",
+							[25] = "|cff1eff00|Hitem:174760::::::::120:103:512:::120:::|h[Frammento di Reliquia dei Mantid]|h|r",
+							[29] = "|cffa335ee|Hitem:168832::::::::120:103:512:11::120:::|h[Oscillatore Galvanico]|h|r",
+							[28] = "|cffa335ee|Hitem:174287::::::::120:103:512:9::120:::|h[Scintille della Forza Incrollabile]|h|r",
 						},
 						["icon"] = 2023243,
 						["size"] = 30,
@@ -854,30 +880,23 @@ DataStore_ContainersDB = {
 							169451, -- [3]
 							160711, -- [4]
 							169333, -- [5]
-							155636, -- [6]
+							nil, -- [6]
 							152512, -- [7]
 							165948, -- [8]
-							158859, -- [9]
-							nil, -- [10]
-							170553, -- [11]
-							nil, -- [12]
-							168802, -- [13]
-							166846, -- [14]
-							174764, -- [15]
-							169332, -- [16]
-							166344, -- [17]
-							152579, -- [18]
-							173464, -- [19]
-							nil, -- [20]
-							155838, -- [21]
-							nil, -- [22]
-							nil, -- [23]
-							166971, -- [24]
-							174760, -- [25]
-							nil, -- [26]
-							86547, -- [27]
-							174287, -- [28]
-							168832, -- [29]
+							[11] = 170553,
+							[13] = 168802,
+							[14] = 166846,
+							[15] = 174764,
+							[16] = 169332,
+							[17] = 166344,
+							[18] = 152579,
+							[19] = 173464,
+							[27] = 86547,
+							[24] = 166971,
+							[21] = 155838,
+							[25] = 174760,
+							[29] = 168832,
+							[28] = 174287,
 						},
 						["counts"] = {
 							nil, -- [1]
@@ -894,7 +913,7 @@ DataStore_ContainersDB = {
 							nil, -- [12]
 							4, -- [13]
 							62, -- [14]
-							5, -- [15]
+							6, -- [15]
 							8, -- [16]
 							13, -- [17]
 							7, -- [18]
@@ -905,7 +924,7 @@ DataStore_ContainersDB = {
 							[29] = 7,
 							[28] = 12,
 						},
-						["freeslots"] = 7,
+						["freeslots"] = 9,
 					},
 					["Bag2"] = {
 						["rarity"] = 3,
@@ -981,7 +1000,7 @@ DataStore_ContainersDB = {
 							nil, -- [2]
 							7, -- [3]
 							3, -- [4]
-							[13] = 96,
+							[13] = 97,
 							[7] = 4,
 							[27] = 4,
 							[28] = 3,
@@ -992,53 +1011,15 @@ DataStore_ContainersDB = {
 							[20] = 2,
 							[21] = 2,
 							[22] = 3,
-							[12] = 19,
+							[12] = 21,
 						},
 						["size"] = 30,
 					},
 					["VoidStorage.Tab2"] = {
 						["size"] = 80,
 					},
-					["Bag5"] = {
-						["rarity"] = 3,
-						["link"] = "|cff0070dd|Hitem:154696::::::::120:102:512:::120:::|h[Borsa del Mare Profondo Ricamata]|h|r",
-						["links"] = {
-							[24] = "|cffa335ee|Hitem:159327::::::::120:102:512:35:5:6578:6579:6531:1642:4786:120:::|h[Grancalzari Sabbiosi di Pelle di Serpente]|h|r",
-							[13] = "|cffa335ee|Hitem:159619::::::::120:102:512:16:3:6529:1632:4786:120:::|h[Cirripede Salmastro]|h|r",
-							[26] = "|cffa335ee|Hitem:169157::::::::120:102:512:16:3:6535:1522:4786:120:::|h[Anello Logico della Divisione]|h|r",
-							[14] = "|cffa335ee|Hitem:158318::::::::120:102:512:16:3:6535:1637:4786:120:::|h[Anello con Sigillo Ceruleo di Fosky]|h|r",
-							[28] = "|cff0070dd|Hitem:173409::::::::120:102:512:::120:::|h[Guanti di Cuoio dell'Impero Nero]|h|r",
-							[15] = "|cffa335ee|Hitem:173943::::::::120:102:512:5:3:4823:1502:4786:120:::|h[Tormento in Vitro]|h|r",
-							[30] = "|cffa335ee|Hitem:169482::::::::120:102:512:25:1:1502:120:::|h[Gambiere Bentiche]|h|r",
-							[16] = "|cffa335ee|Hitem:159631::::::::120:102:512:16:4:41:6535:1637:4786:120:::|h[Carillon di Dama Crestabianca]|h|r",
-							[5] = "|cffffffff|Hitem:166804::::::::120:102:512:13::120:::|h[Sanguinaccio d'Orso di Boralus]|h|r",
-							[31] = "|cffa335ee|Hitem:169480::::::::120:102:512:25:1:1502:120:::|h[Corazza Foderata Bentica]|h|r",
-							[6] = "|cffffffff|Hitem:154881::::::::120:102:512:13::120:::|h[Tiramisù di Kul Tiras]|h|r",
-							[29] = "|cffa335ee|Hitem:169484::::::::120:102:512:25:2:43:1487:120:::|h[Guardaspalle Bentici]|h|r",
-							[27] = "|cffa335ee|Hitem:173444::::::::120:102:512:55:6:6412:6579:6578:6542:1527:4786:120:::|h[Cintura Foderata della Fauce Insaziabile]|h|r",
-						},
-						["counts"] = {
-							[5] = 16,
-							[6] = 20,
-						},
-						["freeslots"] = 19,
-						["ids"] = {
-							[24] = 159327,
-							[13] = 159619,
-							[26] = 169157,
-							[14] = 158318,
-							[28] = 173409,
-							[15] = 173943,
-							[30] = 169482,
-							[16] = 159631,
-							[5] = 166804,
-							[31] = 169480,
-							[6] = 154881,
-							[29] = 169484,
-							[27] = 173444,
-						},
-						["icon"] = 2023244,
-						["size"] = 32,
+					["VoidStorage.Tab1"] = {
+						["size"] = 80,
 					},
 					["Bag6"] = {
 						["rarity"] = 3,
@@ -1270,8 +1251,8 @@ DataStore_ContainersDB = {
 							[20] = 7,
 							[17] = 29,
 							[28] = 175,
-							[16] = 21,
 							[30] = 3,
+							[16] = 21,
 							[24] = 2,
 						},
 						["ids"] = {
@@ -2649,17 +2630,17 @@ DataStore_ContainersDB = {
 							[66] = 14,
 							[92] = 2,
 							[22] = 5,
-							[98] = 13,
+							[67] = 9,
 							[23] = 5,
 							[73] = 80,
 							[24] = 20,
 							[26] = 20,
-							[25] = 20,
-							[67] = 9,
+							[65] = 8,
+							[98] = 13,
 							[69] = 7,
 							[71] = 3,
 							[27] = 20,
-							[65] = 8,
+							[25] = 20,
 							[28] = 20,
 							[64] = 22,
 							[29] = 2,

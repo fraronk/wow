@@ -38,16 +38,16 @@ DataStore_StatsDB = {
 			},
 			["Default.Sethraliss.Mariagreco"] = {
 				["Stats"] = {
-					["Ranged"] = "5995-5996|1.4920001029968|0|0|24.972221374512",
-					["HealthMax"] = 811155,
-					["Melee"] = "6942-7068|1.9390001296997|14414|0|24.972221374512|40",
-					["MaxPower"] = "0|20000",
-					["Defense"] = "3559|0|31.639999389648|0|0|0",
-					["PVP"] = "1771|0",
-					["Base"] = "629|9618|34371|1467|3559",
-					["Spell"] = "13837|13837|0|24.972221374512|2224|1280",
+					["Ranged"] = "4731-4731|1.3400000333786|0|0|36.180557250977",
+					["HealthMax"] = 474240,
+					["Melee"] = "5532-5814|0.6700000166893|14970|0|36.180557250977|40",
+					["MaxPower"] = "3|100",
+					["Defense"] = "6417|0|25.030000686646|0|0|0",
+					["PVP"] = "1825|0",
+					["Base"] = "629|14970|23712|1467|6417",
+					["Spell"] = "14371|14371|0|36.180557250977|927|1664",
 				},
-				["lastUpdate"] = 1625160276,
+				["lastUpdate"] = 1625242186,
 				["SeasonBestMaps"] = {
 					[245] = {
 						["texture"] = 1778897,
@@ -79,11 +79,11 @@ DataStore_StatsDB = {
 						["name"] = "Operazione: Meccagon - Discarica",
 						["timeInSeconds"] = 1319,
 					},
-					[244] = {
-						["texture"] = 1778896,
-						["level"] = 13,
-						["name"] = "Atal'dazar",
-						["timeInSeconds"] = 1487,
+					[251] = {
+						["texture"] = 2178736,
+						["level"] = 14,
+						["name"] = "Grottamarcia",
+						["timeInSeconds"] = 1907,
 					},
 					[252] = {
 						["texture"] = 2178732,
@@ -91,19 +91,19 @@ DataStore_StatsDB = {
 						["name"] = "Santuario della Tempesta",
 						["timeInSeconds"] = 2154,
 					},
-					[251] = {
-						["texture"] = 2178736,
-						["level"] = 14,
-						["name"] = "Grottamarcia",
-						["timeInSeconds"] = 1907,
+					[244] = {
+						["texture"] = 1778896,
+						["level"] = 13,
+						["name"] = "Atal'dazar",
+						["timeInSeconds"] = 1487,
 					},
 				},
 				["SeasonBestMapsOvertime"] = {
 					[244] = {
 						["texture"] = 1778896,
-						["level"] = 15,
+						["level"] = 16,
 						["name"] = "Atal'dazar",
-						["timeInSeconds"] = 2133,
+						["timeInSeconds"] = 2194,
 					},
 					[252] = {
 						["texture"] = 2178732,
@@ -125,9 +125,9 @@ DataStore_StatsDB = {
 					},
 					[247] = {
 						["texture"] = 2178735,
-						["level"] = 13,
+						["level"] = 14,
 						["name"] = "Vena Madre",
-						["timeInSeconds"] = 2818,
+						["timeInSeconds"] = 2969,
 					},
 					[248] = {
 						["texture"] = 2178742,

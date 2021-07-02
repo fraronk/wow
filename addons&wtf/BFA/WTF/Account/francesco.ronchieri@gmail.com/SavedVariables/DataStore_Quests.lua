@@ -161,19 +161,19 @@ DataStore_QuestsDB = {
 					[1658] = 131088,
 					[1603] = 1015808,
 					[1563] = 655360,
-					[1611] = 16777216,
-					[1341] = 4096,
 					[1484] = 3758096385,
+					[1341] = 4096,
+					[1611] = 16777216,
 					[1500] = 31746,
-					[1770] = 36700160,
+					[1516] = 251658240,
 					[1659] = 917504,
 					[1548] = 134217728,
 					[1564] = 1048576,
 					[1580] = 16428,
 					[1602] = 1024,
 					[1612] = 1966080,
-					[1517] = 201342960,
 					[1771] = 4096,
+					[1517] = 201342960,
 					[1660] = 256,
 					[1676] = 4,
 					[1565] = 32768,
@@ -219,7 +219,7 @@ DataStore_QuestsDB = {
 					[1000] = 4194304,
 					[1642] = 1,
 					[1475] = 2367488,
-					[1516] = 251658240,
+					[1770] = 36700160,
 					[1507] = 64,
 					[1303] = 1073741824,
 				},
@@ -371,21 +371,21 @@ DataStore_QuestsDB = {
 					7901248, -- [40]
 				},
 				["Emissaries"] = {
-					[50562] = "0|4|1381|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
+					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
 					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|2821|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[50604] = "0|3|2821|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
 					[50599] = "0|4|0|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
-					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[50562] = "0|4|1381|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
 					[42234] = "0|4|1381|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[50604] = "0|3|2821|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 				},
 			},
 			["Default.Sethraliss.Gargamélla"] = {
@@ -666,11 +666,11 @@ DataStore_QuestsDB = {
 					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
-					[42170] = "0|4|2868|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
+					[50600] = "0|4|2868|0/4 Completa 4 missioni mondiali di Drustvar",
 					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
 					[50599] = "0|4|1428|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
 					[48642] = "0|4|1428|0/4 Missioni mondiali dei Redentori di Argus completate",
-					[50600] = "0|4|2868|0/4 Completa 4 missioni mondiali di Drustvar",
+					[42170] = "0|4|2868|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
 					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
@@ -1186,21 +1186,21 @@ DataStore_QuestsDB = {
 					7905376, -- [45]
 				},
 				["Emissaries"] = {
-					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[42420] = "0|4|3525|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[50600] = "0|4|2085|0/4 Completa 4 missioni mondiali di Drustvar",
 					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
 					[50599] = "0|4|645|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
-					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
+					[48642] = "0|4|645|0/4 Missioni mondiali dei Redentori di Argus completate",
 					[42170] = "0|4|2085|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[50601] = "0|4|3525|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[48642] = "0|4|645|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 				},
 			},
 			["Default.Sethraliss.Berlusconi"] = {
@@ -1644,21 +1644,21 @@ DataStore_QuestsDB = {
 					7909441, -- [31]
 				},
 				["Emissaries"] = {
-					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|1980|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[42234] = "0|4|540|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[50600] = "0|4|3421|0/4 Completa 4 missioni mondiali di Drustvar",
 					[48641] = "0|4|3421|0/4 Missioni mondiali completate alla Riva Dispersa",
 					[50599] = "0|4|1980|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
-					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
+					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
 					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[50604] = "0|3|540|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[42234] = "0|4|540|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 				},
 			},
 			["Default.Sethraliss.Vallati"] = {
@@ -1695,22 +1695,22 @@ DataStore_QuestsDB = {
 					143, -- [8]
 				},
 				["History"] = {
-					[1355] = 8192,
-					[1000] = 4194304,
 					[987] = 1227358224,
+					[1000] = 4194304,
+					[1355] = 8192,
 					[1164] = 8,
 					[1303] = 1073741824,
 					[986] = 268435457,
 					[1341] = 4096,
 					[997] = 960,
-					[1724] = 6,
+					[789] = 65536,
 					[1001] = 256,
 					[988] = 146,
 					[1429] = 2147483648,
 					[1035] = 292,
 					[979] = 4096,
 					[1163] = 536870913,
-					[789] = 65536,
+					[1724] = 6,
 				},
 				["HistoryBuild"] = "31478",
 				["QuestHeaders"] = {
@@ -1939,8 +1939,8 @@ DataStore_QuestsDB = {
 					[840] = 102592,
 					[1607] = 67110912,
 					[1703] = 2147483648,
-					[372] = 131072,
 					[997] = 960,
+					[372] = 131072,
 					[1608] = 128,
 					[942] = 46137344,
 					[1736] = 8194,
@@ -2059,11 +2059,11 @@ DataStore_QuestsDB = {
 					7907424, -- [33]
 				},
 				["Emissaries"] = {
-					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[42420] = "0|4|2834|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|2834|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[42170] = "0|4|1394|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
@@ -2073,7 +2073,7 @@ DataStore_QuestsDB = {
 					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
 					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 					[50601] = "0|4|1394|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 				},
 			},
 			["Default.Sethraliss.Mariagreco"] = {
@@ -2518,11 +2518,11 @@ DataStore_QuestsDB = {
 					7905344, -- [29]
 				},
 				["Emissaries"] = {
-					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[42234] = "0|4|2348|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|908|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|3788|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[42234] = "0|4|2348|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
@@ -2532,7 +2532,7 @@ DataStore_QuestsDB = {
 					[50600] = "0|4|2348|0/4 Completa 4 missioni mondiali di Drustvar",
 					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 					[50601] = "0|4|3788|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 				},
 			},
 			["Default.Sethraliss.Antonioprete"] = {
@@ -2658,12 +2658,12 @@ DataStore_QuestsDB = {
 					109, -- [31]
 					[36] = 143,
 					[37] = 107,
-					[41] = 255,
-					[39] = 128,
-					[33] = 1,
 					[34] = 143,
-					[35] = 143,
+					[39] = 128,
 					[40] = 256,
+					[41] = 255,
+					[35] = 143,
+					[33] = 1,
 				},
 				["History"] = {
 					[1396] = 8388608,
@@ -2766,8 +2766,8 @@ DataStore_QuestsDB = {
 					[789] = 67584,
 					[1608] = 1046528,
 					[805] = 4104,
-					[813] = 2,
 					[1491] = 67108864,
+					[813] = 2,
 					[871] = 534773760,
 				},
 				["Rewards"] = {
@@ -2786,15 +2786,15 @@ DataStore_QuestsDB = {
 					[24] = "r|157822|1|1",
 					[25] = "r|157822|1|1",
 					[35] = "r|152654|1|1",
-					[36] = "r|152654|1|1",
-					[17] = "r|157830|1|1",
-					[18] = "r|157824|1|1",
 					[19] = "r|157826|1|1",
+					[17] = "r|157830|1|1",
+					[34] = "r|152654|1|1",
+					[36] = "r|152654|1|1",
 					[20] = "r|157822|1|1",
 					[21] = "r|157822|1|1",
 					[22] = "r|157822|1|1",
 					[23] = "r|157822|1|1",
-					[34] = "r|152654|1|1",
+					[18] = "r|157824|1|1",
 				},
 				["HistoryBuild"] = "31478",
 				["lastUpdate"] = 1603926206,
@@ -3253,11 +3253,11 @@ DataStore_QuestsDB = {
 					7905376, -- [44]
 				},
 				["Emissaries"] = {
-					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
@@ -3267,7 +3267,7 @@ DataStore_QuestsDB = {
 					[50600] = "0|4|2871|0/4 Completa 4 missioni mondiali di Drustvar",
 					[42170] = "0|4|2871|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 				},
 			},
 			["Default.Sethraliss.Cabobo"] = {
@@ -3291,12 +3291,12 @@ DataStore_QuestsDB = {
 					[1355] = 8192,
 					[1000] = 4194304,
 					[1163] = 536870913,
-					[1164] = 8,
-					[986] = 268435457,
+					[1001] = 256,
+					[893] = 262144,
 					[1724] = 1088,
 					[987] = 1227358224,
-					[893] = 262144,
-					[1001] = 256,
+					[986] = 268435457,
+					[1164] = 8,
 				},
 			},
 			["Default.Sethraliss.Picinbono"] = {
@@ -3643,7 +3643,7 @@ DataStore_QuestsDB = {
 					[1193] = 26,
 					[307] = 746598656,
 					[287] = 11012360,
-					[1228] = 8448,
+					[308] = 3422552064,
 					[372] = 142934016,
 					[1229] = 135266304,
 					[311] = 32,
@@ -3668,7 +3668,7 @@ DataStore_QuestsDB = {
 					[1239] = 1073741824,
 					[1495] = 134217728,
 					[1240] = 8192,
-					[308] = 3422552064,
+					[1228] = 8448,
 					[1174] = 1610612804,
 					[11] = 2147483648,
 					[1242] = 2621440,
@@ -3828,11 +3828,11 @@ DataStore_QuestsDB = {
 					7907392, -- [37]
 				},
 				["Emissaries"] = {
-					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[42234] = "0|4|588|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|2028|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[42234] = "0|4|588|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|2028|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
 					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
@@ -3842,6 +3842,363 @@ DataStore_QuestsDB = {
 					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
 					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[50601] = "0|4|588|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
+					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+				},
+			},
+			["Default.Sethraliss.Cimino"] = {
+				["HistoryLastUpdate"] = 1603926612,
+				["QuestLinks"] = {
+					"|cffffff00|Hquest:51589:-1:120:120:0|h[Spezzare i Kul Tirani]|h|r", -- [1]
+					"|cffffff00|Hquest:53062:-1:110:120:0|h[Vantaggio di Azerite]|h|r", -- [2]
+					"|cff40c040|Hquest:42233:110:110:255:0|h[Le Tribù di Alto Monte]|h|r", -- [3]
+					"|cff40c040|Hquest:42420:110:110:255:0|h[La Corte di Farondis]|h|r", -- [4]
+					"|cff808080|Hquest:31034:-1:15:60:0|h[Nemici alle porte]|h|r", -- [5]
+					"|cff40c040|Hquest:42422:110:110:255:0|h[Custodi]|h|r", -- [6]
+					"|cff40c040|Hquest:48639:110:110:255:0|h[Armata della Luce]|h|r", -- [7]
+					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [8]
+					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [9]
+					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [10]
+					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [11]
+					"|cff808080|Hquest:27721:-1:80:90:0|h[Ordine del Capoguerra: Monte Hyjal!]|h|r", -- [12]
+					"|cffffff00|Hquest:56030:-1:120:120:0|h[L'ordine della Capoguerra]|h|r", -- [13]
+					"|cffffff00|Hquest:50602:-1:120:120:0|h[Spedizione di Talanji]|h|r", -- [14]
+					"|cff808080|Hquest:26311:-1:84:90:0|h[Acque straniere]|h|r", -- [15]
+					"|cff808080|Hquest:29611:-1:80:90:0|h[Arte della Guerra]|h|r", -- [16]
+					"|cff808080|Hquest:26293:-1:84:90:0|h[Macchine di distruzione]|h|r", -- [17]
+					"|cff808080|Hquest:10103:-1:60:80:0|h[Parla con Zurai]|h|r", -- [18]
+					"|cff808080|Hquest:9374:-1:58:80:0|h[Il Diario di Arelion]|h|r", -- [19]
+					"|cff808080|Hquest:9400:-1:58:80:0|h[L'Assassino]|h|r", -- [20]
+					"|cff808080|Hquest:13409:-1:58:80:0|h[Le fortificazioni del Fuoco Infernale]|h|r", -- [21]
+					"|cff808080|Hquest:9381:-1:58:80:0|h[Le frecce della Pura Verità]|h|r", -- [22]
+					"|cff808080|Hquest:10449:-1:58:80:0|h[Speziale Zelana]|h|r", -- [23]
+					"|cff40c040|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [24]
+					"|cffffff00|Hquest:50562:-1:120:120:0|h[Campioni di Azeroth]|h|r", -- [25]
+					"|cff40c040|Hquest:42234:110:110:255:0|h[I Valarjar]|h|r", -- [26]
+					"|cff40c040|Hquest:42421:110:110:255:0|h[Gli Esuli Oscuri]|h|r", -- [27]
+					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [28]
+					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [29]
+					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [30]
+					"|cffffff00|Hquest:50603:-1:120:120:0|h[Voldunai]|h|r", -- [31]
+					"|cff808080|Hquest:12894:-1:64:80:0|h[Avanguardia dei Crociati]|h|r", -- [32]
+					"|cff808080|Hquest:12884:-1:64:80:0|h[Il Presidio d'Ebano]|h|r", -- [33]
+					"|cffffff00|Hquest:50598:-1:120:120:0|h[Impero degli Zandalari]|h|r", -- [34]
+					"|cffffff00|Hquest:50598:-1:120:120:0|h[Impero degli Zandalari]|h|r", -- [35]
+					"|cffffff00|Hquest:50606:-1:120:120:0|h[Sforzo Bellico: Orda]|h|r", -- [36]
+					"|cffffff00|Hquest:49413:-1:120:120:0|h[Pesti e pergamene]|h|r", -- [37]
+					"|cffffff00|Hquest:47706:-1:110:120:5|h[A caccia di Re K'tal]|h|r", -- [38]
+					"|cffffff00|Hquest:50466:-1:110:120:5|h[È impazzito!]|h|r", -- [39]
+					"|cff808080|Hquest:46277:-1:110:110:0|h[Contribuito alla Torre della Magia]|h|r", -- [40]
+					"|cff808080|Hquest:46735:-1:110:110:0|h[Contributo al Centro di Comando]|h|r", -- [41]
+					"|cff808080|Hquest:46736:-1:110:110:0|h[Contributo al Disgregatore Fatuo]|h|r", -- [42]
+					"|cff808080|Hquest:35933:-1:90:100:0|h[L'ultima difesa di Azeroth]|h|r", -- [43]
+					"|cffffff00|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [44]
+					"|cffffff00|Hquest:55431:120:120:255:0|h[La ricompensa della conquista]|h|r", -- [45]
+					"|cffffff00|Hquest:53053:120:120:255:0|h[Al Mugambala!]|h|r", -- [46]
+				},
+				["Money"] = {
+					234000, -- [1]
+					23400, -- [2]
+					0, -- [3]
+					0, -- [4]
+					1920, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+					0, -- [11]
+					11400, -- [12]
+					23400, -- [13]
+					0, -- [14]
+					114000, -- [15]
+					11400, -- [16]
+					28500, -- [17]
+					14100, -- [18]
+					74000, -- [19]
+					54900, -- [20]
+					58000, -- [21]
+					74000, -- [22]
+					19000, -- [23]
+					0, -- [24]
+					0, -- [25]
+					0, -- [26]
+					0, -- [27]
+					0, -- [28]
+					0, -- [29]
+					0, -- [30]
+					0, -- [31]
+					15000, -- [32]
+					15000, -- [33]
+					0, -- [34]
+					0, -- [35]
+					0, -- [36]
+					0, -- [37]
+					468000, -- [38]
+					468000, -- [39]
+					0, -- [40]
+					0, -- [41]
+					0, -- [42]
+					82200, -- [43]
+					0, -- [44]
+					0, -- [45]
+					0, -- [46]
+				},
+				["HistorySize"] = 211,
+				["QuestTags"] = {
+					nil, -- [1]
+					nil, -- [2]
+					128, -- [3]
+					128, -- [4]
+					81, -- [5]
+					128, -- [6]
+					128, -- [7]
+					128, -- [8]
+					128, -- [9]
+					128, -- [10]
+					128, -- [11]
+					"COMPLETED", -- [12]
+					nil, -- [13]
+					128, -- [14]
+					[30] = 128,
+					[31] = 128,
+					[34] = 128,
+					[35] = 128,
+					[36] = 128,
+					[37] = 109,
+					[38] = 1,
+					[40] = 143,
+					[21] = 41,
+					[42] = 143,
+					[44] = 128,
+					[23] = "COMPLETED",
+					[46] = 255,
+					[24] = 128,
+					[25] = 128,
+					[26] = 128,
+					[27] = 128,
+					[28] = 128,
+					[45] = 256,
+					[29] = 128,
+					[41] = 143,
+				},
+				["History"] = {
+					[1396] = 8388608,
+					[988] = 146,
+					[1619] = 253231104,
+					[1381] = 16777216,
+					[1540] = 512,
+					[1429] = 2147483648,
+					[405] = 68157936,
+					[1668] = 335544320,
+					[1303] = 1073741824,
+					[997] = 960,
+					[158] = 131072,
+					[1035] = 292,
+					[871] = 534773760,
+					[1623] = 20480,
+					[1639] = 268439552,
+					[1655] = 262144,
+					[1163] = 536870913,
+					[200] = 196608,
+					[800] = 64,
+					[406] = 16384,
+					[1640] = 12,
+					[1672] = 1073741824,
+					[402] = 704643072,
+					[1605] = 4112,
+					[434] = 4194304,
+					[872] = 4,
+					[315] = 128,
+					[813] = 2,
+					[1530] = 1024,
+					[904] = 8192,
+					[805] = 8,
+					[793] = 67108864,
+					[1467] = 786432,
+					[1625] = 68094080,
+					[1608] = 1046528,
+					[437] = 917504,
+					[1658] = 144,
+					[1547] = 4096,
+					[976] = 64,
+					[1593] = 64,
+					[1341] = 4096,
+					[1000] = 4194304,
+					[327] = 262144,
+					[1770] = 34603008,
+					[1659] = 8388608,
+					[1675] = 32768,
+					[1587] = 131072,
+					[399] = 134217728,
+					[802] = 2172649473,
+					[1617] = 1024,
+					[296] = 67108864,
+					[1263] = 536870912,
+					[292] = 268435456,
+					[1676] = 4,
+					[1667] = 2097152,
+					[1581] = 4194304,
+					[1001] = 256,
+					[1613] = 8,
+					[316] = 64,
+					[297] = 67108864,
+					[1153] = 131072,
+					[294] = 3178496,
+					[787] = 153092096,
+					[1468] = 8192,
+					[803] = 2,
+					[1487] = 2147483649,
+					[1630] = 2056,
+					[403] = 524288,
+					[438] = 49408,
+					[1609] = 805306368,
+					[796] = 1048576,
+					[1075] = 1073741824,
+					[312] = 36996096,
+					[1615] = 201326592,
+					[986] = 268435457,
+					[875] = 64,
+					[1164] = 8,
+					[1614] = 134217984,
+					[199] = 536870912,
+					[400] = 52428804,
+					[404] = 64,
+					[1616] = 67584,
+					[439] = 541327360,
+					[1355] = 8192,
+					[293] = 2147483649,
+					[27] = 9777408,
+					[979] = 4096,
+					[987] = 1227358224,
+					[1601] = 2164262912,
+					[28] = 2290155968,
+					[440] = 33587988,
+					[1649] = 9216,
+					[1611] = 69696,
+					[29] = 136,
+					[789] = 65536,
+					[1607] = 536870912,
+					[1602] = 6,
+					[1618] = 201327104,
+					[1556] = 256,
+					[1703] = 1073741824,
+				},
+				["Rewards"] = {
+					[15] = "c|63923|1|1",
+					[30] = "r|157822|1|1",
+					[4] = "r|157825|1|1",
+					[8] = "r|157831|1|1",
+					[9] = "r|157831|1|1",
+					[36] = "r|165871|1|1",
+					[10] = "r|157831|1|1",
+					[39] = "c|158426|1|1,c|158446|1|1",
+					[40] = "r|152654|1|1",
+					[21] = "c|40477|1|1,r|24581|3|1",
+					[11] = "r|157831|1|1",
+					[3] = "r|157823|1|1",
+					[45] = "r|171198|2|1,r|171161|1|1,r|169704|1|1",
+					[24] = "r|157830|1|1",
+					[26] = "r|157824|1|1",
+					[6] = "r|157827|1|1",
+					[27] = "r|157826|1|1",
+					[7] = "r|157829|1|1",
+					[28] = "r|157822|1|1",
+					[41] = "r|152654|1|1",
+					[29] = "r|157822|1|1",
+					[42] = "r|152654|1|1",
+				},
+				["lastUpdate"] = 1603926774,
+				["HistoryBuild"] = "31478",
+				["QuestHeaders"] = {
+					"Alto Monte", -- [1]
+					"Azsuna", -- [2]
+					"Baratro di Fiamma Furente", -- [3]
+					"Dalaran", -- [4]
+					"Krokuun", -- [5]
+					"Mac'aree", -- [6]
+					"Monte Hyjal", -- [7]
+					"Nazjatar", -- [8]
+					"Nazmir", -- [9]
+					"Orgrimmar", -- [10]
+					"Paludi di Zangar", -- [11]
+					"Penisola del Fuoco Infernale", -- [12]
+					"Riva Dispersa", -- [13]
+					"Silitus: Ferita del Mondo", -- [14]
+					"Stromheim", -- [15]
+					"Suramar", -- [16]
+					"Val'sharah", -- [17]
+					"Vol'dun", -- [18]
+					"Zul'drak", -- [19]
+					"Zuldazar", -- [20]
+					"Missing header! (quest designers)", -- [21]
+					"Assalto al Portale Oscuro", -- [22]
+					"Missione Mondiale", -- [23]
+					"PvP classificato", -- [24]
+					"PvP nel mondo di gioco", -- [25]
+				},
+				["Quests"] = {
+					7864384, -- [1]
+					7864384, -- [2]
+					7211112, -- [3]
+					7213160, -- [4]
+					3938368, -- [5]
+					7217256, -- [6]
+					7219304, -- [7]
+					7221352, -- [8]
+					7221352, -- [9]
+					7221352, -- [10]
+					7221352, -- [11]
+					5912641, -- [12]
+					7880768, -- [13]
+					7882856, -- [14]
+					5918784, -- [15]
+					5918784, -- [16]
+					5918784, -- [17]
+					5265472, -- [18]
+					5267520, -- [19]
+					5267520, -- [20]
+					5267520, -- [21]
+					5267520, -- [22]
+					5267521, -- [23]
+					7235688, -- [24]
+					7893096, -- [25]
+					7239784, -- [26]
+					7241832, -- [27]
+					7243880, -- [28]
+					7243880, -- [29]
+					7243880, -- [30]
+					7901288, -- [31]
+					5281856, -- [32]
+					5281856, -- [33]
+					7905384, -- [34]
+					7905384, -- [35]
+					7905384, -- [36]
+					7905380, -- [37]
+					7906048, -- [38]
+					7905344, -- [39]
+					7252064, -- [40]
+					7252064, -- [41]
+					7252064, -- [42]
+					6598720, -- [43]
+					7911528, -- [44]
+					7913568, -- [45]
+					7915584, -- [46]
+				},
+				["Emissaries"] = {
+					[50602] = "0|4|2854|0/4 Completa 4 missioni mondiali di Nazmir",
+					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
+					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
+					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
+					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
+					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[50598] = "0|4|1414|0/4 Completa 4 missioni mondiali di Zuldazar",
+					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
+					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
+					[48642] = "0|4|1414|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[42170] = "0|4|2854|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
+					[50606] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Kul Tiras",
+					[50603] = "0|4|0|0/4 Completa 4 missioni mondiali di Vol'dun",
 					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 				},
 			},
@@ -4195,10 +4552,10 @@ DataStore_QuestsDB = {
 					[37] = "r|152654|1|1",
 					[39] = "s|252447",
 					[15] = "r|157830|1|1",
-					[19] = "r|157822|1|1",
+					[36] = "r|152654|1|1",
 					[17] = "r|157824|1|1",
 					[18] = "r|157826|1|1",
-					[36] = "r|152654|1|1",
+					[19] = "r|157822|1|1",
 					[20] = "r|157822|1|1",
 					[21] = "r|157822|1|1",
 					[22] = "r|157822|1|1",
@@ -4268,80 +4625,466 @@ DataStore_QuestsDB = {
 					[50603] = "0|4|0|0/4 Completa 4 missioni mondiali di Vol'dun",
 				},
 			},
-			["Default.Sethraliss.Cimino"] = {
-				["HistoryLastUpdate"] = 1603926612,
+			["Default.Sethraliss.Nanotano"] = {
+				["HistoryLastUpdate"] = 1581169623,
 				["QuestLinks"] = {
-					"|cffffff00|Hquest:51589:-1:120:120:0|h[Spezzare i Kul Tirani]|h|r", -- [1]
-					"|cffffff00|Hquest:53062:-1:110:120:0|h[Vantaggio di Azerite]|h|r", -- [2]
+					"|cffff2020|Hquest:50599:-1:120:120:0|h[Ammiragliato Marefiero]|h|r", -- [1]
+					"|cffff2020|Hquest:50600:-1:120:120:0|h[Ordine delle Braci]|h|r", -- [2]
+					"|cffffff00|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [3]
+					"|cff808080|Hquest:29547:-1:80:90:0|h[La richiesta di un Re]|h|r", -- [4]
+					"|cffffff00|Hquest:42234:110:110:255:0|h[I Valarjar]|h|r", -- [5]
+					"|cffffff00|Hquest:42421:110:110:255:0|h[Gli Esuli Oscuri]|h|r", -- [6]
+					"|cffffff00|Hquest:46277:-1:110:110:0|h[Contribuito alla Torre della Magia]|h|r", -- [7]
+					"|cffffff00|Hquest:46735:-1:110:110:0|h[Contributo al Centro di Comando]|h|r", -- [8]
+					"|cffffff00|Hquest:46736:-1:110:110:0|h[Contributo al Disgregatore Fatuo]|h|r", -- [9]
+					"|cffff2020|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [10]
+				},
+				["Money"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					11400, -- [4]
+					0, -- [5]
+					0, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					0, -- [10]
+				},
+				["HistorySize"] = 30,
+				["QuestTags"] = {
+					128, -- [1]
+					128, -- [2]
+					128, -- [3]
+					nil, -- [4]
+					128, -- [5]
+					128, -- [6]
+					143, -- [7]
+					143, -- [8]
+					143, -- [9]
+					128, -- [10]
+				},
+				["History"] = {
+					[987] = 1227358224,
+					[1000] = 4194304,
+					[1355] = 8192,
+					[1164] = 8,
+					[1303] = 1073741824,
+					[986] = 268435457,
+					[1341] = 4096,
+					[1660] = 256,
+					[1429] = 2147483648,
+					[1001] = 256,
+					[988] = 146,
+					[979] = 4096,
+					[1035] = 292,
+					[1609] = 1073741824,
+					[1163] = 536870913,
+					[997] = 960,
+				},
+				["lastUpdate"] = 1581169622,
+				["Rewards"] = {
+					nil, -- [1]
+					nil, -- [2]
+					"r|157830|1|1", -- [3]
+					nil, -- [4]
+					"r|157824|1|1", -- [5]
+					"r|157826|1|1", -- [6]
+					"r|152654|1|1", -- [7]
+					"r|152654|1|1", -- [8]
+					"r|152654|1|1", -- [9]
+				},
+				["HistoryBuild"] = "31478",
+				["QuestHeaders"] = {
+					"Baia di Tiragarde", -- [1]
+					"Drustvar", -- [2]
+					"Riva Dispersa", -- [3]
+					"Roccavento", -- [4]
+					"Stromheim", -- [5]
+					"Suramar", -- [6]
+					"Missing header! (quest designers)", -- [7]
+					"Missione Mondiale", -- [8]
+				},
+				["Quests"] = {
+					7866472, -- [1]
+					7868520, -- [2]
+					7215208, -- [3]
+					5906496, -- [4]
+					7219304, -- [5]
+					7221352, -- [6]
+					7223392, -- [7]
+					7223392, -- [8]
+					7223392, -- [9]
+					7880808, -- [10]
+				},
+				["Emissaries"] = {
+					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
+					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
+					[50604] = "0|3|1880|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
+					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
+					[50599] = "0|4|3320|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
+				},
+			},
+			["Default.Sethraliss.Corsini"] = {
+				["HistoryLastUpdate"] = 1606157608,
+				["QuestLinks"] = {
+					"|cffffff00|Hquest:52027:-1:120:120:0|h[Il piano di Vol'dun]|h|r", -- [1]
+					"|cffffff00|Hquest:51904:-1:110:120:0|h[Scorreria sulle Isole]|h|r", -- [2]
 					"|cff40c040|Hquest:42233:110:110:255:0|h[Le Tribù di Alto Monte]|h|r", -- [3]
 					"|cff40c040|Hquest:42420:110:110:255:0|h[La Corte di Farondis]|h|r", -- [4]
-					"|cff808080|Hquest:31034:-1:15:60:0|h[Nemici alle porte]|h|r", -- [5]
-					"|cff40c040|Hquest:42422:110:110:255:0|h[Custodi]|h|r", -- [6]
-					"|cff40c040|Hquest:48639:110:110:255:0|h[Armata della Luce]|h|r", -- [7]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [8]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [9]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [10]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [11]
-					"|cff808080|Hquest:27721:-1:80:90:0|h[Ordine del Capoguerra: Monte Hyjal!]|h|r", -- [12]
-					"|cffffff00|Hquest:56030:-1:120:120:0|h[L'ordine della Capoguerra]|h|r", -- [13]
-					"|cffffff00|Hquest:50602:-1:120:120:0|h[Spedizione di Talanji]|h|r", -- [14]
-					"|cff808080|Hquest:26311:-1:84:90:0|h[Acque straniere]|h|r", -- [15]
-					"|cff808080|Hquest:29611:-1:80:90:0|h[Arte della Guerra]|h|r", -- [16]
-					"|cff808080|Hquest:26293:-1:84:90:0|h[Macchine di distruzione]|h|r", -- [17]
-					"|cff808080|Hquest:10103:-1:60:80:0|h[Parla con Zurai]|h|r", -- [18]
-					"|cff808080|Hquest:9374:-1:58:80:0|h[Il Diario di Arelion]|h|r", -- [19]
-					"|cff808080|Hquest:9400:-1:58:80:0|h[L'Assassino]|h|r", -- [20]
-					"|cff808080|Hquest:13409:-1:58:80:0|h[Le fortificazioni del Fuoco Infernale]|h|r", -- [21]
-					"|cff808080|Hquest:9381:-1:58:80:0|h[Le frecce della Pura Verità]|h|r", -- [22]
-					"|cff808080|Hquest:10449:-1:58:80:0|h[Speziale Zelana]|h|r", -- [23]
-					"|cff40c040|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [24]
+					"|cff808080|Hquest:8114:60:60:255:0|h[Il controllo delle quattro basi]|h|r", -- [5]
+					"|cff808080|Hquest:8121:60:60:255:0|h[La presa delle quattro basi]|h|r", -- [6]
+					"|cffffff00|Hquest:50599:-1:120:120:0|h[Ammiragliato Marefiero]|h|r", -- [7]
+					"|cffffff00|Hquest:50605:-1:120:120:0|h[Sforzo Bellico: Alleanza]|h|r", -- [8]
+					"|cffffff00|Hquest:51030:-1:120:120:0|h[Provviste necessarie: Cuoio Grezzo]|h|r", -- [9]
+					"|cffffff00|Hquest:52375:-1:120:120:0|h[Provviste necessarie: Pescegatto del Grande Mare]|h|r", -- [10]
+					"|cff40c040|Hquest:42422:110:110:255:0|h[Custodi]|h|r", -- [11]
+					"|cffffff00|Hquest:50600:-1:120:120:0|h[Ordine delle Braci]|h|r", -- [12]
+					"|cffffff00|Hquest:48504:-1:110:120:3|h[Vecchie strade]|h|r", -- [13]
+					"|cff40c040|Hquest:48639:110:110:255:0|h[Armata della Luce]|h|r", -- [14]
+					"|cff40c040|Hquest:48639:110:110:255:0|h[Armata della Luce]|h|r", -- [15]
+					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [16]
+					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [17]
+					"|cffffff00|Hquest:56119:-1:120:120:0|h[Ankoan Lamaonda]|h|r", -- [18]
+					"|cffffff00|Hquest:56119:-1:120:120:0|h[Ankoan Lamaonda]|h|r", -- [19]
+					"|cffffff00|Hquest:56031:-1:120:120:0|h[L'offensiva del lupo]|h|r", -- [20]
+					"|cff40c040|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [21]
+					"|cff40c040|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [22]
+					"|cffffff00|Hquest:54875:-1:120:120:0|h[Minacce rimanenti]|h|r", -- [23]
+					"|cffffff00|Hquest:54876:-1:120:120:0|h[Sfruttare la breccia]|h|r", -- [24]
 					"|cffffff00|Hquest:50562:-1:120:120:0|h[Campioni di Azeroth]|h|r", -- [25]
-					"|cff40c040|Hquest:42234:110:110:255:0|h[I Valarjar]|h|r", -- [26]
-					"|cff40c040|Hquest:42421:110:110:255:0|h[Gli Esuli Oscuri]|h|r", -- [27]
-					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [28]
+					"|cffffff00|Hquest:50562:-1:120:120:0|h[Campioni di Azeroth]|h|r", -- [26]
+					"|cff40c040|Hquest:42234:110:110:255:0|h[I Valarjar]|h|r", -- [27]
+					"|cff40c040|Hquest:42421:110:110:255:0|h[Gli Esuli Oscuri]|h|r", -- [28]
 					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [29]
-					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [30]
-					"|cffffff00|Hquest:50603:-1:120:120:0|h[Voldunai]|h|r", -- [31]
-					"|cff808080|Hquest:12894:-1:64:80:0|h[Avanguardia dei Crociati]|h|r", -- [32]
-					"|cff808080|Hquest:12884:-1:64:80:0|h[Il Presidio d'Ebano]|h|r", -- [33]
-					"|cffffff00|Hquest:50598:-1:120:120:0|h[Impero degli Zandalari]|h|r", -- [34]
-					"|cffffff00|Hquest:50598:-1:120:120:0|h[Impero degli Zandalari]|h|r", -- [35]
-					"|cffffff00|Hquest:50606:-1:120:120:0|h[Sforzo Bellico: Orda]|h|r", -- [36]
-					"|cffffff00|Hquest:49413:-1:120:120:0|h[Pesti e pergamene]|h|r", -- [37]
-					"|cffffff00|Hquest:47706:-1:110:120:5|h[A caccia di Re K'tal]|h|r", -- [38]
-					"|cffffff00|Hquest:50466:-1:110:120:5|h[È impazzito!]|h|r", -- [39]
-					"|cff808080|Hquest:46277:-1:110:110:0|h[Contribuito alla Torre della Magia]|h|r", -- [40]
-					"|cff808080|Hquest:46735:-1:110:110:0|h[Contributo al Centro di Comando]|h|r", -- [41]
-					"|cff808080|Hquest:46736:-1:110:110:0|h[Contributo al Disgregatore Fatuo]|h|r", -- [42]
-					"|cff808080|Hquest:35933:-1:90:100:0|h[L'ultima difesa di Azeroth]|h|r", -- [43]
-					"|cffffff00|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [44]
-					"|cffffff00|Hquest:55431:120:120:255:0|h[La ricompensa della conquista]|h|r", -- [45]
-					"|cffffff00|Hquest:53053:120:120:255:0|h[Al Mugambala!]|h|r", -- [46]
+					"|cffffff00|Hquest:50601:-1:120:120:0|h[Destatempesta]|h|r", -- [30]
+					"|cff808080|Hquest:46277:-1:110:110:0|h[Contribuito alla Torre della Magia]|h|r", -- [31]
+					"|cff808080|Hquest:46735:-1:110:110:0|h[Contributo al Centro di Comando]|h|r", -- [32]
+					"|cff808080|Hquest:46736:-1:110:110:0|h[Contributo al Disgregatore Fatuo]|h|r", -- [33]
+					"|cffffff00|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [34]
+					"|cffffff00|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [35]
+					"|cffffff00|Hquest:55431:120:120:255:0|h[La ricompensa della conquista]|h|r", -- [36]
+					"|cffffff00|Hquest:52784:120:110:255:0|h[Assassinare l'Orda]|h|r", -- [37]
+				},
+				["lastUpdate"] = 1606157836,
+				["HistorySize"] = 680,
+				["QuestTags"] = {
+					nil, -- [1]
+					nil, -- [2]
+					128, -- [3]
+					128, -- [4]
+					41, -- [5]
+					41, -- [6]
+					128, -- [7]
+					128, -- [8]
+					109, -- [9]
+					109, -- [10]
+					128, -- [11]
+					128, -- [12]
+					nil, -- [13]
+					128, -- [14]
+					128, -- [15]
+					128, -- [16]
+					128, -- [17]
+					128, -- [18]
+					128, -- [19]
+					[25] = 128,
+					[33] = 143,
+					[26] = 128,
+					[27] = 128,
+					[28] = 128,
+					[29] = 128,
+					[30] = 128,
+					[31] = 143,
+					[32] = 143,
+					[34] = 128,
+					[36] = 256,
+					[35] = 128,
+					[21] = 128,
+					[22] = 128,
+					[23] = 1,
+					[37] = 255,
+				},
+				["History"] = {
+					[1546] = 8,
+					[1355] = 8192,
+					[1164] = 8,
+					[309] = 67133454,
+					[1101] = 134217728,
+					[1675] = 32792,
+					[373] = 293685073,
+					[1102] = 4327168,
+					[1676] = 4,
+					[872] = 4,
+					[936] = 2528,
+					[1000] = 4194304,
+					[294] = 2147483648,
+					[310] = 553660864,
+					[1105] = 536872448,
+					[374] = 771776513,
+					[390] = 8388608,
+					[1680] = 524288,
+					[1043] = 32768,
+					[938] = 2560,
+					[1002] = 131072,
+					[311] = 32,
+					[1619] = 1572864,
+					[1429] = 2147483648,
+					[1557] = 38912,
+					[1621] = 1073741824,
+					[1001] = 256,
+					[1622] = 2147483648,
+					[1303] = 1073741824,
+					[813] = 2,
+					[934] = 2248147968,
+					[312] = 36996096,
+					[1545] = 2,
+					[1623] = 20480,
+					[1609] = 512,
+					[1162] = 2147483648,
+					[1050] = 31744,
+					[1624] = 2181038081,
+					[1611] = 16777216,
+					[388] = 8192,
+					[1561] = 64,
+					[1625] = 67108866,
+					[372] = 4061270225,
+					[942] = 46137344,
+					[1100] = 256,
+					[1626] = 67117320,
+					[935] = 262208,
+					[1499] = 50331649,
+					[1563] = 524288,
+					[1245] = 1024,
+					[1500] = 31746,
+					[377] = 8,
+					[1096] = 32,
+					[1118] = 8,
+					[1617] = 1036,
+					[1055] = 4160,
+					[1565] = 8192,
+					[1629] = 1,
+					[976] = 1073741824,
+					[1612] = 1966080,
+					[1056] = 2,
+					[1605] = 2162171912,
+					[1495] = 134217728,
+					[1440] = 4,
+					[1057] = 8388608,
+					[394] = 131072,
+					[362] = 1099432576,
+					[1504] = 192512,
+					[1568] = 536871072,
+					[1122] = 4096,
+					[1094] = 537004032,
+					[409] = 16,
+					[1476] = 2097152,
+					[1123] = 536870912,
+					[1061] = 8,
+					[1506] = 3104,
+					[1060] = 536870913,
+					[931] = 4,
+					[979] = 4096,
+					[1507] = 64,
+					[1571] = 8192,
+					[307] = 100668672,
+					[363] = 851148872,
+					[1603] = 1015808,
+					[1062] = 18513920,
+					[1381] = 16777216,
+					[1092] = 8192,
+					[1509] = 134217728,
+					[1063] = 536870928,
+					[1382] = 33554432,
+					[1601] = 536872962,
+					[364] = 1610614297,
+					[396] = 1073872898,
+					[1128] = 32768,
+					[1091] = 268435456,
+					[316] = 65536,
+					[412] = 24576,
+					[1639] = 134221824,
+					[1703] = 2147483648,
+					[380] = 8192,
+					[1066] = 58753536,
+					[1640] = 16396,
+					[428] = 8,
+					[317] = 268435842,
+					[1577] = 35733504,
+					[1770] = 170917888,
+					[402] = 3930422273,
+					[1514] = 40,
+					[1068] = 8192,
+					[1642] = 1,
+					[1070] = 67108865,
+					[1515] = 67108864,
+					[1516] = 234881024,
+					[397] = 906002880,
+					[365] = 2172682241,
+					[1771] = 4096,
+					[1580] = 8,
+					[413] = 48,
+					[1599] = 2147500289,
+					[1517] = 201342928,
+					[1071] = 4,
+					[1581] = 58728448,
+					[1134] = 131072,
+					[1263] = 536870912,
+					[793] = 67108864,
+					[1646] = 16384,
+					[1583] = 6,
+					[1519] = 1073741824,
+					[1073] = 4194304,
+					[1598] = 33554432,
+					[366] = 1497366535,
+					[1520] = 16384,
+					[1074] = 268435456,
+					[398] = 566082692,
+					[1396] = 8388608,
+					[1651] = 6,
+					[1075] = 3271558273,
+					[1087] = 8658944,
+					[986] = 268435457,
+					[987] = 1227358224,
+					[1076] = 2733899905,
+					[399] = 138215388,
+					[1660] = 256,
+					[401] = 1813774338,
+					[1077] = 1679320304,
+					[1141] = 1,
+					[367] = 2531328,
+					[1079] = 69632,
+					[1078] = 16384,
+					[1652] = 16,
+					[1461] = 1920,
+					[1525] = 352,
+					[924] = 65536,
+					[1143] = 8388608,
+					[988] = 146,
+					[796] = 1048576,
+					[1086] = 136970240,
+					[1144] = 65536,
+					[1718] = 1048576,
+					[304] = 16777219,
+					[1081] = 264273929,
+					[1655] = 262144,
+					[925] = 256,
+					[1082] = 16777216,
+					[400] = 400559109,
+					[1653] = 8,
+					[432] = 12,
+					[1083] = 4194688,
+					[926] = 768,
+					[1593] = 536870912,
+					[800] = 64,
+					[1530] = 516096,
+					[1084] = 135266304,
+					[1658] = 131088,
+					[305] = 524292,
+					[1531] = 67108872,
+					[1085] = 7086352,
+					[1659] = 917536,
+					[369] = 6811648,
+					[1334] = 2147483648,
+					[1341] = 4096,
+					[1150] = 536870912,
+					[433] = 2,
+					[896] = 1536,
+					[1597] = 65536,
+					[1151] = 2,
+					[992] = 67108864,
+					[1518] = 16384,
+					[1088] = 234881024,
+					[1016] = 262144,
+					[306] = 4076208128,
+					[322] = 65536,
+					[1089] = 258,
+					[1153] = 131072,
+					[1472] = 201326592,
+					[802] = 2172649473,
+					[1090] = 1073741824,
+					[1600] = 62915078,
+					[1067] = 1025,
+					[1537] = 603979776,
+					[930] = 4096,
+					[1383] = 24117248,
+					[403] = 3222012614,
+					[803] = 2,
+					[1602] = 1024,
+					[395] = 1342179328,
+					[1475] = 2367488,
+					[1539] = 8406020,
+					[1093] = 18312,
+					[1667] = 1048576,
+					[371] = 1996488704,
+					[1540] = 2048,
+					[1604] = 12288,
+					[1668] = 335548416,
+					[378] = 4194304,
+					[1541] = 32768,
+					[1095] = 2048,
+					[1669] = 1610614016,
+					[1485] = 2,
+					[1115] = 32768,
+					[1606] = 2684355136,
+					[1670] = 2214592512,
+					[308] = 3422552065,
+					[1225] = 12288,
+					[1607] = 67111948,
+					[1671] = 2097276,
+					[997] = 960,
+					[1544] = 239075328,
+					[404] = 65760,
+					[420] = 16,
+					[1226] = 1024,
+					[1035] = 292,
+					[1099] = 1024,
+					[1163] = 536870913,
+					[1484] = 3758096385,
+				},
+				["Rewards"] = {
+					[14] = "r|157829|1|1",
+					[33] = "r|152654|1|1",
+					[15] = "r|157829|1|1",
+					[27] = "r|157824|1|1",
+					[28] = "r|157826|1|1",
+					[4] = "r|157825|1|1",
+					[32] = "r|152654|1|1",
+					[31] = "r|152654|1|1",
+					[17] = "r|157831|1|1",
+					[3] = "r|157823|1|1",
+					[36] = "r|171198|2|1",
+					[11] = "r|157827|1|1",
+					[21] = "r|157830|1|1",
+					[22] = "r|157830|1|1",
+					[16] = "r|157831|1|1",
+					[29] = "r|157822|1|1",
 				},
 				["Money"] = {
 					234000, -- [1]
 					23400, -- [2]
 					0, -- [3]
 					0, -- [4]
-					1920, -- [5]
-					0, -- [6]
+					27000, -- [5]
+					85200, -- [6]
 					0, -- [7]
 					0, -- [8]
 					0, -- [9]
 					0, -- [10]
 					0, -- [11]
-					11400, -- [12]
+					0, -- [12]
 					23400, -- [13]
 					0, -- [14]
-					114000, -- [15]
-					11400, -- [16]
-					28500, -- [17]
-					14100, -- [18]
-					74000, -- [19]
-					54900, -- [20]
-					58000, -- [21]
-					74000, -- [22]
-					19000, -- [23]
+					0, -- [15]
+					0, -- [16]
+					0, -- [17]
+					0, -- [18]
+					0, -- [19]
+					23400, -- [20]
+					0, -- [21]
+					0, -- [22]
+					0, -- [23]
 					0, -- [24]
 					0, -- [25]
 					0, -- [26]
@@ -4350,279 +5093,91 @@ DataStore_QuestsDB = {
 					0, -- [29]
 					0, -- [30]
 					0, -- [31]
-					15000, -- [32]
-					15000, -- [33]
+					0, -- [32]
+					0, -- [33]
 					0, -- [34]
 					0, -- [35]
 					0, -- [36]
 					0, -- [37]
-					468000, -- [38]
-					468000, -- [39]
-					0, -- [40]
-					0, -- [41]
-					0, -- [42]
-					82200, -- [43]
-					0, -- [44]
-					0, -- [45]
-					0, -- [46]
 				},
-				["HistorySize"] = 211,
-				["QuestTags"] = {
-					nil, -- [1]
-					nil, -- [2]
-					128, -- [3]
-					128, -- [4]
-					81, -- [5]
-					128, -- [6]
-					128, -- [7]
-					128, -- [8]
-					128, -- [9]
-					128, -- [10]
-					128, -- [11]
-					"COMPLETED", -- [12]
-					nil, -- [13]
-					128, -- [14]
-					[30] = 128,
-					[31] = 128,
-					[34] = 128,
-					[35] = 128,
-					[36] = 128,
-					[37] = 109,
-					[38] = 1,
-					[40] = 143,
-					[21] = 41,
-					[42] = 143,
-					[44] = 128,
-					[23] = "COMPLETED",
-					[46] = 255,
-					[24] = 128,
-					[25] = 128,
-					[26] = 128,
-					[27] = 128,
-					[28] = 128,
-					[45] = 256,
-					[29] = 128,
-					[41] = 143,
-				},
-				["History"] = {
-					[1396] = 8388608,
-					[988] = 146,
-					[1619] = 253231104,
-					[1381] = 16777216,
-					[1540] = 512,
-					[1429] = 2147483648,
-					[405] = 68157936,
-					[1668] = 335544320,
-					[1303] = 1073741824,
-					[997] = 960,
-					[158] = 131072,
-					[1035] = 292,
-					[871] = 534773760,
-					[1623] = 20480,
-					[1639] = 268439552,
-					[1655] = 262144,
-					[1163] = 536870913,
-					[200] = 196608,
-					[800] = 64,
-					[406] = 16384,
-					[1640] = 12,
-					[1672] = 1073741824,
-					[402] = 704643072,
-					[1605] = 4112,
-					[434] = 4194304,
-					[872] = 4,
-					[315] = 128,
-					[813] = 2,
-					[1530] = 1024,
-					[904] = 8192,
-					[805] = 8,
-					[793] = 67108864,
-					[1467] = 786432,
-					[1625] = 68094080,
-					[1608] = 1046528,
-					[437] = 917504,
-					[1658] = 144,
-					[1547] = 4096,
-					[976] = 64,
-					[1593] = 64,
-					[1341] = 4096,
-					[1611] = 69696,
-					[327] = 262144,
-					[1770] = 34603008,
-					[1659] = 8388608,
-					[1675] = 32768,
-					[1587] = 131072,
-					[399] = 134217728,
-					[802] = 2172649473,
-					[1617] = 1024,
-					[296] = 67108864,
-					[1263] = 536870912,
-					[292] = 268435456,
-					[1676] = 4,
-					[1667] = 2097152,
-					[1581] = 4194304,
-					[1001] = 256,
-					[1613] = 8,
-					[316] = 64,
-					[297] = 67108864,
-					[1153] = 131072,
-					[294] = 3178496,
-					[787] = 153092096,
-					[1468] = 8192,
-					[803] = 2,
-					[1487] = 2147483649,
-					[1630] = 2056,
-					[403] = 524288,
-					[438] = 49408,
-					[1609] = 805306368,
-					[796] = 1048576,
-					[1075] = 1073741824,
-					[312] = 36996096,
-					[1615] = 201326592,
-					[986] = 268435457,
-					[875] = 64,
-					[1164] = 8,
-					[1614] = 134217984,
-					[199] = 536870912,
-					[400] = 52428804,
-					[404] = 64,
-					[1616] = 67584,
-					[439] = 541327360,
-					[1355] = 8192,
-					[293] = 2147483649,
-					[27] = 9777408,
-					[979] = 4096,
-					[987] = 1227358224,
-					[1601] = 2164262912,
-					[440] = 33587988,
-					[28] = 2290155968,
-					[1649] = 9216,
-					[1000] = 4194304,
-					[29] = 136,
-					[789] = 65536,
-					[1607] = 536870912,
-					[1602] = 6,
-					[1618] = 201327104,
-					[1556] = 256,
-					[1703] = 1073741824,
-				},
-				["Rewards"] = {
-					[15] = "c|63923|1|1",
-					[30] = "r|157822|1|1",
-					[4] = "r|157825|1|1",
-					[8] = "r|157831|1|1",
-					[9] = "r|157831|1|1",
-					[36] = "r|165871|1|1",
-					[10] = "r|157831|1|1",
-					[39] = "c|158426|1|1,c|158446|1|1",
-					[40] = "r|152654|1|1",
-					[21] = "c|40477|1|1,r|24581|3|1",
-					[11] = "r|157831|1|1",
-					[3] = "r|157823|1|1",
-					[45] = "r|171198|2|1,r|171161|1|1,r|169704|1|1",
-					[24] = "r|157830|1|1",
-					[26] = "r|157824|1|1",
-					[6] = "r|157827|1|1",
-					[27] = "r|157826|1|1",
-					[7] = "r|157829|1|1",
-					[28] = "r|157822|1|1",
-					[41] = "r|152654|1|1",
-					[29] = "r|157822|1|1",
-					[42] = "r|152654|1|1",
-				},
-				["lastUpdate"] = 1603926774,
-				["HistoryBuild"] = "31478",
 				["QuestHeaders"] = {
 					"Alto Monte", -- [1]
 					"Azsuna", -- [2]
-					"Baratro di Fiamma Furente", -- [3]
-					"Dalaran", -- [4]
-					"Krokuun", -- [5]
-					"Mac'aree", -- [6]
-					"Monte Hyjal", -- [7]
-					"Nazjatar", -- [8]
-					"Nazmir", -- [9]
-					"Orgrimmar", -- [10]
-					"Paludi di Zangar", -- [11]
-					"Penisola del Fuoco Infernale", -- [12]
-					"Riva Dispersa", -- [13]
-					"Silitus: Ferita del Mondo", -- [14]
-					"Stromheim", -- [15]
-					"Suramar", -- [16]
-					"Val'sharah", -- [17]
-					"Vol'dun", -- [18]
-					"Zul'drak", -- [19]
-					"Zuldazar", -- [20]
-					"Missing header! (quest designers)", -- [21]
-					"Assalto al Portale Oscuro", -- [22]
-					"Missione Mondiale", -- [23]
-					"PvP classificato", -- [24]
-					"PvP nel mondo di gioco", -- [25]
+					"Bacino d'Arathi", -- [3]
+					"Baia di Tiragarde", -- [4]
+					"Dalaran", -- [5]
+					"Drustvar", -- [6]
+					"Krokuun", -- [7]
+					"Mac'aree", -- [8]
+					"Nazjatar", -- [9]
+					"Riva Dispersa", -- [10]
+					"Rivafosca", -- [11]
+					"Silitus: Ferita del Mondo", -- [12]
+					"Stromheim", -- [13]
+					"Suramar", -- [14]
+					"Val'sharah", -- [15]
+					"Valle dei Sacraonda", -- [16]
+					"Missing header! (quest designers)", -- [17]
+					"Missione Mondiale", -- [18]
+					"PvP classificato", -- [19]
+					"PvP nel mondo di gioco", -- [20]
 				},
+				["HistoryBuild"] = "31478",
 				["Quests"] = {
 					7864384, -- [1]
 					7864384, -- [2]
 					7211112, -- [3]
 					7213160, -- [4]
-					3938368, -- [5]
-					7217256, -- [6]
-					7219304, -- [7]
-					7221352, -- [8]
-					7221352, -- [9]
-					7221352, -- [10]
-					7221352, -- [11]
-					5912641, -- [12]
-					7880768, -- [13]
-					7882856, -- [14]
-					5918784, -- [15]
-					5918784, -- [16]
-					5918784, -- [17]
-					5265472, -- [18]
-					5267520, -- [19]
-					5267520, -- [20]
-					5267520, -- [21]
-					5267520, -- [22]
-					5267521, -- [23]
-					7235688, -- [24]
-					7893096, -- [25]
-					7239784, -- [26]
-					7241832, -- [27]
-					7243880, -- [28]
-					7243880, -- [29]
-					7243880, -- [30]
-					7901288, -- [31]
-					5281856, -- [32]
-					5281856, -- [33]
-					7905384, -- [34]
-					7905384, -- [35]
-					7905384, -- [36]
-					7905380, -- [37]
-					7906048, -- [38]
-					7905344, -- [39]
-					7252064, -- [40]
-					7252064, -- [41]
-					7252064, -- [42]
-					6598720, -- [43]
-					7911528, -- [44]
-					7913568, -- [45]
-					7915584, -- [46]
+					3938369, -- [5]
+					3938369, -- [6]
+					7872616, -- [7]
+					7872616, -- [8]
+					7872612, -- [9]
+					7872612, -- [10]
+					7219304, -- [11]
+					7876712, -- [12]
+					7876672, -- [13]
+					7223400, -- [14]
+					7223400, -- [15]
+					7225448, -- [16]
+					7225448, -- [17]
+					7882856, -- [18]
+					7882856, -- [19]
+					7882816, -- [20]
+					7229544, -- [21]
+					7229544, -- [22]
+					7888128, -- [23]
+					7886912, -- [24]
+					7889000, -- [25]
+					7889000, -- [26]
+					7235688, -- [27]
+					7237736, -- [28]
+					7239784, -- [29]
+					7897192, -- [30]
+					7243872, -- [31]
+					7243872, -- [32]
+					7243872, -- [33]
+					7901288, -- [34]
+					7901288, -- [35]
+					7903328, -- [36]
+					7905344, -- [37]
 				},
 				["Emissaries"] = {
-					[50602] = "0|4|2854|0/4 Completa 4 missioni mondiali di Nazmir",
+					[48639] = "0|4|1670|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
 					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
 					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
+					[50604] = "0|3|3110|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
-					[50604] = "0|3|0|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
-					[50598] = "0|4|1414|0/4 Completa 4 missioni mondiali di Zuldazar",
-					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
-					[48642] = "0|4|1414|0/4 Missioni mondiali dei Redentori di Argus completate",
-					[50562] = "0|4|0|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
-					[42170] = "0|4|2854|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
-					[50606] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Kul Tiras",
-					[50603] = "0|4|0|0/4 Completa 4 missioni mondiali di Vol'dun",
-					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
+					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
+					[48642] = "0|4|3110|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[48641] = "0|4|230|0/4 Missioni mondiali completate alla Riva Dispersa",
+					[50599] = "0|4|0|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
+					[50562] = "0|4|1670|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
+					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
+					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
+					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
+					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
 				},
 			},
 			["Default.Sethraliss.Brùslì"] = {
@@ -4746,37 +5301,37 @@ DataStore_QuestsDB = {
 					[328] = 262144,
 					[1396] = 8388608,
 					[842] = 1744830464,
-					[1598] = 33554432,
+					[803] = 2,
 					[964] = 4,
-					[1075] = 1073741824,
+					[986] = 268435457,
 					[1646] = 16384,
 					[962] = 32768,
 					[970] = 16,
-					[1472] = 201326592,
-					[986] = 268435457,
 					[1599] = 2147500033,
+					[1075] = 1073741824,
+					[6] = 1174405120,
 					[1506] = 2097152,
 					[920] = 130630,
 					[19] = 128,
 					[956] = 3758096384,
 					[400] = 343932928,
-					[796] = 1048576,
 					[923] = 1966080,
-					[1600] = 518,
+					[796] = 1048576,
+					[931] = 4291813121,
 					[939] = 1073612800,
 					[826] = 8,
 					[927] = 3758096385,
 					[836] = 303837184,
-					[931] = 4291813121,
+					[1600] = 518,
 					[979] = 4096,
 					[987] = 1227358224,
 					[1601] = 536872960,
 					[1617] = 12,
 					[317] = 1610615296,
-					[6] = 1174405120,
+					[1472] = 201326592,
 					[312] = 36996096,
 					[1607] = 2048,
-					[803] = 2,
+					[1598] = 33554432,
 					[1605] = 14688256,
 					[1475] = 2367488,
 					[813] = 2,
@@ -4805,8 +5360,8 @@ DataStore_QuestsDB = {
 					[24] = "r|152654|1|1",
 					[25] = "r|152654|1|1",
 					[14] = "r|157829|1|1",
-					[4] = "r|157823|1|1",
 					[15] = "r|157831|1|1",
+					[4] = "r|157823|1|1",
 					[8] = "r|165872|1|1",
 					[12] = "r|157827|1|1",
 					[18] = "r|157824|1|1",
@@ -4882,569 +5437,14 @@ DataStore_QuestsDB = {
 					[48639] = "0|4|0|0/4 Missioni mondiali dell'Armata della Luce completate",
 					[42422] = "0|4|105|0/4 Missioni mondiali delle Custodi completate",
 					[50605] = "0|4|105|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
-					[50562] = "0|4|1545|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
+					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
 					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
 					[50599] = "0|4|0|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
-					[48642] = "0|4|0|0/4 Missioni mondiali dei Redentori di Argus completate",
+					[50562] = "0|4|1545|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
 					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
 					[50604] = "0|3|2985|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
 					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
 					[42234] = "0|4|2985|0/4 Missioni mondiali qualsiasi a Stromheim completate",
-				},
-			},
-			["Default.Sethraliss.Corsini"] = {
-				["HistoryLastUpdate"] = 1606157608,
-				["QuestLinks"] = {
-					"|cffffff00|Hquest:52027:-1:120:120:0|h[Il piano di Vol'dun]|h|r", -- [1]
-					"|cffffff00|Hquest:51904:-1:110:120:0|h[Scorreria sulle Isole]|h|r", -- [2]
-					"|cff40c040|Hquest:42233:110:110:255:0|h[Le Tribù di Alto Monte]|h|r", -- [3]
-					"|cff40c040|Hquest:42420:110:110:255:0|h[La Corte di Farondis]|h|r", -- [4]
-					"|cff808080|Hquest:8114:60:60:255:0|h[Il controllo delle quattro basi]|h|r", -- [5]
-					"|cff808080|Hquest:8121:60:60:255:0|h[La presa delle quattro basi]|h|r", -- [6]
-					"|cffffff00|Hquest:50599:-1:120:120:0|h[Ammiragliato Marefiero]|h|r", -- [7]
-					"|cffffff00|Hquest:50605:-1:120:120:0|h[Sforzo Bellico: Alleanza]|h|r", -- [8]
-					"|cffffff00|Hquest:51030:-1:120:120:0|h[Provviste necessarie: Cuoio Grezzo]|h|r", -- [9]
-					"|cffffff00|Hquest:52375:-1:120:120:0|h[Provviste necessarie: Pescegatto del Grande Mare]|h|r", -- [10]
-					"|cff40c040|Hquest:42422:110:110:255:0|h[Custodi]|h|r", -- [11]
-					"|cffffff00|Hquest:50600:-1:120:120:0|h[Ordine delle Braci]|h|r", -- [12]
-					"|cffffff00|Hquest:48504:-1:110:120:3|h[Vecchie strade]|h|r", -- [13]
-					"|cff40c040|Hquest:48639:110:110:255:0|h[Armata della Luce]|h|r", -- [14]
-					"|cff40c040|Hquest:48639:110:110:255:0|h[Armata della Luce]|h|r", -- [15]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [16]
-					"|cff40c040|Hquest:48642:110:110:255:0|h[I Redentori di Argus]|h|r", -- [17]
-					"|cffffff00|Hquest:56119:-1:120:120:0|h[Ankoan Lamaonda]|h|r", -- [18]
-					"|cffffff00|Hquest:56119:-1:120:120:0|h[Ankoan Lamaonda]|h|r", -- [19]
-					"|cffffff00|Hquest:56031:-1:120:120:0|h[L'offensiva del lupo]|h|r", -- [20]
-					"|cff40c040|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [21]
-					"|cff40c040|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [22]
-					"|cffffff00|Hquest:54875:-1:120:120:0|h[Minacce rimanenti]|h|r", -- [23]
-					"|cffffff00|Hquest:54876:-1:120:120:0|h[Sfruttare la breccia]|h|r", -- [24]
-					"|cffffff00|Hquest:50562:-1:120:120:0|h[Campioni di Azeroth]|h|r", -- [25]
-					"|cffffff00|Hquest:50562:-1:120:120:0|h[Campioni di Azeroth]|h|r", -- [26]
-					"|cff40c040|Hquest:42234:110:110:255:0|h[I Valarjar]|h|r", -- [27]
-					"|cff40c040|Hquest:42421:110:110:255:0|h[Gli Esuli Oscuri]|h|r", -- [28]
-					"|cff40c040|Hquest:42170:110:110:255:0|h[I Plasmasogni]|h|r", -- [29]
-					"|cffffff00|Hquest:50601:-1:120:120:0|h[Destatempesta]|h|r", -- [30]
-					"|cff808080|Hquest:46277:-1:110:110:0|h[Contribuito alla Torre della Magia]|h|r", -- [31]
-					"|cff808080|Hquest:46735:-1:110:110:0|h[Contributo al Centro di Comando]|h|r", -- [32]
-					"|cff808080|Hquest:46736:-1:110:110:0|h[Contributo al Disgregatore Fatuo]|h|r", -- [33]
-					"|cffffff00|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [34]
-					"|cffffff00|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [35]
-					"|cffffff00|Hquest:55431:120:120:255:0|h[La ricompensa della conquista]|h|r", -- [36]
-					"|cffffff00|Hquest:52784:120:110:255:0|h[Assassinare l'Orda]|h|r", -- [37]
-				},
-				["lastUpdate"] = 1606157836,
-				["HistorySize"] = 680,
-				["QuestTags"] = {
-					nil, -- [1]
-					nil, -- [2]
-					128, -- [3]
-					128, -- [4]
-					41, -- [5]
-					41, -- [6]
-					128, -- [7]
-					128, -- [8]
-					109, -- [9]
-					109, -- [10]
-					128, -- [11]
-					128, -- [12]
-					nil, -- [13]
-					128, -- [14]
-					128, -- [15]
-					128, -- [16]
-					128, -- [17]
-					128, -- [18]
-					128, -- [19]
-					[33] = 143,
-					[25] = 128,
-					[26] = 128,
-					[37] = 255,
-					[28] = 128,
-					[29] = 128,
-					[30] = 128,
-					[31] = 143,
-					[32] = 143,
-					[34] = 128,
-					[36] = 256,
-					[35] = 128,
-					[21] = 128,
-					[22] = 128,
-					[23] = 1,
-					[27] = 128,
-				},
-				["History"] = {
-					[1546] = 8,
-					[1355] = 8192,
-					[1164] = 8,
-					[309] = 67133454,
-					[1101] = 134217728,
-					[1675] = 32792,
-					[373] = 293685073,
-					[1102] = 4327168,
-					[1676] = 4,
-					[872] = 4,
-					[936] = 2528,
-					[1000] = 4194304,
-					[294] = 2147483648,
-					[310] = 553660864,
-					[1105] = 536872448,
-					[374] = 771776513,
-					[390] = 8388608,
-					[1680] = 524288,
-					[1043] = 32768,
-					[938] = 2560,
-					[1002] = 131072,
-					[311] = 32,
-					[1619] = 1572864,
-					[1429] = 2147483648,
-					[1557] = 38912,
-					[1621] = 1073741824,
-					[1001] = 256,
-					[1622] = 2147483648,
-					[1303] = 1073741824,
-					[813] = 2,
-					[934] = 2248147968,
-					[312] = 36996096,
-					[1545] = 2,
-					[1623] = 20480,
-					[1609] = 512,
-					[1162] = 2147483648,
-					[1050] = 31744,
-					[1624] = 2181038081,
-					[1611] = 16777216,
-					[388] = 8192,
-					[1561] = 64,
-					[1625] = 67108866,
-					[372] = 4061270225,
-					[942] = 46137344,
-					[1100] = 256,
-					[1626] = 67117320,
-					[935] = 262208,
-					[1499] = 50331649,
-					[1563] = 524288,
-					[1500] = 31746,
-					[377] = 8,
-					[1245] = 1024,
-					[1096] = 32,
-					[1118] = 8,
-					[1617] = 1036,
-					[1565] = 8192,
-					[1055] = 4160,
-					[1629] = 1,
-					[976] = 1073741824,
-					[1612] = 1966080,
-					[1056] = 2,
-					[1605] = 2162171912,
-					[1495] = 134217728,
-					[362] = 1099432576,
-					[1057] = 8388608,
-					[394] = 131072,
-					[1440] = 4,
-					[378] = 4194304,
-					[1568] = 536871072,
-					[1122] = 4096,
-					[1094] = 537004032,
-					[409] = 16,
-					[1476] = 2097152,
-					[1123] = 536870912,
-					[1061] = 8,
-					[1506] = 3104,
-					[1060] = 536870913,
-					[931] = 4,
-					[979] = 4096,
-					[1507] = 64,
-					[1571] = 8192,
-					[307] = 100668672,
-					[363] = 851148872,
-					[1603] = 1015808,
-					[395] = 1342179328,
-					[1381] = 16777216,
-					[1092] = 8192,
-					[1509] = 134217728,
-					[1063] = 536870928,
-					[1382] = 33554432,
-					[1091] = 268435456,
-					[1703] = 2147483648,
-					[1066] = 58753536,
-					[1383] = 24117248,
-					[1601] = 536872962,
-					[316] = 65536,
-					[412] = 24576,
-					[1639] = 134221824,
-					[364] = 1610614297,
-					[380] = 8192,
-					[396] = 1073872898,
-					[1640] = 16396,
-					[428] = 8,
-					[1515] = 67108864,
-					[1067] = 1025,
-					[317] = 268435842,
-					[402] = 3930422273,
-					[1514] = 40,
-					[1068] = 8192,
-					[1642] = 1,
-					[397] = 906002880,
-					[1770] = 170917888,
-					[1516] = 234881024,
-					[1070] = 67108865,
-					[365] = 2172682241,
-					[1771] = 4096,
-					[1580] = 8,
-					[413] = 48,
-					[1599] = 2147500289,
-					[1517] = 201342928,
-					[1071] = 4,
-					[1581] = 58728448,
-					[1134] = 131072,
-					[1263] = 536870912,
-					[793] = 67108864,
-					[1646] = 16384,
-					[1073] = 4194304,
-					[1519] = 1073741824,
-					[1583] = 6,
-					[1598] = 33554432,
-					[366] = 1497366535,
-					[1520] = 16384,
-					[1074] = 268435456,
-					[398] = 566082692,
-					[1651] = 6,
-					[1141] = 1,
-					[1075] = 3271558273,
-					[1087] = 8658944,
-					[986] = 268435457,
-					[987] = 1227358224,
-					[1076] = 2733899905,
-					[399] = 138215388,
-					[1660] = 256,
-					[401] = 1813774338,
-					[1077] = 1679320304,
-					[1396] = 8388608,
-					[367] = 2531328,
-					[1334] = 2147483648,
-					[1078] = 16384,
-					[1652] = 16,
-					[1461] = 1920,
-					[1525] = 352,
-					[1079] = 69632,
-					[1143] = 8388608,
-					[988] = 146,
-					[796] = 1048576,
-					[1086] = 136970240,
-					[1144] = 65536,
-					[1718] = 1048576,
-					[304] = 16777219,
-					[1081] = 264273929,
-					[1655] = 262144,
-					[925] = 256,
-					[1082] = 16777216,
-					[400] = 400559109,
-					[1653] = 8,
-					[432] = 12,
-					[1083] = 4194688,
-					[926] = 768,
-					[1593] = 536870912,
-					[800] = 64,
-					[1530] = 516096,
-					[1084] = 135266304,
-					[1658] = 131088,
-					[305] = 524292,
-					[1531] = 67108872,
-					[1085] = 7086352,
-					[1659] = 917536,
-					[369] = 6811648,
-					[924] = 65536,
-					[1341] = 4096,
-					[1150] = 536870912,
-					[433] = 2,
-					[896] = 1536,
-					[1597] = 65536,
-					[1151] = 2,
-					[992] = 67108864,
-					[1518] = 16384,
-					[1088] = 234881024,
-					[1016] = 262144,
-					[306] = 4076208128,
-					[322] = 65536,
-					[1089] = 258,
-					[1153] = 131072,
-					[1472] = 201326592,
-					[802] = 2172649473,
-					[1600] = 62915078,
-					[1090] = 1073741824,
-					[1577] = 35733504,
-					[1537] = 603979776,
-					[930] = 4096,
-					[1128] = 32768,
-					[403] = 3222012614,
-					[803] = 2,
-					[1602] = 1024,
-					[1062] = 18513920,
-					[1475] = 2367488,
-					[1539] = 8406020,
-					[1093] = 18312,
-					[1667] = 1048576,
-					[371] = 1996488704,
-					[1540] = 2048,
-					[1604] = 12288,
-					[1668] = 335548416,
-					[1504] = 192512,
-					[1541] = 32768,
-					[1095] = 2048,
-					[1669] = 1610614016,
-					[1485] = 2,
-					[1115] = 32768,
-					[1606] = 2684355136,
-					[1670] = 2214592512,
-					[308] = 3422552065,
-					[1225] = 12288,
-					[1607] = 67111948,
-					[1671] = 2097276,
-					[997] = 960,
-					[1544] = 239075328,
-					[404] = 65760,
-					[420] = 16,
-					[1226] = 1024,
-					[1035] = 292,
-					[1099] = 1024,
-					[1163] = 536870913,
-					[1484] = 3758096385,
-				},
-				["Rewards"] = {
-					[27] = "r|157824|1|1",
-					[33] = "r|152654|1|1",
-					[29] = "r|157822|1|1",
-					[14] = "r|157829|1|1",
-					[28] = "r|157826|1|1",
-					[15] = "r|157829|1|1",
-					[32] = "r|152654|1|1",
-					[16] = "r|157831|1|1",
-					[17] = "r|157831|1|1",
-					[3] = "r|157823|1|1",
-					[36] = "r|171198|2|1",
-					[11] = "r|157827|1|1",
-					[21] = "r|157830|1|1",
-					[22] = "r|157830|1|1",
-					[31] = "r|152654|1|1",
-					[4] = "r|157825|1|1",
-				},
-				["Money"] = {
-					234000, -- [1]
-					23400, -- [2]
-					0, -- [3]
-					0, -- [4]
-					27000, -- [5]
-					85200, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					0, -- [10]
-					0, -- [11]
-					0, -- [12]
-					23400, -- [13]
-					0, -- [14]
-					0, -- [15]
-					0, -- [16]
-					0, -- [17]
-					0, -- [18]
-					0, -- [19]
-					23400, -- [20]
-					0, -- [21]
-					0, -- [22]
-					0, -- [23]
-					0, -- [24]
-					0, -- [25]
-					0, -- [26]
-					0, -- [27]
-					0, -- [28]
-					0, -- [29]
-					0, -- [30]
-					0, -- [31]
-					0, -- [32]
-					0, -- [33]
-					0, -- [34]
-					0, -- [35]
-					0, -- [36]
-					0, -- [37]
-				},
-				["QuestHeaders"] = {
-					"Alto Monte", -- [1]
-					"Azsuna", -- [2]
-					"Bacino d'Arathi", -- [3]
-					"Baia di Tiragarde", -- [4]
-					"Dalaran", -- [5]
-					"Drustvar", -- [6]
-					"Krokuun", -- [7]
-					"Mac'aree", -- [8]
-					"Nazjatar", -- [9]
-					"Riva Dispersa", -- [10]
-					"Rivafosca", -- [11]
-					"Silitus: Ferita del Mondo", -- [12]
-					"Stromheim", -- [13]
-					"Suramar", -- [14]
-					"Val'sharah", -- [15]
-					"Valle dei Sacraonda", -- [16]
-					"Missing header! (quest designers)", -- [17]
-					"Missione Mondiale", -- [18]
-					"PvP classificato", -- [19]
-					"PvP nel mondo di gioco", -- [20]
-				},
-				["HistoryBuild"] = "31478",
-				["Quests"] = {
-					7864384, -- [1]
-					7864384, -- [2]
-					7211112, -- [3]
-					7213160, -- [4]
-					3938369, -- [5]
-					3938369, -- [6]
-					7872616, -- [7]
-					7872616, -- [8]
-					7872612, -- [9]
-					7872612, -- [10]
-					7219304, -- [11]
-					7876712, -- [12]
-					7876672, -- [13]
-					7223400, -- [14]
-					7223400, -- [15]
-					7225448, -- [16]
-					7225448, -- [17]
-					7882856, -- [18]
-					7882856, -- [19]
-					7882816, -- [20]
-					7229544, -- [21]
-					7229544, -- [22]
-					7888128, -- [23]
-					7886912, -- [24]
-					7889000, -- [25]
-					7889000, -- [26]
-					7235688, -- [27]
-					7237736, -- [28]
-					7239784, -- [29]
-					7897192, -- [30]
-					7243872, -- [31]
-					7243872, -- [32]
-					7243872, -- [33]
-					7901288, -- [34]
-					7901288, -- [35]
-					7903328, -- [36]
-					7905344, -- [37]
-				},
-				["Emissaries"] = {
-					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
-					[42420] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Azsuna completate",
-					[42233] = "0|4|0|0/4 Missioni mondiali qualsiasi ad Alto Monte completate",
-					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[48639] = "0|4|1670|0/4 Missioni mondiali dell'Armata della Luce completate",
-					[42422] = "0|4|0|0/4 Missioni mondiali delle Custodi completate",
-					[50605] = "0|4|0|0/4 Completa 4 missioni mondiali, Assalti o Fronti di Guerra a Zandalar",
-					[48642] = "0|4|3110|0/4 Missioni mondiali dei Redentori di Argus completate",
-					[48641] = "0|4|230|0/4 Missioni mondiali completate alla Riva Dispersa",
-					[50599] = "0|4|0|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
-					[50562] = "0|4|1670|0/4 Completa 4 missioni mondiali dell'Azerite per Magni",
-					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
-					[42170] = "0|4|0|0/4 Missioni mondiali qualsiasi a Val'sharah completate",
-					[50601] = "0|4|0|0/4 Completa 4 missioni mondiali della Valle dei Sacraonda",
-					[50604] = "0|3|3110|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
-				},
-			},
-			["Default.Sethraliss.Nanotano"] = {
-				["HistoryLastUpdate"] = 1581169623,
-				["QuestLinks"] = {
-					"|cffff2020|Hquest:50599:-1:120:120:0|h[Ammiragliato Marefiero]|h|r", -- [1]
-					"|cffff2020|Hquest:50600:-1:120:120:0|h[Ordine delle Braci]|h|r", -- [2]
-					"|cffffff00|Hquest:48641:110:110:255:0|h[Armata Spezzalegione]|h|r", -- [3]
-					"|cff808080|Hquest:29547:-1:80:90:0|h[La richiesta di un Re]|h|r", -- [4]
-					"|cffffff00|Hquest:42234:110:110:255:0|h[I Valarjar]|h|r", -- [5]
-					"|cffffff00|Hquest:42421:110:110:255:0|h[Gli Esuli Oscuri]|h|r", -- [6]
-					"|cffffff00|Hquest:46277:-1:110:110:0|h[Contribuito alla Torre della Magia]|h|r", -- [7]
-					"|cffffff00|Hquest:46735:-1:110:110:0|h[Contributo al Centro di Comando]|h|r", -- [8]
-					"|cffffff00|Hquest:46736:-1:110:110:0|h[Contributo al Disgregatore Fatuo]|h|r", -- [9]
-					"|cffff2020|Hquest:50604:-1:120:120:0|h[Cercatori Tortolliani]|h|r", -- [10]
-				},
-				["Money"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					11400, -- [4]
-					0, -- [5]
-					0, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					0, -- [10]
-				},
-				["HistorySize"] = 30,
-				["QuestTags"] = {
-					128, -- [1]
-					128, -- [2]
-					128, -- [3]
-					nil, -- [4]
-					128, -- [5]
-					128, -- [6]
-					143, -- [7]
-					143, -- [8]
-					143, -- [9]
-					128, -- [10]
-				},
-				["History"] = {
-					[1355] = 8192,
-					[1000] = 4194304,
-					[987] = 1227358224,
-					[1164] = 8,
-					[1303] = 1073741824,
-					[986] = 268435457,
-					[1341] = 4096,
-					[997] = 960,
-					[1429] = 2147483648,
-					[1001] = 256,
-					[988] = 146,
-					[979] = 4096,
-					[1035] = 292,
-					[1609] = 1073741824,
-					[1163] = 536870913,
-					[1660] = 256,
-				},
-				["lastUpdate"] = 1581169622,
-				["Rewards"] = {
-					nil, -- [1]
-					nil, -- [2]
-					"r|157830|1|1", -- [3]
-					nil, -- [4]
-					"r|157824|1|1", -- [5]
-					"r|157826|1|1", -- [6]
-					"r|152654|1|1", -- [7]
-					"r|152654|1|1", -- [8]
-					"r|152654|1|1", -- [9]
-				},
-				["HistoryBuild"] = "31478",
-				["QuestHeaders"] = {
-					"Baia di Tiragarde", -- [1]
-					"Drustvar", -- [2]
-					"Riva Dispersa", -- [3]
-					"Roccavento", -- [4]
-					"Stromheim", -- [5]
-					"Suramar", -- [6]
-					"Missing header! (quest designers)", -- [7]
-					"Missione Mondiale", -- [8]
-				},
-				["Quests"] = {
-					7866472, -- [1]
-					7868520, -- [2]
-					7215208, -- [3]
-					5906496, -- [4]
-					7219304, -- [5]
-					7221352, -- [6]
-					7223392, -- [7]
-					7223392, -- [8]
-					7223392, -- [9]
-					7880808, -- [10]
-				},
-				["Emissaries"] = {
-					[42421] = "0|4|0|0/4 Missioni mondiali qualsiasi a Suramar completate",
-					[42234] = "0|4|0|0/4 Missioni mondiali qualsiasi a Stromheim completate",
-					[48641] = "0|4|0|0/4 Missioni mondiali completate alla Riva Dispersa",
-					[50604] = "0|3|1880|0/3 Completa 3 missioni mondiali dei Cercatori Tortolliani",
-					[50600] = "0|4|0|0/4 Completa 4 missioni mondiali di Drustvar",
-					[50599] = "0|4|3320|0/4 Completa 4 missioni mondiali della Baia di Tiragarde",
 				},
 			},
 			["Default.Sethraliss.Grandepùffo"] = {
@@ -5473,17 +5473,17 @@ DataStore_QuestsDB = {
 					[987] = 1227358224,
 					[1164] = 8,
 					[1303] = 1073741824,
-					[997] = 960,
-					[1001] = 256,
 					[1660] = 256,
+					[1001] = 256,
+					[997] = 960,
 					[979] = 4096,
 					[986] = 268435457,
 					[988] = 146,
 					[1355] = 8192,
 					[1035] = 292,
-					[1429] = 2147483648,
-					[1163] = 536870913,
 					[1609] = 1073741824,
+					[1163] = 536870913,
+					[1429] = 2147483648,
 				},
 				["HistoryBuild"] = "28153",
 				["QuestHeaders"] = {

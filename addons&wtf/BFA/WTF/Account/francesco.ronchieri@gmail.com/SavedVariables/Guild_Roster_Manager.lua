@@ -71,10 +71,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -96,7 +92,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -172,6 +172,11 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1621600151,
+				["isMain"] = false,
+				["joinDate"] = {
+					"1 May '21 17:32", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -193,11 +198,6 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"1 May '21 17:32", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"1 May '21 17:32", -- [1]
 					1619827260, -- [2]
@@ -278,10 +278,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -303,7 +299,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -384,10 +384,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -409,7 +405,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -490,10 +490,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -515,7 +511,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -596,10 +596,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -621,219 +617,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["isMain"] = false,
-				["verifiedJoinDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["guildRep"] = 4,
-				["officerNote"] = "",
-				["isOnline"] = false,
-				["removedAlts"] = {
-				},
-				["sex"] = 2,
-			},
-			["Madleine-Sethraliss"] = {
-				["GUID"] = "Player-10-007E2745",
-				["note"] = "off helvera",
-				["customNote"] = {
-					true, -- [1]
-					0, -- [2]
-					"", -- [3]
-					5, -- [4]
-					false, -- [5]
-					"", -- [6]
-				},
-				["zone"] = "Porto di Boralus",
-				["class"] = "PALADIN",
-				["mainStatusChangeTime"] = 0,
-				["bannedInfo"] = {
-					false, -- [1]
-					0, -- [2]
-					false, -- [3]
-					"", -- [4]
-				},
-				["status"] = 0,
-				["level"] = 120,
-				["joinDateUnknown"] = false,
-				["rankHistory"] = {
-					{
-						"", -- [1]
-						"", -- [2]
-						0, -- [3]
-					}, -- [1]
-					{
-						"Alt Pinguino", -- [1]
-						"18 Jun '21", -- [2]
-						1623974460, -- [3]
-					}, -- [2]
-					{
-						"|cFFC41F3BLeft Guild", -- [1]
-						"18 Jun '21", -- [2]
-						1623974460, -- [3]
-					}, -- [3]
-				},
-				["rankName"] = "Alt Pinguino",
-				["recommendToKick"] = false,
-				["birthdayUnknown"] = false,
-				["name"] = "Madleine-Sethraliss",
-				["safeList"] = false,
-				["lastOnline"] = 1502,
-				["isMobile"] = false,
-				["leftGuildDate"] = {
-					"18 Jun '21 20:33", -- [1]
-				},
-				["joinDateEpoch"] = {
-					0, -- [1]
-				},
-				["race"] = "Draenei",
-				["verifiedPromoteDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["alts"] = {
-				},
-				["promoteDateUnknown"] = false,
-				["leftGuildEpoch"] = {
-					1623974460, -- [1]
-				},
-				["reasonBanned"] = "",
-				["isUnknown"] = false,
-				["oldRank"] = "Alt Pinguino",
-				["achievementPoints"] = 0,
-				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"", -- [1]
 				},
-				["events"] = {
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-					}, -- [1]
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-						0, -- [4]
-					}, -- [2]
-				},
 				["isMain"] = false,
-				["verifiedJoinDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["guildRep"] = 4,
-				["officerNote"] = "",
-				["isOnline"] = false,
-				["removedAlts"] = {
-				},
-				["sex"] = 3,
-			},
-			["Oshamanino-Sethraliss"] = {
-				["GUID"] = "Player-10-00639995",
-				["note"] = "off mondom 351",
-				["customNote"] = {
-					true, -- [1]
-					0, -- [2]
-					"", -- [3]
-					5, -- [4]
-					false, -- [5]
-					"", -- [6]
-				},
-				["zone"] = "Porto di Boralus",
-				["class"] = "SHAMAN",
-				["mainStatusChangeTime"] = 0,
-				["bannedInfo"] = {
-					false, -- [1]
-					0, -- [2]
-					false, -- [3]
-					"", -- [4]
-				},
-				["status"] = 0,
-				["level"] = 120,
-				["joinDateUnknown"] = false,
-				["rankHistory"] = {
-					{
-						"", -- [1]
-						"", -- [2]
-						0, -- [3]
-					}, -- [1]
-					{
-						"Alt Pinguino", -- [1]
-						"18 Jun '21", -- [2]
-						1623974460, -- [3]
-					}, -- [2]
-					{
-						"|cFFC41F3BLeft Guild", -- [1]
-						"18 Jun '21", -- [2]
-						1623974460, -- [3]
-					}, -- [3]
-				},
-				["rankName"] = "Alt Pinguino",
-				["recommendToKick"] = false,
-				["birthdayUnknown"] = false,
-				["name"] = "Oshamanino-Sethraliss",
-				["safeList"] = false,
-				["lastOnline"] = 3011,
-				["isMobile"] = false,
-				["leftGuildDate"] = {
-					"18 Jun '21 20:33", -- [1]
-				},
-				["joinDateEpoch"] = {
-					0, -- [1]
-				},
-				["race"] = "DarkIronDwarf",
-				["verifiedPromoteDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["alts"] = {
-				},
-				["promoteDateUnknown"] = false,
-				["leftGuildEpoch"] = {
-					1623974460, -- [1]
-				},
-				["reasonBanned"] = "",
-				["isUnknown"] = false,
-				["oldRank"] = "Alt Pinguino",
-				["achievementPoints"] = 0,
-				["timeEnteredZone"] = 1624034659,
 				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
-				["events"] = {
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-					}, -- [1]
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-						0, -- [4]
-					}, -- [2]
-				},
-				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -914,10 +702,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1622130612,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -939,7 +723,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -951,9 +739,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				},
 				["sex"] = 2,
 			},
-			["Ferlong-Sethraliss"] = {
-				["GUID"] = "Player-10-00641283",
-				["note"] = "off matthewus",
+			["Oshamanino-Sethraliss"] = {
+				["GUID"] = "Player-10-00639995",
+				["note"] = "off mondom 351",
 				["customNote"] = {
 					true, -- [1]
 					0, -- [2]
@@ -963,7 +751,7 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [6]
 				},
 				["zone"] = "Porto di Boralus",
-				["class"] = "MAGE",
+				["class"] = "SHAMAN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
 					false, -- [1]
@@ -994,9 +782,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				["rankName"] = "Alt Pinguino",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
-				["name"] = "Ferlong-Sethraliss",
+				["name"] = "Oshamanino-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1038,
+				["lastOnline"] = 3011,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"18 Jun '21 20:33", -- [1]
@@ -1004,7 +792,7 @@ GRM_PlayersThatLeftHistory_Save = {
 				["joinDateEpoch"] = {
 					0, -- [1]
 				},
-				["race"] = "Human",
+				["race"] = "DarkIronDwarf",
 				["verifiedPromoteDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1020,10 +808,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1045,7 +829,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1056,6 +844,213 @@ GRM_PlayersThatLeftHistory_Save = {
 				["removedAlts"] = {
 				},
 				["sex"] = 2,
+			},
+			["Madleine-Sethraliss"] = {
+				["GUID"] = "Player-10-007E2745",
+				["note"] = "off helvera",
+				["customNote"] = {
+					true, -- [1]
+					0, -- [2]
+					"", -- [3]
+					5, -- [4]
+					false, -- [5]
+					"", -- [6]
+				},
+				["zone"] = "Porto di Boralus",
+				["class"] = "PALADIN",
+				["mainStatusChangeTime"] = 0,
+				["bannedInfo"] = {
+					false, -- [1]
+					0, -- [2]
+					false, -- [3]
+					"", -- [4]
+				},
+				["status"] = 0,
+				["level"] = 120,
+				["joinDateUnknown"] = false,
+				["rankHistory"] = {
+					{
+						"", -- [1]
+						"", -- [2]
+						0, -- [3]
+					}, -- [1]
+					{
+						"Alt Pinguino", -- [1]
+						"18 Jun '21", -- [2]
+						1623974460, -- [3]
+					}, -- [2]
+					{
+						"|cFFC41F3BLeft Guild", -- [1]
+						"18 Jun '21", -- [2]
+						1623974460, -- [3]
+					}, -- [3]
+				},
+				["rankName"] = "Alt Pinguino",
+				["recommendToKick"] = false,
+				["birthdayUnknown"] = false,
+				["name"] = "Madleine-Sethraliss",
+				["safeList"] = false,
+				["lastOnline"] = 1502,
+				["isMobile"] = false,
+				["leftGuildDate"] = {
+					"18 Jun '21 20:33", -- [1]
+				},
+				["joinDateEpoch"] = {
+					0, -- [1]
+				},
+				["race"] = "Draenei",
+				["verifiedPromoteDate"] = {
+					"", -- [1]
+					0, -- [2]
+				},
+				["alts"] = {
+				},
+				["promoteDateUnknown"] = false,
+				["leftGuildEpoch"] = {
+					1623974460, -- [1]
+				},
+				["reasonBanned"] = "",
+				["isUnknown"] = false,
+				["oldRank"] = "Alt Pinguino",
+				["achievementPoints"] = 0,
+				["timeEnteredZone"] = 1624034659,
+				["events"] = {
+					{
+						{
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+					}, -- [1]
+					{
+						{
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+						0, -- [4]
+					}, -- [2]
+				},
+				["joinDate"] = {
+					"", -- [1]
+				},
+				["isMain"] = false,
+				["rankIndex"] = 5,
+				["verifiedJoinDate"] = {
+					"", -- [1]
+					0, -- [2]
+				},
+				["guildRep"] = 4,
+				["officerNote"] = "",
+				["isOnline"] = false,
+				["removedAlts"] = {
+				},
+				["sex"] = 3,
+			},
+			["Dimeko-Sethraliss"] = {
+				["GUID"] = "Player-10-006FB89F",
+				["note"] = "off dimedh",
+				["customNote"] = {
+					true, -- [1]
+					0, -- [2]
+					"", -- [3]
+					5, -- [4]
+					false, -- [5]
+					"", -- [6]
+				},
+				["zone"] = "Porto di Boralus",
+				["class"] = "WARRIOR",
+				["mainStatusChangeTime"] = 0,
+				["bannedInfo"] = {
+					false, -- [1]
+					0, -- [2]
+					false, -- [3]
+					"", -- [4]
+				},
+				["status"] = 0,
+				["level"] = 120,
+				["joinDateUnknown"] = false,
+				["rankHistory"] = {
+					{
+						"Alt Pinguino", -- [1]
+						"20 May '21", -- [2]
+						1621468860, -- [3]
+					}, -- [1]
+					{
+						"|cFFC41F3BLeft Guild", -- [1]
+						"1 Jul '21", -- [2]
+						1625143345, -- [3]
+					}, -- [2]
+				},
+				["rankName"] = "Alt Pinguino",
+				["recommendToKick"] = false,
+				["birthdayUnknown"] = false,
+				["name"] = "Dimeko-Sethraliss",
+				["safeList"] = false,
+				["lastOnline"] = 0,
+				["isMobile"] = false,
+				["leftGuildDate"] = {
+					"1 Jul '21 14:42", -- [1]
+				},
+				["joinDateEpoch"] = {
+					1621468860, -- [1]
+				},
+				["race"] = "VoidElf",
+				["verifiedPromoteDate"] = {
+					"20 May '21 13:16", -- [1]
+					1621468860, -- [2]
+				},
+				["removedAlts"] = {
+				},
+				["promoteDateUnknown"] = false,
+				["leftGuildEpoch"] = {
+					1625143345, -- [1]
+				},
+				["reasonBanned"] = "",
+				["isUnknown"] = false,
+				["oldRank"] = "Alt Pinguino",
+				["sex"] = 3,
+				["isOnline"] = false,
+				["alts"] = {
+				},
+				["officerNote"] = "",
+				["guildRep"] = 4,
+				["verifiedJoinDate"] = {
+					"20 May '21 13:16", -- [1]
+					1621468860, -- [2]
+				},
+				["rankIndex"] = 5,
+				["isMain"] = false,
+				["joinDate"] = {
+					"20 May '21 13:16", -- [1]
+				},
+				["events"] = {
+					{
+						{
+							20, -- [1]
+							5, -- [2]
+							2021, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+					}, -- [1]
+					{
+						{
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+						0, -- [4]
+					}, -- [2]
+				},
+				["timeEnteredZone"] = 1625142255,
+				["achievementPoints"] = 0,
 			},
 			["Stimexx-Sethraliss"] = {
 				["GUID"] = "Player-10-007F3DE7",
@@ -1126,10 +1121,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["timeEnteredZone"] = 1623738975,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"14 Jun '21 10:35", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1151,7 +1142,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"14 Jun '21 10:35", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"14 Jun '21 10:35", -- [1]
 					1623628860, -- [2]
@@ -1240,11 +1235,6 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1266,6 +1256,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"", -- [1]
+				},
+				["isMain"] = false,
 				["timeEnteredZone"] = 1624464823,
 				["achievementPoints"] = 1950,
 			},
@@ -1333,10 +1328,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624985306,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"29 Jun '21", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1358,7 +1349,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"29 Jun '21", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1439,10 +1434,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1464,7 +1455,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1545,10 +1540,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1570,7 +1561,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1582,9 +1577,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				},
 				["sex"] = 2,
 			},
-			["Dimeko-Sethraliss"] = {
-				["GUID"] = "Player-10-006FB89F",
-				["note"] = "off dimedh",
+			["Ferlong-Sethraliss"] = {
+				["GUID"] = "Player-10-00641283",
+				["note"] = "off matthewus",
 				["customNote"] = {
 					true, -- [1]
 					0, -- [2]
@@ -1594,7 +1589,7 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [6]
 				},
 				["zone"] = "Porto di Boralus",
-				["class"] = "WARRIOR",
+				["class"] = "MAGE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
 					false, -- [1]
@@ -1607,60 +1602,56 @@ GRM_PlayersThatLeftHistory_Save = {
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
-						"Alt Pinguino", -- [1]
-						"20 May '21", -- [2]
-						1621468860, -- [3]
+						"", -- [1]
+						"", -- [2]
+						0, -- [3]
 					}, -- [1]
 					{
-						"|cFFC41F3BLeft Guild", -- [1]
-						"1 Jul '21", -- [2]
-						1625143345, -- [3]
+						"Alt Pinguino", -- [1]
+						"18 Jun '21", -- [2]
+						1623974460, -- [3]
 					}, -- [2]
+					{
+						"|cFFC41F3BLeft Guild", -- [1]
+						"18 Jun '21", -- [2]
+						1623974460, -- [3]
+					}, -- [3]
 				},
 				["rankName"] = "Alt Pinguino",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
-				["name"] = "Dimeko-Sethraliss",
+				["name"] = "Ferlong-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 1038,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
-					"1 Jul '21 14:42", -- [1]
+					"18 Jun '21 20:33", -- [1]
 				},
 				["joinDateEpoch"] = {
-					1621468860, -- [1]
+					0, -- [1]
 				},
-				["race"] = "VoidElf",
+				["race"] = "Human",
 				["verifiedPromoteDate"] = {
-					"20 May '21 13:16", -- [1]
-					1621468860, -- [2]
+					"", -- [1]
+					0, -- [2]
 				},
-				["removedAlts"] = {
+				["alts"] = {
 				},
 				["promoteDateUnknown"] = false,
 				["leftGuildEpoch"] = {
-					1625143345, -- [1]
+					1623974460, -- [1]
 				},
 				["reasonBanned"] = "",
 				["isUnknown"] = false,
 				["oldRank"] = "Alt Pinguino",
-				["sex"] = 3,
-				["isOnline"] = false,
-				["alts"] = {
-				},
-				["officerNote"] = "",
-				["guildRep"] = 4,
-				["verifiedJoinDate"] = {
-					"20 May '21 13:16", -- [1]
-					1621468860, -- [2]
-				},
-				["isMain"] = false,
+				["achievementPoints"] = 0,
+				["timeEnteredZone"] = 1624034659,
 				["events"] = {
 					{
 						{
-							20, -- [1]
-							5, -- [2]
-							2021, -- [3]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
 						}, -- [1]
 						false, -- [2]
 						"", -- [3]
@@ -1677,11 +1668,20 @@ GRM_PlayersThatLeftHistory_Save = {
 					}, -- [2]
 				},
 				["joinDate"] = {
-					"20 May '21 13:16", -- [1]
+					"", -- [1]
 				},
+				["isMain"] = false,
 				["rankIndex"] = 5,
-				["timeEnteredZone"] = 1625142255,
-				["achievementPoints"] = 0,
+				["verifiedJoinDate"] = {
+					"", -- [1]
+					0, -- [2]
+				},
+				["guildRep"] = 4,
+				["officerNote"] = "",
+				["isOnline"] = false,
+				["removedAlts"] = {
+				},
+				["sex"] = 2,
 			},
 			["Evélynn-Sethraliss"] = {
 				["GUID"] = "Player-10-007B2054",
@@ -1752,10 +1752,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1777,7 +1773,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1858,10 +1858,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -1883,7 +1879,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -1895,9 +1895,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				["isOnline"] = false,
 				["sex"] = 3,
 			},
-			["Breakage-Sethraliss"] = {
-				["GUID"] = "Player-10-004E74E2",
-				["note"] = "main",
+			["Tachimage-Sethraliss"] = {
+				["GUID"] = "Player-10-0068F97C",
+				["note"] = "off tachicardica",
 				["customNote"] = {
 					true, -- [1]
 					0, -- [2]
@@ -1906,8 +1906,8 @@ GRM_PlayersThatLeftHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
-				["class"] = "ROGUE",
+				["zone"] = "Roccavento",
+				["class"] = "MAGE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
 					false, -- [1]
@@ -1916,73 +1916,60 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["level"] = 120,
+				["timeEnteredZone"] = 1623946846,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
-						"Pingu", -- [1]
-						"5 May '21", -- [2]
-						1620172860, -- [3]
+						"", -- [1]
+						"", -- [2]
+						0, -- [3]
 					}, -- [1]
 					{
-						"Pingu", -- [1]
-						"5 May '21", -- [2]
-						1620172860, -- [3]
+						"Alt Pinguino", -- [1]
+						"17 Jun '21", -- [2]
+						1623888060, -- [3]
 					}, -- [2]
 					{
 						"|cFFC41F3BLeft Guild", -- [1]
-						"11 Jun '21", -- [2]
-						1623401748, -- [3]
+						"17 Jun '21", -- [2]
+						1623888060, -- [3]
 					}, -- [3]
 				},
-				["rankName"] = "Pingu",
+				["rankName"] = "Alt Pinguino",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
-				["name"] = "Breakage-Sethraliss",
+				["name"] = "Tachimage-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 1114,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
-					"11 Jun '21 10:55", -- [1]
+					"17 Jun '21 22:44", -- [1]
 				},
 				["joinDateEpoch"] = {
-					1620172860, -- [1]
+					0, -- [1]
 				},
-				["race"] = "Human",
+				["race"] = "VoidElf",
 				["verifiedPromoteDate"] = {
-					"5 May '21 21:30", -- [1]
-					1620172860, -- [2]
+					"", -- [1]
+					0, -- [2]
 				},
-				["alts"] = {
+				["removedAlts"] = {
 				},
 				["promoteDateUnknown"] = false,
 				["leftGuildEpoch"] = {
-					1623401748, -- [1]
+					1623888060, -- [1]
 				},
 				["reasonBanned"] = "",
 				["isUnknown"] = false,
-				["oldRank"] = "Pingu",
-				["sex"] = 3,
-				["removedAlts"] = {
-				},
-				["isOnline"] = false,
-				["officerNote"] = "",
-				["guildRep"] = 4,
-				["verifiedJoinDate"] = {
-					"5 May '21 21:30", -- [1]
-					1620172860, -- [2]
-				},
-				["rankIndex"] = 4,
-				["isMain"] = false,
-				["joinDate"] = {
-					"5 May '21 21:30", -- [1]
-				},
+				["oldRank"] = "Alt Pinguino",
+				["level"] = 120,
+				["achievementPoints"] = 0,
 				["events"] = {
 					{
 						{
-							5, -- [1]
-							5, -- [2]
-							2021, -- [3]
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
 						}, -- [1]
 						false, -- [2]
 						"", -- [3]
@@ -1998,8 +1985,21 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["timeEnteredZone"] = 1623237971,
-				["achievementPoints"] = 0,
+				["joinDate"] = {
+					"", -- [1]
+				},
+				["isMain"] = false,
+				["rankIndex"] = 5,
+				["verifiedJoinDate"] = {
+					"", -- [1]
+					0, -- [2]
+				},
+				["guildRep"] = 4,
+				["officerNote"] = "",
+				["alts"] = {
+				},
+				["isOnline"] = false,
+				["sex"] = 3,
 			},
 			["Ilmonk-Sethraliss"] = {
 				["GUID"] = "Player-10-007050E4",
@@ -2070,10 +2070,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2095,7 +2091,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -2176,10 +2176,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2201,7 +2197,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -2282,10 +2282,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2307,7 +2303,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -2388,10 +2388,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2413,7 +2409,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -2424,6 +2424,112 @@ GRM_PlayersThatLeftHistory_Save = {
 				["removedAlts"] = {
 				},
 				["sex"] = 2,
+			},
+			["Breakage-Sethraliss"] = {
+				["GUID"] = "Player-10-004E74E2",
+				["note"] = "main",
+				["customNote"] = {
+					true, -- [1]
+					0, -- [2]
+					"", -- [3]
+					5, -- [4]
+					false, -- [5]
+					"", -- [6]
+				},
+				["zone"] = "Porto di Boralus",
+				["class"] = "ROGUE",
+				["mainStatusChangeTime"] = 0,
+				["bannedInfo"] = {
+					false, -- [1]
+					0, -- [2]
+					false, -- [3]
+					"", -- [4]
+				},
+				["status"] = 0,
+				["level"] = 120,
+				["joinDateUnknown"] = false,
+				["rankHistory"] = {
+					{
+						"Pingu", -- [1]
+						"5 May '21", -- [2]
+						1620172860, -- [3]
+					}, -- [1]
+					{
+						"Pingu", -- [1]
+						"5 May '21", -- [2]
+						1620172860, -- [3]
+					}, -- [2]
+					{
+						"|cFFC41F3BLeft Guild", -- [1]
+						"11 Jun '21", -- [2]
+						1623401748, -- [3]
+					}, -- [3]
+				},
+				["rankName"] = "Pingu",
+				["recommendToKick"] = false,
+				["birthdayUnknown"] = false,
+				["name"] = "Breakage-Sethraliss",
+				["safeList"] = false,
+				["lastOnline"] = 0,
+				["isMobile"] = false,
+				["leftGuildDate"] = {
+					"11 Jun '21 10:55", -- [1]
+				},
+				["joinDateEpoch"] = {
+					1620172860, -- [1]
+				},
+				["race"] = "Human",
+				["verifiedPromoteDate"] = {
+					"5 May '21 21:30", -- [1]
+					1620172860, -- [2]
+				},
+				["alts"] = {
+				},
+				["promoteDateUnknown"] = false,
+				["leftGuildEpoch"] = {
+					1623401748, -- [1]
+				},
+				["reasonBanned"] = "",
+				["isUnknown"] = false,
+				["oldRank"] = "Pingu",
+				["sex"] = 3,
+				["removedAlts"] = {
+				},
+				["isOnline"] = false,
+				["officerNote"] = "",
+				["guildRep"] = 4,
+				["verifiedJoinDate"] = {
+					"5 May '21 21:30", -- [1]
+					1620172860, -- [2]
+				},
+				["events"] = {
+					{
+						{
+							5, -- [1]
+							5, -- [2]
+							2021, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+					}, -- [1]
+					{
+						{
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+						0, -- [4]
+					}, -- [2]
+				},
+				["rankIndex"] = 4,
+				["joinDate"] = {
+					"5 May '21 21:30", -- [1]
+				},
+				["isMain"] = false,
+				["timeEnteredZone"] = 1623237971,
+				["achievementPoints"] = 0,
 			},
 			["Lamadrina-Sethraliss"] = {
 				["GUID"] = "Player-10-007E1CDC",
@@ -2494,10 +2600,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2519,122 +2621,20 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["isMain"] = false,
-				["verifiedJoinDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["guildRep"] = 4,
-				["officerNote"] = "",
-				["isOnline"] = false,
-				["removedAlts"] = {
-				},
-				["sex"] = 3,
-			},
-			["Tachimage-Sethraliss"] = {
-				["GUID"] = "Player-10-0068F97C",
-				["note"] = "off tachicardica",
-				["customNote"] = {
-					true, -- [1]
-					0, -- [2]
-					"", -- [3]
-					5, -- [4]
-					false, -- [5]
-					"", -- [6]
-				},
-				["zone"] = "Roccavento",
-				["class"] = "MAGE",
-				["mainStatusChangeTime"] = 0,
-				["bannedInfo"] = {
-					false, -- [1]
-					0, -- [2]
-					false, -- [3]
-					"", -- [4]
-				},
-				["status"] = 0,
-				["timeEnteredZone"] = 1623946846,
-				["joinDateUnknown"] = false,
-				["rankHistory"] = {
-					{
-						"", -- [1]
-						"", -- [2]
-						0, -- [3]
-					}, -- [1]
-					{
-						"Alt Pinguino", -- [1]
-						"17 Jun '21", -- [2]
-						1623888060, -- [3]
-					}, -- [2]
-					{
-						"|cFFC41F3BLeft Guild", -- [1]
-						"17 Jun '21", -- [2]
-						1623888060, -- [3]
-					}, -- [3]
-				},
-				["rankName"] = "Alt Pinguino",
-				["recommendToKick"] = false,
-				["birthdayUnknown"] = false,
-				["name"] = "Tachimage-Sethraliss",
-				["safeList"] = false,
-				["lastOnline"] = 1114,
-				["isMobile"] = false,
-				["leftGuildDate"] = {
-					"17 Jun '21 22:44", -- [1]
-				},
-				["joinDateEpoch"] = {
-					0, -- [1]
-				},
-				["race"] = "VoidElf",
-				["verifiedPromoteDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["removedAlts"] = {
-				},
-				["promoteDateUnknown"] = false,
-				["leftGuildEpoch"] = {
-					1623888060, -- [1]
-				},
-				["reasonBanned"] = "",
-				["isUnknown"] = false,
-				["oldRank"] = "Alt Pinguino",
-				["level"] = 120,
-				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"", -- [1]
 				},
-				["events"] = {
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-					}, -- [1]
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-						0, -- [4]
-					}, -- [2]
-				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
 				["guildRep"] = 4,
 				["officerNote"] = "",
-				["alts"] = {
-				},
 				["isOnline"] = false,
+				["removedAlts"] = {
+				},
 				["sex"] = 3,
 			},
 			["Cornettone-Sethraliss"] = {
@@ -2706,10 +2706,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2731,7 +2727,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -2813,10 +2813,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2838,7 +2834,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -2919,10 +2919,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -2944,7 +2940,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3025,10 +3025,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1622561301,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3050,7 +3046,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3131,10 +3131,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3156,7 +3152,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3237,10 +3237,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3262,7 +3258,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3343,10 +3343,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3368,7 +3364,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3449,10 +3449,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3474,7 +3470,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3555,10 +3555,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3580,7 +3576,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3661,10 +3661,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1621168245,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3686,7 +3682,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3768,10 +3768,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3793,7 +3789,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3874,10 +3874,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -3899,7 +3895,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -3980,11 +3980,10 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Megapinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 2,
 				["joinDate"] = {
 					"20 May '21 13:16", -- [1]
 				},
-				["rankIndex"] = 2,
 				["events"] = {
 					{
 						{
@@ -4006,6 +4005,7 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"20 May '21 13:16", -- [1]
 					1621468860, -- [2]
@@ -4086,10 +4086,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1622495275,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4111,7 +4107,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4123,9 +4123,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				},
 				["sex"] = 3,
 			},
-			["Drakharis-Sethraliss"] = {
-				["GUID"] = "Player-10-0078796F",
-				["note"] = "off draherion",
+			["Kittèdeath-Sethraliss"] = {
+				["GUID"] = "Player-10-0079AF9C",
+				["note"] = "off restinpeace",
 				["customNote"] = {
 					true, -- [1]
 					0, -- [2]
@@ -4135,7 +4135,7 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [6]
 				},
 				["zone"] = "Valle dei Sacraonda",
-				["class"] = "DEMONHUNTER",
+				["class"] = "WARLOCK",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
 					false, -- [1]
@@ -4144,7 +4144,7 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["level"] = 120,
+				["level"] = 112,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -4166,9 +4166,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				["rankName"] = "Alt Pinguino",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
-				["name"] = "Drakharis-Sethraliss",
+				["name"] = "Kittèdeath-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3463,
+				["lastOnline"] = 2688,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"18 Jun '21 20:33", -- [1]
@@ -4176,7 +4176,7 @@ GRM_PlayersThatLeftHistory_Save = {
 				["joinDateEpoch"] = {
 					0, -- [1]
 				},
-				["race"] = "NightElf",
+				["race"] = "VoidElf",
 				["verifiedPromoteDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4192,10 +4192,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4217,7 +4213,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4298,10 +4298,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4323,7 +4319,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4335,9 +4335,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				},
 				["sex"] = 3,
 			},
-			["Kittèdeath-Sethraliss"] = {
-				["GUID"] = "Player-10-0079AF9C",
-				["note"] = "off restinpeace",
+			["Drakharis-Sethraliss"] = {
+				["GUID"] = "Player-10-0078796F",
+				["note"] = "off draherion",
 				["customNote"] = {
 					true, -- [1]
 					0, -- [2]
@@ -4347,7 +4347,7 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [6]
 				},
 				["zone"] = "Valle dei Sacraonda",
-				["class"] = "WARLOCK",
+				["class"] = "DEMONHUNTER",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
 					false, -- [1]
@@ -4356,7 +4356,7 @@ GRM_PlayersThatLeftHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["level"] = 112,
+				["level"] = 120,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -4378,9 +4378,9 @@ GRM_PlayersThatLeftHistory_Save = {
 				["rankName"] = "Alt Pinguino",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
-				["name"] = "Kittèdeath-Sethraliss",
+				["name"] = "Drakharis-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2688,
+				["lastOnline"] = 3463,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"18 Jun '21 20:33", -- [1]
@@ -4388,7 +4388,7 @@ GRM_PlayersThatLeftHistory_Save = {
 				["joinDateEpoch"] = {
 					0, -- [1]
 				},
-				["race"] = "VoidElf",
+				["race"] = "NightElf",
 				["verifiedPromoteDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4404,10 +4404,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4429,7 +4425,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4510,10 +4510,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4535,7 +4531,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4616,10 +4616,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4641,7 +4637,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4722,10 +4722,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4747,7 +4743,117 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
+				["verifiedJoinDate"] = {
+					"", -- [1]
+					0, -- [2]
+				},
+				["guildRep"] = 4,
+				["officerNote"] = "",
+				["isOnline"] = false,
+				["removedAlts"] = {
+				},
+				["sex"] = 2,
+			},
+			["Dyspo-Sethraliss"] = {
+				["GUID"] = "Player-10-001F164E",
+				["note"] = "off vinegar",
+				["customNote"] = {
+					true, -- [1]
+					0, -- [2]
+					"", -- [3]
+					5, -- [4]
+					false, -- [5]
+					"", -- [6]
+				},
+				["zone"] = "Porto di Boralus",
+				["class"] = "DRUID",
+				["mainStatusChangeTime"] = 0,
+				["bannedInfo"] = {
+					false, -- [1]
+					0, -- [2]
+					false, -- [3]
+					"", -- [4]
+				},
+				["status"] = 0,
+				["level"] = 120,
+				["joinDateUnknown"] = false,
+				["rankHistory"] = {
+					{
+						"", -- [1]
+						"", -- [2]
+						0, -- [3]
+					}, -- [1]
+					{
+						"Alt Pinguino", -- [1]
+						"18 Jun '21", -- [2]
+						1623974460, -- [3]
+					}, -- [2]
+					{
+						"|cFFC41F3BLeft Guild", -- [1]
+						"18 Jun '21", -- [2]
+						1623974460, -- [3]
+					}, -- [3]
+				},
+				["rankName"] = "Alt Pinguino",
+				["recommendToKick"] = false,
+				["birthdayUnknown"] = false,
+				["name"] = "Dyspo-Sethraliss",
+				["safeList"] = false,
+				["lastOnline"] = 2148,
+				["isMobile"] = false,
+				["leftGuildDate"] = {
+					"18 Jun '21 20:33", -- [1]
+				},
+				["joinDateEpoch"] = {
+					0, -- [1]
+				},
+				["race"] = "Worgen",
+				["verifiedPromoteDate"] = {
+					"", -- [1]
+					0, -- [2]
+				},
+				["alts"] = {
+				},
+				["promoteDateUnknown"] = false,
+				["leftGuildEpoch"] = {
+					1623974460, -- [1]
+				},
+				["reasonBanned"] = "",
+				["isUnknown"] = false,
+				["oldRank"] = "Alt Pinguino",
+				["achievementPoints"] = 0,
+				["timeEnteredZone"] = 1624034659,
+				["events"] = {
+					{
+						{
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+					}, -- [1]
+					{
+						{
+							0, -- [1]
+							0, -- [2]
+							0, -- [3]
+						}, -- [1]
+						false, -- [2]
+						"", -- [3]
+						0, -- [4]
+					}, -- [2]
+				},
+				["joinDate"] = {
+					"", -- [1]
+				},
+				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -4828,10 +4934,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -4853,122 +4955,20 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["isMain"] = false,
-				["verifiedJoinDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["guildRep"] = 4,
-				["officerNote"] = "",
-				["alts"] = {
-				},
-				["isOnline"] = false,
-				["sex"] = 2,
-			},
-			["Dyspo-Sethraliss"] = {
-				["GUID"] = "Player-10-001F164E",
-				["note"] = "off vinegar",
-				["customNote"] = {
-					true, -- [1]
-					0, -- [2]
-					"", -- [3]
-					5, -- [4]
-					false, -- [5]
-					"", -- [6]
-				},
-				["zone"] = "Porto di Boralus",
-				["class"] = "DRUID",
-				["mainStatusChangeTime"] = 0,
-				["bannedInfo"] = {
-					false, -- [1]
-					0, -- [2]
-					false, -- [3]
-					"", -- [4]
-				},
-				["status"] = 0,
-				["level"] = 120,
-				["joinDateUnknown"] = false,
-				["rankHistory"] = {
-					{
-						"", -- [1]
-						"", -- [2]
-						0, -- [3]
-					}, -- [1]
-					{
-						"Alt Pinguino", -- [1]
-						"18 Jun '21", -- [2]
-						1623974460, -- [3]
-					}, -- [2]
-					{
-						"|cFFC41F3BLeft Guild", -- [1]
-						"18 Jun '21", -- [2]
-						1623974460, -- [3]
-					}, -- [3]
-				},
-				["rankName"] = "Alt Pinguino",
-				["recommendToKick"] = false,
-				["birthdayUnknown"] = false,
-				["name"] = "Dyspo-Sethraliss",
-				["safeList"] = false,
-				["lastOnline"] = 2148,
-				["isMobile"] = false,
-				["leftGuildDate"] = {
-					"18 Jun '21 20:33", -- [1]
-				},
-				["joinDateEpoch"] = {
-					0, -- [1]
-				},
-				["race"] = "Worgen",
-				["verifiedPromoteDate"] = {
-					"", -- [1]
-					0, -- [2]
-				},
-				["alts"] = {
-				},
-				["promoteDateUnknown"] = false,
-				["leftGuildEpoch"] = {
-					1623974460, -- [1]
-				},
-				["reasonBanned"] = "",
-				["isUnknown"] = false,
-				["oldRank"] = "Alt Pinguino",
-				["achievementPoints"] = 0,
-				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"", -- [1]
 				},
-				["events"] = {
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-					}, -- [1]
-					{
-						{
-							0, -- [1]
-							0, -- [2]
-							0, -- [3]
-						}, -- [1]
-						false, -- [2]
-						"", -- [3]
-						0, -- [4]
-					}, -- [2]
-				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
 				["guildRep"] = 4,
 				["officerNote"] = "",
-				["isOnline"] = false,
-				["removedAlts"] = {
+				["alts"] = {
 				},
+				["isOnline"] = false,
 				["sex"] = 2,
 			},
 			["Msolid-Sethraliss"] = {
@@ -5040,10 +5040,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5065,7 +5061,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5146,10 +5146,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5171,7 +5167,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5255,7 +5255,11 @@ GRM_PlayersThatLeftHistory_Save = {
 					"30 Apr '21 12:30", -- [1]
 					1619740860, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+					"30 Apr '21 12:30", -- [1]
+				},
 				["events"] = {
 					{
 						{
@@ -5277,10 +5281,6 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"30 Apr '21 12:30", -- [1]
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 91,
 			},
@@ -5353,10 +5353,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5378,7 +5374,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5459,10 +5459,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5484,7 +5480,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5565,10 +5565,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1620234317,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5590,7 +5586,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5666,6 +5666,11 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
+				["isMain"] = false,
+				["joinDate"] = {
+					"10 May '21 22:36", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -5687,11 +5692,6 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"10 May '21 22:36", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"10 May '21 22:36", -- [1]
 					1620604860, -- [2]
@@ -5772,10 +5772,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5797,7 +5793,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5878,10 +5878,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Pingu",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1623499562,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -5903,7 +5899,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -5984,10 +5984,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -6009,7 +6005,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -6090,10 +6090,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Megapinguino",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 2,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -6115,7 +6111,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 2,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -6196,10 +6196,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -6221,7 +6217,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -6302,10 +6302,6 @@ GRM_PlayersThatLeftHistory_Save = {
 				["oldRank"] = "Alt Pinguino",
 				["achievementPoints"] = 0,
 				["timeEnteredZone"] = 1624034659,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -6327,7 +6323,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -6411,11 +6411,6 @@ GRM_PlayersThatLeftHistory_Save = {
 					"27 Apr '21 23:25", -- [1]
 					1619481660, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"27 Apr '21 23:25", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -6437,6 +6432,11 @@ GRM_PlayersThatLeftHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"27 Apr '21 23:25", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -6469,7 +6469,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -6483,7 +6483,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tiaprodicure-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1543,
+				["lastOnline"] = 1565,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -6505,11 +6505,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["joinDate"] = {
 					"29 Apr '21 00:01", -- [1]
 				},
-				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -6531,6 +6530,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"29 Apr '21 00:01", -- [1]
 					1619654460, -- [2]
@@ -6563,7 +6563,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -6577,7 +6577,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yehudiel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4247,
+				["lastOnline"] = 4270,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -6606,7 +6606,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -6628,9 +6631,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -6655,7 +6655,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -6669,7 +6669,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Elizabethya-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9,
+				["lastOnline"] = 19,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -6698,7 +6698,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -6720,9 +6723,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -6747,7 +6747,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -6766,7 +6766,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tweekay-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 101,
+				["lastOnline"] = 124,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -6788,10 +6788,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"16 Jun '21 17:32", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -6813,7 +6809,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"16 Jun '21 17:32", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"16 Jun '21 17:32", -- [1]
 					1623801660, -- [2]
@@ -6836,7 +6836,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Uldum",
+				["zone"] = "Vol'dun",
 				["class"] = "PRIEST",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -6865,7 +6865,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Seyw-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 18,
+				["lastOnline"] = 7,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -6886,12 +6886,16 @@ GRM_GuildMemberHistory_Save = {
 				["isUnknown"] = false,
 				["oldRank"] = "",
 				["sex"] = 2,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["removedAlts"] = {
 				},
 				["officerNote"] = "amico shaxyr",
 				["guildRep"] = 4,
 				["isMain"] = false,
+				["verifiedJoinDate"] = {
+					"2 Jun '21 21:54", -- [1]
+					1622592060, -- [2]
+				},
 				["events"] = {
 					{
 						{
@@ -6913,14 +6917,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"2 Jun '21 21:54", -- [1]
 				},
-				["verifiedJoinDate"] = {
-					"2 Jun '21 21:54", -- [1]
-					1622592060, -- [2]
-				},
+				["rankIndex"] = 4,
 				["isOnline"] = false,
 				["achievementPoints"] = 0,
 			},
@@ -6945,7 +6945,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -6959,7 +6959,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Scontroso-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4405,
+				["lastOnline"] = 4428,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -6988,7 +6988,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7010,9 +7013,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7037,7 +7037,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7051,7 +7051,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Keepl-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2257,
+				["lastOnline"] = 2280,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7080,7 +7080,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7102,9 +7105,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7129,7 +7129,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7143,7 +7143,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zeramos-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 336,
+				["lastOnline"] = 358,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7172,7 +7172,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7194,9 +7197,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7221,7 +7221,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7235,7 +7235,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Waedrel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 193,
+				["lastOnline"] = 216,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7264,7 +7264,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7286,9 +7289,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7313,7 +7313,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7327,7 +7327,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Darthdat-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 198,
+				["lastOnline"] = 221,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7356,7 +7356,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7378,9 +7381,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7405,7 +7405,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7419,7 +7419,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Addolorata-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5185,
+				["lastOnline"] = 5207,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7448,7 +7448,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7470,9 +7473,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7497,7 +7497,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7511,7 +7511,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Chulest-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3395,
+				["lastOnline"] = 3418,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7540,7 +7540,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7562,9 +7565,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 41,
 			},
@@ -7589,7 +7589,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7603,7 +7603,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vinniy-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 163,
+				["lastOnline"] = 186,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7632,7 +7632,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7654,9 +7657,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7681,7 +7681,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7700,7 +7700,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Diofaii-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 773,
+				["lastOnline"] = 796,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7730,6 +7730,7 @@ GRM_GuildMemberHistory_Save = {
 					"9 May '21 22:13", -- [1]
 					1620518460, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -7751,11 +7752,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"9 May '21 22:13", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7780,7 +7780,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7799,7 +7799,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Orkamadonna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 268,
+				["lastOnline"] = 291,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7829,6 +7829,7 @@ GRM_GuildMemberHistory_Save = {
 					"20 Jun '21 00:01", -- [1]
 					1624147260, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -7850,11 +7851,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"20 Jun '21 00:01", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 110,
 			},
@@ -7879,7 +7879,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7893,7 +7893,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Scassacaiser-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 23,
+				["lastOnline"] = 45,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -7922,7 +7922,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -7944,9 +7947,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -7971,7 +7971,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -7985,7 +7985,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fharhenhait-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2380,
+				["lastOnline"] = 2403,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8014,7 +8014,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8036,9 +8039,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8063,7 +8063,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8077,7 +8077,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sumphiè-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4320,
+				["lastOnline"] = 4343,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8106,7 +8106,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8128,9 +8131,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8145,7 +8145,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Forra dei Cantaguerra",
 				["class"] = "ROGUE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -8155,7 +8155,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162043,
+				["timeEnteredZone"] = 1625242769,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8197,17 +8197,12 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 3,
 				["removedAlts"] = {
 				},
-				["isOnline"] = false,
+				["isOnline"] = true,
 				["officerNote"] = "amico di utcher :3",
-				["guildRep"] = 4,
+				["guildRep"] = 8,
 				["verifiedJoinDate"] = {
 					"13 May '21 10:14", -- [1]
 					1620864060, -- [2]
-				},
-				["rankIndex"] = 4,
-				["isMain"] = false,
-				["joinDate"] = {
-					"13 May '21 10:14", -- [1]
 				},
 				["events"] = {
 					{
@@ -8230,7 +8225,12 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["achievementPoints"] = 0,
+				["rankIndex"] = 4,
+				["joinDate"] = {
+					"13 May '21 10:14", -- [1]
+				},
+				["isMain"] = false,
+				["achievementPoints"] = 6010,
 				["level"] = 120,
 			},
 			["Kerendrhas-Sethraliss"] = {
@@ -8254,7 +8254,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8268,7 +8268,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kerendrhas-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4908,
+				["lastOnline"] = 4930,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8297,7 +8297,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8319,9 +8322,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8346,7 +8346,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8360,7 +8360,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Slamarr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7824,
+				["lastOnline"] = 7847,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8389,7 +8389,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8411,9 +8414,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8438,7 +8438,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8452,7 +8452,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bulkyaf-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8481,7 +8481,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8503,9 +8506,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8530,7 +8530,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8549,7 +8549,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Khyor-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 95,
+				["lastOnline"] = 117,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8571,11 +8571,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 103,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"30 May '21 11:33", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -8597,6 +8596,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"30 May '21 11:33", -- [1]
 					1622332860, -- [2]
@@ -8629,7 +8629,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8643,7 +8643,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bàrbablu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1793,
+				["lastOnline"] = 1815,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8672,7 +8672,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8694,9 +8697,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8721,7 +8721,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8735,7 +8735,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sunsone-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1376,
+				["lastOnline"] = 1398,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8764,7 +8764,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8786,9 +8789,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8813,7 +8813,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8832,7 +8832,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sgnaccherona-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 22,
+				["lastOnline"] = 21,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8862,11 +8862,6 @@ GRM_GuildMemberHistory_Save = {
 					"8 May '21 20:18", -- [1]
 					1620432060, -- [2]
 				},
-				["rankIndex"] = 4,
-				["isMain"] = false,
-				["joinDate"] = {
-					"8 May '21 20:18", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -8888,6 +8883,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 4,
+				["joinDate"] = {
+					"8 May '21 20:18", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -8912,7 +8912,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -8926,7 +8926,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shimdra-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4110,
+				["lastOnline"] = 4133,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -8955,7 +8955,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -8977,9 +8980,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9004,7 +9004,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9018,7 +9018,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Soulgyrl-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1354,
+				["lastOnline"] = 1376,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9047,7 +9047,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9069,9 +9072,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9096,7 +9096,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9110,7 +9110,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Paciccio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1701,
+				["lastOnline"] = 1723,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9139,7 +9139,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9161,9 +9164,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9188,7 +9188,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162600,
+				["timeEnteredZone"] = 1625242929,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9247,7 +9247,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9269,9 +9272,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 3905,
 				["level"] = 120,
 			},
@@ -9296,7 +9296,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9310,7 +9310,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Aphraw-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 93,
+				["lastOnline"] = 116,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9340,6 +9340,7 @@ GRM_GuildMemberHistory_Save = {
 					"21 Jun '21 11:17", -- [1]
 					1624233660, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -9361,11 +9362,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"21 Jun '21 11:17", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 107,
 			},
@@ -9390,7 +9390,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9404,7 +9404,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gangki-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2479,
+				["lastOnline"] = 2502,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9433,7 +9433,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9455,9 +9458,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9472,7 +9472,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Valle dei Sacraonda",
+				["zone"] = "Roccavento",
 				["class"] = "DRUID",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -9482,7 +9482,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9501,7 +9501,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Malarkeyz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 119,
+				["lastOnline"] = 18,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9531,6 +9531,7 @@ GRM_GuildMemberHistory_Save = {
 					"12 Jun '21 14:43", -- [1]
 					1623456060, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -9552,13 +9553,12 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"12 Jun '21 14:43", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
-				["level"] = 117,
+				["level"] = 120,
 			},
 			["Shielis-Sethraliss"] = {
 				["GUID"] = "Player-10-006A5C37",
@@ -9581,7 +9581,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9595,7 +9595,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shielis-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 907,
+				["lastOnline"] = 929,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9624,7 +9624,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9646,9 +9649,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9673,7 +9673,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9687,7 +9687,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Menfro-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5740,
+				["lastOnline"] = 5762,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9716,7 +9716,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9738,9 +9741,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9765,7 +9765,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9779,7 +9779,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Camadon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3082,
+				["lastOnline"] = 3104,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9808,7 +9808,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9830,9 +9833,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9857,7 +9857,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9871,7 +9871,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Trixter-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1816,
+				["lastOnline"] = 1838,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9900,7 +9900,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -9922,9 +9925,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -9949,7 +9949,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -9963,7 +9963,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Demonutcher-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9,
+				["lastOnline"] = 7,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -9993,6 +9993,7 @@ GRM_GuildMemberHistory_Save = {
 					"2 May '21 11:36", -- [1]
 					1619913660, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -10014,11 +10015,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"2 May '21 11:36", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10043,7 +10043,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10057,7 +10057,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Joibe-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4322,
+				["lastOnline"] = 4344,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10086,7 +10086,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10108,9 +10111,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10135,7 +10135,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10149,7 +10149,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cædrel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 20,
+				["lastOnline"] = 7,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10178,7 +10178,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10200,9 +10203,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10217,7 +10217,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Operazione: Meccagon",
 				["class"] = "PALADIN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -10227,7 +10227,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10241,7 +10241,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Beboko-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4,
+				["lastOnline"] = 19,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10271,6 +10271,7 @@ GRM_GuildMemberHistory_Save = {
 					"20 May '21 13:16", -- [1]
 					1621468860, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -10292,11 +10293,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"20 May '21 13:16", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10321,7 +10321,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10335,7 +10335,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Enboss-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3958,
+				["lastOnline"] = 3980,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10364,7 +10364,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10386,9 +10389,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10413,7 +10413,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10427,7 +10427,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mavhi-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1693,
+				["lastOnline"] = 1715,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10456,7 +10456,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10478,9 +10481,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10505,7 +10505,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10519,7 +10519,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Eziz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5804,
+				["lastOnline"] = 5826,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10548,7 +10548,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10570,9 +10573,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10597,7 +10597,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10611,7 +10611,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Luiji-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 243,
+				["lastOnline"] = 266,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10640,7 +10640,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10662,9 +10665,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10689,7 +10689,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10703,7 +10703,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mapam-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1434,
+				["lastOnline"] = 1467,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10732,7 +10732,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10754,9 +10757,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10781,7 +10781,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10795,7 +10795,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Berlusconi-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 49,
+				["lastOnline"] = 71,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10840,7 +10840,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10862,9 +10865,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10889,7 +10889,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10903,7 +10903,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Eralas-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 103,
+				["lastOnline"] = 126,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -10932,7 +10932,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -10954,9 +10957,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -10981,7 +10981,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -10995,7 +10995,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nojak-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 28,
+				["lastOnline"] = 51,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11024,7 +11024,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11046,9 +11049,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11073,7 +11073,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11087,7 +11087,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cramila-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 275,
+				["lastOnline"] = 297,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11116,7 +11116,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11138,9 +11141,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11165,7 +11165,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11179,7 +11179,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Schefe-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 8131,
+				["lastOnline"] = 8153,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11208,7 +11208,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11230,9 +11233,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11257,7 +11257,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11271,7 +11271,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Defedrjl-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2433,
+				["lastOnline"] = 2456,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11300,7 +11300,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11322,9 +11325,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11349,7 +11349,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11363,7 +11363,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Movediamo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 829,
+				["lastOnline"] = 851,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11392,7 +11392,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11414,9 +11417,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11441,7 +11441,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11455,7 +11455,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Deleyna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2221,
+				["lastOnline"] = 2243,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11484,7 +11484,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11506,9 +11509,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11533,7 +11533,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11547,7 +11547,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Silentkarma-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3371,
+				["lastOnline"] = 3393,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11576,7 +11576,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11598,9 +11601,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11625,7 +11625,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11639,7 +11639,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Maccio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4346,
+				["lastOnline"] = 4368,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11668,7 +11668,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11690,9 +11693,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11717,7 +11717,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11731,7 +11731,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Felaigan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2502,
+				["lastOnline"] = 2525,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11760,7 +11760,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11782,9 +11785,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11809,7 +11809,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11823,7 +11823,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ylvina-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5757,
+				["lastOnline"] = 5779,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11852,7 +11852,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11874,9 +11877,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -11891,7 +11891,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Baia di Tiragarde",
+				["zone"] = "Porto di Boralus",
 				["class"] = "DEMONHUNTER",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -11901,7 +11901,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -11915,7 +11915,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Orkrux-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 32,
+				["lastOnline"] = 5,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -11944,7 +11944,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -11966,9 +11969,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12007,7 +12007,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Prewte-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 222,
+				["lastOnline"] = 244,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12031,6 +12031,7 @@ GRM_GuildMemberHistory_Save = {
 				["isOnline"] = false,
 				["guildRep"] = 4,
 				["officerNote"] = "",
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -12052,18 +12053,17 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"7 Jun '21 22:02", -- [1]
 					1623024060, -- [2]
 				},
+				["isMain"] = false,
 				["joinDate"] = {
 					"7 Jun '21 22:02", -- [1]
 				},
 				["removedAlts"] = {
 				},
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["sex"] = 3,
 			},
 			["Hersik-Sethraliss"] = {
@@ -12087,7 +12087,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12101,7 +12101,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hersik-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 799,
+				["lastOnline"] = 822,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12130,7 +12130,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12152,9 +12155,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12179,7 +12179,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12193,7 +12193,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cunken-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3323,
+				["lastOnline"] = 3345,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12222,7 +12222,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12244,9 +12247,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12271,7 +12271,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12285,7 +12285,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hygwirn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12314,7 +12314,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12336,9 +12339,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12363,7 +12363,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12377,7 +12377,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sandrixis-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3280,
+				["lastOnline"] = 3302,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12406,7 +12406,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12428,9 +12431,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 110,
 			},
@@ -12455,7 +12455,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12469,7 +12469,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hedalexxa-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 175,
+				["lastOnline"] = 198,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12498,7 +12498,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12520,9 +12523,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12547,7 +12547,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12561,7 +12561,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Panzerotto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1748,
+				["lastOnline"] = 1770,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12590,7 +12590,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12612,9 +12615,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12639,7 +12639,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12653,7 +12653,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arkimmonde-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 784,
+				["lastOnline"] = 807,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12682,7 +12682,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12704,9 +12707,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12731,7 +12731,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12745,7 +12745,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yajsha-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 844,
+				["lastOnline"] = 866,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12774,7 +12774,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -12796,9 +12799,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12823,7 +12823,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12837,7 +12837,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Auryarmy-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 217,
+				["lastOnline"] = 240,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12867,6 +12867,7 @@ GRM_GuildMemberHistory_Save = {
 					"5 May '21 17:15", -- [1]
 					1620172860, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -12888,11 +12889,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"5 May '21 17:15", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -12917,7 +12917,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -12936,7 +12936,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tepiallo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 457,
+				["lastOnline"] = 479,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -12958,11 +12958,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 18,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"30 May '21 15:33", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -12984,6 +12983,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"30 May '21 15:33", -- [1]
 					1622332860, -- [2]
@@ -13016,7 +13016,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13030,7 +13030,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pheber-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4473,
+				["lastOnline"] = 4496,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13059,7 +13059,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13081,9 +13084,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13108,7 +13108,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13122,7 +13122,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hazgalord-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3982,
+				["lastOnline"] = 4005,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13151,7 +13151,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13173,9 +13176,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13200,7 +13200,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13214,7 +13214,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mondom-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 823,
+				["lastOnline"] = 845,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13243,7 +13243,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13265,9 +13268,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13292,7 +13292,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13306,7 +13306,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kanthena-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3496,
+				["lastOnline"] = 3518,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13335,7 +13335,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13357,9 +13360,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 111,
 			},
@@ -13384,7 +13384,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13403,7 +13403,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bigsavof-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 33,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13433,11 +13433,6 @@ GRM_GuildMemberHistory_Save = {
 					"24 Jun '21 11:31", -- [1]
 					1624492860, -- [2]
 				},
-				["rankIndex"] = 3,
-				["isMain"] = false,
-				["joinDate"] = {
-					"24 Jun '21 11:31", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -13459,8 +13454,13 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 3,
+				["joinDate"] = {
+					"24 Jun '21 11:31", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
-				["level"] = 87,
+				["level"] = 88,
 			},
 			["Grandag-Sethraliss"] = {
 				["GUID"] = "Player-10-006F855F",
@@ -13483,7 +13483,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13497,7 +13497,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Grandag-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 123,
+				["lastOnline"] = 145,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13526,7 +13526,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13548,9 +13551,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 115,
 			},
@@ -13575,7 +13575,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13589,7 +13589,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Torinlak-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2798,
+				["lastOnline"] = 2820,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13618,7 +13618,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13640,9 +13643,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13667,7 +13667,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13681,7 +13681,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shankàr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1197,
+				["lastOnline"] = 1220,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13710,7 +13710,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13732,9 +13735,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13759,7 +13759,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13773,7 +13773,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Balabam-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1410,
+				["lastOnline"] = 1433,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13802,7 +13802,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13824,9 +13827,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13851,7 +13851,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13865,7 +13865,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Slore-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2386,
+				["lastOnline"] = 2408,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13894,7 +13894,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -13916,9 +13919,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -13943,7 +13943,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -13957,7 +13957,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kyreogun-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4527,
+				["lastOnline"] = 4549,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -13986,7 +13986,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14008,9 +14011,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14035,7 +14035,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14049,7 +14049,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Furiousguy-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3084,
+				["lastOnline"] = 3107,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14078,7 +14078,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14100,9 +14103,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14127,7 +14127,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14141,7 +14141,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Betrakill-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 20,
+				["lastOnline"] = 18,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14170,7 +14170,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14192,9 +14195,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14219,7 +14219,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14233,7 +14233,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bonbonette-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1260,
+				["lastOnline"] = 1282,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14262,7 +14262,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14284,9 +14287,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14311,7 +14311,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14325,7 +14325,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bâal-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3300,
+				["lastOnline"] = 3322,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14354,7 +14354,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14376,9 +14379,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14403,7 +14403,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14417,7 +14417,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vergilsaak-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3251,
+				["lastOnline"] = 3273,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14446,7 +14446,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14468,9 +14471,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14495,7 +14495,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14509,7 +14509,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Serarthur-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7972,
+				["lastOnline"] = 7994,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14538,7 +14538,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14560,9 +14563,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14587,7 +14587,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14601,7 +14601,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ellenafrost-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2785,
+				["lastOnline"] = 2807,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14630,7 +14630,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14652,9 +14655,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14679,7 +14679,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14693,7 +14693,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Monsone-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4106,
+				["lastOnline"] = 4128,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14722,7 +14722,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14744,9 +14747,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14771,7 +14771,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14785,7 +14785,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Juggor-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1339,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14814,7 +14814,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14836,9 +14839,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14863,7 +14863,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14877,7 +14877,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kundozen-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 19,
+				["lastOnline"] = 42,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14906,7 +14906,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -14928,9 +14931,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -14955,7 +14955,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -14969,7 +14969,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yougoboom-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1874,
+				["lastOnline"] = 1896,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -14998,7 +14998,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15020,9 +15023,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15047,7 +15047,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15061,7 +15061,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cioccolatino-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6389,
+				["lastOnline"] = 6411,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15090,7 +15090,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15112,9 +15115,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15139,7 +15139,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15158,7 +15158,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fiontann-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 836,
+				["lastOnline"] = 858,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15180,6 +15180,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"6 May '21 21:57", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -15201,11 +15206,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"6 May '21 21:57", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"6 May '21 21:57", -- [1]
 					1620259260, -- [2]
@@ -15238,7 +15238,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15252,7 +15252,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Missitalia-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 13203,
+				["lastOnline"] = 13225,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15281,7 +15281,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15303,9 +15306,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15330,7 +15330,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15344,7 +15344,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ssuckerpunch-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2813,
+				["lastOnline"] = 2835,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15373,7 +15373,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15395,9 +15398,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15422,7 +15422,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15436,7 +15436,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Suocera-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 785,
+				["lastOnline"] = 807,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15465,7 +15465,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15487,9 +15490,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15514,7 +15514,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15528,7 +15528,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gheràlt-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3426,
+				["lastOnline"] = 3448,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15557,7 +15557,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15579,9 +15582,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15606,7 +15606,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15620,7 +15620,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tonante-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 217,
+				["lastOnline"] = 239,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15649,7 +15649,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15671,9 +15674,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15698,7 +15698,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15717,7 +15717,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bigrip-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 451,
+				["lastOnline"] = 473,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15739,6 +15739,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"15 May '21 20:11", -- [1]
+				},
+				["rankIndex"] = 1,
 				["events"] = {
 					{
 						{
@@ -15760,11 +15765,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"15 May '21 20:11", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 1,
 				["verifiedJoinDate"] = {
 					"15 May '21 20:11", -- [1]
 					1621036860, -- [2]
@@ -15797,7 +15797,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15811,7 +15811,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Oloudin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3873,
+				["lastOnline"] = 3896,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15840,7 +15840,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15862,9 +15865,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15889,7 +15889,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15903,7 +15903,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Worgnareff-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3590,
+				["lastOnline"] = 3612,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -15932,7 +15932,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -15954,9 +15957,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -15981,7 +15981,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -15995,7 +15995,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Molfred-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 91,
+				["lastOnline"] = 114,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16024,7 +16024,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16046,9 +16049,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16073,7 +16073,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16087,7 +16087,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Morngrim-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4226,
+				["lastOnline"] = 4248,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16116,7 +16116,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16138,9 +16141,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16165,7 +16165,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16179,7 +16179,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Worryor-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1385,
+				["lastOnline"] = 1407,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16208,7 +16208,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16230,9 +16233,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16257,7 +16257,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16271,7 +16271,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Wlaud-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9750,
+				["lastOnline"] = 9772,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16300,7 +16300,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16322,9 +16325,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16349,7 +16349,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16363,7 +16363,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kmeerr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 346,
+				["lastOnline"] = 368,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16392,7 +16392,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16414,9 +16417,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16441,7 +16441,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16455,7 +16455,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bretaren-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1419,
+				["lastOnline"] = 1442,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16484,7 +16484,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16506,9 +16509,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16533,7 +16533,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16547,7 +16547,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Helvera-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1897,
+				["lastOnline"] = 1919,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16576,7 +16576,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16598,9 +16601,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16625,7 +16625,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16639,7 +16639,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ziapina-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3599,
+				["lastOnline"] = 3621,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16668,7 +16668,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16690,9 +16693,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16717,7 +16717,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16731,7 +16731,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Helldør-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3425,
+				["lastOnline"] = 3448,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16760,7 +16760,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16782,9 +16785,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 108,
 			},
@@ -16809,7 +16809,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16823,7 +16823,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Magüwu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7130,
+				["lastOnline"] = 7152,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16852,7 +16852,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16874,9 +16877,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16901,7 +16901,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -16915,7 +16915,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Azritardo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2033,
+				["lastOnline"] = 2055,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -16944,7 +16944,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -16966,9 +16969,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -16993,7 +16993,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17007,7 +17007,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shinigaming-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2159,
+				["lastOnline"] = 2191,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17036,7 +17036,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17058,9 +17061,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17085,7 +17085,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17099,7 +17099,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Grisù-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5,
+				["lastOnline"] = 27,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17128,7 +17128,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17150,9 +17153,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17177,7 +17177,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17191,7 +17191,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kiritonaruto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6613,
+				["lastOnline"] = 6635,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17220,7 +17220,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17242,9 +17245,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17269,7 +17269,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17283,7 +17283,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mikyr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3394,
+				["lastOnline"] = 3416,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17312,7 +17312,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17334,9 +17337,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17361,7 +17361,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17380,7 +17380,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tteco-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 19,
+				["lastOnline"] = 17,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17402,10 +17402,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"16 Jun '21 21:32", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -17427,7 +17423,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"16 Jun '21 21:32", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"16 Jun '21 21:32", -- [1]
 					1623801660, -- [2]
@@ -17460,7 +17460,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17474,7 +17474,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Roarwolf-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4498,
+				["lastOnline"] = 4521,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17503,7 +17503,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17525,9 +17528,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17542,7 +17542,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Ny'alotha, la Città Risvegliata",
+				["zone"] = "Meccagon",
 				["class"] = "PRIEST",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -17552,7 +17552,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17566,7 +17566,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sudeky-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 21,
+				["lastOnline"] = 20,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17595,7 +17595,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17617,9 +17620,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17634,7 +17634,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Nazjatar",
 				["class"] = "PALADIN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -17644,7 +17644,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17658,7 +17658,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Babyruth-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17687,7 +17687,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17709,9 +17712,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17736,7 +17736,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17750,7 +17750,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Peppetto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1624,
+				["lastOnline"] = 1647,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17779,7 +17779,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17801,9 +17804,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17828,7 +17828,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17842,7 +17842,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sílkan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 140,
+				["lastOnline"] = 163,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17871,7 +17871,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17893,9 +17896,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -17921,7 +17921,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -17935,7 +17935,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Taalrasha-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 603,
+				["lastOnline"] = 625,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -17964,7 +17964,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -17986,9 +17989,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18013,7 +18013,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18027,7 +18027,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vicros-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2815,
+				["lastOnline"] = 2838,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18056,7 +18056,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -18078,9 +18081,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18105,7 +18105,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18119,7 +18119,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Erotis-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 23,
+				["lastOnline"] = 46,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18149,6 +18149,7 @@ GRM_GuildMemberHistory_Save = {
 					"18 Jun '21 18:44", -- [1]
 					1623974460, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -18170,11 +18171,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"18 Jun '21 18:44", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18199,7 +18199,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18213,7 +18213,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sarfdh-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 19,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18242,7 +18242,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -18264,9 +18267,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18291,7 +18291,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18305,7 +18305,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Remuus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2209,
+				["lastOnline"] = 2231,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18334,7 +18334,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -18356,9 +18359,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18384,7 +18384,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18398,7 +18398,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bellafrigna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 179,
+				["lastOnline"] = 201,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18420,10 +18420,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"11 May '21 11:34", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -18445,7 +18441,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"11 May '21 11:34", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"11 May '21 11:34", -- [1]
 					1620691260, -- [2]
@@ -18478,7 +18478,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18492,7 +18492,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Corsini-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5349,
+				["lastOnline"] = 5371,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18521,7 +18521,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -18543,9 +18546,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18570,7 +18570,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18584,7 +18584,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Rrayne-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3727,
+				["lastOnline"] = 3750,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18613,7 +18613,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -18635,9 +18638,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18662,7 +18662,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18691,7 +18691,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Illidanstorn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 270,
+				["lastOnline"] = 292,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"17 May '21 20:59", -- [1]
@@ -18716,6 +18716,12 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "Pingu",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"14 May '21 22:47", -- [1]
+					"19 Jun '21 13:33", -- [2]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -18737,12 +18743,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"14 May '21 22:47", -- [1]
-					"19 Jun '21 13:33", -- [2]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"14 May '21 22:47", -- [1]
 					1620950460, -- [2]
@@ -18775,7 +18775,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18818,7 +18818,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -18840,9 +18843,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -18867,7 +18867,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18881,7 +18881,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Afflipotato-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 22,
+				["lastOnline"] = 44,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -18903,6 +18903,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"15 Jun '21 14:02", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -18924,11 +18929,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"15 Jun '21 14:02", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"15 Jun '21 14:02", -- [1]
 					1623715260, -- [2]
@@ -18961,7 +18961,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -18980,7 +18980,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mikeze-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 283,
+				["lastOnline"] = 305,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19010,6 +19010,7 @@ GRM_GuildMemberHistory_Save = {
 					"12 Jun '21 12:05", -- [1]
 					1623456060, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -19031,11 +19032,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"12 Jun '21 12:05", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 28,
 			},
@@ -19060,7 +19060,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19074,7 +19074,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dudubau-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 871,
+				["lastOnline"] = 894,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19103,7 +19103,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19125,9 +19128,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19152,7 +19152,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19166,7 +19166,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Notready-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5804,
+				["lastOnline"] = 5826,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19195,7 +19195,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19217,9 +19220,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19244,7 +19244,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19258,7 +19258,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Skydeòla-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3671,
+				["lastOnline"] = 3693,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19287,7 +19287,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19309,9 +19312,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19336,7 +19336,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19350,7 +19350,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Halbuz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 77,
+				["lastOnline"] = 99,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19379,7 +19379,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19401,9 +19404,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19428,7 +19428,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19442,7 +19442,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Rãzer-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6315,
+				["lastOnline"] = 6337,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19471,7 +19471,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19493,9 +19496,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19521,7 +19521,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19535,7 +19535,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hynco-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2220,
+				["lastOnline"] = 2242,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19564,7 +19564,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19586,9 +19589,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19613,7 +19613,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19627,7 +19627,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zetior-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1828,
+				["lastOnline"] = 1851,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19656,7 +19656,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19678,9 +19681,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19705,7 +19705,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19719,7 +19719,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Leronida-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4570,
+				["lastOnline"] = 4593,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19748,7 +19748,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19770,9 +19773,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19797,7 +19797,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19811,7 +19811,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mòrningstar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2740,
+				["lastOnline"] = 2762,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19840,7 +19840,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19862,9 +19865,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19889,7 +19889,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19903,7 +19903,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vilblade-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 248,
+				["lastOnline"] = 271,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -19932,7 +19932,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -19954,9 +19957,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -19971,7 +19971,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Ny'alotha, la Città Risvegliata",
+				["zone"] = "Porto di Boralus",
 				["class"] = "PALADIN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -19981,7 +19981,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -19995,7 +19995,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Synshin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 21,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20017,11 +20017,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["joinDate"] = {
 					"11 Jun '21 23:30", -- [1]
 				},
-				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -20043,6 +20042,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"11 Jun '21 23:30", -- [1]
 					1623369660, -- [2]
@@ -20075,7 +20075,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20089,7 +20089,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vixeñt-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3372,
+				["lastOnline"] = 3394,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20118,7 +20118,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20140,9 +20143,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -20167,7 +20167,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20181,7 +20181,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lyndiel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 806,
+				["lastOnline"] = 828,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20210,7 +20210,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20232,9 +20235,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -20249,7 +20249,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Uldum",
 				["class"] = "PALADIN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -20259,7 +20259,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242769,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20278,7 +20278,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lanadelgay-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 23,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20299,12 +20299,11 @@ GRM_GuildMemberHistory_Save = {
 				["isUnknown"] = false,
 				["oldRank"] = "",
 				["level"] = 120,
-				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["achievementPoints"] = 1090,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"30 May '21 11:33", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -20326,13 +20325,14 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"30 May '21 11:33", -- [1]
 					1622332860, -- [2]
 				},
-				["guildRep"] = 4,
+				["guildRep"] = 8,
 				["officerNote"] = "",
-				["isOnline"] = false,
+				["isOnline"] = true,
 				["removedAlts"] = {
 				},
 				["sex"] = 3,
@@ -20358,7 +20358,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20372,7 +20372,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Whiskyno-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2405,
+				["lastOnline"] = 2427,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20401,7 +20401,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20423,9 +20426,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -20450,7 +20450,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20464,7 +20464,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Toravion-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 906,
+				["lastOnline"] = 928,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20493,7 +20493,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20515,9 +20518,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -20542,7 +20542,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20561,7 +20561,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vescken-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20583,10 +20583,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"16 Jun '21 15:32", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -20608,7 +20604,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"16 Jun '21 15:32", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"16 Jun '21 15:32", -- [1]
 					1623801660, -- [2]
@@ -20642,7 +20642,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20656,7 +20656,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sírøp-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 969,
+				["lastOnline"] = 992,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20685,7 +20685,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20707,9 +20710,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -20724,7 +20724,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Drustvar",
 				["class"] = "PRIEST",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -20734,7 +20734,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162103,
+				["timeEnteredZone"] = 1625243209,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20777,7 +20777,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20799,9 +20802,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 5675,
 				["level"] = 120,
 			},
@@ -20826,7 +20826,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20840,7 +20840,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Maronnø-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3395,
+				["lastOnline"] = 3417,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20869,7 +20869,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20891,9 +20894,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -20918,7 +20918,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -20932,7 +20932,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Spinta-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 23,
+				["lastOnline"] = 45,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -20961,7 +20961,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -20983,9 +20986,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21010,7 +21010,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21024,7 +21024,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Newroz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 8723,
+				["lastOnline"] = 8746,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21053,7 +21053,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21075,9 +21078,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21102,7 +21102,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21116,7 +21116,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Derowere-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2695,
+				["lastOnline"] = 2717,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21145,7 +21145,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21167,9 +21170,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 73,
 			},
@@ -21194,7 +21194,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21208,7 +21208,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Brunovespa-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 520,
+				["lastOnline"] = 543,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21237,7 +21237,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21259,9 +21262,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21286,7 +21286,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21300,7 +21300,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Aneras-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2061,
+				["lastOnline"] = 2083,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21329,7 +21329,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21351,9 +21354,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21378,7 +21378,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21392,7 +21392,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Monktcher-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 76,
+				["lastOnline"] = 99,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21421,7 +21421,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21443,9 +21446,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 116,
 			},
@@ -21470,7 +21470,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21484,7 +21484,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sartener-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1356,
+				["lastOnline"] = 1378,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21513,7 +21513,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21535,9 +21538,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21562,7 +21562,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21576,7 +21576,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Spitlight-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2011,
+				["lastOnline"] = 2034,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21605,7 +21605,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21627,9 +21630,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21654,7 +21654,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21668,7 +21668,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lodolfan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5506,
+				["lastOnline"] = 5528,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21697,7 +21697,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21719,9 +21722,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21746,7 +21746,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21760,7 +21760,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Stagncare-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1221,
+				["lastOnline"] = 1244,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21789,7 +21789,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21811,9 +21814,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -21828,7 +21828,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Vallata dell'Eterna Primavera",
 				["class"] = "MONK",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -21838,7 +21838,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21852,7 +21852,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "喝得开心-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21873,9 +21873,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-				},
 				["events"] = {
 					{
 						{
@@ -21897,7 +21894,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -21930,7 +21930,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -21944,7 +21944,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Beddamagra-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5788,
+				["lastOnline"] = 5811,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -21973,7 +21973,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -21995,9 +21998,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22012,7 +22012,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Roccavento",
+				["zone"] = "Baia di Tiragarde",
 				["class"] = "WARRIOR",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -22022,7 +22022,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22036,7 +22036,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Roddys-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 172,
+				["lastOnline"] = 5,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22065,7 +22065,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22087,9 +22090,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22114,7 +22114,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22128,7 +22128,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ezizzo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 266,
+				["lastOnline"] = 289,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22157,7 +22157,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22179,9 +22182,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22206,7 +22206,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22220,7 +22220,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lìlìthx-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6909,
+				["lastOnline"] = 6931,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22249,7 +22249,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22271,9 +22274,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22298,7 +22298,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22312,7 +22312,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shyvàr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6665,
+				["lastOnline"] = 6688,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22341,7 +22341,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22363,9 +22366,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22390,7 +22390,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22409,7 +22409,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Marò-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22438,7 +22438,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22460,9 +22463,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22487,7 +22487,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22501,7 +22501,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cartonio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 905,
+				["lastOnline"] = 928,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22530,7 +22530,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22552,9 +22555,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22579,7 +22579,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22593,7 +22593,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Jainasky-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4549,
+				["lastOnline"] = 4571,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22622,7 +22622,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22644,9 +22647,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22671,7 +22671,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22685,7 +22685,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Calboni-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 804,
+				["lastOnline"] = 826,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22715,11 +22715,6 @@ GRM_GuildMemberHistory_Save = {
 					"27 Apr '21 14:42", -- [1]
 					1619481660, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"27 Apr '21 14:42", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -22741,6 +22736,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"27 Apr '21 14:42", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22755,7 +22755,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Meccagon",
 				["class"] = "DEMONHUNTER",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -22765,7 +22765,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22779,7 +22779,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tespanolano-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 8,
+				["lastOnline"] = 4,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22808,7 +22808,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22830,9 +22833,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22857,7 +22857,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22871,7 +22871,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cripster-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2521,
+				["lastOnline"] = 2543,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22900,7 +22900,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -22922,9 +22925,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -22949,7 +22949,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -22963,7 +22963,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Scipione-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 782,
+				["lastOnline"] = 805,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -22992,7 +22992,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23014,9 +23017,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23041,7 +23041,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23055,7 +23055,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pasticciotto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2083,
+				["lastOnline"] = 2106,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23084,7 +23084,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23106,9 +23109,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23133,7 +23133,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23147,7 +23147,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Anfame-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3,
+				["lastOnline"] = 26,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23176,7 +23176,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23198,9 +23201,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23225,7 +23225,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23244,7 +23244,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Saloppino-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 53,
+				["lastOnline"] = 18,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23274,7 +23274,11 @@ GRM_GuildMemberHistory_Save = {
 					"29 Jun '21 14:07", -- [1]
 					1624924860, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+					"29 Jun '21 14:07", -- [1]
+				},
 				["events"] = {
 					{
 						{
@@ -23296,10 +23300,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"29 Jun '21 14:07", -- [1]
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 20,
 			},
@@ -23324,7 +23324,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23338,7 +23338,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mirrormask-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9266,
+				["lastOnline"] = 9289,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23367,7 +23367,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23389,9 +23392,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23416,7 +23416,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23430,7 +23430,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Clemanthis-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3242,
+				["lastOnline"] = 3264,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23459,7 +23459,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23481,9 +23484,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23508,7 +23508,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23522,7 +23522,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sinaestroz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2667,
+				["lastOnline"] = 2690,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23551,7 +23551,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23573,9 +23576,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23600,7 +23600,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23614,7 +23614,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Torandil-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 431,
+				["lastOnline"] = 454,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23643,7 +23643,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23665,9 +23668,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23692,7 +23692,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23706,7 +23706,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sandokaz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9,
+				["lastOnline"] = 31,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23736,6 +23736,7 @@ GRM_GuildMemberHistory_Save = {
 					"8 Jun '21 16:05", -- [1]
 					1623110460, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -23757,11 +23758,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"8 Jun '21 16:05", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23786,7 +23786,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23800,7 +23800,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Roybeard-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7267,
+				["lastOnline"] = 7289,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23829,7 +23829,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23851,9 +23854,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23878,7 +23878,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23892,7 +23892,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Porcoss-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4493,
+				["lastOnline"] = 4516,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -23921,7 +23921,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -23943,9 +23946,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -23970,7 +23970,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -23984,7 +23984,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Accendilo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2502,
+				["lastOnline"] = 2525,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24013,7 +24013,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24035,9 +24038,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24062,7 +24062,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24076,7 +24076,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Donpippone-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 785,
+				["lastOnline"] = 808,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24105,7 +24105,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24127,9 +24130,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24154,7 +24154,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24168,7 +24168,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Spiedo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 36,
+				["lastOnline"] = 58,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24197,7 +24197,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24219,9 +24222,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24246,7 +24246,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24260,7 +24260,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tayalos-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 28,
+				["lastOnline"] = 51,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24289,7 +24289,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24311,9 +24314,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24338,7 +24338,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24352,7 +24352,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dàmakos-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3261,
+				["lastOnline"] = 3283,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24381,7 +24381,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24403,9 +24406,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24430,7 +24430,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24444,7 +24444,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vergillsaak-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3526,
+				["lastOnline"] = 3548,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24473,7 +24473,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24495,9 +24498,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24522,7 +24522,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24536,7 +24536,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Castorina-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2971,
+				["lastOnline"] = 2993,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24565,7 +24565,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24587,9 +24590,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24614,7 +24614,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24628,7 +24628,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Leezard-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3695,
+				["lastOnline"] = 3717,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24657,7 +24657,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24679,9 +24682,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24706,7 +24706,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24720,7 +24720,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Utargo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 11082,
+				["lastOnline"] = 11105,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24749,7 +24749,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24771,9 +24774,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24798,7 +24798,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24812,7 +24812,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hellhaimh-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 557,
+				["lastOnline"] = 579,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24841,7 +24841,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24863,9 +24866,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24890,7 +24890,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24904,7 +24904,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arcassian-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 355,
+				["lastOnline"] = 377,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -24933,7 +24933,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -24955,9 +24958,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -24982,7 +24982,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -24996,7 +24996,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bruciali-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1674,
+				["lastOnline"] = 1696,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25025,7 +25025,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25047,9 +25050,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25074,7 +25074,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25088,7 +25088,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Eldhoras-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1675,
+				["lastOnline"] = 1697,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25117,7 +25117,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25139,9 +25142,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 30,
 			},
@@ -25166,7 +25166,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25180,7 +25180,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lapatagna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 200,
+				["lastOnline"] = 222,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25209,7 +25209,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25231,9 +25234,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25248,7 +25248,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Visione di Orgrimmar",
 				["class"] = "MAGE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -25258,7 +25258,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242769,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25294,14 +25294,17 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 2,
 				["removedAlts"] = {
 				},
-				["isOnline"] = false,
+				["isOnline"] = true,
 				["officerNote"] = "Betrayer dei Betrayers",
-				["guildRep"] = 4,
+				["guildRep"] = 8,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25323,10 +25326,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
-				["achievementPoints"] = 0,
+				["achievementPoints"] = 6420,
 				["level"] = 120,
 			},
 			["Ildaran-Sethraliss"] = {
@@ -25350,7 +25350,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25364,7 +25364,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ildaran-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3766,
+				["lastOnline"] = 3789,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25393,7 +25393,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25415,9 +25418,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25442,7 +25442,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25461,7 +25461,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Xanatar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 933,
+				["lastOnline"] = 956,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25483,10 +25483,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 85,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"2 May '21 15:14", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -25508,7 +25504,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"2 May '21 15:14", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"2 May '21 15:14", -- [1]
 					1619913660, -- [2]
@@ -25541,7 +25541,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25555,7 +25555,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sulyeob-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7,
+				["lastOnline"] = 30,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25584,7 +25584,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25606,9 +25609,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25633,7 +25633,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25647,7 +25647,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Faccioschifo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1697,
+				["lastOnline"] = 1719,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25676,7 +25676,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25698,9 +25701,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25725,7 +25725,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25739,7 +25739,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lohacker-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2412,
+				["lastOnline"] = 2434,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25768,7 +25768,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25790,9 +25793,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25817,7 +25817,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25831,7 +25831,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Aeriet-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3740,
+				["lastOnline"] = 3763,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25860,7 +25860,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25882,9 +25885,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -25909,7 +25909,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -25923,7 +25923,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arianisha-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4953,
+				["lastOnline"] = 4976,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -25952,7 +25952,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -25974,9 +25977,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26001,7 +26001,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26015,7 +26015,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kèisèr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1211,
+				["lastOnline"] = 1233,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26045,6 +26045,7 @@ GRM_GuildMemberHistory_Save = {
 					"3 May '21 14:05", -- [1]
 					1620000060, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -26066,11 +26067,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"3 May '21 14:05", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26095,7 +26095,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26109,7 +26109,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Leehara-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5538,
+				["lastOnline"] = 5561,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26138,7 +26138,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26160,9 +26163,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26187,7 +26187,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26201,7 +26201,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Notanhealer-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4058,
+				["lastOnline"] = 4080,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26230,7 +26230,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26252,9 +26255,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26279,7 +26279,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26293,7 +26293,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kàtsumoto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 693,
+				["lastOnline"] = 716,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26322,7 +26322,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26344,9 +26347,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26371,7 +26371,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26390,7 +26390,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Veonn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 73,
+				["lastOnline"] = 95,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26412,10 +26412,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"13 Jun '21 10:48", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -26437,7 +26433,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"13 Jun '21 10:48", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"13 Jun '21 10:48", -- [1]
 					1623542460, -- [2]
@@ -26470,7 +26470,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26484,7 +26484,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Swan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 828,
+				["lastOnline"] = 850,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26513,7 +26513,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26535,9 +26538,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26562,7 +26562,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26576,7 +26576,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kakashyx-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3501,
+				["lastOnline"] = 3523,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26605,7 +26605,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26627,9 +26630,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 48,
 			},
@@ -26654,7 +26654,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26668,7 +26668,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vinegar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 991,
+				["lastOnline"] = 1013,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26697,7 +26697,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26719,9 +26722,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26746,7 +26746,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26760,7 +26760,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ggirorammuss-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1029,
+				["lastOnline"] = 1051,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26789,7 +26789,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26811,9 +26814,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26838,7 +26838,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26852,7 +26852,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Joepapa-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 220,
+				["lastOnline"] = 243,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26881,7 +26881,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26903,9 +26906,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -26930,7 +26930,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -26944,7 +26944,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ramigno-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1673,
+				["lastOnline"] = 1696,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -26973,7 +26973,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -26995,9 +26998,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27022,7 +27022,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27036,7 +27036,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Grazugh-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 367,
+				["lastOnline"] = 390,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27066,11 +27066,6 @@ GRM_GuildMemberHistory_Save = {
 					"13 May '21 18:14", -- [1]
 					1620864060, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"13 May '21 18:14", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -27092,6 +27087,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"13 May '21 18:14", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 55,
 			},
@@ -27116,7 +27116,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27130,7 +27130,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Angroboda-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 678,
+				["lastOnline"] = 700,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27159,7 +27159,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27181,9 +27184,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27208,7 +27208,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27222,7 +27222,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Michelaccio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 26,
+				["lastOnline"] = 48,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27251,7 +27251,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27273,9 +27276,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27300,7 +27300,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27314,7 +27314,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Orepain-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9793,
+				["lastOnline"] = 9815,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27343,7 +27343,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27365,9 +27368,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27392,7 +27392,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27406,7 +27406,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Abù-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1801,
+				["lastOnline"] = 1824,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27435,7 +27435,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27457,9 +27460,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27484,7 +27484,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27498,7 +27498,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Throen-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1093,
+				["lastOnline"] = 1116,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27527,7 +27527,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27549,9 +27552,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27576,7 +27576,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27590,7 +27590,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Occhidifalco-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3514,
+				["lastOnline"] = 3536,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27619,7 +27619,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27641,9 +27644,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27668,7 +27668,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27682,7 +27682,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Jamme-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 260,
+				["lastOnline"] = 283,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27711,7 +27711,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27733,9 +27736,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27760,7 +27760,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27774,7 +27774,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tezzerek-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9083,
+				["lastOnline"] = 9105,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27803,7 +27803,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27825,9 +27828,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27852,7 +27852,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27866,7 +27866,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lennart-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2374,
+				["lastOnline"] = 2397,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27895,7 +27895,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -27917,9 +27920,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -27944,7 +27944,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -27958,7 +27958,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dleeygh-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3719,
+				["lastOnline"] = 3741,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -27987,7 +27987,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28009,9 +28012,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28026,7 +28026,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Roccavento",
+				["zone"] = "Porto di Boralus",
 				["class"] = "DEATHKNIGHT",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -28036,7 +28036,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28050,7 +28050,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Diiogosantos-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 2,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28079,7 +28079,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28101,9 +28104,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28128,7 +28128,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28142,7 +28142,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Penna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7836,
+				["lastOnline"] = 7858,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28171,7 +28171,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28193,9 +28196,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28220,7 +28220,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28234,7 +28234,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nylon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9361,
+				["lastOnline"] = 9383,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28263,7 +28263,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28285,9 +28288,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28312,7 +28312,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28326,7 +28326,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Limoncé-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4948,
+				["lastOnline"] = 4971,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28355,7 +28355,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28377,9 +28380,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28404,7 +28404,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28418,7 +28418,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Immortaris-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1630,
+				["lastOnline"] = 1652,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28447,7 +28447,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28469,9 +28472,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28496,7 +28496,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28510,7 +28510,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Radern-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 706,
+				["lastOnline"] = 738,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28539,7 +28539,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28561,9 +28564,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28588,7 +28588,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28602,7 +28602,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Togrim-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 11033,
+				["lastOnline"] = 11055,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28631,7 +28631,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28653,9 +28656,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28680,7 +28680,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28694,7 +28694,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kereman-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 676,
+				["lastOnline"] = 699,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28723,7 +28723,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28745,9 +28748,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28772,7 +28772,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28786,7 +28786,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Silveross-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1627,
+				["lastOnline"] = 1649,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28815,7 +28815,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -28837,9 +28840,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -28878,7 +28878,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hellgodness-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 994,
+				["lastOnline"] = 1017,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28902,6 +28902,7 @@ GRM_GuildMemberHistory_Save = {
 				["isOnline"] = false,
 				["guildRep"] = 4,
 				["officerNote"] = "",
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -28923,18 +28924,17 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"14 May '21 24:50", -- [1]
 					1620950460, -- [2]
 				},
+				["isMain"] = false,
 				["joinDate"] = {
 					"14 May '21 24:50", -- [1]
 				},
 				["removedAlts"] = {
 				},
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["sex"] = 3,
 			},
 			["Voidvenom-Sethraliss"] = {
@@ -28958,7 +28958,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162600,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -28972,7 +28972,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Voidvenom-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 22,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -28994,14 +28994,17 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 3,
 				["removedAlts"] = {
 				},
-				["isOnline"] = true,
+				["isOnline"] = false,
 				["officerNote"] = "dinosaurino incazzato",
-				["guildRep"] = 8,
+				["guildRep"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29023,10 +29026,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
-				["achievementPoints"] = 4630,
+				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
 			["Grrdragone-Sethraliss"] = {
@@ -29050,7 +29050,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29064,7 +29064,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Grrdragone-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1329,
+				["lastOnline"] = 1351,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29093,7 +29093,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29115,9 +29118,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29142,7 +29142,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29156,7 +29156,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gaudee-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 55,
+				["lastOnline"] = 77,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29178,11 +29178,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"11 Jun '21 22:35", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -29204,6 +29203,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"11 Jun '21 22:35", -- [1]
 					1623369660, -- [2]
@@ -29236,7 +29236,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29250,7 +29250,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bloberta-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2545,
+				["lastOnline"] = 2567,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29279,7 +29279,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29301,9 +29304,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29328,7 +29328,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29342,7 +29342,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nathalfire-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 164,
+				["lastOnline"] = 186,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29371,7 +29371,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29393,9 +29396,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29420,7 +29420,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29434,7 +29434,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bölim-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1136,
+				["lastOnline"] = 1159,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29463,7 +29463,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29485,9 +29488,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29512,7 +29512,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29526,7 +29526,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fellazzo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 178,
+				["lastOnline"] = 200,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29555,7 +29555,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29577,9 +29580,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29604,7 +29604,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29618,7 +29618,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gildarella-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4,
+				["lastOnline"] = 26,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29647,7 +29647,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29669,9 +29672,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29696,7 +29696,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29710,7 +29710,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shishield-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 387,
+				["lastOnline"] = 410,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29740,11 +29740,6 @@ GRM_GuildMemberHistory_Save = {
 					"5 Jun '21 12:22", -- [1]
 					1622851260, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"5 Jun '21 12:22", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -29766,6 +29761,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"5 Jun '21 12:22", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 38,
 			},
@@ -29790,7 +29790,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29804,7 +29804,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pappona-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1122,
+				["lastOnline"] = 1145,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29833,7 +29833,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29855,9 +29858,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29882,7 +29882,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29896,7 +29896,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yuksana-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3179,
+				["lastOnline"] = 3201,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -29925,7 +29925,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -29947,9 +29950,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -29974,7 +29974,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -29988,7 +29988,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gennarinodk-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6807,
+				["lastOnline"] = 6830,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30017,7 +30017,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30039,9 +30042,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30066,7 +30066,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30080,7 +30080,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Enkìdu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 43,
+				["lastOnline"] = 65,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30109,7 +30109,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30131,9 +30134,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30148,7 +30148,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Uldum",
 				["class"] = "PRIEST",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -30172,7 +30172,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gesùhcristho-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 48,
+				["lastOnline"] = 2,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30193,14 +30193,18 @@ GRM_GuildMemberHistory_Save = {
 				["isUnknown"] = false,
 				["oldRank"] = "",
 				["sex"] = 2,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["removedAlts"] = {
 				},
 				["joinDate"] = {
 					"31 May '21 19:07", -- [1]
 				},
-				["rankIndex"] = 5,
 				["isMain"] = false,
+				["rankIndex"] = 5,
+				["verifiedJoinDate"] = {
+					"31 May '21 19:07", -- [1]
+					1622419260, -- [2]
+				},
 				["events"] = {
 					{
 						{
@@ -30221,10 +30225,6 @@ GRM_GuildMemberHistory_Save = {
 						"", -- [3]
 						0, -- [4]
 					}, -- [2]
-				},
-				["verifiedJoinDate"] = {
-					"31 May '21 19:07", -- [1]
-					1622419260, -- [2]
 				},
 				["officerNote"] = "",
 				["guildRep"] = 4,
@@ -30252,7 +30252,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30266,7 +30266,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arghal-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 896,
+				["lastOnline"] = 918,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30295,7 +30295,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30317,9 +30320,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30344,7 +30344,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30358,7 +30358,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Picchialo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5425,
+				["lastOnline"] = 5448,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30387,7 +30387,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30409,9 +30412,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30436,7 +30436,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30450,7 +30450,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Icura-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 19,
+				["lastOnline"] = 42,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30479,7 +30479,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30501,9 +30504,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30528,7 +30528,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30542,7 +30542,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Warbike-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 8535,
+				["lastOnline"] = 8558,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30571,7 +30571,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30593,9 +30596,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30620,7 +30620,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30634,7 +30634,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Motinculo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 785,
+				["lastOnline"] = 807,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30663,7 +30663,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30685,9 +30688,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30712,7 +30712,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30726,7 +30726,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Colonnello-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3695,
+				["lastOnline"] = 3717,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30755,7 +30755,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30777,9 +30780,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30804,7 +30804,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30818,7 +30818,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Robertagemma-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3115,
+				["lastOnline"] = 3137,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30847,7 +30847,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30869,9 +30872,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30896,7 +30896,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -30910,7 +30910,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kravits-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 458,
+				["lastOnline"] = 480,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -30939,7 +30939,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -30961,9 +30964,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -30988,7 +30988,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31002,7 +31002,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Reaptan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9243,
+				["lastOnline"] = 9265,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31031,7 +31031,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31053,9 +31056,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31080,7 +31080,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31094,7 +31094,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Myrddyn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 706,
+				["lastOnline"] = 739,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31123,7 +31123,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31145,9 +31148,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31172,7 +31172,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31186,7 +31186,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mentorallo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 224,
+				["lastOnline"] = 246,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31215,7 +31215,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31237,9 +31240,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31264,7 +31264,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31278,7 +31278,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bafmir-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 782,
+				["lastOnline"] = 804,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31307,7 +31307,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31329,9 +31332,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31356,7 +31356,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31370,7 +31370,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bigboiilliil-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2945,
+				["lastOnline"] = 2967,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31399,7 +31399,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31421,9 +31424,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31448,7 +31448,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31462,7 +31462,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sucren-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2561,
+				["lastOnline"] = 2583,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31491,7 +31491,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31513,9 +31516,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31540,7 +31540,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31554,7 +31554,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Horbus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1339,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31583,7 +31583,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31605,9 +31608,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31632,7 +31632,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31646,7 +31646,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Naizor-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2964,
+				["lastOnline"] = 2987,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31675,7 +31675,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31697,9 +31700,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31738,7 +31738,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tachinano-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 898,
+				["lastOnline"] = 920,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31762,6 +31762,7 @@ GRM_GuildMemberHistory_Save = {
 				["isOnline"] = false,
 				["guildRep"] = 4,
 				["officerNote"] = "",
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -31783,18 +31784,17 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"25 May '21 19:57", -- [1]
 					1621900860, -- [2]
 				},
+				["isMain"] = false,
 				["joinDate"] = {
 					"25 May '21 19:57", -- [1]
 				},
 				["removedAlts"] = {
 				},
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["sex"] = 2,
 			},
 			["Hellgød-Sethraliss"] = {
@@ -31818,7 +31818,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31832,7 +31832,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hellgød-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3429,
+				["lastOnline"] = 3451,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31861,7 +31861,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31883,9 +31886,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -31910,7 +31910,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -31924,7 +31924,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tobako-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 34,
+				["lastOnline"] = 56,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -31953,7 +31953,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -31975,9 +31978,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32002,7 +32002,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32016,7 +32016,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nitro-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1822,
+				["lastOnline"] = 1844,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32045,7 +32045,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32067,9 +32070,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32094,7 +32094,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32108,7 +32108,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cyou-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1221,
+				["lastOnline"] = 1243,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32137,7 +32137,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32159,9 +32162,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32186,7 +32186,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32200,7 +32200,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cøser-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 258,
+				["lastOnline"] = 280,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32229,7 +32229,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32251,9 +32254,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32278,7 +32278,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32292,7 +32292,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pisellonus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1423,
+				["lastOnline"] = 1446,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32321,7 +32321,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32343,9 +32346,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32370,7 +32370,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32384,7 +32384,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Thyrsus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4675,
+				["lastOnline"] = 4697,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32413,7 +32413,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32435,9 +32438,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32462,7 +32462,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32476,7 +32476,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nonnopeppe-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3,
+				["lastOnline"] = 26,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32505,7 +32505,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32527,9 +32530,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32554,7 +32554,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32568,7 +32568,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Graffia-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2691,
+				["lastOnline"] = 2714,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32597,7 +32597,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32619,9 +32622,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32646,7 +32646,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32660,7 +32660,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nagashar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4420,
+				["lastOnline"] = 4442,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32689,7 +32689,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32711,9 +32714,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32738,7 +32738,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32752,7 +32752,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pippomio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 214,
+				["lastOnline"] = 236,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32781,7 +32781,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32803,9 +32806,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32830,7 +32830,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32844,7 +32844,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Toscano-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6573,
+				["lastOnline"] = 6596,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32873,7 +32873,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32895,9 +32898,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -32922,7 +32922,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -32936,7 +32936,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nyrtica-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4289,
+				["lastOnline"] = 4312,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -32965,7 +32965,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -32987,9 +32990,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33014,7 +33014,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33028,7 +33028,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tispacco-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 236,
+				["lastOnline"] = 259,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33058,7 +33058,11 @@ GRM_GuildMemberHistory_Save = {
 					"10 Jun '21 17:55", -- [1]
 					1623283260, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+					"10 Jun '21 17:55", -- [1]
+				},
 				["events"] = {
 					{
 						{
@@ -33080,10 +33084,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"10 Jun '21 17:55", -- [1]
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33108,7 +33108,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33122,7 +33122,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Barbera-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 13530,
+				["lastOnline"] = 13553,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33151,7 +33151,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33173,9 +33176,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33200,7 +33200,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33214,7 +33214,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Xellallaro-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 11973,
+				["lastOnline"] = 11996,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33243,7 +33243,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33265,9 +33268,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33282,7 +33282,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Uldum",
+				["zone"] = "Vallata dell'Eterna Primavera",
 				["class"] = "DRUID",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -33292,7 +33292,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33306,7 +33306,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dùplex-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33335,7 +33335,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33357,9 +33360,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33384,7 +33384,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33398,7 +33398,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Knùt-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1723,
+				["lastOnline"] = 1745,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33427,7 +33427,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33449,9 +33452,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 114,
 			},
@@ -33476,7 +33476,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33490,7 +33490,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dhroof-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3988,
+				["lastOnline"] = 4011,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33519,7 +33519,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33541,9 +33544,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33568,7 +33568,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33582,7 +33582,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Alastõr-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 356,
+				["lastOnline"] = 378,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33611,7 +33611,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33633,9 +33636,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33660,7 +33660,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33674,7 +33674,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Istardron-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 246,
+				["lastOnline"] = 269,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33703,7 +33703,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33725,9 +33728,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33752,7 +33752,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33766,7 +33766,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ryunijam-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 101,
+				["lastOnline"] = 123,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33795,7 +33795,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33817,9 +33820,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33844,7 +33844,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33858,7 +33858,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Utal-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3420,
+				["lastOnline"] = 3443,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33887,7 +33887,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -33909,9 +33912,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -33936,7 +33936,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -33950,7 +33950,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Катнячи-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 507,
+				["lastOnline"] = 529,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -33979,7 +33979,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34001,9 +34004,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34028,7 +34028,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34042,7 +34042,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Peewéè-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2056,
+				["lastOnline"] = 2079,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34071,7 +34071,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34093,9 +34096,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34120,7 +34120,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34134,7 +34134,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Chentherba-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3394,
+				["lastOnline"] = 3417,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34163,7 +34163,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34185,9 +34188,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34212,7 +34212,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34226,7 +34226,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Morghil-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1282,
+				["lastOnline"] = 1305,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34255,7 +34255,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34277,9 +34280,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34304,7 +34304,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34323,7 +34323,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Forgialucee-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1464,
+				["lastOnline"] = 1486,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34345,10 +34345,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 20,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"2 May '21 16:00", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -34370,7 +34366,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"2 May '21 16:00", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"2 May '21 16:00", -- [1]
 					1619913660, -- [2]
@@ -34403,7 +34403,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34417,7 +34417,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Divinitass-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9,
+				["lastOnline"] = 18,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34439,6 +34439,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"27 May '21 09:37", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -34460,11 +34465,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"27 May '21 09:37", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"27 May '21 09:37", -- [1]
 					1622073660, -- [2]
@@ -34497,7 +34497,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34511,7 +34511,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Stanach-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1663,
+				["lastOnline"] = 1685,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34540,7 +34540,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34562,9 +34565,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 58,
 			},
@@ -34589,7 +34589,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34603,7 +34603,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Krystrid-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 214,
+				["lastOnline"] = 236,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34632,7 +34632,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34654,9 +34657,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34681,7 +34681,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34695,7 +34695,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ormox-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3261,
+				["lastOnline"] = 3283,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34724,7 +34724,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34746,9 +34749,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34773,7 +34773,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34787,7 +34787,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Restinpace-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 23,
+				["lastOnline"] = 46,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34816,7 +34816,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -34838,9 +34841,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34865,7 +34865,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34879,7 +34879,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Glithyen-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 1,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -34909,11 +34909,6 @@ GRM_GuildMemberHistory_Save = {
 					"24 Jun '21 11:44", -- [1]
 					1624492860, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"24 Jun '21 11:44", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -34935,6 +34930,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"24 Jun '21 11:44", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -34959,7 +34959,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -34973,7 +34973,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Namuel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4,
+				["lastOnline"] = 1,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35002,7 +35002,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -35024,9 +35027,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35051,7 +35051,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35065,7 +35065,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Larkano-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 235,
+				["lastOnline"] = 258,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35095,6 +35095,7 @@ GRM_GuildMemberHistory_Save = {
 					"21 Jun '21 22:17", -- [1]
 					1624233660, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -35116,11 +35117,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"21 Jun '21 22:17", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35145,7 +35145,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35159,7 +35159,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Glimmerisbae-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 261,
+				["lastOnline"] = 284,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35189,6 +35189,7 @@ GRM_GuildMemberHistory_Save = {
 					"20 Jun '21 00:01", -- [1]
 					1624147260, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -35210,11 +35211,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 5,
 				["joinDate"] = {
 					"20 Jun '21 00:01", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 70,
 			},
@@ -35239,7 +35239,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35253,7 +35253,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Malasil-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 68,
+				["lastOnline"] = 90,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35274,9 +35274,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-				},
 				["events"] = {
 					{
 						{
@@ -35298,7 +35295,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -35321,7 +35321,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Sala del Cuore",
 				["class"] = "WARRIOR",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -35331,7 +35331,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35355,7 +35355,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Korlly-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 25,
+				["lastOnline"] = 1,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"4 Jun '21 23:01", -- [1]
@@ -35388,7 +35388,12 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+					"", -- [1]
+					"17 Jun '21 17:14", -- [2]
+				},
 				["events"] = {
 					{
 						{
@@ -35410,11 +35415,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"", -- [1]
-					"17 Jun '21 17:14", -- [2]
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35439,7 +35439,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35453,7 +35453,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kokkonut-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2257,
+				["lastOnline"] = 2280,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35482,7 +35482,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -35504,9 +35507,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35531,7 +35531,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35550,7 +35550,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shernyl-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 69,
+				["lastOnline"] = 91,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35580,11 +35580,6 @@ GRM_GuildMemberHistory_Save = {
 					"11 Jun '21 15:59", -- [1]
 					1623369660, -- [2]
 				},
-				["rankIndex"] = 4,
-				["isMain"] = false,
-				["joinDate"] = {
-					"11 Jun '21 15:59", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -35606,6 +35601,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 4,
+				["joinDate"] = {
+					"11 Jun '21 15:59", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35630,7 +35630,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35644,7 +35644,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Adrenym-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1971,
+				["lastOnline"] = 1993,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35673,7 +35673,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -35695,9 +35698,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35722,7 +35722,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35736,7 +35736,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fantozzo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 76,
+				["lastOnline"] = 98,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35758,10 +35758,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 92,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"12 May '21 10:11", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -35783,7 +35779,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"12 May '21 10:11", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"12 May '21 10:11", -- [1]
 					1620777660, -- [2]
@@ -35816,7 +35816,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35830,7 +35830,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Atralmoore-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 219,
+				["lastOnline"] = 241,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35859,7 +35859,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -35881,9 +35884,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -35908,7 +35908,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -35927,7 +35927,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mindshock-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 313,
+				["lastOnline"] = 335,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -35949,10 +35949,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 20,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"13 Jun '21 15:48", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -35974,7 +35970,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"13 Jun '21 15:48", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"13 Jun '21 15:48", -- [1]
 					1623542460, -- [2]
@@ -36007,7 +36007,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36021,7 +36021,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kataross-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1284,
+				["lastOnline"] = 1306,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36050,7 +36050,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36072,9 +36075,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36099,7 +36099,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36113,7 +36113,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Enchantia-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2507,
+				["lastOnline"] = 2530,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36142,7 +36142,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36164,9 +36167,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36191,7 +36191,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36205,7 +36205,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Venticello-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 93,
+				["lastOnline"] = 115,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36227,6 +36227,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"15 Jun '21 12:02", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -36248,11 +36253,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"15 Jun '21 12:02", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"15 Jun '21 12:02", -- [1]
 					1623715260, -- [2]
@@ -36285,7 +36285,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625161892,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36304,7 +36304,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Maexana-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36327,14 +36327,18 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 2,
 				["removedAlts"] = {
 				},
-				["isOnline"] = true,
+				["isOnline"] = false,
 				["officerNote"] = "amico  divinitas",
-				["guildRep"] = 8,
+				["guildRep"] = 4,
 				["verifiedJoinDate"] = {
 					"10 Jun '21 15:55", -- [1]
 					1623283260, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+					"10 Jun '21 15:55", -- [1]
+				},
 				["events"] = {
 					{
 						{
@@ -36356,11 +36360,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"10 Jun '21 15:55", -- [1]
-				},
-				["rankIndex"] = 4,
-				["achievementPoints"] = 970,
+				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
 			["Invèl-Sethraliss"] = {
@@ -36384,7 +36384,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36398,7 +36398,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Invèl-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 25,
+				["lastOnline"] = 47,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36427,7 +36427,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36449,9 +36452,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36476,7 +36476,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36490,7 +36490,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nìhìl-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 12485,
+				["lastOnline"] = 12508,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36519,7 +36519,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36541,9 +36544,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36568,7 +36568,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36582,7 +36582,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hàrtigan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 694,
+				["lastOnline"] = 716,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36611,7 +36611,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36633,9 +36636,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36660,7 +36660,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36674,7 +36674,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nemeral-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 764,
+				["lastOnline"] = 787,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36703,7 +36703,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36725,9 +36728,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36752,7 +36752,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36771,7 +36771,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Aleregor-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 18,
+				["lastOnline"] = 17,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36791,8 +36791,13 @@ GRM_GuildMemberHistory_Save = {
 				["reasonBanned"] = "",
 				["isUnknown"] = false,
 				["oldRank"] = "",
-				["level"] = 113,
+				["level"] = 116,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"15 Jun '21 14:02", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -36814,11 +36819,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"15 Jun '21 14:02", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"15 Jun '21 14:02", -- [1]
 					1623715260, -- [2]
@@ -36851,7 +36851,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36865,7 +36865,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Thànatoss-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1310,
+				["lastOnline"] = 1333,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36894,7 +36894,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -36916,9 +36919,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -36943,7 +36943,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -36957,7 +36957,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Presideny-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1015,
+				["lastOnline"] = 1037,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -36986,7 +36986,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37008,9 +37011,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37035,7 +37035,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37049,7 +37049,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lorgaran-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4110,
+				["lastOnline"] = 4132,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37078,7 +37078,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37100,9 +37103,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37127,7 +37127,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37146,7 +37146,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Notcøser-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 246,
+				["lastOnline"] = 268,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37168,10 +37168,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"1 Jun '21 20:57", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -37193,7 +37189,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"1 Jun '21 20:57", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"1 Jun '21 20:57", -- [1]
 					1622505660, -- [2]
@@ -37226,7 +37226,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37240,7 +37240,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Xerazon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7001,
+				["lastOnline"] = 7023,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37269,7 +37269,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37291,9 +37294,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37318,7 +37318,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37332,7 +37332,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Silkan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 45,
+				["lastOnline"] = 18,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37362,7 +37362,11 @@ GRM_GuildMemberHistory_Save = {
 					"28 Jun '21 23:07", -- [1]
 					1624838460, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+					"28 Jun '21 23:07", -- [1]
+				},
 				["events"] = {
 					{
 						{
@@ -37384,10 +37388,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"28 Jun '21 23:07", -- [1]
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37402,7 +37402,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Nazjatar",
 				["class"] = "WARLOCK",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -37412,7 +37412,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162600,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37426,7 +37426,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Scisma-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 22,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37448,14 +37448,17 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 2,
 				["removedAlts"] = {
 				},
-				["isOnline"] = true,
+				["isOnline"] = false,
 				["officerNote"] = "",
-				["guildRep"] = 7,
+				["guildRep"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37477,10 +37480,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
-				["achievementPoints"] = 2445,
+				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
 			["Zerosen-Sethraliss"] = {
@@ -37494,7 +37494,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Baia di Tiragarde",
 				["class"] = "WARRIOR",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -37504,7 +37504,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625161953,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37518,7 +37518,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zerosen-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 4,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37547,7 +37547,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37569,9 +37572,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37596,7 +37596,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37610,7 +37610,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Triplo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 331,
+				["lastOnline"] = 354,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37631,9 +37631,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-				},
 				["events"] = {
 					{
 						{
@@ -37655,7 +37652,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -37678,7 +37678,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Baia di Tiragarde",
+				["zone"] = "Porto di Boralus",
 				["class"] = "HUNTER",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -37688,7 +37688,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37702,7 +37702,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ryuend-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 897,
+				["lastOnline"] = 9,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37731,7 +37731,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37753,9 +37756,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37780,7 +37780,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37794,7 +37794,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Spongeboob-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 191,
+				["lastOnline"] = 213,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37823,7 +37823,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37845,9 +37848,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37872,7 +37872,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37886,7 +37886,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Starshine-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1724,
+				["lastOnline"] = 1747,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -37915,7 +37915,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -37937,9 +37940,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -37964,7 +37964,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -37978,7 +37978,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Voidaok-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9711,
+				["lastOnline"] = 9734,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38007,7 +38007,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38029,9 +38032,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38056,7 +38056,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38070,7 +38070,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "나와함께있어-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 30,
+				["lastOnline"] = 52,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38099,7 +38099,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38121,9 +38124,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38148,7 +38148,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38167,7 +38167,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Thodo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1315,
+				["lastOnline"] = 1337,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38189,11 +38189,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 60,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"30 Apr '21 20:30", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -38215,6 +38214,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"30 Apr '21 20:30", -- [1]
 					1619740860, -- [2]
@@ -38247,7 +38247,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38261,7 +38261,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Rtpi-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 802,
+				["lastOnline"] = 824,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38290,7 +38290,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38312,9 +38315,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38339,7 +38339,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38353,7 +38353,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Rakumajin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 33,
+				["lastOnline"] = 55,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38382,7 +38382,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38404,9 +38407,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38431,7 +38431,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38445,7 +38445,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vergator-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 537,
+				["lastOnline"] = 559,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38474,7 +38474,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38496,9 +38499,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38523,7 +38523,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38537,7 +38537,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kequing-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38567,11 +38567,6 @@ GRM_GuildMemberHistory_Save = {
 					"13 May '21 10:14", -- [1]
 					1620864060, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"13 May '21 10:14", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -38593,6 +38588,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"13 May '21 10:14", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38617,7 +38617,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38631,7 +38631,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Chròma-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5586,
+				["lastOnline"] = 5609,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38660,7 +38660,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38682,9 +38685,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38699,7 +38699,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Roccavento",
+				["zone"] = "Baia di Tiragarde",
 				["class"] = "PALADIN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -38709,7 +38709,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38728,7 +38728,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Holytankdps-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 25,
+				["lastOnline"] = 19,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38750,11 +38750,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"20 Jun '21 12:20", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -38776,6 +38775,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"20 Jun '21 12:20", -- [1]
 					1624147260, -- [2]
@@ -38808,7 +38808,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38822,7 +38822,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fantozzino-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 413,
+				["lastOnline"] = 435,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38852,6 +38852,7 @@ GRM_GuildMemberHistory_Save = {
 					"8 Jun '21 12:05", -- [1]
 					1623110460, -- [2]
 				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -38873,11 +38874,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["rankIndex"] = 4,
 				["joinDate"] = {
 					"8 Jun '21 12:05", -- [1]
 				},
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 104,
 			},
@@ -38902,7 +38902,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -38916,7 +38916,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zanxo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 217,
+				["lastOnline"] = 240,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -38945,7 +38945,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -38967,9 +38970,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -38994,7 +38994,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39008,7 +39008,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pierceval-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 202,
+				["lastOnline"] = 224,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39038,11 +39038,6 @@ GRM_GuildMemberHistory_Save = {
 					"26 May '21 08:14", -- [1]
 					1621987260, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"26 May '21 08:14", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -39064,6 +39059,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"26 May '21 08:14", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39088,7 +39088,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39102,7 +39102,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Abbondanzio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 8677,
+				["lastOnline"] = 8700,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39131,7 +39131,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39153,9 +39156,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39180,7 +39180,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39194,7 +39194,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mëgrimm-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1233,
+				["lastOnline"] = 1256,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39223,7 +39223,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39245,9 +39248,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39272,7 +39272,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39286,7 +39286,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Scortese-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4104,
+				["lastOnline"] = 4126,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39315,7 +39315,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39337,9 +39340,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39354,7 +39354,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Forgiardente",
 				["class"] = "HUNTER",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -39364,7 +39364,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162103,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39378,7 +39378,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Aphrö-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 1,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39399,9 +39399,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 2,
-				["joinDate"] = {
-				},
 				["events"] = {
 					{
 						{
@@ -39423,7 +39420,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+				},
 				["isMain"] = false,
+				["rankIndex"] = 2,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -39456,7 +39456,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39470,7 +39470,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yuvad-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2941,
+				["lastOnline"] = 2963,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39499,7 +39499,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39521,9 +39524,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39548,7 +39548,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39562,7 +39562,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pinturicchìo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3082,
+				["lastOnline"] = 3104,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39591,7 +39591,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39613,9 +39616,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39640,7 +39640,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39654,7 +39654,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Maltazars-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 560,
+				["lastOnline"] = 583,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39683,7 +39683,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39705,9 +39708,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 114,
 			},
@@ -39732,7 +39732,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39746,7 +39746,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nightingales-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 317,
+				["lastOnline"] = 340,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39775,7 +39775,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39797,9 +39800,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -39824,7 +39824,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39838,7 +39838,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Flavià-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4,
+				["lastOnline"] = 26,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39859,9 +39859,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-				},
 				["events"] = {
 					{
 						{
@@ -39883,7 +39880,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -39916,7 +39916,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -39930,7 +39930,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Asgharn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 34,
+				["lastOnline"] = 56,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -39959,7 +39959,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -39981,9 +39984,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40008,7 +40008,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40027,7 +40027,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vametria-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1384,
+				["lastOnline"] = 1407,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40049,11 +40049,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"29 Apr '21 00:01", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -40075,6 +40074,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"29 Apr '21 00:01", -- [1]
 					1619654460, -- [2]
@@ -40107,7 +40107,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40121,7 +40121,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dawesuma-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1312,
+				["lastOnline"] = 1334,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40150,7 +40150,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40172,9 +40175,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40199,7 +40199,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40213,7 +40213,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Giroorrammus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1029,
+				["lastOnline"] = 1051,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40242,7 +40242,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40264,9 +40267,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40291,7 +40291,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40305,7 +40305,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Wolvg-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1094,
+				["lastOnline"] = 1116,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40334,7 +40334,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40356,9 +40359,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40383,7 +40383,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40397,7 +40397,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vincenth-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2339,
+				["lastOnline"] = 2361,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40426,7 +40426,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40448,9 +40451,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40475,7 +40475,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40489,7 +40489,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Odettah-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6867,
+				["lastOnline"] = 6890,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40518,7 +40518,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40540,9 +40543,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40567,7 +40567,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40581,7 +40581,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ihealyoualot-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 408,
+				["lastOnline"] = 431,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40603,6 +40603,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"4 May '21 19:17", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -40624,11 +40629,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"4 May '21 19:17", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"4 May '21 19:17", -- [1]
 					1620086460, -- [2]
@@ -40661,7 +40661,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40675,7 +40675,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Monkapo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3179,
+				["lastOnline"] = 3202,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40704,7 +40704,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40726,9 +40729,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40753,7 +40753,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40767,7 +40767,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Namadiel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 29,
+				["lastOnline"] = 51,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40796,7 +40796,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40818,9 +40821,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40845,7 +40845,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40859,7 +40859,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Citto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3061,
+				["lastOnline"] = 3084,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40888,7 +40888,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -40910,9 +40913,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -40937,7 +40937,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -40951,7 +40951,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Haromm-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3261,
+				["lastOnline"] = 3283,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -40980,7 +40980,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41002,9 +41005,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41029,7 +41029,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41043,7 +41043,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arteidas-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1045,
+				["lastOnline"] = 1068,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41072,7 +41072,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41094,9 +41097,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41121,7 +41121,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41135,7 +41135,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lkwhitejack-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 69,
+				["lastOnline"] = 91,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41164,7 +41164,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41186,9 +41189,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41213,7 +41213,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41227,7 +41227,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lostaigan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2482,
+				["lastOnline"] = 2504,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41256,7 +41256,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41278,9 +41281,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41305,7 +41305,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41319,7 +41319,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Maziken-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2,
+				["lastOnline"] = 24,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41348,7 +41348,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41370,9 +41373,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41397,7 +41397,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41411,7 +41411,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Heliur-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1120,
+				["lastOnline"] = 1143,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41440,7 +41440,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41462,9 +41465,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41489,7 +41489,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41503,7 +41503,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Reydarth-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 782,
+				["lastOnline"] = 804,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41532,7 +41532,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41554,9 +41557,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41581,7 +41581,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41595,7 +41595,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Drhaerion-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3408,
+				["lastOnline"] = 3430,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41624,7 +41624,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41646,9 +41649,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41673,7 +41673,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41687,7 +41687,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Trikì-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 812,
+				["lastOnline"] = 834,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41716,7 +41716,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41738,9 +41741,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41765,7 +41765,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41779,7 +41779,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zacharael-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 10944,
+				["lastOnline"] = 10976,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41808,7 +41808,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41830,9 +41833,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41857,7 +41857,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41871,7 +41871,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Whualla-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 826,
+				["lastOnline"] = 848,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41900,7 +41900,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -41922,9 +41925,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -41949,7 +41949,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -41963,7 +41963,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cded-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9444,
+				["lastOnline"] = 9467,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -41992,7 +41992,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42014,9 +42017,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42041,7 +42041,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42060,7 +42060,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Blackfatdudu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 269,
+				["lastOnline"] = 291,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42082,11 +42082,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"11 Jun '21 21:03", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -42108,6 +42107,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"11 Jun '21 21:03", -- [1]
 					1623369660, -- [2]
@@ -42140,7 +42140,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42154,7 +42154,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mastrobirro-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7653,
+				["lastOnline"] = 7676,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42183,7 +42183,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42205,9 +42208,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42232,7 +42232,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42246,7 +42246,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arhamiss-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4492,
+				["lastOnline"] = 4514,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42275,7 +42275,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42297,9 +42300,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42324,7 +42324,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42338,7 +42338,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Havocado-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1358,
+				["lastOnline"] = 1380,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42367,7 +42367,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42389,9 +42392,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42416,7 +42416,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42430,7 +42430,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pataturk-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2987,
+				["lastOnline"] = 3010,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42459,7 +42459,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42481,9 +42484,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 75,
 			},
@@ -42508,7 +42508,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42522,7 +42522,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Worazio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1255,
+				["lastOnline"] = 1277,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42551,7 +42551,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42573,9 +42576,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 42,
 			},
@@ -42600,7 +42600,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42614,7 +42614,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tachitank-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3136,
+				["lastOnline"] = 3158,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42643,7 +42643,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42665,9 +42668,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 116,
 			},
@@ -42682,7 +42682,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Baia di Tiragarde",
+				["zone"] = "Porto di Boralus",
 				["class"] = "MAGE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -42692,7 +42692,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42706,7 +42706,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Deltaecho-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42735,7 +42735,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42757,9 +42760,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42784,7 +42784,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42798,7 +42798,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nathanalgren-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 174,
+				["lastOnline"] = 196,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42827,7 +42827,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42849,9 +42852,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42876,7 +42876,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42890,7 +42890,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Trodin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3155,
+				["lastOnline"] = 3177,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -42919,7 +42919,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -42941,9 +42944,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -42968,7 +42968,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -42982,7 +42982,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Thewatergød-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 20,
+				["lastOnline"] = 43,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43011,7 +43011,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43033,9 +43036,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43060,7 +43060,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43074,7 +43074,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Annalhix-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2499,
+				["lastOnline"] = 2522,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43103,7 +43103,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43125,9 +43128,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43152,7 +43152,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43166,7 +43166,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Suledin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2032,
+				["lastOnline"] = 2054,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43195,7 +43195,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43217,9 +43220,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43244,7 +43244,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43258,7 +43258,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Altrove-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2032,
+				["lastOnline"] = 2054,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43287,7 +43287,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43309,9 +43312,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43336,7 +43336,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43350,7 +43350,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Expelliamus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1553,
+				["lastOnline"] = 1576,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43379,7 +43379,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43401,9 +43404,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43428,7 +43428,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43442,7 +43442,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Passerina-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 148,
+				["lastOnline"] = 20,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43471,7 +43471,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43493,9 +43496,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43520,7 +43520,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43534,7 +43534,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Utcher-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 35,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43563,7 +43563,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43585,9 +43588,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43612,7 +43612,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43626,7 +43626,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zeddo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1815,
+				["lastOnline"] = 1838,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43655,7 +43655,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43677,9 +43680,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43704,7 +43704,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43718,7 +43718,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Magmafist-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6012,
+				["lastOnline"] = 6034,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43747,7 +43747,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43769,9 +43772,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43786,7 +43786,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Dalaran",
+				["zone"] = "Porto di Boralus",
 				["class"] = "DRUID",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -43796,7 +43796,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162600,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43810,7 +43810,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Outofmind-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43832,14 +43832,17 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 2,
 				["removedAlts"] = {
 				},
-				["isOnline"] = true,
-				["officerNote"] = "",
-				["guildRep"] = 8,
+				["isOnline"] = false,
+				["officerNote"] = "scimmia",
+				["guildRep"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43861,10 +43864,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
-				["achievementPoints"] = 3155,
+				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
 			["Kimarit-Sethraliss"] = {
@@ -43888,7 +43888,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43902,7 +43902,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kimarit-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 558,
+				["lastOnline"] = 581,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -43931,7 +43931,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -43953,9 +43956,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -43980,7 +43980,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -43994,7 +43994,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Omegasoul-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3868,
+				["lastOnline"] = 3891,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44023,7 +44023,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44045,9 +44048,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44072,7 +44072,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44086,7 +44086,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tsubestia-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 920,
+				["lastOnline"] = 942,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44115,7 +44115,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44137,9 +44140,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44164,7 +44164,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44178,7 +44178,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Atrèyu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2892,
+				["lastOnline"] = 2924,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44207,7 +44207,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44229,9 +44232,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 67,
 			},
@@ -44256,7 +44256,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44270,7 +44270,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Adrenya-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1674,
+				["lastOnline"] = 1696,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44299,7 +44299,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44321,9 +44324,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44348,7 +44348,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44367,7 +44367,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fabioalpha-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5,
+				["lastOnline"] = 28,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44397,7 +44397,11 @@ GRM_GuildMemberHistory_Save = {
 					"29 Jun '21 14:07", -- [1]
 					1624924860, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+					"29 Jun '21 14:07", -- [1]
+				},
 				["events"] = {
 					{
 						{
@@ -44419,10 +44423,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"29 Jun '21 14:07", -- [1]
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 7,
 			},
@@ -44447,7 +44447,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44461,7 +44461,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Trappista-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5733,
+				["lastOnline"] = 5755,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44490,7 +44490,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44512,9 +44515,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44539,7 +44539,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44553,7 +44553,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yukeyuk-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3892,
+				["lastOnline"] = 3915,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44582,7 +44582,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44604,9 +44607,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44631,7 +44631,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44645,7 +44645,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Brember-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2039,
+				["lastOnline"] = 2061,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44674,7 +44674,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44696,9 +44699,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44723,7 +44723,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44737,7 +44737,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Fharhenheit-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3,
+				["lastOnline"] = 2,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44766,7 +44766,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44788,9 +44791,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44815,7 +44815,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44829,7 +44829,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lunabianca-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1018,
+				["lastOnline"] = 1040,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44858,7 +44858,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44880,9 +44883,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44907,7 +44907,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -44921,7 +44921,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dainar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 17,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -44950,7 +44950,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -44972,9 +44975,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -44999,7 +44999,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45013,7 +45013,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Porcojisus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3210,
+				["lastOnline"] = 3232,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45042,7 +45042,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45064,9 +45067,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45091,7 +45091,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45105,7 +45105,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mattewus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2037,
+				["lastOnline"] = 2059,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45134,7 +45134,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45156,9 +45159,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45183,7 +45183,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45197,7 +45197,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Xubuntu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3082,
+				["lastOnline"] = 3104,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45226,7 +45226,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45248,9 +45251,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45275,7 +45275,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45289,7 +45289,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tricex-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3607,
+				["lastOnline"] = 3630,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45318,7 +45318,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45340,9 +45343,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45367,7 +45367,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45381,7 +45381,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nakut-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 79,
+				["lastOnline"] = 101,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45410,7 +45410,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45432,9 +45435,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45459,7 +45459,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45473,7 +45473,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Garlaw-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 26,
+				["lastOnline"] = 48,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45502,7 +45502,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45524,9 +45527,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45551,7 +45551,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45565,7 +45565,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tomare-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4887,
+				["lastOnline"] = 4909,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45594,7 +45594,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45616,9 +45619,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45643,7 +45643,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45657,7 +45657,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Madamachips-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 48,
+				["lastOnline"] = 70,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45686,7 +45686,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45708,9 +45711,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45735,7 +45735,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45749,7 +45749,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Caiazzo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3178,
+				["lastOnline"] = 3200,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45778,7 +45778,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45800,9 +45803,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45827,7 +45827,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45841,7 +45841,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cittø-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4127,
+				["lastOnline"] = 4150,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45870,7 +45870,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45892,9 +45895,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -45919,7 +45919,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -45933,7 +45933,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Thyej-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 11080,
+				["lastOnline"] = 11103,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -45962,7 +45962,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -45984,9 +45987,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46011,7 +46011,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46025,7 +46025,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Codyellow-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 19,
+				["lastOnline"] = 42,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46054,7 +46054,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46076,9 +46079,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46093,7 +46093,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Vallata dell'Eterna Primavera",
 				["class"] = "PALADIN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -46103,7 +46103,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46117,7 +46117,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Krokow-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 175,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46146,7 +46146,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46168,9 +46171,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46195,7 +46195,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46209,7 +46209,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sílikan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 294,
+				["lastOnline"] = 317,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46238,7 +46238,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46260,9 +46263,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46287,7 +46287,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46301,7 +46301,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ceolwulf-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3690,
+				["lastOnline"] = 3713,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46330,7 +46330,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46352,9 +46355,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46379,7 +46379,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46393,7 +46393,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Favatron-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 236,
+				["lastOnline"] = 258,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46415,10 +46415,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"5 May '21 21:30", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -46440,7 +46436,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"5 May '21 21:30", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"5 May '21 21:30", -- [1]
 					1620172860, -- [2]
@@ -46463,7 +46463,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Uldum",
+				["zone"] = "Visione di Orgrimmar",
 				["class"] = "WARRIOR",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -46473,7 +46473,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242769,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46516,7 +46516,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46538,9 +46541,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 4020,
 				["level"] = 120,
 			},
@@ -46565,7 +46565,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46579,7 +46579,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Brutum-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 21,
+				["lastOnline"] = 43,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46608,7 +46608,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46630,9 +46633,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46657,7 +46657,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46671,7 +46671,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Seslena-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1751,
+				["lastOnline"] = 1773,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46700,7 +46700,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46722,9 +46725,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46749,7 +46749,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46763,7 +46763,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Educata-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4524,
+				["lastOnline"] = 4547,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46792,7 +46792,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46814,9 +46817,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46841,7 +46841,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46855,7 +46855,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gbciaciolo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 784,
+				["lastOnline"] = 806,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46884,7 +46884,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46906,9 +46909,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -46933,7 +46933,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -46947,7 +46947,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Calliut-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 539,
+				["lastOnline"] = 561,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -46976,7 +46976,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -46998,9 +47001,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47025,7 +47025,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47039,7 +47039,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nexsacrament-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 203,
+				["lastOnline"] = 225,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47068,7 +47068,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47090,9 +47093,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47117,7 +47117,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47131,7 +47131,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lothbròk-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2062,
+				["lastOnline"] = 2084,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47160,7 +47160,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47182,9 +47185,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47209,7 +47209,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47223,7 +47223,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Gnorante-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4247,
+				["lastOnline"] = 4270,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47252,7 +47252,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47274,9 +47277,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47301,7 +47301,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47315,7 +47315,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kayronz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9597,
+				["lastOnline"] = 9620,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47344,7 +47344,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47366,9 +47369,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47393,7 +47393,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47407,7 +47407,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lunartep-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1376,
+				["lastOnline"] = 1398,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47436,7 +47436,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47458,9 +47461,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47485,7 +47485,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47499,7 +47499,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Amiam-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1605,
+				["lastOnline"] = 1627,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47528,7 +47528,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47550,9 +47553,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47577,7 +47577,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47591,7 +47591,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Monksparrow-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6012,
+				["lastOnline"] = 6034,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47620,7 +47620,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47642,9 +47645,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47669,7 +47669,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47683,7 +47683,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Slean-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2663,
+				["lastOnline"] = 2685,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47712,7 +47712,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47734,9 +47737,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47761,7 +47761,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47775,7 +47775,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Føzzy-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1089,
+				["lastOnline"] = 1111,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47804,7 +47804,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47826,9 +47829,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47853,7 +47853,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47867,7 +47867,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hérmione-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 368,
+				["lastOnline"] = 391,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47896,7 +47896,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -47918,9 +47921,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -47945,7 +47945,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -47959,7 +47959,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ripto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 4,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -47988,7 +47988,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 0,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48010,9 +48013,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 0,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48037,7 +48037,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48056,7 +48056,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pertekk-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 337,
+				["lastOnline"] = 359,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48078,6 +48078,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"15 Jun '21 14:02", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -48099,11 +48104,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"15 Jun '21 14:02", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"15 Jun '21 14:02", -- [1]
 					1623715260, -- [2]
@@ -48136,7 +48136,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48150,7 +48150,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mascalzone-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6376,
+				["lastOnline"] = 6398,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48179,7 +48179,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48201,9 +48204,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48228,7 +48228,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48242,7 +48242,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shdiame-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2354,
+				["lastOnline"] = 2376,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48271,7 +48271,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48293,9 +48296,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48320,7 +48320,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48334,7 +48334,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Darkvincent-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2545,
+				["lastOnline"] = 2568,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48363,7 +48363,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48385,9 +48388,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48412,7 +48412,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48426,7 +48426,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Erfreddo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4363,
+				["lastOnline"] = 4396,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48455,7 +48455,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48477,9 +48480,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48504,7 +48504,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48518,7 +48518,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shaxir-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 42,
+				["lastOnline"] = 65,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48547,7 +48547,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48569,9 +48572,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48596,7 +48596,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48610,7 +48610,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lucanø-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2773,
+				["lastOnline"] = 2795,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48639,7 +48639,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48661,9 +48664,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48688,7 +48688,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48702,7 +48702,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kyuzz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2036,
+				["lastOnline"] = 2059,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48731,7 +48731,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48753,9 +48756,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48780,7 +48780,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48794,7 +48794,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ilnonmorto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1681,
+				["lastOnline"] = 1703,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48823,7 +48823,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48845,9 +48848,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48872,7 +48872,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48886,7 +48886,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sbismu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3420,
+				["lastOnline"] = 3443,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -48915,7 +48915,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -48937,9 +48940,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -48964,7 +48964,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -48978,7 +48978,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Goldbrake-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 358,
+				["lastOnline"] = 381,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49007,7 +49007,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49029,9 +49032,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 100,
 			},
@@ -49056,7 +49056,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49070,7 +49070,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Feinroarsh-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 22,
+				["lastOnline"] = 19,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49099,7 +49099,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49121,9 +49124,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49148,7 +49148,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49162,7 +49162,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Smashingrey-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 10732,
+				["lastOnline"] = 10754,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49191,7 +49191,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49213,9 +49216,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49240,7 +49240,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49254,7 +49254,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kreferis-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5,
+				["lastOnline"] = 4,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49283,7 +49283,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 2,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49305,9 +49308,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 2,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49332,7 +49332,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49346,7 +49346,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hellonfire-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 786,
+				["lastOnline"] = 808,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49375,7 +49375,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49397,9 +49400,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49424,7 +49424,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49438,7 +49438,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ellorie-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 69,
+				["lastOnline"] = 91,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49467,7 +49467,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49489,9 +49492,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49516,7 +49516,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49530,7 +49530,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hellondon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1530,
+				["lastOnline"] = 1553,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49559,7 +49559,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49581,9 +49584,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49598,7 +49598,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Santuario delle Sette Stelle",
 				["class"] = "MAGE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -49608,7 +49608,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49622,7 +49622,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Orlandoboom-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49651,7 +49651,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49673,9 +49676,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49700,7 +49700,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49714,7 +49714,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Skarfaccia-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 10365,
+				["lastOnline"] = 10388,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49743,7 +49743,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49765,9 +49768,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49792,7 +49792,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49806,7 +49806,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Furchetta-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 381,
+				["lastOnline"] = 403,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49835,7 +49835,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49857,9 +49860,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49884,7 +49884,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49898,7 +49898,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Palmino-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 273,
+				["lastOnline"] = 296,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -49927,7 +49927,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -49949,9 +49952,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -49976,7 +49976,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -49990,7 +49990,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Cerediirn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3848,
+				["lastOnline"] = 3871,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50019,7 +50019,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50041,9 +50044,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50068,7 +50068,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50082,7 +50082,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shebaì-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1518,
+				["lastOnline"] = 1540,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50111,7 +50111,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50133,9 +50136,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50160,7 +50160,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50174,7 +50174,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Forgrin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1627,
+				["lastOnline"] = 1649,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50203,7 +50203,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50225,9 +50228,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50252,7 +50252,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50266,7 +50266,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Elferico-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1680,
+				["lastOnline"] = 1702,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50295,7 +50295,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50317,9 +50320,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 29,
 			},
@@ -50344,7 +50344,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50358,7 +50358,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Horfeius-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1339,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50387,7 +50387,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50409,9 +50412,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50436,7 +50436,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50450,7 +50450,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lupioppu-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 25,
+				["lastOnline"] = 47,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50479,7 +50479,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50501,9 +50504,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50528,7 +50528,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50542,7 +50542,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Redaemon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1245,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50571,7 +50571,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50593,9 +50596,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50620,7 +50620,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50634,7 +50634,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nyrda-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 385,
+				["lastOnline"] = 407,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50663,7 +50663,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50685,9 +50688,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50712,7 +50712,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50726,7 +50726,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ashlèy-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3426,
+				["lastOnline"] = 3448,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50755,7 +50755,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50777,9 +50780,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50804,7 +50804,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50818,7 +50818,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Malphasat-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 96,
+				["lastOnline"] = 118,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50847,7 +50847,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50869,9 +50872,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50896,7 +50896,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -50910,7 +50910,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Texnort-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7511,
+				["lastOnline"] = 7533,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -50939,7 +50939,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -50961,9 +50964,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -50988,7 +50988,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51002,7 +51002,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Moonquake-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 14183,
+				["lastOnline"] = 14205,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51031,7 +51031,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51053,9 +51056,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51080,7 +51080,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51094,7 +51094,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Matomaz-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4457,
+				["lastOnline"] = 4479,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51123,7 +51123,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51145,9 +51148,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51172,7 +51172,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51186,7 +51186,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sylxp-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 275,
+				["lastOnline"] = 297,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51215,7 +51215,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51237,9 +51240,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51264,7 +51264,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51278,7 +51278,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Tharundil-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1676,
+				["lastOnline"] = 1699,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51307,7 +51307,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51329,9 +51332,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51356,7 +51356,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51370,7 +51370,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Shweppès-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2451,
+				["lastOnline"] = 2473,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51399,7 +51399,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51421,9 +51424,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51448,7 +51448,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51462,7 +51462,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Pìobotte-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1504,
+				["lastOnline"] = 1526,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51491,7 +51491,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51513,9 +51516,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51540,7 +51540,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51554,7 +51554,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sylvys-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 643,
+				["lastOnline"] = 665,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51583,7 +51583,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51605,9 +51608,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51632,7 +51632,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51646,7 +51646,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Polpettøne-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4472,
+				["lastOnline"] = 4494,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51675,7 +51675,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51697,9 +51700,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51724,7 +51724,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51738,7 +51738,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Phelpsina-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 823,
+				["lastOnline"] = 845,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51767,7 +51767,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51789,9 +51792,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51816,7 +51816,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51830,7 +51830,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Azhräel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 97,
+				["lastOnline"] = 119,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51859,7 +51859,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51881,9 +51884,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -51908,7 +51908,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -51922,7 +51922,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Elfalassion-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 21,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -51944,14 +51944,17 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 2,
 				["removedAlts"] = {
 				},
-				["isOnline"] = true,
+				["isOnline"] = false,
 				["officerNote"] = "Davide detto il piastrellista",
-				["guildRep"] = 8,
+				["guildRep"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -51973,10 +51976,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
-				["achievementPoints"] = 5055,
+				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
 			["Vairæ-Sethraliss"] = {
@@ -52000,7 +52000,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52019,7 +52019,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vairæ-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 130,
+				["lastOnline"] = 153,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52041,10 +52041,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 111,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"20 May '21 23:50", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -52066,7 +52062,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"20 May '21 23:50", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"20 May '21 23:50", -- [1]
 					1621468860, -- [2]
@@ -52099,7 +52099,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52113,7 +52113,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Vergilisaak-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3223,
+				["lastOnline"] = 3246,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52142,7 +52142,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52164,9 +52167,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52191,7 +52191,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52205,7 +52205,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nileen-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3592,
+				["lastOnline"] = 3614,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52234,7 +52234,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52256,9 +52259,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52283,7 +52283,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52297,7 +52297,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Soulstorm-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6012,
+				["lastOnline"] = 6035,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52326,7 +52326,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 1,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52348,9 +52351,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 1,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52375,7 +52375,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52389,7 +52389,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Obelixos-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 176,
+				["lastOnline"] = 199,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52418,7 +52418,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52440,9 +52443,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52467,7 +52467,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52481,7 +52481,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Horfeo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1339,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52510,7 +52510,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52532,9 +52535,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52559,7 +52559,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52573,7 +52573,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Bischero-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3060,
+				["lastOnline"] = 3083,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52602,7 +52602,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52624,9 +52627,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52641,7 +52641,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Baia di Tiragarde",
 				["class"] = "DEATHKNIGHT",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -52651,7 +52651,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52665,7 +52665,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Dulsar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 175,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52694,7 +52694,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52716,9 +52719,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52743,7 +52743,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52757,7 +52757,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zopporior-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5583,
+				["lastOnline"] = 5605,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52786,7 +52786,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52808,9 +52811,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52835,7 +52835,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52849,7 +52849,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Nemeas-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 171,
+				["lastOnline"] = 194,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52878,7 +52878,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52900,9 +52903,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -52927,7 +52927,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -52941,7 +52941,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Warcurie-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6267,
+				["lastOnline"] = 6289,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -52970,7 +52970,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -52992,9 +52995,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53019,7 +53019,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53033,7 +53033,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Kravio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5761,
+				["lastOnline"] = 5784,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53062,7 +53062,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53084,9 +53087,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53111,7 +53111,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53125,7 +53125,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Khaterian-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5047,
+				["lastOnline"] = 5070,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53154,7 +53154,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53176,9 +53179,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53203,7 +53203,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53217,7 +53217,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arkandiel-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 782,
+				["lastOnline"] = 804,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53246,7 +53246,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53268,9 +53271,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53295,7 +53295,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53309,7 +53309,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Xylya-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1897,
+				["lastOnline"] = 1919,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53338,7 +53338,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53360,9 +53363,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53387,7 +53387,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53401,7 +53401,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Zomgasm-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 170,
+				["lastOnline"] = 192,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53430,7 +53430,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53452,9 +53455,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53479,7 +53479,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53493,7 +53493,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Scriptø-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3919,
+				["lastOnline"] = 3941,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53522,7 +53522,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53544,9 +53547,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53571,7 +53571,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53585,7 +53585,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Riundo-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1800,
+				["lastOnline"] = 1822,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53614,7 +53614,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53636,9 +53639,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53663,7 +53663,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53677,7 +53677,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Narsarian-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3675,
+				["lastOnline"] = 3697,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53706,7 +53706,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -53728,9 +53731,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -53755,7 +53755,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53774,7 +53774,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sfigatto-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 499,
+				["lastOnline"] = 521,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53796,11 +53796,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 65,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 4,
 				["joinDate"] = {
 					"30 May '21 15:33", -- [1]
 				},
-				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -53822,6 +53821,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"30 May '21 15:33", -- [1]
 					1622332860, -- [2]
@@ -53854,7 +53854,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53895,6 +53895,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"22 Jun '21 20:12", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -53916,11 +53921,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"22 Jun '21 20:12", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"22 Jun '21 20:12", -- [1]
 					1624320060, -- [2]
@@ -53953,7 +53953,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -53967,7 +53967,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Arturoduro-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3788,
+				["lastOnline"] = 3810,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -53996,7 +53996,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54018,9 +54021,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54045,7 +54045,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54069,7 +54069,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Rhytta-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 24,
+				["lastOnline"] = 46,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"21 May '21 10:53", -- [1]
@@ -54094,11 +54094,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "Pingu",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"", -- [1]
-					"19 Jun '21 18:13", -- [2]
-				},
 				["events"] = {
 					{
 						{
@@ -54120,7 +54115,12 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+					"19 Jun '21 18:13", -- [2]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -54153,7 +54153,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54167,7 +54167,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Rheshur-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 167,
+				["lastOnline"] = 190,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54189,11 +54189,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["joinDate"] = {
 					"25 Apr '21 23:42", -- [1]
 				},
-				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -54215,6 +54214,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"25 Apr '21 23:42", -- [1]
 					1619308860, -- [2]
@@ -54247,7 +54247,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54261,7 +54261,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Hexeris-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 172,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54290,7 +54290,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54312,9 +54315,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54339,7 +54339,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54353,7 +54353,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Raluf-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 10230,
+				["lastOnline"] = 10252,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54382,7 +54382,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54404,9 +54407,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54431,7 +54431,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54445,7 +54445,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mahonri-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4501,
+				["lastOnline"] = 4523,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54474,7 +54474,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54496,9 +54499,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54523,7 +54523,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54537,7 +54537,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Mgnwhitejack-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 7,
+				["lastOnline"] = 2,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54566,7 +54566,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 3,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54588,9 +54591,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 3,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54615,7 +54615,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54629,7 +54629,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sacranima-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3045,
+				["lastOnline"] = 3067,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54658,7 +54658,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54680,9 +54683,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 29,
 			},
@@ -54707,7 +54707,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54721,7 +54721,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Talden-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 4243,
+				["lastOnline"] = 4266,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54750,7 +54750,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54772,9 +54775,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54799,7 +54799,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54813,7 +54813,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Michizane-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 5110,
+				["lastOnline"] = 5132,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54842,7 +54842,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54864,9 +54867,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54891,7 +54891,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -54905,7 +54905,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Oblider-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1823,
+				["lastOnline"] = 1845,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -54934,7 +54934,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -54956,9 +54959,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -54973,7 +54973,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Visione di Orgrimmar",
+				["zone"] = "Porto di Boralus",
 				["class"] = "DRUID",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -54983,7 +54983,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625162466,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55019,14 +55019,17 @@ GRM_GuildMemberHistory_Save = {
 				["sex"] = 2,
 				["removedAlts"] = {
 				},
-				["isOnline"] = true,
+				["isOnline"] = false,
 				["officerNote"] = "",
-				["guildRep"] = 6,
+				["guildRep"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55048,10 +55051,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
-				["achievementPoints"] = 3095,
+				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
 			["Sipario-Sethraliss"] = {
@@ -55075,7 +55075,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55089,7 +55089,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sipario-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 224,
+				["lastOnline"] = 247,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55111,10 +55111,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 5,
-				["joinDate"] = {
-					"9 May '21 15:17", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -55136,7 +55132,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"9 May '21 15:17", -- [1]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"9 May '21 15:17", -- [1]
 					1620518460, -- [2]
@@ -55169,7 +55169,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55183,7 +55183,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Supernàna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 475,
+				["lastOnline"] = 497,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55212,7 +55212,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55234,9 +55237,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55261,7 +55261,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55275,7 +55275,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Istardrona-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 335,
+				["lastOnline"] = 357,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55304,7 +55304,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55326,9 +55329,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55353,7 +55353,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55372,7 +55372,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Reghiaccio-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 103,
+				["lastOnline"] = 125,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55418,11 +55418,6 @@ GRM_GuildMemberHistory_Save = {
 					"27 May '21 14:21", -- [1]
 					1622073660, -- [2]
 				},
-				["rankIndex"] = 1,
-				["isMain"] = false,
-				["joinDate"] = {
-					"27 May '21 14:21", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -55444,6 +55439,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 1,
+				["joinDate"] = {
+					"27 May '21 14:21", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55458,7 +55458,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Ny'alotha, la Città Risvegliata",
+				["zone"] = "Exodar",
 				["class"] = "SHAMAN",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -55468,7 +55468,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55482,7 +55482,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ryumajin-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 20,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55511,7 +55511,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55533,9 +55536,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55560,7 +55560,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55574,7 +55574,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Stendipanni-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 6008,
+				["lastOnline"] = 6030,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55603,7 +55603,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55625,9 +55628,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55652,7 +55652,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55666,7 +55666,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Xophob-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1770,
+				["lastOnline"] = 1792,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55695,7 +55695,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55717,9 +55720,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 110,
 			},
@@ -55744,7 +55744,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55758,7 +55758,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Yursan-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9617,
+				["lastOnline"] = 9639,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55787,7 +55787,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55809,9 +55812,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55836,7 +55836,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55850,7 +55850,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Uciddon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 237,
+				["lastOnline"] = 260,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55879,7 +55879,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -55901,9 +55904,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -55928,7 +55928,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -55947,7 +55947,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Sdentato-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 149,
+				["lastOnline"] = 171,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -55969,6 +55969,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"6 May '21 17:57", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -55990,11 +55995,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"6 May '21 17:57", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"6 May '21 17:57", -- [1]
 					1620259260, -- [2]
@@ -56027,7 +56027,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56041,7 +56041,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Likius-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 916,
+				["lastOnline"] = 939,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56070,7 +56070,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -56092,9 +56095,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -56119,7 +56119,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56138,7 +56138,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Marhauter-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 128,
+				["lastOnline"] = 150,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56160,6 +56160,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 34,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"5 Jun '21 09:52", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -56181,11 +56186,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"5 Jun '21 09:52", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"5 Jun '21 09:52", -- [1]
 					1622851260, -- [2]
@@ -56218,7 +56218,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56232,7 +56232,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Treviar-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2165,
+				["lastOnline"] = 2197,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56261,7 +56261,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -56283,9 +56286,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -56310,7 +56310,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56329,7 +56329,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Avazor-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 242,
+				["lastOnline"] = 264,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56351,11 +56351,10 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["isMain"] = false,
+				["rankIndex"] = 5,
 				["joinDate"] = {
 					"11 Jun '21 21:37", -- [1]
 				},
-				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -56377,6 +56376,7 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["isMain"] = false,
 				["verifiedJoinDate"] = {
 					"11 Jun '21 21:37", -- [1]
 					1623369660, -- [2]
@@ -56399,7 +56399,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Valle dei Sacraonda",
+				["zone"] = "Porto di Boralus",
 				["class"] = "DEMONHUNTER",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -56409,21 +56409,21 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242559,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
-						"Alt Pinguino", -- [1]
-						"30 Jun '21", -- [2]
-						1625011260, -- [3]
+						"Pingu", -- [1]
+						"2 Jul '21", -- [2]
+						1625184060, -- [3]
 					}, -- [1]
 				},
-				["rankName"] = "Alt Pinguino",
+				["rankName"] = "Pingu",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
 				["name"] = "Veòn-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1,
+				["lastOnline"] = 0,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56432,8 +56432,8 @@ GRM_GuildMemberHistory_Save = {
 				},
 				["race"] = "NightElf",
 				["verifiedPromoteDate"] = {
-					"30 Jun '21 16:18", -- [1]
-					1625011260, -- [2]
+					"2 Jul '21 17:53", -- [1]
+					1625184060, -- [2]
 				},
 				["alts"] = {
 				},
@@ -56443,6 +56443,13 @@ GRM_GuildMemberHistory_Save = {
 				["reasonBanned"] = "",
 				["isUnknown"] = false,
 				["oldRank"] = "",
+				["level"] = 120,
+				["achievementPoints"] = 455,
+				["isMain"] = false,
+				["joinDate"] = {
+					"30 Jun '21 16:18", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -56464,20 +56471,13 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["level"] = 120,
-				["achievementPoints"] = 0,
-				["joinDate"] = {
-					"30 Jun '21 16:18", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"30 Jun '21 16:18", -- [1]
 					1625011260, -- [2]
 				},
-				["guildRep"] = 4,
+				["guildRep"] = 7,
 				["officerNote"] = "",
-				["isOnline"] = false,
+				["isOnline"] = true,
 				["removedAlts"] = {
 				},
 				["sex"] = 2,
@@ -56503,7 +56503,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56517,7 +56517,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Ömegasoül-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 3276,
+				["lastOnline"] = 3298,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56546,7 +56546,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 5,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -56568,9 +56571,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 5,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -56595,7 +56595,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56609,7 +56609,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lunany-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 0,
+				["lastOnline"] = 4,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56631,6 +56631,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"15 Jun '21 23:37", -- [1]
+				},
+				["rankIndex"] = 5,
 				["events"] = {
 					{
 						{
@@ -56652,11 +56657,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"15 Jun '21 23:37", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"15 Jun '21 23:37", -- [1]
 					1623715260, -- [2]
@@ -56689,7 +56689,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56703,7 +56703,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Lèon-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1481,
+				["lastOnline"] = 1504,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56733,11 +56733,6 @@ GRM_GuildMemberHistory_Save = {
 					"1 May '21 14:32", -- [1]
 					1619827260, -- [2]
 				},
-				["rankIndex"] = 5,
-				["isMain"] = false,
-				["joinDate"] = {
-					"1 May '21 14:32", -- [1]
-				},
 				["events"] = {
 					{
 						{
@@ -56759,6 +56754,11 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["rankIndex"] = 5,
+				["joinDate"] = {
+					"1 May '21 14:32", -- [1]
+				},
+				["isMain"] = false,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -56773,7 +56773,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Porto di Boralus",
+				["zone"] = "Vallata dell'Eterna Primavera",
 				["class"] = "MAGE",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -56797,7 +56797,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Napellus-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 9,
+				["lastOnline"] = 6,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56818,18 +56818,14 @@ GRM_GuildMemberHistory_Save = {
 				["isUnknown"] = false,
 				["oldRank"] = "",
 				["sex"] = 2,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["removedAlts"] = {
 				},
 				["joinDate"] = {
 					"31 May '21 10:07", -- [1]
 				},
-				["isMain"] = false,
 				["rankIndex"] = 5,
-				["verifiedJoinDate"] = {
-					"31 May '21 10:07", -- [1]
-					1622419260, -- [2]
-				},
+				["isMain"] = false,
 				["events"] = {
 					{
 						{
@@ -56851,6 +56847,10 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["verifiedJoinDate"] = {
+					"31 May '21 10:07", -- [1]
+					1622419260, -- [2]
+				},
 				["officerNote"] = "",
 				["guildRep"] = 4,
 				["isOnline"] = false,
@@ -56858,7 +56858,7 @@ GRM_GuildMemberHistory_Save = {
 			},
 			["Lupodrogato-Sethraliss"] = {
 				["GUID"] = "Player-10-0007CA9F",
-				["note"] = "off escadora",
+				["note"] = "main tank",
 				["customNote"] = {
 					true, -- [1]
 					0, -- [2]
@@ -56867,7 +56867,7 @@ GRM_GuildMemberHistory_Save = {
 					false, -- [5]
 					"", -- [6]
 				},
-				["zone"] = "Sala del Cuore",
+				["zone"] = "Zuldazar",
 				["class"] = "DRUID",
 				["mainStatusChangeTime"] = 0,
 				["bannedInfo"] = {
@@ -56877,21 +56877,21 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
-						"Alt Pinguino", -- [1]
-						"22 Jun '21", -- [2]
-						1624320060, -- [3]
+						"Pingu", -- [1]
+						"1 Jul '21", -- [2]
+						1625097660, -- [3]
 					}, -- [1]
 				},
-				["rankName"] = "Alt Pinguino",
+				["rankName"] = "Pingu",
 				["recommendToKick"] = false,
 				["birthdayUnknown"] = false,
 				["name"] = "Lupodrogato-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 2,
+				["lastOnline"] = 3,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -56900,8 +56900,8 @@ GRM_GuildMemberHistory_Save = {
 				},
 				["race"] = "Worgen",
 				["verifiedPromoteDate"] = {
-					"22 Jun '21 00:01", -- [1]
-					1624320060, -- [2]
+					"1 Jul '21 21:04", -- [1]
+					1625097660, -- [2]
 				},
 				["alts"] = {
 				},
@@ -56913,6 +56913,11 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "",
 				["level"] = 120,
 				["achievementPoints"] = 0,
+				["isMain"] = false,
+				["joinDate"] = {
+					"22 Jun '21 00:01", -- [1]
+				},
+				["rankIndex"] = 4,
 				["events"] = {
 					{
 						{
@@ -56934,11 +56939,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-					"22 Jun '21 00:01", -- [1]
-				},
-				["isMain"] = false,
-				["rankIndex"] = 5,
 				["verifiedJoinDate"] = {
 					"22 Jun '21 00:01", -- [1]
 					1624320060, -- [2]
@@ -56971,7 +56971,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -56985,7 +56985,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Karkna-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 1404,
+				["lastOnline"] = 1426,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 				},
@@ -57014,7 +57014,10 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [1]
 					0, -- [2]
 				},
+				["rankIndex"] = 4,
 				["isMain"] = false,
+				["joinDate"] = {
+				},
 				["events"] = {
 					{
 						{
@@ -57036,9 +57039,6 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
-				["joinDate"] = {
-				},
-				["rankIndex"] = 4,
 				["achievementPoints"] = 0,
 				["level"] = 120,
 			},
@@ -57063,7 +57063,7 @@ GRM_GuildMemberHistory_Save = {
 					"", -- [4]
 				},
 				["status"] = 0,
-				["timeEnteredZone"] = 1625160792,
+				["timeEnteredZone"] = 1625242287,
 				["joinDateUnknown"] = false,
 				["rankHistory"] = {
 					{
@@ -57087,7 +57087,7 @@ GRM_GuildMemberHistory_Save = {
 				["birthdayUnknown"] = false,
 				["name"] = "Klaplongen-Sethraliss",
 				["safeList"] = false,
-				["lastOnline"] = 74,
+				["lastOnline"] = 97,
 				["isMobile"] = false,
 				["leftGuildDate"] = {
 					"17 Jun '21 10:32", -- [1]
@@ -57112,11 +57112,6 @@ GRM_GuildMemberHistory_Save = {
 				["oldRank"] = "Pingu",
 				["level"] = 120,
 				["achievementPoints"] = 0,
-				["rankIndex"] = 4,
-				["joinDate"] = {
-					"", -- [1]
-					"27 Jun '21 17:36", -- [2]
-				},
 				["events"] = {
 					{
 						{
@@ -57138,7 +57133,12 @@ GRM_GuildMemberHistory_Save = {
 						0, -- [4]
 					}, -- [2]
 				},
+				["joinDate"] = {
+					"", -- [1]
+					"27 Jun '21 17:36", -- [2]
+				},
 				["isMain"] = false,
+				["rankIndex"] = 4,
 				["verifiedJoinDate"] = {
 					"", -- [1]
 					0, -- [2]
@@ -71113,6 +71113,195 @@ GRM_LogReport_Save = {
 				false, -- [14]
 				"", -- [15]
 			}, -- [813]
+			{
+				5, -- [1]
+				"2 Lug '21 17:04 : Nota degli Ufficiali \"scimmia\" per |CFFFF7D0AOutofmind|r aggiunta", -- [2]
+				"|CFFFF7D0AOutofmind|r", -- [3]
+				"", -- [4]
+				"scimmia", -- [5]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [6]
+			}, -- [814]
+			{
+				4, -- [1]
+				"2 Lug '21 17:04 : Nota Pubblica di |CFFFF7D0ALupodrogato|r cambiata da \"off escadora\" a \"main tank\"", -- [2]
+				"|CFFFF7D0ALupodrogato|r", -- [3]
+				"off escadora", -- [4]
+				"main tank", -- [5]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [6]
+			}, -- [815]
+			{
+				3, -- [1]
+				"2 Lug '21 17:04 : |CFFFF7D0AMalarkeyz|r has Reached the |cffafffdc120|r Level Cap! |cffffd600***|r |cffafffdcHurray!|r|cffffd600***|r (+3 livelli)", -- [2]
+				"|CFFFF7D0AMalarkeyz|r", -- [3]
+				0, -- [4]
+				120, -- [5]
+				3, -- [6]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [7]
+				true, -- [8]
+				"Malarkeyz-Sethraliss", -- [9]
+			}, -- [816]
+			{
+				3, -- [1]
+				"2 Lug '21 17:04 : |CFF9482C9Bigsavof|r è salito al 88 (+1 livello)", -- [2]
+				"|CFF9482C9Bigsavof|r", -- [3]
+				0, -- [4]
+				88, -- [5]
+				1, -- [6]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [7]
+				false, -- [8]
+				"Bigsavof-Sethraliss", -- [9]
+			}, -- [817]
+			{
+				3, -- [1]
+				"2 Lug '21 17:04 : |CFFF58CBAAleregor|r è salito al 116 (+3 livelli)", -- [2]
+				"|CFFF58CBAAleregor|r", -- [3]
+				0, -- [4]
+				116, -- [5]
+				3, -- [6]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [7]
+				false, -- [8]
+				"Aleregor-Sethraliss", -- [9]
+			}, -- [818]
+			{
+				1, -- [1]
+				"1 Lug '21 21:04 : |CFFFFFFFFHéxèn|r ha PROMOSSO |CFFFF7D0ALupodrogato|r da Alt Pinguino a Pingu", -- [2]
+				true, -- [3]
+				"|CFFFFFFFFHéxèn|r", -- [4]
+				"|CFFFF7D0ALupodrogato|r", -- [5]
+				"Alt Pinguino", -- [6]
+				"Pingu", -- [7]
+				{
+					1, -- [1]
+					7, -- [2]
+					21, -- [3]
+					21, -- [4]
+					4, -- [5]
+				}, -- [8]
+			}, -- [819]
+			{
+				14, -- [1]
+				"2 Lug '21 17:04 : |CFF0070DEJuggor|r è tornato Online dopo essere stato Inattivo per 1 mese, 25 giorni", -- [2]
+				"|CFF0070DEJuggor|r", -- [3]
+				"1 mese, 25 giorni", -- [4]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [5]
+			}, -- [820]
+			{
+				14, -- [1]
+				"2 Lug '21 17:04 : |CFF9482C9Redaemon|r è tornato Online dopo essere stato Inattivo per 1 mese, 21 giorni", -- [2]
+				"|CFF9482C9Redaemon|r", -- [3]
+				"1 mese, 21 giorni", -- [4]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [5]
+			}, -- [821]
+			{
+				14, -- [1]
+				"2 Lug '21 17:04 : |CFF69CCF0Horbus|r è tornato Online dopo essere stato Inattivo per 1 mese, 25 giorni", -- [2]
+				"|CFF69CCF0Horbus|r", -- [3]
+				"1 mese, 25 giorni", -- [4]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [5]
+			}, -- [822]
+			{
+				14, -- [1]
+				"2 Lug '21 17:04 : |CFFABD473Ryuend|r è tornato Online dopo essere stato Inattivo per 1 mese, 6 giorni", -- [2]
+				"|CFFABD473Ryuend|r", -- [3]
+				"1 mese, 6 giorni", -- [4]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [5]
+			}, -- [823]
+			{
+				14, -- [1]
+				"2 Lug '21 17:04 : |CFFFFFFFFHorfeius|r è tornato Online dopo essere stato Inattivo per 1 mese, 25 giorni", -- [2]
+				"|CFFFFFFFFHorfeius|r", -- [3]
+				"1 mese, 25 giorni", -- [4]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [5]
+			}, -- [824]
+			{
+				14, -- [1]
+				"2 Lug '21 17:04 : |CFFABD473Horfeo|r è tornato Online dopo essere stato Inattivo per 1 mese, 25 giorni", -- [2]
+				"|CFFABD473Horfeo|r", -- [3]
+				"1 mese, 25 giorni", -- [4]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					4, -- [5]
+				}, -- [5]
+			}, -- [825]
+			{
+				1, -- [1]
+				"2 Lug '21 17:53 : |CFF69CCF0Deltaecho|r ha PROMOSSO |CFFA330C9Veòn|r da Alt Pinguino a Pingu", -- [2]
+				true, -- [3]
+				"|CFF69CCF0Deltaecho|r", -- [4]
+				"|CFFA330C9Veòn|r", -- [5]
+				"Alt Pinguino", -- [6]
+				"Pingu", -- [7]
+				{
+					2, -- [1]
+					7, -- [2]
+					21, -- [3]
+					17, -- [4]
+					53, -- [5]
+				}, -- [8]
+			}, -- [826]
 		},
 	},
 	["H"] = {
@@ -71333,20 +71522,20 @@ GRM_AddonSettings_Save = {
 					["numDaysOrMonths"] = 12,
 					["rankFilter"] = false,
 					["applyRulesTo"] = 1,
-					["ranks"] = {
-					},
+					["noteMatch"] = false,
 					["notesToCheck"] = {
 						true, -- [1]
 						true, -- [2]
 						true, -- [3]
 					},
 					["rep"] = 4,
-					["noteMatch"] = false,
-					["customlog"] = false,
-					["levelFilter"] = false,
-					["name"] = "Kick Rule 1",
+					["ranks"] = {
+					},
 					["classes"] = {
 					},
+					["levelFilter"] = false,
+					["name"] = "Kick Rule 1",
+					["customlog"] = false,
 					["isEnabled"] = true,
 					["raceFilter"] = false,
 					["repFilter"] = false,
@@ -71354,8 +71543,8 @@ GRM_AddonSettings_Save = {
 				},
 			},
 			["allowAutoBackups"] = true,
-			["minimapRad"] = 78,
-			["columnHeaders"] = false,
+			["showMouseoverOld"] = true,
+			["onlyViewIfChanges"] = true,
 			["dateFormat"] = 1,
 			["viewGuildRep"] = true,
 			["customPos"] = false,
@@ -71393,17 +71582,17 @@ GRM_AddonSettings_Save = {
 				0, -- [3]
 				0, -- [4]
 			},
-			["onlyViewIfChanges"] = true,
-			["showMouseoverOld"] = true,
+			["columnHeaders"] = false,
+			["minimapRad"] = 78,
 			["GIModule"] = {
 				["InteractDistanceIndicator"] = true,
 				["enabled"] = true,
-				["tradeIndicatorColorConnectedRealm"] = {
+				["tradeIndicatorColorAny"] = {
 					0, -- [1]
 					0.97, -- [2]
 					0.97, -- [3]
 				},
-				["tradeIndicatorColorAny"] = {
+				["tradeIndicatorColorConnectedRealm"] = {
 					0, -- [1]
 					0.97, -- [2]
 					0.97, -- [3]
@@ -71634,20 +71823,20 @@ GRM_AddonSettings_Save = {
 					["numDaysOrMonths"] = 12,
 					["activityFilter"] = true,
 					["applyRulesTo"] = 1,
-					["classes"] = {
-					},
+					["customlog"] = false,
 					["notesToCheck"] = {
 						true, -- [1]
 						true, -- [2]
 						true, -- [3]
 					},
 					["rep"] = 4,
-					["ranks"] = {
+					["noteMatch"] = false,
+					["classes"] = {
 					},
-					["customlog"] = false,
 					["levelFilter"] = false,
 					["name"] = "Kick Rule 1",
-					["noteMatch"] = false,
+					["ranks"] = {
+					},
 					["isEnabled"] = true,
 					["raceFilter"] = false,
 					["repFilter"] = false,
@@ -71656,12 +71845,12 @@ GRM_AddonSettings_Save = {
 			},
 			["GIModule"] = {
 				["enabled"] = true,
-				["tradeIndicatorColorAny"] = {
+				["tradeIndicatorColorConnectedRealm"] = {
 					0, -- [1]
 					0.97, -- [2]
 					0.97, -- [3]
 				},
-				["tradeIndicatorColorConnectedRealm"] = {
+				["tradeIndicatorColorAny"] = {
 					0, -- [1]
 					0.97, -- [2]
 					0.97, -- [3]
@@ -71669,10 +71858,10 @@ GRM_AddonSettings_Save = {
 				["InteractDistanceIndicator"] = true,
 			},
 			["showBDay"] = true,
-			["showMouseoverOld"] = true,
-			["onlyViewIfChanges"] = true,
 			["minimapRad"] = 78,
 			["columnHeaders"] = false,
+			["showMouseoverOld"] = true,
+			["onlyViewIfChanges"] = true,
 			["CoreWindowPos"] = {
 				"", -- [1]
 				"", -- [2]
@@ -71938,20 +72127,20 @@ GRM_AddonSettings_Save = {
 					["numDaysOrMonths"] = 12,
 					["activityFilter"] = true,
 					["applyRulesTo"] = 1,
-					["classes"] = {
-					},
+					["customlog"] = false,
 					["notesToCheck"] = {
 						true, -- [1]
 						true, -- [2]
 						true, -- [3]
 					},
 					["rep"] = 4,
-					["ranks"] = {
+					["noteMatch"] = false,
+					["classes"] = {
 					},
-					["customlog"] = false,
 					["levelFilter"] = false,
 					["name"] = "Kick Rule 1",
-					["noteMatch"] = false,
+					["ranks"] = {
+					},
 					["isEnabled"] = true,
 					["raceFilter"] = false,
 					["repFilter"] = false,
@@ -71960,12 +72149,12 @@ GRM_AddonSettings_Save = {
 			},
 			["GIModule"] = {
 				["enabled"] = true,
-				["tradeIndicatorColorAny"] = {
+				["tradeIndicatorColorConnectedRealm"] = {
 					0, -- [1]
 					0.97, -- [2]
 					0.97, -- [3]
 				},
-				["tradeIndicatorColorConnectedRealm"] = {
+				["tradeIndicatorColorAny"] = {
 					0, -- [1]
 					0.97, -- [2]
 					0.97, -- [3]
@@ -71973,10 +72162,10 @@ GRM_AddonSettings_Save = {
 				["InteractDistanceIndicator"] = true,
 			},
 			["showBDay"] = true,
-			["showMouseoverOld"] = true,
-			["onlyViewIfChanges"] = true,
 			["minimapRad"] = 78,
 			["columnHeaders"] = false,
+			["showMouseoverOld"] = true,
+			["onlyViewIfChanges"] = true,
 			["CoreWindowPos"] = {
 				"", -- [1]
 				"", -- [2]
@@ -86043,11 +86232,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86069,6 +86253,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -86144,6 +86333,7 @@ GRM_GuildDataBackup_Save = {
 							"1 May '21 17:32", -- [1]
 							1619827260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -86165,11 +86355,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"1 May '21 17:32", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["timeEnteredZone"] = 1621600151,
 						["achievementPoints"] = 0,
 					},
@@ -86250,11 +86439,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86276,6 +86460,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -86356,11 +86545,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86382,6 +86566,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -86462,11 +86651,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86488,6 +86672,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -86568,11 +86757,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86594,6 +86778,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -86674,11 +86863,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86700,6 +86884,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -86780,11 +86969,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -86806,12 +86990,17 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
-					["Breakage-Sethraliss"] = {
-						["GUID"] = "Player-10-004E74E2",
-						["note"] = "main",
+					["Tachimage-Sethraliss"] = {
+						["GUID"] = "Player-10-0068F97C",
+						["note"] = "off tachicardica",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -86820,8 +87009,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "ROGUE",
+						["zone"] = "Roccavento",
+						["class"] = "MAGE",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -86830,60 +87019,68 @@ GRM_GuildDataBackup_Save = {
 							"", -- [4]
 						},
 						["status"] = 0,
-						["timeEnteredZone"] = 1623237971,
+						["timeEnteredZone"] = 1623946846,
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
-								"Pingu", -- [1]
-								"5 May '21", -- [2]
-								1620172860, -- [3]
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
 							}, -- [1]
 							{
-								"Pingu", -- [1]
-								"5 May '21", -- [2]
-								1620172860, -- [3]
+								"Alt Pinguino", -- [1]
+								"17 Jun '21", -- [2]
+								1623888060, -- [3]
 							}, -- [2]
 							{
 								"|cFFC41F3BLeft Guild", -- [1]
-								"11 Jun '21", -- [2]
-								1623401748, -- [3]
+								"17 Jun '21", -- [2]
+								1623888060, -- [3]
 							}, -- [3]
 						},
-						["rankName"] = "Pingu",
+						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Breakage-Sethraliss",
+						["name"] = "Tachimage-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 0,
+						["lastOnline"] = 1114,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
-							"11 Jun '21 10:55", -- [1]
+							"17 Jun '21 22:44", -- [1]
 						},
 						["joinDateEpoch"] = {
-							1620172860, -- [1]
+							0, -- [1]
 						},
-						["race"] = "Human",
+						["race"] = "VoidElf",
 						["verifiedPromoteDate"] = {
-							"5 May '21 21:30", -- [1]
-							1620172860, -- [2]
+							"", -- [1]
+							0, -- [2]
 						},
 						["alts"] = {
 						},
 						["promoteDateUnknown"] = false,
 						["leftGuildEpoch"] = {
-							1623401748, -- [1]
+							1623888060, -- [1]
 						},
 						["reasonBanned"] = "",
 						["isUnknown"] = false,
-						["oldRank"] = "Pingu",
-						["achievementPoints"] = 0,
-						["level"] = 120,
+						["oldRank"] = "Alt Pinguino",
+						["sex"] = 3,
+						["isOnline"] = false,
+						["removedAlts"] = {
+						},
+						["officerNote"] = "",
+						["guildRep"] = 4,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
 						["events"] = {
 							{
 								{
-									5, -- [1]
-									5, -- [2]
-									2021, -- [3]
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
 								}, -- [1]
 								false, -- [2]
 								"", -- [3]
@@ -86899,21 +87096,13 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
 						["joinDate"] = {
-							"5 May '21 21:30", -- [1]
+							"", -- [1]
 						},
 						["isMain"] = false,
-						["rankIndex"] = 4,
-						["verifiedJoinDate"] = {
-							"5 May '21 21:30", -- [1]
-							1620172860, -- [2]
-						},
-						["guildRep"] = 4,
-						["officerNote"] = "",
-						["isOnline"] = false,
-						["removedAlts"] = {
-						},
-						["sex"] = 3,
+						["achievementPoints"] = 0,
+						["level"] = 120,
 					},
 					["Stimexx-Sethraliss"] = {
 						["GUID"] = "Player-10-007F3DE7",
@@ -86992,11 +87181,6 @@ GRM_GuildDataBackup_Save = {
 							"14 Jun '21 10:35", -- [1]
 							1623628860, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"14 Jun '21 10:35", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -87018,6 +87202,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"14 Jun '21 10:35", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1623738975,
 					},
@@ -87090,6 +87279,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "Alt Pinguino",
 						["achievementPoints"] = 1950,
 						["level"] = 120,
+						["isMain"] = false,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -87111,11 +87305,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -87199,11 +87388,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"29 Jun '21", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -87225,6 +87409,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"29 Jun '21", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624985306,
 						["achievementPoints"] = 0,
 					},
@@ -87305,11 +87494,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -87331,6 +87515,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -87411,10 +87600,111 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
+						["events"] = {
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+							}, -- [1]
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+								0, -- [4]
+							}, -- [2]
+						},
 						["rankIndex"] = 5,
-						["isMain"] = false,
 						["joinDate"] = {
 							"", -- [1]
+						},
+						["isMain"] = false,
+						["timeEnteredZone"] = 1624034659,
+						["achievementPoints"] = 0,
+					},
+					["Nevercme-Sethraliss"] = {
+						["GUID"] = "Player-10-0029BB1D",
+						["note"] = "off cyou",
+						["customNote"] = {
+							true, -- [1]
+							0, -- [2]
+							"", -- [3]
+							5, -- [4]
+							false, -- [5]
+							"", -- [6]
+						},
+						["zone"] = "Baia di Tiragarde",
+						["class"] = "ROGUE",
+						["mainStatusChangeTime"] = 0,
+						["bannedInfo"] = {
+							false, -- [1]
+							0, -- [2]
+							false, -- [3]
+							"", -- [4]
+						},
+						["status"] = 0,
+						["level"] = 120,
+						["joinDateUnknown"] = false,
+						["rankHistory"] = {
+							{
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
+							}, -- [1]
+							{
+								"Alt Pinguino", -- [1]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
+							}, -- [2]
+							{
+								"|cFFC41F3BLeft Guild", -- [1]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
+							}, -- [3]
+						},
+						["rankName"] = "Alt Pinguino",
+						["recommendToKick"] = false,
+						["birthdayUnknown"] = false,
+						["name"] = "Nevercme-Sethraliss",
+						["safeList"] = false,
+						["lastOnline"] = 906,
+						["isMobile"] = false,
+						["leftGuildDate"] = {
+							"18 Jun '21 20:33", -- [1]
+						},
+						["joinDateEpoch"] = {
+							0, -- [1]
+						},
+						["race"] = "NightElf",
+						["verifiedPromoteDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["removedAlts"] = {
+						},
+						["promoteDateUnknown"] = false,
+						["leftGuildEpoch"] = {
+							1623974460, -- [1]
+						},
+						["reasonBanned"] = "",
+						["isUnknown"] = false,
+						["oldRank"] = "Alt Pinguino",
+						["sex"] = 2,
+						["isOnline"] = false,
+						["alts"] = {
+						},
+						["officerNote"] = "non so chi sia",
+						["guildRep"] = 4,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
 						},
 						["events"] = {
 							{
@@ -87437,6 +87727,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -87517,11 +87812,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -87543,112 +87833,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["timeEnteredZone"] = 1624034659,
-						["achievementPoints"] = 0,
-					},
-					["Ferlong-Sethraliss"] = {
-						["GUID"] = "Player-10-00641283",
-						["note"] = "off matthewus",
-						["customNote"] = {
-							true, -- [1]
-							0, -- [2]
-							"", -- [3]
-							5, -- [4]
-							false, -- [5]
-							"", -- [6]
-						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "MAGE",
-						["mainStatusChangeTime"] = 0,
-						["bannedInfo"] = {
-							false, -- [1]
-							0, -- [2]
-							false, -- [3]
-							"", -- [4]
-						},
-						["status"] = 0,
-						["level"] = 120,
-						["joinDateUnknown"] = false,
-						["rankHistory"] = {
-							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
-							}, -- [1]
-							{
-								"Alt Pinguino", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
-							}, -- [2]
-							{
-								"|cFFC41F3BLeft Guild", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
-							}, -- [3]
-						},
-						["rankName"] = "Alt Pinguino",
-						["recommendToKick"] = false,
-						["birthdayUnknown"] = false,
-						["name"] = "Ferlong-Sethraliss",
-						["safeList"] = false,
-						["lastOnline"] = 1038,
-						["isMobile"] = false,
-						["leftGuildDate"] = {
-							"18 Jun '21 20:33", -- [1]
-						},
-						["joinDateEpoch"] = {
-							0, -- [1]
-						},
-						["race"] = "Human",
-						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["removedAlts"] = {
-						},
-						["promoteDateUnknown"] = false,
-						["leftGuildEpoch"] = {
-							1623974460, -- [1]
-						},
-						["reasonBanned"] = "",
-						["isUnknown"] = false,
-						["oldRank"] = "Alt Pinguino",
-						["sex"] = 2,
-						["isOnline"] = false,
-						["alts"] = {
-						},
-						["officerNote"] = "",
-						["guildRep"] = 4,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
 						["rankIndex"] = 5,
-						["isMain"] = false,
 						["joinDate"] = {
 							"", -- [1]
 						},
-						["events"] = {
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-							}, -- [1]
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-								0, -- [4]
-							}, -- [2]
-						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -87729,11 +87918,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -87755,12 +87939,17 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
-					["Tachimage-Sethraliss"] = {
-						["GUID"] = "Player-10-0068F97C",
-						["note"] = "off tachicardica",
+					["Breakage-Sethraliss"] = {
+						["GUID"] = "Player-10-004E74E2",
+						["note"] = "main",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -87769,8 +87958,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Roccavento",
-						["class"] = "MAGE",
+						["zone"] = "Porto di Boralus",
+						["class"] = "ROGUE",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -87779,73 +87968,65 @@ GRM_GuildDataBackup_Save = {
 							"", -- [4]
 						},
 						["status"] = 0,
-						["timeEnteredZone"] = 1623946846,
+						["timeEnteredZone"] = 1623237971,
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
+								"Pingu", -- [1]
+								"5 May '21", -- [2]
+								1620172860, -- [3]
 							}, -- [1]
 							{
-								"Alt Pinguino", -- [1]
-								"17 Jun '21", -- [2]
-								1623888060, -- [3]
+								"Pingu", -- [1]
+								"5 May '21", -- [2]
+								1620172860, -- [3]
 							}, -- [2]
 							{
 								"|cFFC41F3BLeft Guild", -- [1]
-								"17 Jun '21", -- [2]
-								1623888060, -- [3]
+								"11 Jun '21", -- [2]
+								1623401748, -- [3]
 							}, -- [3]
 						},
-						["rankName"] = "Alt Pinguino",
+						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Tachimage-Sethraliss",
+						["name"] = "Breakage-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 1114,
+						["lastOnline"] = 0,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
-							"17 Jun '21 22:44", -- [1]
+							"11 Jun '21 10:55", -- [1]
 						},
 						["joinDateEpoch"] = {
-							0, -- [1]
+							1620172860, -- [1]
 						},
-						["race"] = "VoidElf",
+						["race"] = "Human",
 						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
+							"5 May '21 21:30", -- [1]
+							1620172860, -- [2]
 						},
 						["alts"] = {
 						},
 						["promoteDateUnknown"] = false,
 						["leftGuildEpoch"] = {
-							1623888060, -- [1]
+							1623401748, -- [1]
 						},
 						["reasonBanned"] = "",
 						["isUnknown"] = false,
-						["oldRank"] = "Alt Pinguino",
-						["sex"] = 3,
-						["isOnline"] = false,
-						["removedAlts"] = {
-						},
-						["officerNote"] = "",
-						["guildRep"] = 4,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["rankIndex"] = 5,
+						["oldRank"] = "Pingu",
+						["achievementPoints"] = 0,
+						["level"] = 120,
 						["isMain"] = false,
 						["joinDate"] = {
-							"", -- [1]
+							"5 May '21 21:30", -- [1]
 						},
+						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
+									5, -- [1]
+									5, -- [2]
+									2021, -- [3]
 								}, -- [1]
 								false, -- [2]
 								"", -- [3]
@@ -87861,8 +88042,16 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["achievementPoints"] = 0,
-						["level"] = 120,
+						["verifiedJoinDate"] = {
+							"5 May '21 21:30", -- [1]
+							1620172860, -- [2]
+						},
+						["guildRep"] = 4,
+						["officerNote"] = "",
+						["isOnline"] = false,
+						["removedAlts"] = {
+						},
+						["sex"] = 3,
 					},
 					["Ilmonk-Sethraliss"] = {
 						["GUID"] = "Player-10-007050E4",
@@ -87941,11 +88130,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -87967,6 +88151,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -88047,11 +88236,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -88073,12 +88257,17 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
-					["Nevercme-Sethraliss"] = {
-						["GUID"] = "Player-10-0029BB1D",
-						["note"] = "off cyou",
+					["Ferlong-Sethraliss"] = {
+						["GUID"] = "Player-10-00641283",
+						["note"] = "off matthewus",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -88087,8 +88276,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Baia di Tiragarde",
-						["class"] = "ROGUE",
+						["zone"] = "Porto di Boralus",
+						["class"] = "MAGE",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -88119,9 +88308,9 @@ GRM_GuildDataBackup_Save = {
 						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Nevercme-Sethraliss",
+						["name"] = "Ferlong-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 906,
+						["lastOnline"] = 1038,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 							"18 Jun '21 20:33", -- [1]
@@ -88129,7 +88318,7 @@ GRM_GuildDataBackup_Save = {
 						["joinDateEpoch"] = {
 							0, -- [1]
 						},
-						["race"] = "NightElf",
+						["race"] = "Human",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -88147,16 +88336,11 @@ GRM_GuildDataBackup_Save = {
 						["isOnline"] = false,
 						["alts"] = {
 						},
-						["officerNote"] = "non so chi sia",
+						["officerNote"] = "",
 						["guildRep"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
-						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
 						},
 						["events"] = {
 							{
@@ -88179,6 +88363,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -88259,11 +88448,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -88285,6 +88469,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -88365,11 +88554,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -88391,6 +88575,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -88471,11 +88660,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -88497,6 +88681,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -88565,6 +88754,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "Alt Pinguino",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1624034659,
+						["isMain"] = false,
+						["joinDate"] = {
+							"27 Apr '21 23:25", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -88586,11 +88780,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"27 Apr '21 23:25", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"27 Apr '21 23:25", -- [1]
 							1619481660, -- [2]
@@ -88674,6 +88863,7 @@ GRM_GuildDataBackup_Save = {
 							"10 May '21 22:36", -- [1]
 							1620604860, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -88695,11 +88885,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"10 May '21 22:36", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -88780,11 +88969,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -88806,12 +88990,17 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
-					["Mäküè-Sethraliss"] = {
-						["GUID"] = "Player-10-0077861A",
-						["note"] = "OOF Betrakill 427",
+					["Draçon-Sethraliss"] = {
+						["GUID"] = "Player-10-00245FF7",
+						["note"] = "off elunecun",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -88821,7 +89010,7 @@ GRM_GuildDataBackup_Save = {
 							"", -- [6]
 						},
 						["zone"] = "Porto di Boralus",
-						["class"] = "DEMONHUNTER",
+						["class"] = "PALADIN",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -88840,29 +89029,29 @@ GRM_GuildDataBackup_Save = {
 							}, -- [1]
 							{
 								"Alt Pinguino", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
+								"1 Jun '21", -- [2]
+								1622581087, -- [3]
 							}, -- [2]
 							{
 								"|cFFC41F3BLeft Guild", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
+								"1 Jun '21", -- [2]
+								1622581087, -- [3]
 							}, -- [3]
 						},
 						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Mäküè-Sethraliss",
+						["name"] = "Draçon-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 2339,
+						["lastOnline"] = 25,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
-							"18 Jun '21 20:33", -- [1]
+							"1 Jun '21 22:57", -- [1]
 						},
 						["joinDateEpoch"] = {
 							0, -- [1]
 						},
-						["race"] = "NightElf",
+						["race"] = "DarkIronDwarf",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -88871,12 +89060,12 @@ GRM_GuildDataBackup_Save = {
 						},
 						["promoteDateUnknown"] = false,
 						["leftGuildEpoch"] = {
-							1623974460, -- [1]
+							1622581087, -- [1]
 						},
 						["reasonBanned"] = "",
 						["isUnknown"] = false,
 						["oldRank"] = "Alt Pinguino",
-						["sex"] = 3,
+						["sex"] = 2,
 						["isOnline"] = false,
 						["alts"] = {
 						},
@@ -88885,11 +89074,6 @@ GRM_GuildDataBackup_Save = {
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
-						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
 						},
 						["events"] = {
 							{
@@ -88912,7 +89096,12 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["timeEnteredZone"] = 1624034659,
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
+						["timeEnteredZone"] = 1622561301,
 						["achievementPoints"] = 0,
 					},
 					["Athyras-Sethraliss"] = {
@@ -88992,11 +89181,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89018,6 +89202,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -89098,11 +89287,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89124,6 +89308,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -89204,11 +89393,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89230,6 +89414,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -89310,11 +89499,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89336,6 +89520,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -89416,11 +89605,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89442,6 +89626,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -89522,11 +89711,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89548,6 +89732,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -89616,10 +89805,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "Alt Pinguino",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1624034659,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-							"30 Apr '21 12:30", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89641,7 +89826,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"30 Apr '21 12:30", -- [1]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"30 Apr '21 12:30", -- [1]
 							1619740860, -- [2]
@@ -89730,11 +89919,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -89756,6 +89940,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -89836,7 +90025,11 @@ GRM_GuildDataBackup_Save = {
 							"20 May '21 13:16", -- [1]
 							1621468860, -- [2]
 						},
+						["rankIndex"] = 2,
 						["isMain"] = false,
+						["joinDate"] = {
+							"20 May '21 13:16", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -89858,118 +90051,8 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"20 May '21 13:16", -- [1]
-						},
-						["rankIndex"] = 2,
 						["achievementPoints"] = 0,
 						["level"] = 120,
-					},
-					["Drakharis-Sethraliss"] = {
-						["GUID"] = "Player-10-0078796F",
-						["note"] = "off draherion",
-						["customNote"] = {
-							true, -- [1]
-							0, -- [2]
-							"", -- [3]
-							5, -- [4]
-							false, -- [5]
-							"", -- [6]
-						},
-						["zone"] = "Valle dei Sacraonda",
-						["class"] = "DEMONHUNTER",
-						["mainStatusChangeTime"] = 0,
-						["bannedInfo"] = {
-							false, -- [1]
-							0, -- [2]
-							false, -- [3]
-							"", -- [4]
-						},
-						["status"] = 0,
-						["level"] = 120,
-						["joinDateUnknown"] = false,
-						["rankHistory"] = {
-							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
-							}, -- [1]
-							{
-								"Alt Pinguino", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
-							}, -- [2]
-							{
-								"|cFFC41F3BLeft Guild", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
-							}, -- [3]
-						},
-						["rankName"] = "Alt Pinguino",
-						["recommendToKick"] = false,
-						["birthdayUnknown"] = false,
-						["name"] = "Drakharis-Sethraliss",
-						["safeList"] = false,
-						["lastOnline"] = 3463,
-						["isMobile"] = false,
-						["leftGuildDate"] = {
-							"18 Jun '21 20:33", -- [1]
-						},
-						["joinDateEpoch"] = {
-							0, -- [1]
-						},
-						["race"] = "NightElf",
-						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["removedAlts"] = {
-						},
-						["promoteDateUnknown"] = false,
-						["leftGuildEpoch"] = {
-							1623974460, -- [1]
-						},
-						["reasonBanned"] = "",
-						["isUnknown"] = false,
-						["oldRank"] = "Alt Pinguino",
-						["sex"] = 2,
-						["isOnline"] = false,
-						["alts"] = {
-						},
-						["officerNote"] = "",
-						["guildRep"] = 4,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
-						["events"] = {
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-							}, -- [1]
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-								0, -- [4]
-							}, -- [2]
-						},
-						["timeEnteredZone"] = 1624034659,
-						["achievementPoints"] = 0,
 					},
 					["Kittèdeath-Sethraliss"] = {
 						["GUID"] = "Player-10-0079AF9C",
@@ -90048,10 +90131,111 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
+						["events"] = {
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+							}, -- [1]
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+								0, -- [4]
+							}, -- [2]
+						},
 						["rankIndex"] = 5,
-						["isMain"] = false,
 						["joinDate"] = {
 							"", -- [1]
+						},
+						["isMain"] = false,
+						["timeEnteredZone"] = 1624034659,
+						["achievementPoints"] = 0,
+					},
+					["Drakharis-Sethraliss"] = {
+						["GUID"] = "Player-10-0078796F",
+						["note"] = "off draherion",
+						["customNote"] = {
+							true, -- [1]
+							0, -- [2]
+							"", -- [3]
+							5, -- [4]
+							false, -- [5]
+							"", -- [6]
+						},
+						["zone"] = "Valle dei Sacraonda",
+						["class"] = "DEMONHUNTER",
+						["mainStatusChangeTime"] = 0,
+						["bannedInfo"] = {
+							false, -- [1]
+							0, -- [2]
+							false, -- [3]
+							"", -- [4]
+						},
+						["status"] = 0,
+						["level"] = 120,
+						["joinDateUnknown"] = false,
+						["rankHistory"] = {
+							{
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
+							}, -- [1]
+							{
+								"Alt Pinguino", -- [1]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
+							}, -- [2]
+							{
+								"|cFFC41F3BLeft Guild", -- [1]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
+							}, -- [3]
+						},
+						["rankName"] = "Alt Pinguino",
+						["recommendToKick"] = false,
+						["birthdayUnknown"] = false,
+						["name"] = "Drakharis-Sethraliss",
+						["safeList"] = false,
+						["lastOnline"] = 3463,
+						["isMobile"] = false,
+						["leftGuildDate"] = {
+							"18 Jun '21 20:33", -- [1]
+						},
+						["joinDateEpoch"] = {
+							0, -- [1]
+						},
+						["race"] = "NightElf",
+						["verifiedPromoteDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["removedAlts"] = {
+						},
+						["promoteDateUnknown"] = false,
+						["leftGuildEpoch"] = {
+							1623974460, -- [1]
+						},
+						["reasonBanned"] = "",
+						["isUnknown"] = false,
+						["oldRank"] = "Alt Pinguino",
+						["sex"] = 2,
+						["isOnline"] = false,
+						["alts"] = {
+						},
+						["officerNote"] = "",
+						["guildRep"] = 4,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
 						},
 						["events"] = {
 							{
@@ -90074,6 +90258,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -90154,11 +90343,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -90180,6 +90364,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -90260,11 +90449,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -90286,6 +90470,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1622495275,
 						["achievementPoints"] = 0,
 					},
@@ -90366,11 +90555,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -90392,112 +90576,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["timeEnteredZone"] = 1624034659,
-						["achievementPoints"] = 0,
-					},
-					["Dyspo-Sethraliss"] = {
-						["GUID"] = "Player-10-001F164E",
-						["note"] = "off vinegar",
-						["customNote"] = {
-							true, -- [1]
-							0, -- [2]
-							"", -- [3]
-							5, -- [4]
-							false, -- [5]
-							"", -- [6]
-						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "DRUID",
-						["mainStatusChangeTime"] = 0,
-						["bannedInfo"] = {
-							false, -- [1]
-							0, -- [2]
-							false, -- [3]
-							"", -- [4]
-						},
-						["status"] = 0,
-						["level"] = 120,
-						["joinDateUnknown"] = false,
-						["rankHistory"] = {
-							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
-							}, -- [1]
-							{
-								"Alt Pinguino", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
-							}, -- [2]
-							{
-								"|cFFC41F3BLeft Guild", -- [1]
-								"18 Jun '21", -- [2]
-								1623974460, -- [3]
-							}, -- [3]
-						},
-						["rankName"] = "Alt Pinguino",
-						["recommendToKick"] = false,
-						["birthdayUnknown"] = false,
-						["name"] = "Dyspo-Sethraliss",
-						["safeList"] = false,
-						["lastOnline"] = 2148,
-						["isMobile"] = false,
-						["leftGuildDate"] = {
-							"18 Jun '21 20:33", -- [1]
-						},
-						["joinDateEpoch"] = {
-							0, -- [1]
-						},
-						["race"] = "Worgen",
-						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["removedAlts"] = {
-						},
-						["promoteDateUnknown"] = false,
-						["leftGuildEpoch"] = {
-							1623974460, -- [1]
-						},
-						["reasonBanned"] = "",
-						["isUnknown"] = false,
-						["oldRank"] = "Alt Pinguino",
-						["sex"] = 2,
-						["isOnline"] = false,
-						["alts"] = {
-						},
-						["officerNote"] = "",
-						["guildRep"] = 4,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
 						["rankIndex"] = 5,
-						["isMain"] = false,
 						["joinDate"] = {
 							"", -- [1]
 						},
-						["events"] = {
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-							}, -- [1]
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-								0, -- [4]
-							}, -- [2]
-						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -90578,11 +90661,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -90604,11 +90682,16 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
-					["Binidittu-Sethraliss"] = {
-						["GUID"] = "Player-10-00425054",
+					["Dyspo-Sethraliss"] = {
+						["GUID"] = "Player-10-001F164E",
 						["note"] = "off vinegar",
 						["customNote"] = {
 							true, -- [1]
@@ -90619,7 +90702,7 @@ GRM_GuildDataBackup_Save = {
 							"", -- [6]
 						},
 						["zone"] = "Porto di Boralus",
-						["class"] = "PRIEST",
+						["class"] = "DRUID",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -90650,7 +90733,7 @@ GRM_GuildDataBackup_Save = {
 						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Binidittu-Sethraliss",
+						["name"] = "Dyspo-Sethraliss",
 						["safeList"] = false,
 						["lastOnline"] = 2148,
 						["isMobile"] = false,
@@ -90660,7 +90743,7 @@ GRM_GuildDataBackup_Save = {
 						["joinDateEpoch"] = {
 							0, -- [1]
 						},
-						["race"] = "VoidElf",
+						["race"] = "Worgen",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -90684,11 +90767,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -90710,6 +90788,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -90790,10 +90873,111 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
+						["events"] = {
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+							}, -- [1]
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+								0, -- [4]
+							}, -- [2]
+						},
 						["rankIndex"] = 5,
-						["isMain"] = false,
 						["joinDate"] = {
 							"", -- [1]
+						},
+						["isMain"] = false,
+						["timeEnteredZone"] = 1624034659,
+						["achievementPoints"] = 0,
+					},
+					["Binidittu-Sethraliss"] = {
+						["GUID"] = "Player-10-00425054",
+						["note"] = "off vinegar",
+						["customNote"] = {
+							true, -- [1]
+							0, -- [2]
+							"", -- [3]
+							5, -- [4]
+							false, -- [5]
+							"", -- [6]
+						},
+						["zone"] = "Porto di Boralus",
+						["class"] = "PRIEST",
+						["mainStatusChangeTime"] = 0,
+						["bannedInfo"] = {
+							false, -- [1]
+							0, -- [2]
+							false, -- [3]
+							"", -- [4]
+						},
+						["status"] = 0,
+						["level"] = 120,
+						["joinDateUnknown"] = false,
+						["rankHistory"] = {
+							{
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
+							}, -- [1]
+							{
+								"Alt Pinguino", -- [1]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
+							}, -- [2]
+							{
+								"|cFFC41F3BLeft Guild", -- [1]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
+							}, -- [3]
+						},
+						["rankName"] = "Alt Pinguino",
+						["recommendToKick"] = false,
+						["birthdayUnknown"] = false,
+						["name"] = "Binidittu-Sethraliss",
+						["safeList"] = false,
+						["lastOnline"] = 2148,
+						["isMobile"] = false,
+						["leftGuildDate"] = {
+							"18 Jun '21 20:33", -- [1]
+						},
+						["joinDateEpoch"] = {
+							0, -- [1]
+						},
+						["race"] = "VoidElf",
+						["verifiedPromoteDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["removedAlts"] = {
+						},
+						["promoteDateUnknown"] = false,
+						["leftGuildEpoch"] = {
+							1623974460, -- [1]
+						},
+						["reasonBanned"] = "",
+						["isUnknown"] = false,
+						["oldRank"] = "Alt Pinguino",
+						["sex"] = 2,
+						["isOnline"] = false,
+						["alts"] = {
+						},
+						["officerNote"] = "",
+						["guildRep"] = 4,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
 						},
 						["events"] = {
 							{
@@ -90816,6 +91000,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -90896,11 +91085,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -90922,6 +91106,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -91002,11 +91191,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91028,6 +91212,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -91108,11 +91297,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91134,6 +91318,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1621168245,
 						["achievementPoints"] = 0,
 					},
@@ -91214,11 +91403,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91240,6 +91424,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -91320,11 +91509,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91346,6 +91530,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -91426,11 +91615,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91452,12 +91636,17 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1620234317,
 						["achievementPoints"] = 0,
 					},
-					["Draçon-Sethraliss"] = {
-						["GUID"] = "Player-10-00245FF7",
-						["note"] = "off elunecun",
+					["Mäküè-Sethraliss"] = {
+						["GUID"] = "Player-10-0077861A",
+						["note"] = "OOF Betrakill 427",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -91467,7 +91656,7 @@ GRM_GuildDataBackup_Save = {
 							"", -- [6]
 						},
 						["zone"] = "Porto di Boralus",
-						["class"] = "PALADIN",
+						["class"] = "DEMONHUNTER",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -91486,29 +91675,29 @@ GRM_GuildDataBackup_Save = {
 							}, -- [1]
 							{
 								"Alt Pinguino", -- [1]
-								"1 Jun '21", -- [2]
-								1622581087, -- [3]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
 							}, -- [2]
 							{
 								"|cFFC41F3BLeft Guild", -- [1]
-								"1 Jun '21", -- [2]
-								1622581087, -- [3]
+								"18 Jun '21", -- [2]
+								1623974460, -- [3]
 							}, -- [3]
 						},
 						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Draçon-Sethraliss",
+						["name"] = "Mäküè-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 25,
+						["lastOnline"] = 2339,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
-							"1 Jun '21 22:57", -- [1]
+							"18 Jun '21 20:33", -- [1]
 						},
 						["joinDateEpoch"] = {
 							0, -- [1]
 						},
-						["race"] = "DarkIronDwarf",
+						["race"] = "NightElf",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -91517,12 +91706,12 @@ GRM_GuildDataBackup_Save = {
 						},
 						["promoteDateUnknown"] = false,
 						["leftGuildEpoch"] = {
-							1622581087, -- [1]
+							1623974460, -- [1]
 						},
 						["reasonBanned"] = "",
 						["isUnknown"] = false,
 						["oldRank"] = "Alt Pinguino",
-						["sex"] = 2,
+						["sex"] = 3,
 						["isOnline"] = false,
 						["alts"] = {
 						},
@@ -91531,11 +91720,6 @@ GRM_GuildDataBackup_Save = {
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
-						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
 						},
 						["events"] = {
 							{
@@ -91558,7 +91742,12 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["timeEnteredZone"] = 1622561301,
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
+						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
 					["Mandorlato-Sethraliss"] = {
@@ -91638,11 +91827,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91664,6 +91848,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -91744,11 +91933,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91770,6 +91954,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1623499562,
 						["achievementPoints"] = 0,
 					},
@@ -91850,11 +92039,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91876,6 +92060,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -91956,11 +92145,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 2,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -91982,6 +92166,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 2,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -92062,11 +92251,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -92088,6 +92272,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -92168,11 +92357,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -92194,6 +92378,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1622130612,
 						["achievementPoints"] = 0,
 					},
@@ -92274,11 +92463,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -92300,6 +92484,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+						},
+						["isMain"] = false,
 						["timeEnteredZone"] = 1624034659,
 						["achievementPoints"] = 0,
 					},
@@ -92370,7 +92559,11 @@ GRM_GuildDataBackup_Save = {
 							"29 Apr '21 00:01", -- [1]
 							1619654460, -- [2]
 						},
+						["rankIndex"] = 5,
 						["isMain"] = false,
+						["joinDate"] = {
+							"29 Apr '21 00:01", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -92392,10 +92585,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"29 Apr '21 00:01", -- [1]
-						},
-						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -92455,9 +92644,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -92479,7 +92665,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -92547,9 +92736,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -92571,7 +92757,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -92653,11 +92842,6 @@ GRM_GuildDataBackup_Save = {
 							"16 Jun '21 17:32", -- [1]
 							1623801660, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"16 Jun '21 17:32", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -92679,6 +92863,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"16 Jun '21 17:32", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -92744,14 +92933,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["isOnline"] = false,
-						["verifiedJoinDate"] = {
-							"2 Jun '21 21:54", -- [1]
-							1622592060, -- [2]
-						},
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"2 Jun '21 21:54", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -92772,6 +92957,10 @@ GRM_GuildDataBackup_Save = {
 								"", -- [3]
 								0, -- [4]
 							}, -- [2]
+						},
+						["verifiedJoinDate"] = {
+							"2 Jun '21 21:54", -- [1]
+							1622592060, -- [2]
 						},
 						["isMain"] = false,
 						["guildRep"] = 4,
@@ -92837,9 +93026,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -92861,7 +93047,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -92929,9 +93118,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -92953,7 +93139,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93021,9 +93210,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93045,7 +93231,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93113,9 +93302,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93137,7 +93323,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93205,9 +93394,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93229,7 +93415,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93297,9 +93486,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93321,7 +93507,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93389,9 +93578,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93413,7 +93599,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93481,9 +93670,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93505,7 +93691,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93573,9 +93762,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93597,7 +93783,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93671,11 +93860,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"20 Jun '21 00:01", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -93697,6 +93885,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"20 Jun '21 00:01", -- [1]
 							1624147260, -- [2]
@@ -93767,6 +93956,10 @@ GRM_GuildDataBackup_Save = {
 						["isOnline"] = false,
 						["guildRep"] = 4,
 						["officerNote"] = "",
+						["verifiedJoinDate"] = {
+							"31 May '21 10:07", -- [1]
+							1622419260, -- [2]
+						},
 						["events"] = {
 							{
 								{
@@ -93788,12 +93981,8 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["verifiedJoinDate"] = {
-							"31 May '21 10:07", -- [1]
-							1622419260, -- [2]
-						},
-						["isMain"] = false,
 						["rankIndex"] = 5,
+						["isMain"] = false,
 						["joinDate"] = {
 							"31 May '21 10:07", -- [1]
 						},
@@ -93858,9 +94047,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93882,7 +94068,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -93950,9 +94139,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -93974,7 +94160,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94048,6 +94237,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 5820,
 						["timeEnteredZone"] = 1625072496,
+						["isMain"] = false,
+						["joinDate"] = {
+							"13 May '21 10:14", -- [1]
+						},
+						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -94069,11 +94263,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"13 May '21 10:14", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"13 May '21 10:14", -- [1]
 							1620864060, -- [2]
@@ -94141,9 +94330,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94165,7 +94351,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94233,9 +94422,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94257,7 +94443,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94325,9 +94514,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94349,7 +94535,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94431,7 +94620,11 @@ GRM_GuildDataBackup_Save = {
 							"30 May '21 11:33", -- [1]
 							1622332860, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"30 May '21 11:33", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -94453,10 +94646,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"30 May '21 11:33", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 103,
 					},
@@ -94516,9 +94705,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94540,7 +94726,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94608,9 +94797,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94632,7 +94818,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94706,6 +94895,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"8 May '21 20:18", -- [1]
+						},
+						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -94727,11 +94921,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"8 May '21 20:18", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"8 May '21 20:18", -- [1]
 							1620432060, -- [2]
@@ -94799,9 +94988,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94823,7 +95009,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94891,9 +95080,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -94915,7 +95101,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -94983,9 +95172,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95007,7 +95193,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95091,9 +95280,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 3895,
 						["timeEnteredZone"] = 1625073583,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95115,7 +95301,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95184,11 +95373,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"21 Jun '21 11:17", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -95210,6 +95398,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"21 Jun '21 11:17", -- [1]
 							1624233660, -- [2]
@@ -95277,9 +95466,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95301,7 +95487,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95375,11 +95564,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"12 Jun '21 14:43", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -95401,6 +95589,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"12 Jun '21 14:43", -- [1]
 							1623456060, -- [2]
@@ -95468,9 +95657,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95492,7 +95678,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95560,9 +95749,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95584,7 +95770,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95652,9 +95841,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95676,7 +95862,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95744,9 +95933,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95768,7 +95954,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -95837,11 +96026,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"2 May '21 11:36", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -95863,6 +96051,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"2 May '21 11:36", -- [1]
 							1619913660, -- [2]
@@ -95930,9 +96119,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -95954,7 +96140,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96022,9 +96211,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96046,7 +96232,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96114,9 +96303,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96138,7 +96324,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96228,6 +96417,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"27 May '21 14:21", -- [1]
+						},
+						["rankIndex"] = 1,
 						["events"] = {
 							{
 								{
@@ -96249,11 +96443,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"27 May '21 14:21", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"27 May '21 14:21", -- [1]
 							1622073660, -- [2]
@@ -96321,9 +96510,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96345,7 +96531,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96413,9 +96602,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625070395,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96437,7 +96623,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96505,9 +96694,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96529,7 +96715,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96597,9 +96786,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96621,7 +96807,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96705,9 +96894,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96729,7 +96915,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96797,9 +96986,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96821,7 +97007,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96889,9 +97078,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -96913,7 +97099,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -96981,9 +97170,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97005,7 +97191,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97073,9 +97262,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97097,7 +97283,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97165,9 +97354,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97189,7 +97375,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97257,9 +97446,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97281,7 +97467,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97349,9 +97538,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97373,7 +97559,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97441,9 +97630,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97465,7 +97651,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97533,9 +97722,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97557,7 +97743,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97625,9 +97814,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97649,7 +97835,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97717,9 +97906,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97741,7 +97927,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97809,9 +97998,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -97833,7 +98019,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -97907,11 +98096,12 @@ GRM_GuildDataBackup_Save = {
 						["joinDate"] = {
 							"7 Jun '21 22:02", -- [1]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"7 Jun '21 22:02", -- [1]
 							1623024060, -- [2]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -97933,7 +98123,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["officerNote"] = "",
 						["guildRep"] = 4,
 						["isOnline"] = false,
@@ -97995,9 +98184,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98019,7 +98205,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98087,9 +98276,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98111,7 +98297,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98179,9 +98368,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98203,7 +98389,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98271,9 +98460,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98295,7 +98481,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98363,9 +98552,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98387,7 +98573,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98455,9 +98644,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98479,7 +98665,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98547,9 +98736,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98571,7 +98757,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98639,9 +98828,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98663,7 +98849,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -98732,11 +98921,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"5 May '21 17:15", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -98758,6 +98946,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"5 May '21 17:15", -- [1]
 							1620172860, -- [2]
@@ -98839,7 +99028,11 @@ GRM_GuildDataBackup_Save = {
 							"30 May '21 15:33", -- [1]
 							1622332860, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"30 May '21 15:33", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -98861,10 +99054,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"30 May '21 15:33", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 18,
 					},
@@ -98924,9 +99113,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -98948,7 +99134,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99016,9 +99205,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99040,7 +99226,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99108,9 +99297,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99132,7 +99318,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99200,9 +99389,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99224,7 +99410,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99298,6 +99487,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"24 Jun '21 11:31", -- [1]
+						},
+						["rankIndex"] = 3,
 						["events"] = {
 							{
 								{
@@ -99319,11 +99513,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"24 Jun '21 11:31", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"24 Jun '21 11:31", -- [1]
 							1624492860, -- [2]
@@ -99391,9 +99580,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99415,7 +99601,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99483,9 +99672,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99507,7 +99693,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99575,9 +99764,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99599,7 +99785,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99667,9 +99856,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99691,7 +99877,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99759,9 +99948,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99783,7 +99969,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99851,9 +100040,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99875,7 +100061,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -99943,9 +100132,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -99967,7 +100153,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100035,9 +100224,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100059,7 +100245,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100127,9 +100316,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100151,7 +100337,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100219,9 +100408,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100243,7 +100429,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100311,9 +100500,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100335,7 +100521,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100403,9 +100592,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100427,7 +100613,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100495,9 +100684,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100519,7 +100705,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100587,9 +100776,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100611,7 +100797,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100679,9 +100868,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100703,7 +100889,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100771,9 +100960,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100795,7 +100981,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100863,9 +101052,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100887,7 +101073,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -100955,9 +101144,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -100979,7 +101165,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101061,6 +101250,7 @@ GRM_GuildDataBackup_Save = {
 							"6 May '21 21:57", -- [1]
 							1620259260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -101082,11 +101272,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"6 May '21 21:57", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -101146,9 +101335,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101170,7 +101356,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101238,9 +101427,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101262,7 +101448,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101330,9 +101519,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101354,7 +101540,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101422,9 +101611,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101446,7 +101632,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101514,9 +101703,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101538,7 +101724,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101620,6 +101809,7 @@ GRM_GuildDataBackup_Save = {
 							"15 May '21 20:11", -- [1]
 							1621036860, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -101641,11 +101831,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 1,
 						["joinDate"] = {
 							"15 May '21 20:11", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 1,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -101705,9 +101894,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101729,7 +101915,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101797,9 +101986,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101821,7 +102007,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101889,9 +102078,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -101913,7 +102099,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -101981,9 +102170,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102005,7 +102191,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102074,11 +102263,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"8 Jun '21 12:05", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -102100,6 +102288,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"8 Jun '21 12:05", -- [1]
 							1623110460, -- [2]
@@ -102167,9 +102356,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102191,7 +102377,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102259,9 +102448,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102283,7 +102469,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102351,9 +102540,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102375,7 +102561,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102443,9 +102632,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102467,7 +102653,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102535,9 +102724,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102559,7 +102745,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102627,9 +102816,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102651,7 +102837,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102719,9 +102908,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102743,7 +102929,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102811,9 +103000,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102835,7 +103021,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102903,9 +103092,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -102927,7 +103113,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -102995,9 +103184,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103019,7 +103205,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103087,9 +103276,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103111,7 +103297,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103187,10 +103376,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103212,6 +103397,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -103285,11 +103474,6 @@ GRM_GuildDataBackup_Save = {
 							"16 Jun '21 21:32", -- [1]
 							1623801660, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"16 Jun '21 21:32", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -103311,6 +103495,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"16 Jun '21 21:32", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 2705,
 						["level"] = 120,
 					},
@@ -103370,9 +103559,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103394,7 +103580,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103462,9 +103651,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103486,7 +103672,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103554,9 +103743,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103578,7 +103764,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103646,9 +103835,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103670,7 +103856,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103738,9 +103927,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103762,7 +103948,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103831,9 +104020,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103855,7 +104041,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -103923,9 +104112,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -103947,7 +104133,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -104016,11 +104205,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"18 Jun '21 18:44", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -104042,6 +104230,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"18 Jun '21 18:44", -- [1]
 							1623974460, -- [2]
@@ -104109,9 +104298,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -104133,7 +104319,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -104201,9 +104390,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -104225,7 +104411,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -104303,11 +104492,6 @@ GRM_GuildDataBackup_Save = {
 							"11 May '21 11:34", -- [1]
 							1620691260, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"11 May '21 11:34", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -104329,6 +104513,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"11 May '21 11:34", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -104388,9 +104577,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -104412,7 +104598,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -104480,9 +104669,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -104504,7 +104690,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -104599,6 +104788,7 @@ GRM_GuildDataBackup_Save = {
 							"14 May '21 22:47", -- [1]
 							1620950460, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -104620,12 +104810,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"14 May '21 22:47", -- [1]
 							"19 Jun '21 13:33", -- [2]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -104685,9 +104874,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -104709,7 +104895,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -104786,6 +104975,7 @@ GRM_GuildDataBackup_Save = {
 							"15 Jun '21 14:02", -- [1]
 							1623715260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -104807,11 +104997,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"15 Jun '21 14:02", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -104877,11 +105066,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"12 Jun '21 12:05", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -104903,6 +105091,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"12 Jun '21 12:05", -- [1]
 							1623456060, -- [2]
@@ -104970,9 +105159,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -104994,7 +105180,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105062,9 +105251,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105086,7 +105272,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105154,9 +105343,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105178,7 +105364,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105246,9 +105435,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105270,7 +105456,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105338,9 +105527,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105362,7 +105548,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105431,9 +105620,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105455,7 +105641,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105523,9 +105712,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105547,7 +105733,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105615,9 +105804,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105639,7 +105825,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105707,9 +105896,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105731,7 +105917,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105799,9 +105988,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -105823,7 +106009,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -105900,7 +106089,11 @@ GRM_GuildDataBackup_Save = {
 							"11 Jun '21 23:30", -- [1]
 							1623369660, -- [2]
 						},
+						["rankIndex"] = 5,
 						["isMain"] = false,
+						["joinDate"] = {
+							"11 Jun '21 23:30", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -105922,10 +106115,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"11 Jun '21 23:30", -- [1]
-						},
-						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -105985,9 +106174,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106009,7 +106195,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106077,9 +106266,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106101,7 +106287,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106183,7 +106372,11 @@ GRM_GuildDataBackup_Save = {
 							"30 May '21 11:33", -- [1]
 							1622332860, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"30 May '21 11:33", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -106205,10 +106398,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"30 May '21 11:33", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 1090,
 						["level"] = 120,
 					},
@@ -106268,9 +106457,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106292,7 +106478,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106360,9 +106549,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106384,7 +106570,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106466,11 +106655,6 @@ GRM_GuildDataBackup_Save = {
 							"16 Jun '21 15:32", -- [1]
 							1623801660, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"16 Jun '21 15:32", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -106492,6 +106676,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"16 Jun '21 15:32", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -106552,9 +106741,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106576,7 +106762,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106644,9 +106833,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 5640,
 						["timeEnteredZone"] = 1625073463,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106668,7 +106854,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106736,9 +106925,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106760,7 +106946,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106828,9 +107017,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106852,7 +107038,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -106920,9 +107109,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -106944,7 +107130,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107012,9 +107201,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107036,7 +107222,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107104,9 +107293,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107128,7 +107314,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107196,9 +107385,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107220,7 +107406,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107288,9 +107477,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107312,7 +107498,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107380,9 +107569,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107404,7 +107590,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107472,9 +107661,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107496,7 +107682,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107564,9 +107753,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107588,7 +107774,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107656,9 +107845,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107680,7 +107866,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107756,10 +107945,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107781,6 +107966,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -107840,9 +108029,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107864,7 +108050,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -107932,9 +108121,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -107956,7 +108142,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108024,9 +108213,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108048,7 +108234,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108116,9 +108305,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108140,7 +108326,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108208,9 +108397,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108232,7 +108418,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108305,9 +108494,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625073040,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108329,7 +108515,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108397,9 +108586,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108421,7 +108607,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108489,9 +108678,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108513,7 +108699,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108582,6 +108771,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"27 Apr '21 14:42", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -108603,11 +108797,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"27 Apr '21 14:42", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"27 Apr '21 14:42", -- [1]
 							1619481660, -- [2]
@@ -108675,9 +108864,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108699,7 +108885,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108767,9 +108956,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108791,7 +108977,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108859,9 +109048,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108883,7 +109069,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -108951,9 +109140,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -108975,7 +109161,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109043,9 +109232,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109067,7 +109253,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109141,10 +109330,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["timeEnteredZone"] = 1625069942,
 						["achievementPoints"] = 0,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-							"29 Jun '21 14:07", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -109166,7 +109351,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"29 Jun '21 14:07", -- [1]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"29 Jun '21 14:07", -- [1]
 							1624924860, -- [2]
@@ -109234,9 +109423,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109258,7 +109444,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109326,9 +109515,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109350,7 +109536,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109418,9 +109607,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109442,7 +109628,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109510,9 +109699,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109534,7 +109720,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109603,11 +109792,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"8 Jun '21 16:05", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -109629,6 +109817,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"8 Jun '21 16:05", -- [1]
 							1623110460, -- [2]
@@ -109696,9 +109885,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109720,7 +109906,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109788,9 +109977,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109812,7 +109998,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109880,9 +110069,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109904,7 +110090,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -109972,9 +110161,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -109996,7 +110182,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110064,9 +110253,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110088,7 +110274,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110156,9 +110345,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110180,7 +110366,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110248,9 +110437,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110272,7 +110458,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110340,9 +110529,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110364,7 +110550,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110432,9 +110621,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110456,7 +110642,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110533,6 +110722,7 @@ GRM_GuildDataBackup_Save = {
 							"15 Jun '21 23:37", -- [1]
 							1623715260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -110554,11 +110744,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"15 Jun '21 23:37", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -110618,9 +110807,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110642,7 +110828,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110710,9 +110899,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110734,7 +110920,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110802,9 +110991,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110826,7 +111012,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110894,9 +111083,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -110918,7 +111104,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -110986,9 +111175,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111010,7 +111196,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111078,9 +111267,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111102,7 +111288,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111170,9 +111359,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625070728,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111194,7 +111380,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111262,9 +111451,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111286,7 +111472,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111368,11 +111557,6 @@ GRM_GuildDataBackup_Save = {
 							"2 May '21 15:14", -- [1]
 							1619913660, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"2 May '21 15:14", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -111394,6 +111578,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"2 May '21 15:14", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 85,
 					},
@@ -111453,9 +111642,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111477,7 +111663,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111545,9 +111734,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111569,7 +111755,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111637,9 +111826,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111661,7 +111847,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111729,9 +111918,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111753,7 +111939,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111821,9 +112010,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -111845,7 +112031,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -111914,11 +112103,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"3 May '21 14:05", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -111940,6 +112128,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"3 May '21 14:05", -- [1]
 							1620000060, -- [2]
@@ -112007,9 +112196,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112031,7 +112217,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112099,9 +112288,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112123,7 +112309,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112191,9 +112380,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112215,7 +112401,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112297,11 +112486,6 @@ GRM_GuildDataBackup_Save = {
 							"13 Jun '21 10:48", -- [1]
 							1623542460, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"13 Jun '21 10:48", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -112323,6 +112507,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"13 Jun '21 10:48", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -112382,9 +112571,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112406,7 +112592,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112474,9 +112663,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112498,7 +112684,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112566,9 +112755,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112590,7 +112776,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112658,9 +112847,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112682,7 +112868,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112750,9 +112939,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112774,7 +112960,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112842,9 +113031,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -112866,7 +113052,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -112935,6 +113124,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"13 May '21 18:14", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -112956,11 +113150,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"13 May '21 18:14", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"13 May '21 18:14", -- [1]
 							1620864060, -- [2]
@@ -113028,9 +113217,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113052,7 +113238,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113120,9 +113309,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113144,7 +113330,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113212,9 +113401,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113236,7 +113422,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113304,9 +113493,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113328,7 +113514,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113396,9 +113585,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113420,7 +113606,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113488,9 +113677,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113512,7 +113698,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113580,9 +113769,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113604,7 +113790,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113681,6 +113870,7 @@ GRM_GuildDataBackup_Save = {
 							"22 Jun '21 00:01", -- [1]
 							1624320060, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -113702,11 +113892,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"22 Jun '21 00:01", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 2740,
 						["level"] = 120,
 					},
@@ -113766,9 +113955,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113790,7 +113976,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113858,9 +114047,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113882,7 +114068,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -113950,9 +114139,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625071084,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -113974,7 +114160,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114042,9 +114231,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114066,7 +114252,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114134,9 +114323,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114158,7 +114344,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114226,9 +114415,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114250,7 +114436,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114318,9 +114507,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114342,7 +114528,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114410,9 +114599,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114434,7 +114620,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114502,9 +114691,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114526,7 +114712,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114594,9 +114783,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114618,7 +114804,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114686,9 +114875,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114710,7 +114896,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114784,11 +114973,12 @@ GRM_GuildDataBackup_Save = {
 						["joinDate"] = {
 							"14 May '21 24:50", -- [1]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"14 May '21 24:50", -- [1]
 							1620950460, -- [2]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -114810,7 +115000,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["officerNote"] = "",
 						["guildRep"] = 4,
 						["isOnline"] = false,
@@ -114872,9 +115061,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114896,7 +115082,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -114964,9 +115153,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -114988,7 +115174,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115065,7 +115254,11 @@ GRM_GuildDataBackup_Save = {
 							"11 Jun '21 22:35", -- [1]
 							1623369660, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"11 Jun '21 22:35", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -115087,10 +115280,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"11 Jun '21 22:35", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -115150,9 +115339,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115174,7 +115360,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115242,9 +115431,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115266,7 +115452,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115348,6 +115537,7 @@ GRM_GuildDataBackup_Save = {
 							"5 Jun '21 09:52", -- [1]
 							1622851260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -115369,11 +115559,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"5 Jun '21 09:52", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 34,
 					},
@@ -115441,10 +115630,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 2,
-						["isMain"] = false,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115466,6 +115651,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 2,
+						["joinDate"] = {
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -115525,9 +115714,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115549,7 +115735,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115618,6 +115807,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"5 Jun '21 12:22", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -115639,11 +115833,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"5 Jun '21 12:22", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"5 Jun '21 12:22", -- [1]
 							1622851260, -- [2]
@@ -115711,9 +115900,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115735,7 +115921,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115803,9 +115992,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115827,7 +116013,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115895,9 +116084,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -115919,7 +116105,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -115987,9 +116176,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116011,7 +116197,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116082,10 +116271,6 @@ GRM_GuildDataBackup_Save = {
 						["isOnline"] = false,
 						["guildRep"] = 4,
 						["officerNote"] = "",
-						["verifiedJoinDate"] = {
-							"31 May '21 19:07", -- [1]
-							1622419260, -- [2]
-						},
 						["events"] = {
 							{
 								{
@@ -116107,8 +116292,12 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
+						["verifiedJoinDate"] = {
+							"31 May '21 19:07", -- [1]
+							1622419260, -- [2]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"31 May '21 19:07", -- [1]
 						},
@@ -116173,9 +116362,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116197,7 +116383,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116265,9 +116454,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116289,7 +116475,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116357,9 +116546,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116381,7 +116567,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116449,9 +116638,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116473,7 +116659,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116563,12 +116752,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-							"27 Jun '21 17:36", -- [2]
-						},
 						["events"] = {
 							{
 								{
@@ -116590,6 +116773,12 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"", -- [1]
+							"27 Jun '21 17:36", -- [2]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -116649,9 +116838,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116673,7 +116859,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116741,9 +116930,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116765,7 +116951,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116833,9 +117022,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116857,7 +117043,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -116925,9 +117114,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -116949,7 +117135,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117017,9 +117206,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117041,7 +117227,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117109,9 +117298,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117133,7 +117319,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117201,9 +117390,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117225,7 +117411,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117293,9 +117482,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117317,7 +117503,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117385,9 +117574,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117409,7 +117595,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117477,9 +117666,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117501,7 +117687,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117569,9 +117758,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117593,7 +117779,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117667,11 +117856,12 @@ GRM_GuildDataBackup_Save = {
 						["joinDate"] = {
 							"25 May '21 19:57", -- [1]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"25 May '21 19:57", -- [1]
 							1621900860, -- [2]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -117693,7 +117883,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["officerNote"] = "",
 						["guildRep"] = 4,
 						["isOnline"] = false,
@@ -117755,9 +117944,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117779,7 +117965,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117847,9 +118036,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117871,7 +118057,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -117939,9 +118128,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -117963,7 +118149,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118031,9 +118220,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118055,7 +118241,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118123,9 +118312,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118147,7 +118333,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118215,9 +118404,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118239,7 +118425,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118307,9 +118496,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118331,7 +118517,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118399,9 +118588,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118423,7 +118609,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118491,9 +118680,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118515,7 +118701,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118583,9 +118772,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118607,7 +118793,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118675,9 +118864,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118699,7 +118885,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118767,9 +118956,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118791,7 +118977,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118859,9 +119048,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -118883,7 +119069,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -118952,10 +119141,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-							"10 Jun '21 17:55", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -118977,7 +119162,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"10 Jun '21 17:55", -- [1]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"10 Jun '21 17:55", -- [1]
 							1623283260, -- [2]
@@ -119045,9 +119234,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119069,7 +119255,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119137,9 +119326,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119161,7 +119347,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119229,9 +119418,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 3575,
 						["timeEnteredZone"] = 1625073553,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119253,7 +119439,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119321,9 +119510,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119345,7 +119531,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119413,9 +119602,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119437,7 +119623,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119505,9 +119694,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119529,7 +119715,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119597,9 +119786,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119621,7 +119807,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119689,9 +119878,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119713,7 +119899,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119781,9 +119970,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119805,7 +119991,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119873,9 +120062,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119897,7 +120083,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -119965,9 +120154,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -119989,7 +120175,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120057,9 +120246,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120081,7 +120267,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120149,9 +120338,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120173,7 +120359,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120255,11 +120444,6 @@ GRM_GuildDataBackup_Save = {
 							"2 May '21 16:00", -- [1]
 							1619913660, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"2 May '21 16:00", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -120281,6 +120465,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"2 May '21 16:00", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 20,
 					},
@@ -120349,6 +120538,7 @@ GRM_GuildDataBackup_Save = {
 							"27 May '21 09:37", -- [1]
 							1622073660, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -120370,11 +120560,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"27 May '21 09:37", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -120434,9 +120623,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120458,7 +120644,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120526,9 +120715,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120550,7 +120736,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120618,9 +120807,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120642,7 +120828,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120710,9 +120899,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120734,7 +120920,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120802,9 +120991,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120826,7 +121012,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120894,9 +121083,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -120918,7 +121104,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -120986,9 +121175,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121010,7 +121196,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121092,7 +121281,11 @@ GRM_GuildDataBackup_Save = {
 							"29 Apr '21 00:01", -- [1]
 							1619654460, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"29 Apr '21 00:01", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -121114,10 +121307,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"29 Apr '21 00:01", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -121177,9 +121366,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121201,7 +121387,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121270,6 +121459,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"1 May '21 14:32", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -121291,11 +121485,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"1 May '21 14:32", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"1 May '21 14:32", -- [1]
 							1619827260, -- [2]
@@ -121363,9 +121552,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121387,7 +121573,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121455,9 +121644,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121479,7 +121665,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121547,9 +121736,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121571,7 +121757,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121639,9 +121828,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121663,7 +121849,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121740,11 +121929,6 @@ GRM_GuildDataBackup_Save = {
 							"12 May '21 10:11", -- [1]
 							1620777660, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"12 May '21 10:11", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -121766,6 +121950,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"12 May '21 10:11", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 92,
 					},
@@ -121825,9 +122014,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -121849,7 +122035,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -121926,6 +122115,7 @@ GRM_GuildDataBackup_Save = {
 							"30 Jun '21 16:18", -- [1]
 							1625011260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -121947,11 +122137,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"30 Jun '21 16:18", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -122011,9 +122200,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122035,7 +122221,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122103,9 +122292,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122127,7 +122313,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122195,9 +122384,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122219,7 +122405,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122301,11 +122490,6 @@ GRM_GuildDataBackup_Save = {
 							"1 Jun '21 20:57", -- [1]
 							1622505660, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"1 Jun '21 20:57", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -122327,6 +122511,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"1 Jun '21 20:57", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -122386,9 +122575,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625070818,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122410,7 +122596,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122478,9 +122667,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122502,7 +122688,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122570,9 +122759,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122594,7 +122780,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122662,9 +122851,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122686,7 +122872,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122768,6 +122957,7 @@ GRM_GuildDataBackup_Save = {
 							"15 Jun '21 14:02", -- [1]
 							1623715260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -122789,17 +122979,16 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"15 Jun '21 14:02", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 110,
 					},
-					["Xerazon-Sethraliss"] = {
-						["GUID"] = "Player-10-006D3181",
-						["note"] = "main 428",
+					["Kequing-Sethraliss"] = {
+						["GUID"] = "Player-10-007ABC9B",
+						["note"] = "off Lunysse",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -122822,26 +123011,27 @@ GRM_GuildDataBackup_Save = {
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
+								"Alt Pinguino", -- [1]
+								"13 May '21", -- [2]
+								1620864060, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Pingu",
+						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Xerazon-Sethraliss",
+						["name"] = "Kequing-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 6976,
+						["lastOnline"] = 14,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
+							1620864060, -- [1]
 						},
 						["race"] = "NightElf",
 						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
+							"13 May '21 10:14", -- [1]
+							1620864060, -- [2]
 						},
 						["alts"] = {
 						},
@@ -122853,15 +123043,17 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
+						["isMain"] = false,
 						["joinDate"] = {
+							"13 May '21 10:14", -- [1]
 						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
+									13, -- [1]
+									5, -- [2]
+									2021, -- [3]
 								}, -- [1]
 								false, -- [2]
 								"", -- [3]
@@ -122877,21 +123069,20 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["isMain"] = false,
 						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
+							"13 May '21 10:14", -- [1]
+							1620864060, -- [2]
 						},
 						["guildRep"] = 4,
 						["officerNote"] = "",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
-						["sex"] = 2,
+						["sex"] = 3,
 					},
-					["Presideny-Sethraliss"] = {
-						["GUID"] = "Player-10-001FC96B",
-						["note"] = "Alt Wolvg",
+					["Talden-Sethraliss"] = {
+						["GUID"] = "Player-10-00681B66",
+						["note"] = "main",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -122900,8 +123091,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "HUNTER",
+						["zone"] = "Roccavento",
+						["class"] = "WARRIOR",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -122919,18 +123110,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Alt Pinguino",
+						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Presideny-Sethraliss",
+						["name"] = "Talden-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 990,
+						["lastOnline"] = 4219,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "Worgen",
+						["race"] = "KulTiran",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -122945,9 +123136,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -122969,7 +123157,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123037,9 +123228,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123061,7 +123249,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123073,9 +123264,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Kequing-Sethraliss"] = {
-						["GUID"] = "Player-10-007ABC9B",
-						["note"] = "off Lunysse",
+					["Xerazon-Sethraliss"] = {
+						["GUID"] = "Player-10-006D3181",
+						["note"] = "main 428",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -123098,27 +123289,26 @@ GRM_GuildDataBackup_Save = {
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
-								"Alt Pinguino", -- [1]
-								"13 May '21", -- [2]
-								1620864060, -- [3]
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Alt Pinguino",
+						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Kequing-Sethraliss",
+						["name"] = "Xerazon-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 14,
+						["lastOnline"] = 6976,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
-							1620864060, -- [1]
 						},
 						["race"] = "NightElf",
 						["verifiedPromoteDate"] = {
-							"13 May '21 10:14", -- [1]
-							1620864060, -- [2]
+							"", -- [1]
+							0, -- [2]
 						},
 						["alts"] = {
 						},
@@ -123133,9 +123323,9 @@ GRM_GuildDataBackup_Save = {
 						["events"] = {
 							{
 								{
-									13, -- [1]
-									5, -- [2]
-									2021, -- [3]
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
 								}, -- [1]
 								false, -- [2]
 								"", -- [3]
@@ -123152,20 +123342,19 @@ GRM_GuildDataBackup_Save = {
 							}, -- [2]
 						},
 						["joinDate"] = {
-							"13 May '21 10:14", -- [1]
 						},
 						["isMain"] = false,
-						["rankIndex"] = 5,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
-							"13 May '21 10:14", -- [1]
-							1620864060, -- [2]
+							"", -- [1]
+							0, -- [2]
 						},
 						["guildRep"] = 4,
 						["officerNote"] = "",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
-						["sex"] = 3,
+						["sex"] = 2,
 					},
 					["Silkan-Sethraliss"] = {
 						["GUID"] = "Player-10-00445CEF",
@@ -123224,10 +123413,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["timeEnteredZone"] = 1625069942,
 						["achievementPoints"] = 0,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-							"28 Jun '21 23:07", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -123249,7 +123434,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"28 Jun '21 23:07", -- [1]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"28 Jun '21 23:07", -- [1]
 							1624838460, -- [2]
@@ -123331,7 +123520,11 @@ GRM_GuildDataBackup_Save = {
 							"11 Jun '21 21:03", -- [1]
 							1623369660, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"11 Jun '21 21:03", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -123353,10 +123546,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"11 Jun '21 21:03", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -123416,9 +123605,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123440,7 +123626,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123508,9 +123697,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 3200,
 						["timeEnteredZone"] = 1625073040,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123532,7 +123718,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123600,9 +123789,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123624,7 +123810,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123692,9 +123881,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123716,7 +123902,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123784,9 +123973,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123808,7 +123994,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123876,9 +124065,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123900,7 +124086,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123912,9 +124101,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 3,
 					},
-					["Xophob-Sethraliss"] = {
-						["GUID"] = "Player-10-007E8475",
-						["note"] = "off kreferis",
+					["Voidaok-Sethraliss"] = {
+						["GUID"] = "Player-10-004EABAC",
+						["note"] = "Main",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -123923,7 +124112,7 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Roccavento",
+						["zone"] = "Altopiani d'Arathi",
 						["class"] = "WARLOCK",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
@@ -123933,7 +124122,7 @@ GRM_GuildDataBackup_Save = {
 							"", -- [4]
 						},
 						["status"] = 0,
-						["level"] = 110,
+						["level"] = 120,
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
@@ -123942,18 +124131,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Alt Pinguino",
-						["recommendToKick"] = false,
+						["rankName"] = "Pingu",
+						["recommendToKick"] = true,
 						["birthdayUnknown"] = false,
-						["name"] = "Xophob-Sethraliss",
+						["name"] = "Voidaok-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 1745,
+						["lastOnline"] = 9686,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "Mechagnome",
+						["race"] = "VoidElf",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -123968,9 +124157,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -123992,7 +124178,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124060,9 +124249,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124084,7 +124270,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124166,7 +124355,11 @@ GRM_GuildDataBackup_Save = {
 							"30 Apr '21 20:30", -- [1]
 							1619740860, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"30 Apr '21 20:30", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -124188,10 +124381,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"30 Apr '21 20:30", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 60,
 					},
@@ -124251,9 +124440,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124275,7 +124461,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124343,9 +124532,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124367,7 +124553,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124435,9 +124624,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124459,7 +124645,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124527,9 +124716,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124551,7 +124737,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124619,9 +124808,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124643,7 +124829,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124720,7 +124909,11 @@ GRM_GuildDataBackup_Save = {
 							"25 Apr '21 23:42", -- [1]
 							1619308860, -- [2]
 						},
+						["rankIndex"] = 5,
 						["isMain"] = false,
+						["joinDate"] = {
+							"25 Apr '21 23:42", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -124742,10 +124935,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"25 Apr '21 23:42", -- [1]
-						},
-						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -124805,9 +124994,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124829,7 +125015,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124897,9 +125086,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -124921,7 +125107,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -124989,9 +125178,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125013,7 +125199,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125081,9 +125270,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125105,7 +125291,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125173,9 +125362,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125197,7 +125383,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125265,9 +125454,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125289,7 +125475,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125357,9 +125546,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125381,7 +125567,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125449,9 +125638,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125473,7 +125659,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125541,9 +125730,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125565,7 +125751,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125633,9 +125822,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125657,7 +125843,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125725,9 +125914,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125749,7 +125935,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125817,9 +126006,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125841,7 +126027,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -125909,9 +126098,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -125933,7 +126119,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126001,9 +126190,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126025,7 +126211,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126093,9 +126282,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126117,7 +126303,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126185,9 +126374,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126209,7 +126395,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126286,11 +126475,6 @@ GRM_GuildDataBackup_Save = {
 							"9 May '21 15:17", -- [1]
 							1620518460, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"9 May '21 15:17", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -126312,6 +126496,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"9 May '21 15:17", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -126371,9 +126560,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126395,7 +126581,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126463,9 +126652,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126487,7 +126673,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126555,9 +126744,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126579,7 +126765,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126647,9 +126836,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126671,7 +126857,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126739,9 +126928,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126763,7 +126949,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126831,9 +127020,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126855,7 +127041,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126923,9 +127112,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -126947,7 +127133,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -126959,19 +127148,19 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Drhaerion-Sethraliss"] = {
-						["GUID"] = "Player-10-0077E9B3",
-						["note"] = "main 422",
+					["Holytankdps-Sethraliss"] = {
+						["GUID"] = "Player-10-007F19D1",
+						["note"] = "Main (Giuseppe)",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
 							"", -- [3]
-							5, -- [4]
+							2, -- [4]
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Baia di Tiragarde",
-						["class"] = "MAGE",
+						["zone"] = "Roccavento",
+						["class"] = "PALADIN",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -126980,32 +127169,38 @@ GRM_GuildDataBackup_Save = {
 							"", -- [4]
 						},
 						["status"] = 0,
-						["level"] = 120,
+						["timeEnteredZone"] = 1625071084,
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
+								"Pingu", -- [1]
+								"20 Jun '21", -- [2]
+								1624147260, -- [3]
 							}, -- [1]
+							{
+								"Pingu", -- [1]
+								"20 Jun '21", -- [2]
+								1624147260, -- [3]
+							}, -- [2]
 						},
 						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Drhaerion-Sethraliss",
+						["name"] = "Holytankdps-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 3383,
+						["lastOnline"] = 0,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
+							1624147260, -- [1]
 						},
-						["race"] = "Human",
+						["race"] = "LightforgedDraenei",
 						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
+							"20 Jun '21 12:20", -- [1]
+							1624147260, -- [2]
 						},
-						["alts"] = {
+						["removedAlts"] = {
 						},
 						["promoteDateUnknown"] = false,
 						["leftGuildEpoch"] = {
@@ -127013,17 +127208,27 @@ GRM_GuildDataBackup_Save = {
 						["reasonBanned"] = "",
 						["isUnknown"] = false,
 						["oldRank"] = "",
-						["achievementPoints"] = 0,
-						["timeEnteredZone"] = 1625069942,
+						["sex"] = 3,
+						["isOnline"] = false,
+						["alts"] = {
+						},
+						["officerNote"] = "",
+						["guildRep"] = 4,
+						["verifiedJoinDate"] = {
+							"20 Jun '21 12:20", -- [1]
+							1624147260, -- [2]
+						},
 						["rankIndex"] = 4,
+						["isMain"] = false,
 						["joinDate"] = {
+							"20 Jun '21 12:20", -- [1]
 						},
 						["events"] = {
 							{
 								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
+									20, -- [1]
+									6, -- [2]
+									2021, -- [3]
 								}, -- [1]
 								false, -- [2]
 								"", -- [3]
@@ -127039,17 +127244,8 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["isMain"] = false,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["guildRep"] = 4,
-						["officerNote"] = "Domandino",
-						["isOnline"] = false,
-						["removedAlts"] = {
-						},
-						["sex"] = 2,
+						["achievementPoints"] = 0,
+						["level"] = 120,
 					},
 					["Rhytta-Sethraliss"] = {
 						["GUID"] = "Player-10-004C4B23",
@@ -127129,12 +127325,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"", -- [1]
-							"19 Jun '21 18:13", -- [2]
-						},
 						["events"] = {
 							{
 								{
@@ -127156,22 +127346,28 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"", -- [1]
+							"19 Jun '21 18:13", -- [2]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 3395,
 						["level"] = 120,
 					},
-					["Holytankdps-Sethraliss"] = {
-						["GUID"] = "Player-10-007F19D1",
-						["note"] = "Main (Giuseppe)",
+					["Khaterian-Sethraliss"] = {
+						["GUID"] = "Player-10-00762EFF",
+						["note"] = "off camadon",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
 							"", -- [3]
-							2, -- [4]
+							5, -- [4]
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Roccavento",
-						["class"] = "PALADIN",
+						["zone"] = "Baia di Tiragarde",
+						["class"] = "WARLOCK",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -127180,38 +127376,32 @@ GRM_GuildDataBackup_Save = {
 							"", -- [4]
 						},
 						["status"] = 0,
-						["timeEnteredZone"] = 1625071084,
+						["level"] = 120,
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
-								"Pingu", -- [1]
-								"20 Jun '21", -- [2]
-								1624147260, -- [3]
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
 							}, -- [1]
-							{
-								"Pingu", -- [1]
-								"20 Jun '21", -- [2]
-								1624147260, -- [3]
-							}, -- [2]
 						},
-						["rankName"] = "Pingu",
+						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Holytankdps-Sethraliss",
+						["name"] = "Khaterian-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 0,
+						["lastOnline"] = 5023,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
-							1624147260, -- [1]
 						},
-						["race"] = "LightforgedDraenei",
+						["race"] = "VoidElf",
 						["verifiedPromoteDate"] = {
-							"20 Jun '21 12:20", -- [1]
-							1624147260, -- [2]
+							"", -- [1]
+							0, -- [2]
 						},
-						["removedAlts"] = {
+						["alts"] = {
 						},
 						["promoteDateUnknown"] = false,
 						["leftGuildEpoch"] = {
@@ -127219,23 +127409,14 @@ GRM_GuildDataBackup_Save = {
 						["reasonBanned"] = "",
 						["isUnknown"] = false,
 						["oldRank"] = "",
-						["sex"] = 3,
-						["isOnline"] = false,
-						["alts"] = {
-						},
-						["officerNote"] = "",
-						["guildRep"] = 4,
-						["verifiedJoinDate"] = {
-							"20 Jun '21 12:20", -- [1]
-							1624147260, -- [2]
-						},
-						["isMain"] = false,
+						["achievementPoints"] = 0,
+						["timeEnteredZone"] = 1625069942,
 						["events"] = {
 							{
 								{
-									20, -- [1]
-									6, -- [2]
-									2021, -- [3]
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
 								}, -- [1]
 								false, -- [2]
 								"", -- [3]
@@ -127252,11 +127433,19 @@ GRM_GuildDataBackup_Save = {
 							}, -- [2]
 						},
 						["joinDate"] = {
-							"20 Jun '21 12:20", -- [1]
 						},
-						["rankIndex"] = 4,
-						["achievementPoints"] = 0,
-						["level"] = 120,
+						["isMain"] = false,
+						["rankIndex"] = 5,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["guildRep"] = 4,
+						["officerNote"] = "",
+						["isOnline"] = false,
+						["removedAlts"] = {
+						},
+						["sex"] = 3,
 					},
 					["Maziken-Sethraliss"] = {
 						["GUID"] = "Player-10-00350E3D",
@@ -127314,9 +127503,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127338,7 +127524,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127406,9 +127595,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127430,7 +127616,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127498,9 +127687,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127522,7 +127708,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127534,9 +127723,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Khaterian-Sethraliss"] = {
-						["GUID"] = "Player-10-00762EFF",
-						["note"] = "off camadon",
+					["Drhaerion-Sethraliss"] = {
+						["GUID"] = "Player-10-0077E9B3",
+						["note"] = "main 422",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -127546,7 +127735,7 @@ GRM_GuildDataBackup_Save = {
 							"", -- [6]
 						},
 						["zone"] = "Baia di Tiragarde",
-						["class"] = "WARLOCK",
+						["class"] = "MAGE",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -127564,18 +127753,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Alt Pinguino",
+						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Khaterian-Sethraliss",
+						["name"] = "Drhaerion-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 5023,
+						["lastOnline"] = 3383,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "VoidElf",
+						["race"] = "Human",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127590,9 +127779,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127614,17 +127800,20 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
 						},
 						["guildRep"] = 4,
-						["officerNote"] = "",
+						["officerNote"] = "Domandino",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
-						["sex"] = 3,
+						["sex"] = 2,
 					},
 					["Trikì-Sethraliss"] = {
 						["GUID"] = "Player-10-007BE172",
@@ -127682,9 +127871,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127706,7 +127892,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127774,9 +127963,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127798,7 +127984,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127866,9 +128055,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127890,7 +128076,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -127958,9 +128147,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -127982,7 +128168,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128064,7 +128253,11 @@ GRM_GuildDataBackup_Save = {
 							"30 May '21 15:33", -- [1]
 							1622332860, -- [2]
 						},
+						["rankIndex"] = 4,
 						["isMain"] = false,
+						["joinDate"] = {
+							"30 May '21 15:33", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -128086,10 +128279,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"30 May '21 15:33", -- [1]
-						},
-						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 65,
 					},
@@ -128149,9 +128338,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128173,7 +128359,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128185,8 +128374,8 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Riundo-Sethraliss"] = {
-						["GUID"] = "Player-10-00577B17",
+					["Lunabianca-Sethraliss"] = {
+						["GUID"] = "Player-10-007FCCD0",
 						["note"] = "main",
 						["customNote"] = {
 							true, -- [1]
@@ -128196,8 +128385,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Nazjatar",
-						["class"] = "SHAMAN",
+						["zone"] = "Roccavento",
+						["class"] = "MAGE",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -128218,15 +128407,15 @@ GRM_GuildDataBackup_Save = {
 						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Riundo-Sethraliss",
+						["name"] = "Lunabianca-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 1775,
+						["lastOnline"] = 993,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "Draenei",
+						["race"] = "NightElf",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128241,9 +128430,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128265,13 +128451,16 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
 						},
 						["guildRep"] = 4,
-						["officerNote"] = "Vecchio membro di 10 mesi fa ",
+						["officerNote"] = "",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
@@ -128333,9 +128522,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128357,7 +128543,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128425,9 +128614,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128449,7 +128635,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128461,8 +128650,8 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Lunabianca-Sethraliss"] = {
-						["GUID"] = "Player-10-007FCCD0",
+					["Riundo-Sethraliss"] = {
+						["GUID"] = "Player-10-00577B17",
 						["note"] = "main",
 						["customNote"] = {
 							true, -- [1]
@@ -128472,8 +128661,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Roccavento",
-						["class"] = "MAGE",
+						["zone"] = "Nazjatar",
+						["class"] = "SHAMAN",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -128494,15 +128683,15 @@ GRM_GuildDataBackup_Save = {
 						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Lunabianca-Sethraliss",
+						["name"] = "Riundo-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 993,
+						["lastOnline"] = 1775,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "NightElf",
+						["race"] = "Draenei",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128517,9 +128706,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128541,13 +128727,16 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
 						},
 						["guildRep"] = 4,
-						["officerNote"] = "",
+						["officerNote"] = "Vecchio membro di 10 mesi fa ",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
@@ -128609,9 +128798,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128633,7 +128819,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128701,9 +128890,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 3660,
 						["timeEnteredZone"] = 1625073100,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128725,7 +128911,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128793,9 +128982,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128817,7 +129003,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128885,9 +129074,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -128909,7 +129095,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -128977,9 +129166,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129001,7 +129187,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129069,9 +129258,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129093,7 +129279,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129161,9 +129350,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129185,7 +129371,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129253,9 +129442,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129277,7 +129463,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129345,9 +129534,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625070788,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129369,7 +129555,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129437,9 +129626,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129461,7 +129647,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129529,9 +129718,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129553,7 +129739,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129621,9 +129810,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129645,7 +129831,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129713,9 +129902,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129737,7 +129923,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129819,6 +130008,7 @@ GRM_GuildDataBackup_Save = {
 							"6 May '21 17:57", -- [1]
 							1620259260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -129840,11 +130030,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"6 May '21 17:57", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -129904,9 +130093,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -129928,7 +130114,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -129996,9 +130185,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130020,7 +130206,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130088,9 +130277,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130112,7 +130298,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130180,9 +130369,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130204,7 +130390,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130272,9 +130461,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130296,7 +130482,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130370,10 +130559,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["timeEnteredZone"] = 1625069942,
 						["achievementPoints"] = 0,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-							"29 Jun '21 14:07", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -130395,7 +130580,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"29 Jun '21 14:07", -- [1]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"29 Jun '21 14:07", -- [1]
 							1624924860, -- [2]
@@ -130463,9 +130652,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130487,7 +130673,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130561,11 +130750,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["joinDate"] = {
 							"9 May '21 22:13", -- [1]
 						},
-						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -130587,6 +130775,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"9 May '21 22:13", -- [1]
 							1620518460, -- [2]
@@ -130654,9 +130843,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130678,7 +130864,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130746,9 +130935,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130770,7 +130956,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130838,9 +131027,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130862,7 +131048,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -130930,9 +131119,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -130954,7 +131140,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131022,9 +131211,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131046,7 +131232,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131114,9 +131303,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131138,7 +131324,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131206,9 +131395,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131230,105 +131416,16 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
 						},
 						["guildRep"] = 4,
 						["officerNote"] = "ragusano",
-						["isOnline"] = false,
-						["removedAlts"] = {
-						},
-						["sex"] = 2,
-					},
-					["Nakut-Sethraliss"] = {
-						["GUID"] = "Player-10-0060413A",
-						["note"] = "main",
-						["customNote"] = {
-							true, -- [1]
-							0, -- [2]
-							"", -- [3]
-							5, -- [4]
-							false, -- [5]
-							"", -- [6]
-						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "WARRIOR",
-						["mainStatusChangeTime"] = 0,
-						["bannedInfo"] = {
-							false, -- [1]
-							0, -- [2]
-							false, -- [3]
-							"", -- [4]
-						},
-						["status"] = 0,
-						["level"] = 120,
-						["joinDateUnknown"] = false,
-						["rankHistory"] = {
-							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
-							}, -- [1]
-						},
-						["rankName"] = "Pingu",
-						["recommendToKick"] = false,
-						["birthdayUnknown"] = false,
-						["name"] = "Nakut-Sethraliss",
-						["safeList"] = false,
-						["lastOnline"] = 54,
-						["isMobile"] = false,
-						["leftGuildDate"] = {
-						},
-						["joinDateEpoch"] = {
-						},
-						["race"] = "Human",
-						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["alts"] = {
-						},
-						["promoteDateUnknown"] = false,
-						["leftGuildEpoch"] = {
-						},
-						["reasonBanned"] = "",
-						["isUnknown"] = false,
-						["oldRank"] = "",
-						["achievementPoints"] = 0,
-						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
-						["events"] = {
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-							}, -- [1]
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-								0, -- [4]
-							}, -- [2]
-						},
-						["isMain"] = false,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["guildRep"] = 4,
-						["officerNote"] = "",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
@@ -131390,9 +131487,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131414,7 +131508,102 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["guildRep"] = 4,
+						["officerNote"] = "",
+						["isOnline"] = false,
+						["removedAlts"] = {
+						},
+						["sex"] = 2,
+					},
+					["Nakut-Sethraliss"] = {
+						["GUID"] = "Player-10-0060413A",
+						["note"] = "main",
+						["customNote"] = {
+							true, -- [1]
+							0, -- [2]
+							"", -- [3]
+							5, -- [4]
+							false, -- [5]
+							"", -- [6]
+						},
+						["zone"] = "Porto di Boralus",
+						["class"] = "WARRIOR",
+						["mainStatusChangeTime"] = 0,
+						["bannedInfo"] = {
+							false, -- [1]
+							0, -- [2]
+							false, -- [3]
+							"", -- [4]
+						},
+						["status"] = 0,
+						["level"] = 120,
+						["joinDateUnknown"] = false,
+						["rankHistory"] = {
+							{
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
+							}, -- [1]
+						},
+						["rankName"] = "Pingu",
+						["recommendToKick"] = false,
+						["birthdayUnknown"] = false,
+						["name"] = "Nakut-Sethraliss",
+						["safeList"] = false,
+						["lastOnline"] = 54,
+						["isMobile"] = false,
+						["leftGuildDate"] = {
+						},
+						["joinDateEpoch"] = {
+						},
+						["race"] = "Human",
+						["verifiedPromoteDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["alts"] = {
+						},
+						["promoteDateUnknown"] = false,
+						["leftGuildEpoch"] = {
+						},
+						["reasonBanned"] = "",
+						["isUnknown"] = false,
+						["oldRank"] = "",
+						["achievementPoints"] = 0,
+						["timeEnteredZone"] = 1625069942,
+						["events"] = {
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+							}, -- [1]
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+								0, -- [4]
+							}, -- [2]
+						},
+						["joinDate"] = {
+						},
+						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131496,7 +131685,11 @@ GRM_GuildDataBackup_Save = {
 							"11 Jun '21 21:37", -- [1]
 							1623369660, -- [2]
 						},
+						["rankIndex"] = 5,
 						["isMain"] = false,
+						["joinDate"] = {
+							"11 Jun '21 21:37", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -131518,10 +131711,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"11 Jun '21 21:37", -- [1]
-						},
-						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -131581,9 +131770,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131605,7 +131791,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131673,9 +131862,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131697,7 +131883,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131765,9 +131954,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131789,7 +131975,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131857,9 +132046,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131881,7 +132067,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -131949,9 +132138,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -131973,7 +132159,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132041,9 +132230,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132065,7 +132251,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132076,98 +132265,6 @@ GRM_GuildDataBackup_Save = {
 						["removedAlts"] = {
 						},
 						["sex"] = 3,
-					},
-					["Sílikan-Sethraliss"] = {
-						["GUID"] = "Player-10-006FB770",
-						["note"] = "main/en",
-						["customNote"] = {
-							true, -- [1]
-							0, -- [2]
-							"", -- [3]
-							5, -- [4]
-							false, -- [5]
-							"", -- [6]
-						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "HUNTER",
-						["mainStatusChangeTime"] = 0,
-						["bannedInfo"] = {
-							false, -- [1]
-							0, -- [2]
-							false, -- [3]
-							"", -- [4]
-						},
-						["status"] = 0,
-						["level"] = 120,
-						["joinDateUnknown"] = false,
-						["rankHistory"] = {
-							{
-								"", -- [1]
-								"", -- [2]
-								0, -- [3]
-							}, -- [1]
-						},
-						["rankName"] = "Pingu",
-						["recommendToKick"] = false,
-						["birthdayUnknown"] = false,
-						["name"] = "Sílikan-Sethraliss",
-						["safeList"] = false,
-						["lastOnline"] = 270,
-						["isMobile"] = false,
-						["leftGuildDate"] = {
-						},
-						["joinDateEpoch"] = {
-						},
-						["race"] = "Human",
-						["verifiedPromoteDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["alts"] = {
-						},
-						["promoteDateUnknown"] = false,
-						["leftGuildEpoch"] = {
-						},
-						["reasonBanned"] = "",
-						["isUnknown"] = false,
-						["oldRank"] = "",
-						["achievementPoints"] = 0,
-						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
-						["events"] = {
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-							}, -- [1]
-							{
-								{
-									0, -- [1]
-									0, -- [2]
-									0, -- [3]
-								}, -- [1]
-								false, -- [2]
-								"", -- [3]
-								0, -- [4]
-							}, -- [2]
-						},
-						["isMain"] = false,
-						["verifiedJoinDate"] = {
-							"", -- [1]
-							0, -- [2]
-						},
-						["guildRep"] = 4,
-						["officerNote"] = "silkan",
-						["isOnline"] = false,
-						["removedAlts"] = {
-						},
-						["sex"] = 2,
 					},
 					["Føzzy-Sethraliss"] = {
 						["GUID"] = "Player-10-004EE271",
@@ -132225,9 +132322,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132249,13 +132343,108 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
 						},
 						["guildRep"] = 4,
 						["officerNote"] = "",
+						["isOnline"] = false,
+						["removedAlts"] = {
+						},
+						["sex"] = 2,
+					},
+					["Sílikan-Sethraliss"] = {
+						["GUID"] = "Player-10-006FB770",
+						["note"] = "main/en",
+						["customNote"] = {
+							true, -- [1]
+							0, -- [2]
+							"", -- [3]
+							5, -- [4]
+							false, -- [5]
+							"", -- [6]
+						},
+						["zone"] = "Porto di Boralus",
+						["class"] = "HUNTER",
+						["mainStatusChangeTime"] = 0,
+						["bannedInfo"] = {
+							false, -- [1]
+							0, -- [2]
+							false, -- [3]
+							"", -- [4]
+						},
+						["status"] = 0,
+						["level"] = 120,
+						["joinDateUnknown"] = false,
+						["rankHistory"] = {
+							{
+								"", -- [1]
+								"", -- [2]
+								0, -- [3]
+							}, -- [1]
+						},
+						["rankName"] = "Pingu",
+						["recommendToKick"] = false,
+						["birthdayUnknown"] = false,
+						["name"] = "Sílikan-Sethraliss",
+						["safeList"] = false,
+						["lastOnline"] = 270,
+						["isMobile"] = false,
+						["leftGuildDate"] = {
+						},
+						["joinDateEpoch"] = {
+						},
+						["race"] = "Human",
+						["verifiedPromoteDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["alts"] = {
+						},
+						["promoteDateUnknown"] = false,
+						["leftGuildEpoch"] = {
+						},
+						["reasonBanned"] = "",
+						["isUnknown"] = false,
+						["oldRank"] = "",
+						["achievementPoints"] = 0,
+						["timeEnteredZone"] = 1625069942,
+						["events"] = {
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+							}, -- [1]
+							{
+								{
+									0, -- [1]
+									0, -- [2]
+									0, -- [3]
+								}, -- [1]
+								false, -- [2]
+								"", -- [3]
+								0, -- [4]
+							}, -- [2]
+						},
+						["joinDate"] = {
+						},
+						["isMain"] = false,
+						["rankIndex"] = 4,
+						["verifiedJoinDate"] = {
+							"", -- [1]
+							0, -- [2]
+						},
+						["guildRep"] = 4,
+						["officerNote"] = "silkan",
 						["isOnline"] = false,
 						["removedAlts"] = {
 						},
@@ -132317,9 +132506,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132341,7 +132527,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132418,11 +132607,6 @@ GRM_GuildDataBackup_Save = {
 							"5 May '21 21:30", -- [1]
 							1620172860, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-							"5 May '21 21:30", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -132444,6 +132628,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+							"5 May '21 21:30", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -132503,9 +132692,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132527,7 +132713,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132595,9 +132784,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132619,7 +132805,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132687,9 +132876,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132711,7 +132897,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132779,9 +132968,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132803,7 +132989,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132871,9 +133060,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132895,7 +133081,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -132963,9 +133152,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -132987,7 +133173,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133055,9 +133244,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133079,7 +133265,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133147,9 +133336,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133171,7 +133357,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133239,9 +133428,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133263,7 +133449,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133331,9 +133520,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133355,7 +133541,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133423,9 +133612,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133447,7 +133633,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133515,9 +133704,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133539,7 +133725,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133607,9 +133796,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133631,7 +133817,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133699,9 +133888,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133723,7 +133909,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133735,9 +133924,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Shdiame-Sethraliss"] = {
-						["GUID"] = "Player-10-00774426",
-						["note"] = "main 441",
+					["Ellorie-Sethraliss"] = {
+						["GUID"] = "Player-10-005B55C6",
+						["note"] = "off dimedh/beboko",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -133746,8 +133935,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Requie dei Re",
-						["class"] = "DRUID",
+						["zone"] = "Porto di Boralus",
+						["class"] = "MAGE",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -133765,18 +133954,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Pingu",
+						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Shdiame-Sethraliss",
+						["name"] = "Ellorie-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 2329,
+						["lastOnline"] = 44,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "NightElf",
+						["race"] = "VoidElf",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133791,9 +133980,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133815,7 +134001,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133883,9 +134072,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133907,7 +134093,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -133975,9 +134164,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 0,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -133999,7 +134185,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 0,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134081,6 +134270,7 @@ GRM_GuildDataBackup_Save = {
 							"15 Jun '21 14:02", -- [1]
 							1623715260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -134102,11 +134292,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"15 Jun '21 14:02", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -134166,9 +134355,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134190,7 +134376,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134202,9 +134391,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Ellorie-Sethraliss"] = {
-						["GUID"] = "Player-10-005B55C6",
-						["note"] = "off dimedh/beboko",
+					["Shdiame-Sethraliss"] = {
+						["GUID"] = "Player-10-00774426",
+						["note"] = "main 441",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -134213,8 +134402,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Porto di Boralus",
-						["class"] = "MAGE",
+						["zone"] = "Requie dei Re",
+						["class"] = "DRUID",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -134232,18 +134421,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Alt Pinguino",
+						["rankName"] = "Pingu",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Ellorie-Sethraliss",
+						["name"] = "Shdiame-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 44,
+						["lastOnline"] = 2329,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "VoidElf",
+						["race"] = "NightElf",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134258,9 +134447,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134282,7 +134468,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134350,9 +134539,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134374,7 +134560,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134442,9 +134631,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134466,7 +134652,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134534,9 +134723,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134558,7 +134744,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134626,9 +134815,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134650,7 +134836,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134718,9 +134907,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134742,7 +134928,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134810,9 +134999,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134834,7 +135020,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134902,9 +135091,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -134926,7 +135112,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -134994,9 +135183,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135018,7 +135204,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135086,9 +135275,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 2,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135110,7 +135296,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 2,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135178,9 +135367,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135202,7 +135388,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135271,11 +135460,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"20 May '21 13:16", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -135297,6 +135485,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"20 May '21 13:16", -- [1]
 							1621468860, -- [2]
@@ -135364,9 +135553,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135388,7 +135574,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135456,9 +135645,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135480,7 +135666,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135548,9 +135737,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135572,7 +135758,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135640,9 +135829,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 3355,
 						["timeEnteredZone"] = 1625072134,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135664,7 +135850,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135732,9 +135921,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135756,7 +135942,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135824,9 +136013,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135848,7 +136034,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -135916,9 +136105,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -135940,7 +136126,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136008,9 +136197,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136032,7 +136218,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136100,9 +136289,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136124,7 +136310,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136192,9 +136381,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136216,7 +136402,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136284,9 +136473,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136308,7 +136494,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136376,9 +136565,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136400,7 +136586,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136468,9 +136657,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136492,7 +136678,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136560,9 +136749,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136584,7 +136770,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136652,9 +136841,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136676,7 +136862,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136744,9 +136933,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136768,7 +136954,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136836,9 +137025,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136860,7 +137046,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -136928,9 +137117,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -136952,7 +137138,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137029,7 +137218,11 @@ GRM_GuildDataBackup_Save = {
 							"20 May '21 13:16", -- [1]
 							1621468860, -- [2]
 						},
+						["rankIndex"] = 5,
 						["isMain"] = false,
+						["joinDate"] = {
+							"20 May '21 13:16", -- [1]
+						},
 						["events"] = {
 							{
 								{
@@ -137051,10 +137244,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"20 May '21 13:16", -- [1]
-						},
-						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -137114,9 +137303,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137138,7 +137324,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137206,9 +137395,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137230,7 +137416,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137298,9 +137487,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137322,7 +137508,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137390,9 +137579,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137414,7 +137600,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137482,9 +137671,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137506,7 +137692,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137574,9 +137763,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137598,7 +137784,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137666,9 +137855,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137690,7 +137876,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137758,9 +137947,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137782,7 +137968,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137850,9 +138039,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137874,7 +138060,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -137942,9 +138131,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -137966,7 +138152,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138048,11 +138237,6 @@ GRM_GuildDataBackup_Save = {
 							"20 May '21 23:50", -- [1]
 							1621468860, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"20 May '21 23:50", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -138074,6 +138258,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"20 May '21 23:50", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 111,
 					},
@@ -138133,9 +138322,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138157,7 +138343,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138225,9 +138414,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138249,7 +138435,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138317,9 +138506,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138341,7 +138527,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138409,9 +138598,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138433,7 +138619,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138501,9 +138690,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138525,7 +138711,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138593,9 +138782,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138617,7 +138803,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138685,9 +138874,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138709,7 +138895,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138777,9 +138966,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138801,7 +138987,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138869,9 +139058,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138893,7 +139079,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -138961,9 +139150,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 1,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -138985,7 +139171,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 1,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139053,9 +139242,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139077,7 +139263,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139145,9 +139334,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139169,7 +139355,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139237,9 +139426,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139261,7 +139447,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139329,9 +139518,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139353,7 +139539,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139421,9 +139610,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139445,7 +139631,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139513,9 +139702,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139537,7 +139723,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139605,9 +139794,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139629,7 +139815,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139697,9 +139886,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139721,7 +139907,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139789,9 +139978,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -139813,7 +139999,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -139895,6 +140084,7 @@ GRM_GuildDataBackup_Save = {
 							"22 Jun '21 20:12", -- [1]
 							1624320060, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -139916,11 +140106,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 4,
 						["joinDate"] = {
 							"22 Jun '21 20:12", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 4,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -139980,9 +140169,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140004,7 +140190,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140072,9 +140261,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 3,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140096,7 +140282,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 3,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140164,9 +140353,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140188,7 +140374,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140256,9 +140445,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140280,7 +140466,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140348,9 +140537,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140372,7 +140558,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140440,9 +140629,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140464,7 +140650,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140541,6 +140730,7 @@ GRM_GuildDataBackup_Save = {
 							"4 May '21 19:17", -- [1]
 							1620086460, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -140562,11 +140752,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"4 May '21 19:17", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -140626,9 +140815,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140650,7 +140836,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140718,9 +140907,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140742,7 +140928,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140810,9 +140999,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140834,7 +141020,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140902,9 +141091,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -140926,7 +141112,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -140994,9 +141183,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625070818,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141018,7 +141204,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141094,10 +141283,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 5,
-						["isMain"] = false,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141119,6 +141304,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 5,
+						["joinDate"] = {
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -141178,9 +141367,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141202,7 +141388,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141270,9 +141459,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141294,7 +141480,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141363,6 +141552,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"26 May '21 08:14", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -141384,11 +141578,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"26 May '21 08:14", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"26 May '21 08:14", -- [1]
 							1621987260, -- [2]
@@ -141456,9 +141645,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141480,7 +141666,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141548,9 +141737,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141572,7 +141758,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141584,9 +141773,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Voidaok-Sethraliss"] = {
-						["GUID"] = "Player-10-004EABAC",
-						["note"] = "Main",
+					["Xophob-Sethraliss"] = {
+						["GUID"] = "Player-10-007E8475",
+						["note"] = "off kreferis",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -141595,7 +141784,7 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Altopiani d'Arathi",
+						["zone"] = "Roccavento",
 						["class"] = "WARLOCK",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
@@ -141605,7 +141794,7 @@ GRM_GuildDataBackup_Save = {
 							"", -- [4]
 						},
 						["status"] = 0,
-						["level"] = 120,
+						["level"] = 110,
 						["joinDateUnknown"] = false,
 						["rankHistory"] = {
 							{
@@ -141614,18 +141803,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Pingu",
-						["recommendToKick"] = true,
+						["rankName"] = "Alt Pinguino",
+						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Voidaok-Sethraliss",
+						["name"] = "Xophob-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 9686,
+						["lastOnline"] = 1745,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "VoidElf",
+						["race"] = "Mechagnome",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141640,9 +141829,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141664,7 +141850,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141732,9 +141921,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141756,7 +141942,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141824,9 +142013,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141848,7 +142034,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141860,9 +142049,9 @@ GRM_GuildDataBackup_Save = {
 						},
 						["sex"] = 2,
 					},
-					["Talden-Sethraliss"] = {
-						["GUID"] = "Player-10-00681B66",
-						["note"] = "main",
+					["Presideny-Sethraliss"] = {
+						["GUID"] = "Player-10-001FC96B",
+						["note"] = "Alt Wolvg",
 						["customNote"] = {
 							true, -- [1]
 							0, -- [2]
@@ -141871,8 +142060,8 @@ GRM_GuildDataBackup_Save = {
 							false, -- [5]
 							"", -- [6]
 						},
-						["zone"] = "Roccavento",
-						["class"] = "WARRIOR",
+						["zone"] = "Porto di Boralus",
+						["class"] = "HUNTER",
 						["mainStatusChangeTime"] = 0,
 						["bannedInfo"] = {
 							false, -- [1]
@@ -141890,18 +142079,18 @@ GRM_GuildDataBackup_Save = {
 								0, -- [3]
 							}, -- [1]
 						},
-						["rankName"] = "Pingu",
+						["rankName"] = "Alt Pinguino",
 						["recommendToKick"] = false,
 						["birthdayUnknown"] = false,
-						["name"] = "Talden-Sethraliss",
+						["name"] = "Presideny-Sethraliss",
 						["safeList"] = false,
-						["lastOnline"] = 4219,
+						["lastOnline"] = 990,
 						["isMobile"] = false,
 						["leftGuildDate"] = {
 						},
 						["joinDateEpoch"] = {
 						},
-						["race"] = "KulTiran",
+						["race"] = "Worgen",
 						["verifiedPromoteDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -141916,9 +142105,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -141940,7 +142126,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -142008,9 +142197,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -142032,7 +142218,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -142100,9 +142289,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -142124,7 +142310,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -142198,10 +142387,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-							"10 Jun '21 15:55", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -142223,7 +142408,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"10 Jun '21 15:55", -- [1]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"10 Jun '21 15:55", -- [1]
 							1623283260, -- [2]
@@ -142300,6 +142489,7 @@ GRM_GuildDataBackup_Save = {
 							"15 Jun '21 12:02", -- [1]
 							1623715260, -- [2]
 						},
+						["isMain"] = false,
 						["events"] = {
 							{
 								{
@@ -142321,11 +142511,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["rankIndex"] = 5,
 						["joinDate"] = {
 							"15 Jun '21 12:02", -- [1]
 						},
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -142385,9 +142574,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 4,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -142409,7 +142595,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+						},
 						["isMain"] = false,
+						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -142491,11 +142680,6 @@ GRM_GuildDataBackup_Save = {
 							"13 Jun '21 15:48", -- [1]
 							1623542460, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-							"13 Jun '21 15:48", -- [1]
-						},
 						["events"] = {
 							{
 								{
@@ -142517,6 +142701,11 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+							"13 Jun '21 15:48", -- [1]
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 20,
 					},
@@ -142582,6 +142771,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
+						["isMain"] = false,
+						["joinDate"] = {
+							"11 Jun '21 15:59", -- [1]
+						},
+						["rankIndex"] = 4,
 						["events"] = {
 							{
 								{
@@ -142603,11 +142797,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"11 Jun '21 15:59", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 4,
 						["verifiedJoinDate"] = {
 							"11 Jun '21 15:59", -- [1]
 							1623369660, -- [2]
@@ -142689,11 +142878,6 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "Alt Pinguino",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["rankIndex"] = 5,
-						["joinDate"] = {
-							"", -- [1]
-							"17 Jun '21 17:14", -- [2]
-						},
 						["events"] = {
 							{
 								{
@@ -142715,7 +142899,12 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["joinDate"] = {
+							"", -- [1]
+							"17 Jun '21 17:14", -- [2]
+						},
 						["isMain"] = false,
+						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"", -- [1]
 							0, -- [2]
@@ -142791,10 +142980,6 @@ GRM_GuildDataBackup_Save = {
 							"", -- [1]
 							0, -- [2]
 						},
-						["rankIndex"] = 4,
-						["isMain"] = false,
-						["joinDate"] = {
-						},
 						["events"] = {
 							{
 								{
@@ -142816,6 +143001,10 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["rankIndex"] = 4,
+						["joinDate"] = {
+						},
+						["isMain"] = false,
 						["achievementPoints"] = 0,
 						["level"] = 120,
 					},
@@ -142876,11 +143065,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"20 Jun '21 00:01", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -142902,6 +143090,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"20 Jun '21 00:01", -- [1]
 							1624147260, -- [2]
@@ -142970,11 +143159,10 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625069942,
-						["isMain"] = false,
+						["rankIndex"] = 5,
 						["joinDate"] = {
 							"21 Jun '21 22:17", -- [1]
 						},
-						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -142996,6 +143184,7 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
+						["isMain"] = false,
 						["verifiedJoinDate"] = {
 							"21 Jun '21 22:17", -- [1]
 							1624233660, -- [2]
@@ -143064,6 +143253,11 @@ GRM_GuildDataBackup_Save = {
 						["oldRank"] = "",
 						["achievementPoints"] = 0,
 						["timeEnteredZone"] = 1625072406,
+						["isMain"] = false,
+						["joinDate"] = {
+							"24 Jun '21 11:44", -- [1]
+						},
+						["rankIndex"] = 5,
 						["events"] = {
 							{
 								{
@@ -143085,11 +143279,6 @@ GRM_GuildDataBackup_Save = {
 								0, -- [4]
 							}, -- [2]
 						},
-						["joinDate"] = {
-							"24 Jun '21 11:44", -- [1]
-						},
-						["isMain"] = false,
-						["rankIndex"] = 5,
 						["verifiedJoinDate"] = {
 							"24 Jun '21 11:44", -- [1]
 							1624492860, -- [2]

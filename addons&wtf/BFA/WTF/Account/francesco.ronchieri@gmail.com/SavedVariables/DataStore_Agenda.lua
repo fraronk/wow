@@ -64,9 +64,9 @@ DataStore_AgendaDB = {
 					--[[ skipped entry with table key ]]
 				},
 				["DungeonIDs"] = {
-					["Ny'alotha, la Città Risvegliata Eroica|9545"] = "467841|1625162560|0|1",
+					["Ny'alotha, la Città Risvegliata Eroica|9545"] = "387213|1625243187|0|1",
 				},
-				["lastUpdate"] = 1625162609,
+				["lastUpdate"] = 1625243186,
 			},
 			["Default.Sethraliss.Berlusconi"] = {
 				["lastUpdate"] = 1624983759,
