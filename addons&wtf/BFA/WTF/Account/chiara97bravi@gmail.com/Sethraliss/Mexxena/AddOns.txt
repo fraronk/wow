@@ -1,1 +1,5 @@
 ZygorGuidesViewer: disabled
+Altoholic: disabled
+DataStore: disabled
+OmniCC: enabled
+ElvUI: enabled

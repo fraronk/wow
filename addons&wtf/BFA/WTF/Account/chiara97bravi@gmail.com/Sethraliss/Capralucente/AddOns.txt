@@ -1,4 +1,7 @@
-ElvUI: disabled
+ElvUI: enabled
 HealBot: disabled
 MaxDps: disabled
 ZygorGuidesViewer: disabled
+Altoholic: disabled
+DataStore: disabled
+OmniCC: enabled

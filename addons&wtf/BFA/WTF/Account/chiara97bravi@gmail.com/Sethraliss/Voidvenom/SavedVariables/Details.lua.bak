@@ -5,6 +5,4522 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.002665,
+							["damage_from"] = {
+								["Andrew Vestal"] = true,
+								["Disgregatore Giuranotte"] = true,
+								["Difensore Huojin Frenetico"] = true,
+								["Difensore Huojin"] = true,
+							},
+							["targets"] = {
+								["Andrew Vestal"] = 109185,
+								["Difensore Huojin Frenetico"] = 938846,
+								["Tivilix Bangalter"] = 158649,
+								["Accolito dei Seguaci dell'Ombra"] = 251824,
+								["Difensore Huojin"] = 88281,
+								["Disgregatore Giuranotte"] = 577699,
+							},
+							["total"] = 2124484.002665,
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+								"Raja <Voidvenom>", -- [2]
+							},
+							["on_hold"] = false,
+							["classe"] = "HUNTER",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1738335.002665,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1625304718,
+							["friendlyfire_total"] = 0,
+							["spec"] = 253,
+							["nome"] = "Voidvenom",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[83381] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 13076,
+										["targets"] = {
+											["Accolito dei Seguaci dell'Ombra"] = 26152,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 26152,
+										["n_min"] = 13076,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 26152,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 83381,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[217200] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5149,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 13062,
+											["Tivilix Bangalter"] = 5149,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18211,
+										["n_min"] = 4354,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 18211,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 217200,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[278565] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 27496,
+										["g_amt"] = 0,
+										["n_max"] = 2703,
+										["targets"] = {
+											["Andrew Vestal"] = 8109,
+											["Difensore Huojin Frenetico"] = 19154,
+											["Tivilix Bangalter"] = 2162,
+											["Disgregatore Giuranotte"] = 8444,
+											["Difensore Huojin"] = 4120,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 14493,
+										["n_min"] = 2060,
+										["g_dmg"] = 0,
+										["counter"] = 13,
+										["EVADE"] = 1,
+										["total"] = 41989,
+										["c_max"] = 5406,
+										["spellschool"] = 1,
+										["id"] = 278565,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 4120,
+									},
+									[317265] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 158208,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 79104,
+											["Andrew Vestal"] = 79104,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 158208,
+										["c_max"] = 79104,
+										["spellschool"] = 64,
+										["id"] = 317265,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 79104,
+									},
+									[2] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["EVADE"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 2,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[75] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 48454,
+										["g_amt"] = 0,
+										["n_max"] = 9714,
+										["targets"] = {
+											["Accolito dei Seguaci dell'Ombra"] = 36468,
+											["Difensore Huojin Frenetico"] = 54305,
+											["Disgregatore Giuranotte"] = 8911,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 51230,
+										["n_min"] = 7166,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 99684,
+										["c_max"] = 19262,
+										["spellschool"] = 1,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 14364,
+									},
+									[295261] = {
+										["c_amt"] = 15,
+										["b_amt"] = 0,
+										["c_dmg"] = 787435,
+										["g_amt"] = 0,
+										["n_max"] = 26195,
+										["targets"] = {
+											["Difensore Huojin"] = 52391,
+											["Disgregatore Giuranotte"] = 471518,
+											["Difensore Huojin Frenetico"] = 289719,
+											["Tivilix Bangalter"] = 104782,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 130975,
+										["n_min"] = 26195,
+										["g_dmg"] = 0,
+										["counter"] = 20,
+										["total"] = 918410,
+										["c_max"] = 53961,
+										["spellschool"] = 4,
+										["id"] = 295261,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 52391,
+									},
+									[295835] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 48510,
+										["g_amt"] = 0,
+										["n_max"] = 24982,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 97747,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 49237,
+										["n_min"] = 24255,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 97747,
+										["c_max"] = 48510,
+										["spellschool"] = 4,
+										["id"] = 295835,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 48510,
+									},
+									[2643] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 28598,
+										["g_amt"] = 0,
+										["n_max"] = 2399,
+										["targets"] = {
+											["Andrew Vestal"] = 7197,
+											["Difensore Huojin Frenetico"] = 24461,
+											["Tivilix Bangalter"] = 1919,
+											["Accolito dei Seguaci dell'Ombra"] = 2023,
+											["Difensore Huojin"] = 5531,
+											["Disgregatore Giuranotte"] = 5722,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18255,
+										["n_min"] = 1875,
+										["g_dmg"] = 0,
+										["counter"] = 17,
+										["EVADE"] = 1,
+										["total"] = 46853,
+										["c_max"] = 4798,
+										["spellschool"] = 1,
+										["id"] = 2643,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 9,
+										["r_amt"] = 0,
+										["c_min"] = 3656,
+									},
+									[259756] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2497,
+										["targets"] = {
+											["Accolito dei Seguaci dell'Ombra"] = 1898,
+											["Difensore Huojin Frenetico"] = 6700,
+											["Tivilix Bangalter"] = 1890,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10488,
+										["n_min"] = 223,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["total"] = 10488,
+										["c_max"] = 0,
+										["spellschool"] = 48,
+										["id"] = 259756,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 14,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[311192] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 73169,
+										["g_amt"] = 0,
+										["n_max"] = 36584,
+										["targets"] = {
+											["Disgregatore Giuranotte"] = 36584,
+											["Accolito dei Seguaci dell'Ombra"] = 73169,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 36584,
+										["n_min"] = 36584,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 109753,
+										["c_max"] = 73169,
+										["spellschool"] = 4,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 73169,
+									},
+									[269031] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 19279,
+										["g_amt"] = 0,
+										["n_max"] = 5002,
+										["targets"] = {
+											["Andrew Vestal"] = 4937,
+											["Accolito dei Seguaci dell'Ombra"] = 5002,
+											["Difensore Huojin Frenetico"] = 19279,
+											["Tivilix Bangalter"] = 4937,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 14876,
+										["n_min"] = 4937,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 34155,
+										["c_max"] = 9874,
+										["spellschool"] = 1,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 9405,
+									},
+									[193455] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 152709,
+										["g_amt"] = 0,
+										["n_max"] = 11988,
+										["targets"] = {
+											["Disgregatore Giuranotte"] = 11988,
+											["Accolito dei Seguaci dell'Ombra"] = 76521,
+											["Difensore Huojin Frenetico"] = 50366,
+											["Tivilix Bangalter"] = 37810,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 23976,
+										["n_min"] = 11988,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["EVADE"] = 2,
+										["total"] = 176685,
+										["c_max"] = 25507,
+										["spellschool"] = 1,
+										["id"] = 193455,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 2,
+										["r_amt"] = 0,
+										["c_min"] = 18905,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-10-004B3A0C",
+							["last_dps"] = 30843.71147469365,
+							["custom"] = 0,
+							["last_event"] = 1625304704,
+							["damage_taken"] = 343377.002665,
+							["start_time"] = 1625304662,
+							["delay"] = 1625304704,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.001683,
+							["serial"] = "Pet-0-0-0-0-0-0008EEDBD4",
+							["damage_from"] = {
+								["Disgregatore Giuranotte"] = true,
+								["Difensore Huojin Frenetico"] = true,
+								["Difensore Huojin"] = true,
+							},
+							["targets"] = {
+								["Andrew Vestal"] = 4919,
+								["Difensore Huojin Frenetico"] = 194026,
+								["Disgregatore Giuranotte"] = 25124,
+								["Difensore Huojin"] = 11245,
+								["Accolito dei Seguaci dell'Ombra"] = 18656,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 253970.001683,
+							["dps_started"] = false,
+							["total"] = 253970.001683,
+							["classe"] = "PET",
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 26288,
+										["g_amt"] = 0,
+										["n_max"] = 2601,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 27454,
+											["Accolito dei Seguaci dell'Ombra"] = 5535,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6701,
+										["n_min"] = 2050,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 32989,
+										["c_max"] = 5535,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 4101,
+									}, -- [1]
+									[201754] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 62597,
+										["g_amt"] = 0,
+										["n_max"] = 4919,
+										["targets"] = {
+											["Andrew Vestal"] = 4919,
+											["Disgregatore Giuranotte"] = 7872,
+											["Difensore Huojin"] = 11245,
+											["Difensore Huojin Frenetico"] = 56832,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18271,
+										["n_min"] = 3748,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["EVADE"] = 1,
+										["total"] = 80868,
+										["c_max"] = 9839,
+										["spellschool"] = 1,
+										["id"] = 201754,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 7497,
+									},
+									[118459] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17909,
+										["targets"] = {
+											["Disgregatore Giuranotte"] = 17252,
+											["Difensore Huojin Frenetico"] = 61747,
+											["Accolito dei Seguaci dell'Ombra"] = 3075,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 82074,
+										["n_min"] = 3075,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 82074,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 118459,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[49966] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 33869,
+										["g_amt"] = 0,
+										["n_max"] = 10046,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 47993,
+											["Accolito dei Seguaci dell'Ombra"] = 10046,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 24170,
+										["n_min"] = 7062,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 58039,
+										["c_max"] = 18887,
+										["spellschool"] = 1,
+										["id"] = 49966,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 14982,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 213.001683,
+							["start_time"] = 1625304672,
+							["delay"] = 1625304704,
+							["last_event"] = 1625304704,
+						}, -- [2]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 19742.008192,
+							["damage_from"] = {
+								["Андрюшенька"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Voidvenom"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+								["Voidvenom"] = 251112,
+								["Apina <Voidvenom>"] = 5,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 251117.008192,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 251117.008192,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-10-2275-0-159324-000000013B",
+							["nome"] = "Difensore Huojin",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 32592,
+										["g_amt"] = 0,
+										["n_max"] = 9262,
+										["targets"] = {
+											["Voidvenom"] = 242477,
+											["Apina <Voidvenom>"] = 5,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 209890,
+										["n_min"] = 2,
+										["g_dmg"] = 0,
+										["counter"] = 35,
+										["DODGE"] = 2,
+										["total"] = 242482,
+										["c_max"] = 18247,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 6674,
+										["m_crit"] = 0,
+										["a_amt"] = 1,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 31,
+										["r_amt"] = 0,
+										["c_min"] = 14345,
+									}, -- [1]
+									[314083] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8635,
+										["targets"] = {
+											["Voidvenom"] = 8635,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8635,
+										["n_min"] = 8635,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 8635,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 314083,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 91069.00819200001,
+							["start_time"] = 1625304678,
+							["delay"] = 0,
+							["last_event"] = 1625304711,
+						}, -- [3]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 63953.008265,
+							["monster"] = true,
+							["damage_from"] = {
+								["Guardiano Tushui"] = true,
+								["Voidvenom"] = true,
+								["給聖騎點個贊"] = true,
+								["Андрюшенька"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Dejminamaslo"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+								["Voidvenom"] = 38004,
+								["給聖騎點個贊"] = 52796,
+								["Андрюшенька"] = 9170,
+								["Apina <Voidvenom>"] = 4,
+								["Dejminamaslo"] = 47829,
+								["Guardiano Tushui"] = 11744,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 159547.008265,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 159547.008265,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-10-2275-0-159335-0000000734",
+							["nome"] = "Difensore Huojin Frenetico",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 17637,
+										["g_amt"] = 0,
+										["n_max"] = 5867,
+										["targets"] = {
+											["Voidvenom"] = 38004,
+											["給聖騎點個贊"] = 41491,
+											["Apina <Voidvenom>"] = 4,
+											["Dejminamaslo"] = 29528,
+											["Андрюшенька"] = 9170,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 100560,
+										["DODGE"] = 3,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["a_amt"] = 2,
+										["total"] = 118197,
+										["c_max"] = 9513,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 9255,
+										["m_crit"] = 0,
+										["PARRY"] = 2,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 32,
+										["r_amt"] = 0,
+										["c_min"] = 8124,
+									}, -- [1]
+									[314083] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 6018,
+										["targets"] = {
+											["Guardiano Tushui"] = 11744,
+											["Dejminamaslo"] = 18301,
+											["給聖騎點個贊"] = 11305,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 41350,
+										["n_min"] = 3499,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 41350,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 314083,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 6,
+										["b_dmg"] = 0,
+										["n_amt"] = 8,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 2471506.008265,
+							["start_time"] = 1625304660,
+							["delay"] = 1625304707,
+							["last_event"] = 1625304707,
+						}, -- [4]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.001216,
+							["serial"] = "Creature-0-10-2275-0-88708-000000074A",
+							["damage_from"] = {
+								["Infestazione Vivente"] = true,
+							},
+							["targets"] = {
+								["Andrew Vestal"] = 4919,
+								["Difensore Huojin Frenetico"] = 90923,
+								["Disgregatore Giuranotte"] = 9408,
+								["Difensore Huojin"] = 14994,
+								["Accolito dei Seguaci dell'Ombra"] = 11935,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 132179.001216,
+							["dps_started"] = false,
+							["total"] = 132179.001216,
+							["classe"] = "PET",
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Raja <Voidvenom>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 21013,
+										["g_amt"] = 0,
+										["n_max"] = 2767,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 22905,
+											["Accolito dei Seguaci dell'Ombra"] = 7128,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 9020,
+										["n_min"] = 2050,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 30033,
+										["c_max"] = 4361,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 4101,
+									}, -- [1]
+									[118459] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3271,
+										["targets"] = {
+											["Disgregatore Giuranotte"] = 1536,
+											["Difensore Huojin Frenetico"] = 1536,
+											["Accolito dei Seguaci dell'Ombra"] = 4807,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7879,
+										["n_min"] = 1536,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 7879,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 118459,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[201754] = {
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 80493,
+										["g_amt"] = 0,
+										["n_max"] = 4919,
+										["targets"] = {
+											["Andrew Vestal"] = 4919,
+											["Disgregatore Giuranotte"] = 7872,
+											["Difensore Huojin"] = 14994,
+											["Difensore Huojin Frenetico"] = 66482,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 13774,
+										["n_min"] = 3936,
+										["g_dmg"] = 0,
+										["counter"] = 14,
+										["EVADE"] = 2,
+										["total"] = 94267,
+										["c_max"] = 9839,
+										["spellschool"] = 1,
+										["id"] = 201754,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 7497,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 4.001216,
+							["start_time"] = 1625304673,
+							["delay"] = 1625304704,
+							["last_event"] = 1625304704,
+						}, -- [5]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 19934.007592,
+							["monster"] = true,
+							["damage_from"] = {
+								["Voidvenom"] = true,
+								["給聖騎點個贊"] = true,
+								["Андрюшенька"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Dejminamaslo"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+								["Voidvenom"] = 43205,
+								["Apina <Voidvenom>"] = 204,
+								["Dejminamaslo"] = 6703,
+								["Guardiano Tushui"] = 20613,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 70725.00759200001,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 70725.00759200001,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-10-2275-0-154056-0000000709",
+							["nome"] = "Disgregatore Giuranotte",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 9190,
+										["targets"] = {
+											["Voidvenom"] = 43205,
+											["Dejminamaslo"] = 6703,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 49908,
+										["n_min"] = 5975,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 49908,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 6689,
+										["m_crit"] = 0,
+										["a_amt"] = 1,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 7,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[296718] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10307,
+										["targets"] = {
+											["Guardiano Tushui"] = 10307,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10307,
+										["n_min"] = 10307,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 10307,
+										["c_max"] = 0,
+										["id"] = 296718,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[296733] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5153,
+										["targets"] = {
+											["Guardiano Tushui"] = 10306,
+											["Apina <Voidvenom>"] = 204,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 10510,
+										["n_min"] = 204,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 10510,
+										["c_max"] = 0,
+										["id"] = 296733,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 7,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1318369.007592,
+							["start_time"] = 1625304696,
+							["delay"] = 1625304682,
+							["last_event"] = 1625304682,
+						}, -- [6]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 16692.001326,
+							["monster"] = true,
+							["damage_from"] = {
+								["Dejminamaslo"] = true,
+								["Voidvenom"] = true,
+								["給聖騎點個贊"] = true,
+							},
+							["targets"] = {
+								["給聖騎點個贊"] = 21601,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 21601.001326,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 21601.001326,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-10-2275-0-159360-0000000718",
+							["nome"] = "Tivilix Bangalter",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4909,
+										["targets"] = {
+											["給聖騎點個贊"] = 21601,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 21601,
+										["n_min"] = 3704,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["a_amt"] = 1,
+										["total"] = 21601,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 4909,
+										["m_crit"] = 0,
+										["PARRY"] = 1,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 5,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 381677.001326,
+							["start_time"] = 1625304707,
+							["delay"] = 1625304659,
+							["last_event"] = 1625304659,
+						}, -- [7]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 8094.006186,
+							["monster"] = true,
+							["damage_from"] = {
+								["Voidvenom"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Андрюшенька"] = true,
+								["Dejminamaslo"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+								["Voidvenom"] = 11056,
+								["Dejminamaslo"] = 8094,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 19150.006186,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 19150.006186,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-10-2275-0-159345-00000007D0",
+							["nome"] = "Andrew Vestal",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8094,
+										["targets"] = {
+											["Voidvenom"] = 11056,
+											["Dejminamaslo"] = 8094,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 19150,
+										["n_min"] = 3102,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 19150,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 207040.006186,
+							["start_time"] = 1625304711,
+							["delay"] = 1625304700,
+							["last_event"] = 1625304700,
+						}, -- [8]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003754,
+							["damage_from"] = {
+								["Dejminamaslo"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Voidvenom"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003754,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003754,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-10-2275-0-156463-000000035A",
+							["nome"] = "Accolito dei Seguaci dell'Ombra",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304718,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 351409.003754,
+							["start_time"] = 1625304718,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [9]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 30,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 48484.002439,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Voidvenom"] = true,
+							},
+							["targets_overheal"] = {
+								["Voidvenom"] = 130090,
+								["Apina <Voidvenom>"] = 295862,
+							},
+							["targets"] = {
+								["Voidvenom"] = 290668,
+								["Apina <Voidvenom>"] = 18325,
+							},
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[269279] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 48484,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 7212,
+										["targets"] = {
+											["Voidvenom"] = 48484,
+										},
+										["n_min"] = 2139,
+										["counter"] = 10,
+										["overheal"] = 0,
+										["total"] = 48484,
+										["c_max"] = 0,
+										["id"] = 269279,
+										["targets_absorbs"] = {
+											["Voidvenom"] = 48484,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 48484,
+										["n_amt"] = 10,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[259760] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Voidvenom"] = 1352,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Voidvenom"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 1352,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 259760,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[311201] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Voidvenom"] = 35715,
+										},
+										["n_max"] = 3782,
+										["targets"] = {
+											["Voidvenom"] = 3782,
+										},
+										["n_min"] = 3782,
+										["counter"] = 2,
+										["overheal"] = 35715,
+										["total"] = 3782,
+										["c_max"] = 0,
+										["id"] = 311201,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 3782,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[128594] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Apina <Voidvenom>"] = 295862,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Apina <Voidvenom>"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 1,
+										["overheal"] = 295862,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 128594,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 0,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[109304] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Voidvenom"] = 78231,
+										},
+										["n_max"] = 48567,
+										["targets"] = {
+											["Voidvenom"] = 48567,
+										},
+										["n_min"] = 48567,
+										["counter"] = 1,
+										["overheal"] = 78231,
+										["total"] = 48567,
+										["c_max"] = 0,
+										["id"] = 109304,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 48567,
+										["n_amt"] = 1,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+									[146347] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Voidvenom"] = 14792,
+										},
+										["n_max"] = 44379,
+										["targets"] = {
+											["Voidvenom"] = 189835,
+										},
+										["n_min"] = 53,
+										["counter"] = 93,
+										["overheal"] = 14792,
+										["total"] = 189835,
+										["c_max"] = 0,
+										["id"] = 146347,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 189835,
+										["n_amt"] = 93,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+							},
+							["totalover_without_pet"] = 0.002439,
+							["iniciar_hps"] = false,
+							["healing_taken"] = 290668.002439,
+							["totalover"] = 430443.002439,
+							["total_without_pet"] = 290668.002439,
+							["end_time"] = 1625304718,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 308993.002439,
+							["classe"] = "HUNTER",
+							["start_time"] = 1625304651,
+							["nome"] = "Voidvenom",
+							["spec"] = 253,
+							["grupo"] = true,
+							["targets_absorbs"] = {
+								["Voidvenom"] = 48484,
+							},
+							["heal_enemy"] = {
+							},
+							["serial"] = "Player-10-004B3A0C",
+							["custom"] = 0,
+							["last_event"] = 1625304711,
+							["on_hold"] = false,
+							["totaldenied"] = 0.002439,
+							["delay"] = 0,
+							["tipo"] = 2,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorb"] = 0.007806,
+							["last_hps"] = 0,
+							["healing_from"] = {
+								["Apina <Voidvenom>"] = true,
+							},
+							["targets"] = {
+								["Apina <Voidvenom>"] = 18325,
+							},
+							["targets_overheal"] = {
+								["Apina <Voidvenom>"] = 4491,
+							},
+							["pets"] = {
+							},
+							["totalover_without_pet"] = 0.007806,
+							["end_time"] = 1625304718,
+							["classe"] = "PET",
+							["totalover"] = 4491.007806,
+							["total_without_pet"] = 18325.007806,
+							["iniciar_hps"] = false,
+							["heal_enemy_amt"] = 0,
+							["fight_component"] = true,
+							["total"] = 18325.007806,
+							["healing_taken"] = 18325.007806,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["targets_absorbs"] = {
+							},
+							["start_time"] = 1625304699,
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[146347] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Apina <Voidvenom>"] = 4491,
+										},
+										["n_max"] = 2686,
+										["targets"] = {
+											["Apina <Voidvenom>"] = 18325,
+										},
+										["n_min"] = 57,
+										["counter"] = 21,
+										["overheal"] = 4491,
+										["total"] = 18325,
+										["c_max"] = 0,
+										["id"] = 146347,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 18325,
+										["n_amt"] = 21,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["heal_enemy"] = {
+							},
+							["serial"] = "Pet-0-0-0-0-0-0008EEDBD4",
+							["custom"] = 0,
+							["last_event"] = 1625304695,
+							["on_hold"] = false,
+							["totaldenied"] = 0.007806,
+							["delay"] = 1625304695,
+							["tipo"] = 2,
+						}, -- [2]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 30,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001493,
+							["resource"] = 0.001493,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "HUNTER",
+							["passiveover"] = 48.001493,
+							["fight_component"] = true,
+							["total"] = 0.001493,
+							["nome"] = "Voidvenom",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["flag_original"] = 1300,
+							["alternatepower"] = 1044.001493,
+							["last_event"] = 0,
+							["spec"] = 253,
+							["tipo"] = 3,
+							["serial"] = "Player-10-004B3A0C",
+							["totalover"] = 0.001493,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 30,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[57723] = {
+										["activedamt"] = 1,
+										["id"] = 57723,
+										["targets"] = {
+										},
+										["uptime"] = 36,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[217200] = {
+										["activedamt"] = 0,
+										["id"] = 217200,
+										["targets"] = {
+										},
+										["uptime"] = 65,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[306427] = {
+										["activedamt"] = -1,
+										["id"] = 306427,
+										["targets"] = {
+										},
+										["uptime"] = 50,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[295838] = {
+										["activedamt"] = -1,
+										["id"] = 295838,
+										["targets"] = {
+										},
+										["uptime"] = 65,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[306431] = {
+										["activedamt"] = 1,
+										["id"] = 306431,
+										["targets"] = {
+										},
+										["uptime"] = 48,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[317265] = {
+										["activedamt"] = 0,
+										["id"] = 317265,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["cooldowns_defensive"] = 1.004753,
+							["buff_uptime"] = 519,
+							["last_cooldown"] = {
+								1625304691.786, -- [1]
+								109304, -- [2]
+							},
+							["classe"] = "HUNTER",
+							["cooldowns_defensive_targets"] = {
+								["Voidvenom"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[246851] = {
+										["activedamt"] = 2,
+										["id"] = 246851,
+										["targets"] = {
+										},
+										["uptime"] = 18,
+										["appliedamt"] = 2,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 2,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 55,
+										["appliedamt"] = 2,
+										["refreshamt"] = 59,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[295248] = {
+										["activedamt"] = 7,
+										["id"] = 295248,
+										["targets"] = {
+										},
+										["uptime"] = 47,
+										["appliedamt"] = 7,
+										["refreshamt"] = 23,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[318227] = {
+										["activedamt"] = 4,
+										["id"] = 318227,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304708,
+										["uptime"] = 7,
+										["appliedamt"] = 4,
+										["refreshamt"] = 1,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[264667] = {
+										["activedamt"] = 1,
+										["id"] = 264667,
+										["targets"] = {
+										},
+										["uptime"] = 31,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[257946] = {
+										["activedamt"] = 2,
+										["id"] = 257946,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304703,
+										["uptime"] = 29,
+										["appliedamt"] = 2,
+										["refreshamt"] = 7,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[264420] = {
+										["activedamt"] = 1,
+										["id"] = 264420,
+										["targets"] = {
+										},
+										["uptime"] = 64,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[268877] = {
+										["activedamt"] = 5,
+										["id"] = 268877,
+										["targets"] = {
+										},
+										["uptime"] = 28,
+										["appliedamt"] = 5,
+										["refreshamt"] = 5,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[268769] = {
+										["activedamt"] = 1,
+										["id"] = 268769,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[246853] = {
+										["activedamt"] = 1,
+										["id"] = 246853,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304649,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[256374] = {
+										["activedamt"] = 1,
+										["id"] = 256374,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[246852] = {
+										["activedamt"] = 1,
+										["id"] = 246852,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[317859] = {
+										["activedamt"] = 1,
+										["id"] = 317859,
+										["targets"] = {
+										},
+										["uptime"] = 11,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[19574] = {
+										["activedamt"] = 1,
+										["id"] = 19574,
+										["targets"] = {
+										},
+										["uptime"] = 17,
+										["appliedamt"] = 1,
+										["refreshamt"] = 2,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297168] = {
+										["activedamt"] = 1,
+										["id"] = 297168,
+										["targets"] = {
+										},
+										["uptime"] = 9,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[274443] = {
+										["activedamt"] = 2,
+										["id"] = 274443,
+										["targets"] = {
+										},
+										["uptime"] = 24,
+										["appliedamt"] = 2,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[299338] = {
+										["activedamt"] = 1,
+										["id"] = 299338,
+										["targets"] = {
+										},
+										["uptime"] = 3,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 2,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 15,
+										["appliedamt"] = 2,
+										["refreshamt"] = 9,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[2479] = {
+										["activedamt"] = 1,
+										["id"] = 2479,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304649,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[268904] = {
+										["activedamt"] = 1,
+										["id"] = 268904,
+										["targets"] = {
+										},
+										["uptime"] = 10,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[305381] = {
+										["activedamt"] = 1,
+										["id"] = 305381,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304649,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[246152] = {
+										["activedamt"] = 4,
+										["id"] = 246152,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304703,
+										["uptime"] = 24,
+										["appliedamt"] = 4,
+										["refreshamt"] = 1,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[279902] = {
+										["activedamt"] = 6,
+										["id"] = 279902,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304711,
+										["uptime"] = 50,
+										["appliedamt"] = 6,
+										["refreshamt"] = 12,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[268905] = {
+										["activedamt"] = 2,
+										["id"] = 268905,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304702,
+										["uptime"] = 43,
+										["appliedamt"] = 2,
+										["refreshamt"] = 7,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+									[269083] = {
+										["activedamt"] = 1,
+										["id"] = 269083,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304649,
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = true,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 275,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 253,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[246851] = 2,
+								[297162] = 60,
+								[34026] = 5,
+								[217200] = 7,
+								[295838] = 3,
+								[269031] = 6,
+								[19574] = 1,
+								[246853] = 1,
+								[311192] = 2,
+								[193455] = 14,
+								[278565] = 6,
+								[2643] = 8,
+								[109304] = 1,
+								[311201] = 2,
+								[274443] = 4,
+								[128594] = 1,
+								[246152] = 3,
+								[246852] = 1,
+								[306427] = 1,
+								[186254] = 2,
+								[295261] = 10,
+								[272678] = 1,
+								[299338] = 1,
+								[268904] = 1,
+								[297168] = 1,
+								[306431] = 2,
+								[295248] = 21,
+								[317265] = 2,
+								[295835] = 3,
+							},
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[109304] = {
+										["id"] = 109304,
+										["targets"] = {
+											["Voidvenom"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1625304713,
+							["nome"] = "Voidvenom",
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+								"Raja <Voidvenom>", -- [2]
+							},
+							["serial"] = "Player-10-004B3A0C",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["fight_component"] = true,
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[115804] = 9,
+								[264667] = 1,
+								[83381] = 5,
+								[118459] = 7,
+								[49966] = 18,
+								[201754] = 7,
+								[61684] = 3,
+								[263858] = 9,
+							},
+							["serial"] = "Pet-0-0-0-0-0-0008EEDBD4",
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["nome"] = "Difensore Huojin Frenetico",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[314083] = 6,
+							},
+							["last_event"] = 0,
+							["monster"] = true,
+							["serial"] = "Creature-0-10-2275-0-159335-0000000733",
+							["classe"] = "UNKNOW",
+						}, -- [3]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Raja <Voidvenom>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[201754] = 7,
+								[61684] = 3,
+								[83381] = 5,
+								[118459] = 2,
+							},
+							["serial"] = "Creature-0-10-2275-0-88708-000000074A",
+							["last_event"] = 0,
+						}, -- [4]
+						{
+							["flag_original"] = 2632,
+							["nome"] = "Disgregatore Giuranotte",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["spell_cast"] = {
+								[296718] = 2,
+								[296733] = 7,
+							},
+							["last_event"] = 0,
+							["monster"] = true,
+							["serial"] = "Creature-0-10-2275-0-154056-0000000709",
+							["classe"] = "UNKNOW",
+						}, -- [5]
+						{
+							["flag_original"] = 2600,
+							["nome"] = "Difensore Huojin",
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["spell_cast"] = {
+								[314083] = 1,
+							},
+							["serial"] = "Creature-0-10-2275-0-159324-000000013B",
+							["classe"] = "UNKNOW",
+						}, -- [6]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 30,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Lunysse"] = true,
+					["Edwardngate"] = true,
+					["Voidvenom"] = true,
+					["Héxèn"] = true,
+				},
+				["tempo_start"] = 1625304649,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+					["Voidvenom"] = {
+						["total"] = 1044,
+						["last"] = 0,
+					},
+				},
+				["overall_added"] = true,
+				["enemy"] = "Difensore Huojin Frenetico",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["last_events_tables"] = {
+				},
+				["totals"] = {
+					2646623.94575, -- [1]
+					308992.8942989999, -- [2]
+					{
+						-0.01971800000000812, -- [1]
+						[0] = -0.02946299999992859,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					1738335, -- [1]
+					290668, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 1,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["instance_type"] = "none",
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Voidvenom"] = 308993.002439,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voidvenom"] = 2124484.002665,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 178222.846,
+				["combat_counter"] = 69,
+				["combat_id"] = 30,
+				["TotalElapsedCombatTime"] = 178218.391,
+				["player_last_events"] = {
+				},
+				["CombatEndedAt"] = 178218.391,
+				["spells_cast_timeline"] = {
+				},
+				["data_fim"] = "11:31:58",
+				["data_inicio"] = "11:30:49",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Andrew Vestal"] = 1,
+					["Difensore Huojin Frenetico"] = 14,
+					["Tivilix Bangalter"] = 2,
+					["Accolito dei Seguaci dell'Ombra"] = 3,
+					["Disgregatore Giuranotte"] = 1,
+				},
+				["start_time"] = 178153.967,
+				["TimeData"] = {
+				},
+				["contra"] = "Difensore Huojin Frenetico",
+			}, -- [1]
+			{
+				{
+					["combatId"] = 29,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.008772,
+							["total"] = 29307.008772,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Difensore Huojin Frenetico"] = 29307,
+							},
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+								"Raja <Voidvenom>", -- [2]
+							},
+							["friendlyfire"] = {
+							},
+							["colocacao"] = 1,
+							["classe"] = "HUNTER",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 11630.008772,
+							["friendlyfire_total"] = 0,
+							["dps_started"] = false,
+							["end_time"] = 1625304649,
+							["on_hold"] = false,
+							["spec"] = 253,
+							["nome"] = "Voidvenom",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[75] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 7276,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 7276,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7276,
+										["n_min"] = 7276,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 7276,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[217200] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4354,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 4354,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 4354,
+										["n_min"] = 4354,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 4354,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 217200,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-10-004B3A0C",
+							["last_dps"] = 28648.10241680046,
+							["custom"] = 0,
+							["last_event"] = 1625304648,
+							["damage_taken"] = 0.008772,
+							["start_time"] = 1625304646,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.007658,
+							["serial"] = "Pet-0-0-0-0-0-0008EEDBD4",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Difensore Huojin Frenetico"] = 9475,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 9475.007658,
+							["dps_started"] = false,
+							["total"] = 9475.007658,
+							["classe"] = "PET",
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 4349,
+										["g_amt"] = 0,
+										["n_max"] = 2050,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 6399,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2050,
+										["n_min"] = 2050,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 6399,
+										["c_max"] = 4349,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 4349,
+									}, -- [1]
+									[201754] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3076,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 3076,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3076,
+										["n_min"] = 3076,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 3076,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 201754,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304649,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.007658,
+							["start_time"] = 1625304646,
+							["delay"] = 0,
+							["last_event"] = 1625304648,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.005749,
+							["serial"] = "Creature-0-10-2275-0-88708-000000074A",
+							["damage_from"] = {
+								["Difensore Huojin Frenetico"] = true,
+							},
+							["targets"] = {
+								["Difensore Huojin Frenetico"] = 8202,
+							},
+							["pets"] = {
+							},
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 8202.005749,
+							["dps_started"] = false,
+							["total"] = 8202.005749,
+							["classe"] = "PET",
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Raja <Voidvenom>",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 2050,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 2050,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 2050,
+										["n_min"] = 2050,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2050,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[201754] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 6152,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 6152,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 6152,
+										["c_max"] = 6152,
+										["spellschool"] = 1,
+										["id"] = 201754,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 6152,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304649,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1.005749,
+							["start_time"] = 1625304648,
+							["delay"] = 0,
+							["last_event"] = 1625304648,
+						}, -- [3]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 7289.005357,
+							["damage_from"] = {
+								["Voidvenom"] = true,
+								["給聖騎點個贊"] = true,
+								["Dirtslicer"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Dejminamaslo"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+								["Dejminamaslo"] = 7289,
+								["Raja <Voidvenom>"] = 1,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 7290.005357,
+							["monster"] = true,
+							["fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1625304649,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Difensore Huojin Frenetico",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4193,
+										["targets"] = {
+											["Dejminamaslo"] = 7289,
+											["Raja <Voidvenom>"] = 1,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 7290,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 7290,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 3,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["total"] = 7290.005357,
+							["serial"] = "Creature-0-10-2275-0-159335-0000000707",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1625304648,
+							["damage_taken"] = 117127.005357,
+							["start_time"] = 1625304647,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [4]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 29,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 29,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00132,
+							["resource"] = 0.00132,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 1,
+							["classe"] = "HUNTER",
+							["passiveover"] = 2.00132,
+							["total"] = 0.00132,
+							["nome"] = "Voidvenom",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["flag_original"] = 1300,
+							["alternatepower"] = 1989.00132,
+							["last_event"] = 0,
+							["spec"] = 253,
+							["tipo"] = 3,
+							["serial"] = "Player-10-004B3A0C",
+							["totalover"] = 0.00132,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 29,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[268756] = {
+										["activedamt"] = -1,
+										["id"] = 268756,
+										["targets"] = {
+										},
+										["actived_at"] = 1625304647,
+										["uptime"] = 0,
+										["appliedamt"] = 0,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 11,
+							["classe"] = "HUNTER",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[268769] = {
+										["activedamt"] = 1,
+										["id"] = 268769,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[295248] = {
+										["activedamt"] = 1,
+										["id"] = 295248,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[186403] = {
+										["activedamt"] = 1,
+										["id"] = 186403,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[305381] = {
+										["activedamt"] = 1,
+										["id"] = 305381,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[264420] = {
+										["activedamt"] = 1,
+										["id"] = 264420,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[2479] = {
+										["activedamt"] = 1,
+										["id"] = 2479,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[297162] = {
+										["activedamt"] = 1,
+										["id"] = 297162,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[268905] = {
+										["activedamt"] = 1,
+										["id"] = 268905,
+										["targets"] = {
+										},
+										["uptime"] = 0,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269083] = {
+										["activedamt"] = 1,
+										["id"] = 269083,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[279902] = {
+										["activedamt"] = 1,
+										["id"] = 279902,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[318227] = {
+										["activedamt"] = 1,
+										["id"] = 318227,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 0,
+							["buff_uptime_targets"] = {
+							},
+							["spec"] = 253,
+							["grupo"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["last_event"] = 1625304647,
+							["nome"] = "Voidvenom",
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+							},
+							["serial"] = "Player-10-004B3A0C",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["pets"] = {
+							},
+							["classe"] = "PET",
+							["tipo"] = 4,
+							["spell_cast"] = {
+								[115804] = 1,
+								[263858] = 1,
+							},
+							["serial"] = "Pet-0-0-0-0-0-0008EEDBD4",
+							["last_event"] = 0,
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 29,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Lunysse"] = true,
+					["Edwardngate"] = true,
+					["Voidvenom"] = true,
+					["Héxèn"] = true,
+				},
+				["CombatStartedAt"] = 178153.656,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voidvenom"] = {
+						["total"] = 1989,
+						["last"] = 993,
+					},
+				},
+				["instance_type"] = "none",
+				["enemy"] = "Difensore Huojin Frenetico",
+				["combat_counter"] = 68,
+				["tempo_start"] = 1625304646,
+				["totals"] = {
+					36596.972873, -- [1]
+					-0.008154, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = -0.008542999999999523,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["cleu_timeline"] = {
+				},
+				["CombatEndedAt"] = 178152.611,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "11:30:46",
+				["end_time"] = 178152.767,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["combat_id"] = 29,
+				["totals_grupo"] = {
+					11630, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Voidvenom"] = 9326.008772000001,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Difensore Huojin Frenetico"] = 1,
+				},
+				["data_fim"] = "11:30:47",
+				["TotalElapsedCombatTime"] = 178152.611,
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 178151.744,
+				["contra"] = "Difensore Huojin Frenetico",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1300,
+							["totalabsorbed"] = 0.003768,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Manichino d'Allenamento da Incursione"] = 760573,
+								["Manichino d'Allenamento"] = 17162,
+								["Difensore Huojin Frenetico"] = 59845,
+								["Manichino d'Allenamento da Spedizione"] = 31459,
+							},
+							["damage_taken"] = 0.003768,
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+								"Raja <Voidvenom>", -- [2]
+							},
+							["delay"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 485235.003768,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["dps_started"] = false,
+							["end_time"] = 1625304646,
+							["classe"] = "HUNTER",
+							["total"] = 869039.003768,
+							["nome"] = "Voidvenom",
+							["spec"] = 253,
+							["grupo"] = true,
+							["spells"] = {
+								["_ActorTable"] = {
+									[2643] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 2700,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 2700,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 2700,
+										["c_max"] = 2700,
+										["c_min"] = 2700,
+										["id"] = 2643,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[317265] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 29891,
+										["targets"] = {
+											["Manichino d'Allenamento da Spedizione"] = 29891,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 29891,
+										["n_min"] = 29891,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 29891,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 317265,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 64,
+									},
+									[75] = {
+										["c_amt"] = 7,
+										["b_amt"] = 0,
+										["c_dmg"] = 83127,
+										["g_amt"] = 0,
+										["n_max"] = 6382,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 86013,
+											["Difensore Huojin Frenetico"] = 13831,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 16717,
+										["n_min"] = 4947,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 99844,
+										["c_max"] = 13831,
+										["c_min"] = 9994,
+										["id"] = 75,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[269031] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 9405,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Difensore Huojin Frenetico"] = 9405,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 9405,
+										["c_max"] = 9405,
+										["spellschool"] = 1,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 9405,
+									},
+									[295835] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 17458,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 17458,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 17458,
+										["n_min"] = 17458,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 17458,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 295835,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[217200] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4967,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 50736,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 50736,
+										["n_min"] = 3803,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 50736,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 217200,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 12,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[259756] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1568,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 13409,
+											["Manichino d'Allenamento da Spedizione"] = 1568,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 14977,
+										["n_min"] = 190,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 14977,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 259756,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 23,
+										["extra"] = {
+										},
+										["spellschool"] = 48,
+									},
+									[311192] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 27121,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 53453,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 53453,
+										["n_min"] = 26332,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 53453,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[83381] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 65580,
+										["g_amt"] = 0,
+										["n_max"] = 9909,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 95223,
+											["Difensore Huojin Frenetico"] = 18384,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 48027,
+										["n_min"] = 9192,
+										["g_dmg"] = 0,
+										["counter"] = 8,
+										["total"] = 113607,
+										["c_max"] = 26280,
+										["c_min"] = 19650,
+										["id"] = 83381,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[193455] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 73872,
+										["g_amt"] = 0,
+										["n_max"] = 10787,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 93164,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 19292,
+										["n_min"] = 8505,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 93164,
+										["c_max"] = 21574,
+										["c_min"] = 17258,
+										["id"] = 193455,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["last_dps"] = 34726.83331737029,
+							["colocacao"] = 1,
+							["last_event"] = 1625304646,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1625304068,
+							["serial"] = "Player-10-004B3A0C",
+							["on_hold"] = false,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.007028,
+							["damage_from"] = {
+								["Stârsailor"] = true,
+								["Voidvenom"] = true,
+								["Infernale"] = true,
+							},
+							["targets"] = {
+								["Stârsailor"] = 493908,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1625304646,
+							["nome"] = "Manichino d'Allenamento da Spedizione",
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 493908.007028,
+							["last_event"] = 1625304103,
+							["fight_component"] = true,
+							["total"] = 493908.007028,
+							["delay"] = 1625304103,
+							["classe"] = "UNKNOW",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 36676,
+										["targets"] = {
+											["Stârsailor"] = 302793,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 302793,
+										["n_min"] = 16315,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["c_min"] = 0,
+										["total"] = 302793,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 10,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 302793,
+										["n_amt"] = 10,
+										["spellschool"] = 1,
+										["DODGE"] = 6,
+									}, -- [1]
+									[167385] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 106560,
+										["targets"] = {
+											["Stârsailor"] = 191115,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 191115,
+										["n_min"] = 84555,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 191115,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 167385,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 191115,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 2,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 728560.007028,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1625304611,
+							["serial"] = "Creature-0-10-1643-0-131992-0000000D52",
+							["dps_started"] = false,
+						}, -- [2]
+						{
+							["flag_original"] = 4369,
+							["totalabsorbed"] = 0.004816,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Manichino d'Allenamento da Incursione"] = 235902,
+								["Manichino d'Allenamento"] = 17162,
+								["Difensore Huojin Frenetico"] = 14124,
+							},
+							["pets"] = {
+							},
+							["damage_taken"] = 0.004816,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 267188.004816,
+							["last_event"] = 1625304646,
+							["dps_started"] = false,
+							["total"] = 267188.004816,
+							["delay"] = 0,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 54788,
+										["g_amt"] = 0,
+										["n_max"] = 2458,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 83399,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 28611,
+										["n_min"] = 1653,
+										["g_dmg"] = 0,
+										["counter"] = 25,
+										["total"] = 83399,
+										["c_max"] = 5560,
+										["c_min"] = 4134,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 13,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[201754] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 35878,
+										["g_amt"] = 0,
+										["n_max"] = 3100,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 24916,
+											["Manichino d'Allenamento"] = 17162,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 6200,
+										["n_min"] = 3100,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 42078,
+										["c_max"] = 7862,
+										["c_min"] = 6200,
+										["id"] = 201754,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[49966] = {
+										["c_amt"] = 6,
+										["b_amt"] = 0,
+										["c_dmg"] = 92138,
+										["g_amt"] = 0,
+										["n_max"] = 9517,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 103825,
+											["Difensore Huojin Frenetico"] = 14124,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 25811,
+										["n_min"] = 7117,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 117949,
+										["c_max"] = 18354,
+										["c_min"] = 14124,
+										["id"] = 49966,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[118459] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 10675,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 23762,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 23762,
+										["n_min"] = 1550,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 23762,
+										["c_max"] = 0,
+										["c_min"] = 0,
+										["id"] = 118459,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304646,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1625304068,
+							["serial"] = "Pet-0-0-0-0-0-0008EED0AE",
+							["classe"] = "PET",
+						}, -- [3]
+						{
+							["flag_original"] = 8465,
+							["totalabsorbed"] = 0.005429,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Manichino d'Allenamento da Incursione"] = 112515,
+								["Difensore Huojin Frenetico"] = 4101,
+							},
+							["pets"] = {
+							},
+							["damage_taken"] = 0.005429,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 116616.005429,
+							["last_event"] = 1625304646,
+							["dps_started"] = false,
+							["total"] = 116616.005429,
+							["delay"] = 0,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Raja <Voidvenom>",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 18,
+										["b_amt"] = 0,
+										["c_dmg"] = 80903,
+										["g_amt"] = 0,
+										["n_max"] = 2621,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 88430,
+											["Difensore Huojin Frenetico"] = 4101,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 11628,
+										["n_min"] = 2097,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 92531,
+										["c_max"] = 5242,
+										["c_min"] = 4101,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									}, -- [1]
+									[201754] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 20154,
+										["g_amt"] = 0,
+										["n_max"] = 3931,
+										["targets"] = {
+											["Manichino d'Allenamento da Incursione"] = 24085,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 3931,
+										["n_min"] = 3931,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 24085,
+										["c_max"] = 7376,
+										["c_min"] = 6200,
+										["id"] = 201754,
+										["r_dmg"] = 0,
+										["r_amt"] = 0,
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["b_dmg"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1625304646,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1625304069,
+							["serial"] = "Creature-0-10-1643-0-88708-0000006BE9",
+							["classe"] = "PET",
+						}, -- [4]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.002145,
+							["damage_from"] = {
+								["Voidvenom"] = true,
+								["Infernale"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Сильри"] = true,
+								["Raja <Voidvenom>"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002145,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.002145,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Manichino d'Allenamento da Incursione",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 863579.002145,
+							["end_time"] = 1625304093,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1625304093,
+							["serial"] = "Creature-0-10-1643-0-131983-0000000D4B",
+							["dps_started"] = false,
+						}, -- [5]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.002105,
+							["damage_from"] = {
+								["Fromehel"] = true,
+								["Apina <Voidvenom>"] = true,
+								["Сильри"] = true,
+								["Infernale"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002105,
+							["last_event"] = 0,
+							["fight_component"] = true,
+							["total"] = 0.002105,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Manichino d'Allenamento",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 289044.002105,
+							["end_time"] = 1625304093,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1625304093,
+							["serial"] = "Creature-0-10-1643-0-131989-0000000D55",
+							["dps_started"] = false,
+						}, -- [6]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+								["Voidvenom"] = 41525,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "HUNTER",
+							["totalover"] = 41525.007179,
+							["total_without_pet"] = 0.007179,
+							["total"] = 0.007179,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-10-004B3A0C",
+							["totalabsorb"] = 0.007179,
+							["last_hps"] = 0,
+							["targets"] = {
+							},
+							["totalover_without_pet"] = 0.007179,
+							["healing_taken"] = 0.007179,
+							["end_time"] = 1625304093,
+							["totaldenied"] = 0.007179,
+							["nome"] = "Voidvenom",
+							["spells"] = {
+								["_ActorTable"] = {
+									[311201] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Voidvenom"] = 39497,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Voidvenom"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 39497,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 311201,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+									[259760] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Voidvenom"] = 2028,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Voidvenom"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 2,
+										["overheal"] = 2028,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 259760,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["m_healed"] = 0,
+										["c_min"] = 0,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["n_curado"] = 0,
+										["m_amt"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["healing_from"] = {
+							},
+							["spec"] = 253,
+							["custom"] = 0,
+							["last_event"] = 1625304076,
+							["tipo"] = 2,
+							["start_time"] = 1625304088,
+							["delay"] = 1625304076,
+							["heal_enemy_amt"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00539,
+							["resource"] = 0.00539,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "HUNTER",
+							["passiveover"] = 0.00539,
+							["total"] = 0.00539,
+							["nome"] = "Voidvenom",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["flag_original"] = 1300,
+							["alternatepower"] = 999.00539,
+							["last_event"] = 0,
+							["spec"] = 253,
+							["tipo"] = 3,
+							["serial"] = "Player-10-004B3A0C",
+							["totalover"] = 0.00539,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[217200] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 217200,
+										["uptime"] = 21,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317265] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317265,
+										["uptime"] = 20,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295838] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 295838,
+										["uptime"] = 6,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+								"Apina <Voidvenom>", -- [1]
+								"Raja <Voidvenom>", -- [2]
+							},
+							["classe"] = "HUNTER",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[246851] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 246851,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 8,
+										["id"] = 297162,
+										["uptime"] = 25,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[295248] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 6,
+										["id"] = 295248,
+										["uptime"] = 24,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[318227] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 318227,
+										["uptime"] = 9,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[257946] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 2,
+										["id"] = 257946,
+										["uptime"] = 23,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[19574] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 19574,
+										["uptime"] = 15,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268877] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268877,
+										["uptime"] = 4,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[186403] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 186403,
+										["uptime"] = 25,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[256374] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 256374,
+										["uptime"] = 12,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[246152] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 246152,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 25,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[274443] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 274443,
+										["uptime"] = 5,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[5384] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 5384,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269279,
+										["uptime"] = 25,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268904] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268904,
+										["uptime"] = 10,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[212704] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 212704,
+										["uptime"] = 15,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[264420] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 264420,
+										["uptime"] = 25,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[279902] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 3,
+										["id"] = 279902,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[268905] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 3,
+										["id"] = 268905,
+										["uptime"] = 10,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 13,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 47,
+							["nome"] = "Voidvenom",
+							["spec"] = 253,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[246851] = 2,
+								[297162] = 8,
+								[34026] = 3,
+								[217200] = 4,
+								[295838] = 1,
+								[19574] = 1,
+								[311192] = 2,
+								[193455] = 6,
+								[2643] = 1,
+								[311201] = 2,
+								[274443] = 1,
+								[246152] = 2,
+								[295835] = 1,
+								[268904] = 1,
+								[186254] = 2,
+								[317265] = 1,
+								[295248] = 15,
+							},
+							["tipo"] = 4,
+							["last_event"] = 1625304093,
+							["buff_uptime_targets"] = {
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["serial"] = "Player-10-004B3A0C",
+							["buff_uptime"] = 310,
+						}, -- [1]
+						{
+							["flag_original"] = 4369,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Apina <Voidvenom>",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[115804] = 4,
+								[263858] = 4,
+								[49966] = 8,
+								[61684] = 1,
+								[201754] = 4,
+								[83381] = 3,
+								[118459] = 5,
+							},
+							["classe"] = "PET",
+							["last_event"] = 0,
+							["serial"] = "Pet-0-0-0-0-0-0008EED0AE",
+							["tipo"] = 4,
+						}, -- [2]
+						{
+							["flag_original"] = 8465,
+							["ownerName"] = "Voidvenom",
+							["nome"] = "Raja <Voidvenom>",
+							["pets"] = {
+							},
+							["spell_cast"] = {
+								[201754] = 4,
+								[118459] = 3,
+								[83381] = 3,
+								[61684] = 1,
+							},
+							["classe"] = "PET",
+							["last_event"] = 0,
+							["serial"] = "Creature-0-10-1643-0-88708-0000006BE9",
+							["tipo"] = 4,
+						}, -- [3]
+						{
+							["flag_original"] = 2600,
+							["nome"] = "Manichino d'Allenamento da Spedizione",
+							["spell_cast"] = {
+								[167385] = 1,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["tipo"] = 4,
+							["last_event"] = 0,
+							["serial"] = "Creature-0-10-1643-0-131992-0000000D52",
+							["fight_component"] = true,
+						}, -- [4]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 28,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Lunysse"] = true,
+					["Héxèn"] = true,
+					["Voidvenom"] = true,
+					["Edwardngate"] = true,
+				},
+				["CombatStartedAt"] = 178151.661,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+					["Voidvenom"] = {
+						["total"] = 999,
+						["last"] = 997,
+					},
+				},
+				["combat_counter"] = 66,
+				["totals"] = {
+					1362946.912912, -- [1]
+					-0.005942000017967075, -- [2]
+					{
+						-0.006506000000001677, -- [1]
+						[0] = -0.06316700000041027,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "11:21:33",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Manichino d'Allenamento da Incursione",
+				["TotalElapsedCombatTime"] = 177598.3,
+				["CombatEndedAt"] = 177598.3,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Voidvenom"] = 809194.003768,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Voidvenom"] = 0.007179,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 177598.632,
+				["combat_id"] = 28,
+				["tempo_start"] = 1625304068,
+				["spells_cast_timeline"] = {
+				},
+				["data_inicio"] = "11:21:08",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["totals_grupo"] = {
+					485235, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["start_time"] = 177573.607,
+				["TimeData"] = {
+				},
+				["frags"] = {
+				},
+			}, -- [3]
 		},
 	},
 	["last_version"] = "v8.3.0.7356",
@@ -15,8 +4531,100 @@ _detalhes_database = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1625240350,
+		["nextreset"] = 1626598773,
+		["Lunysse"] = {
+			"Lunysse", -- [1]
+			"Interface\\EncounterJournal\\UI-EJ-BOSS-Commander Sarannis", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"Interface\\PetBattles\\Weather-ArcaneStorm", -- [4]
+			{
+				0.129609375, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
 		["last_version"] = 12,
+		["Ripto"] = {
+			"Ripto", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			44, -- [7]
+		},
+		["Orlandoboom"] = {
+			"Off Pg", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			2, -- [7]
+		},
+		["Héxèn"] = {
+			"Wetrmon", -- [1]
+			"", -- [2]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [3]
+			"", -- [4]
+			{
+				0, -- [1]
+				1, -- [2]
+				0, -- [3]
+				1, -- [4]
+			}, -- [5]
+			{
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			}, -- [6]
+			3, -- [7]
+		},
 	},
 	["last_instance_id"] = 0,
 	["announce_interrupts"] = {
@@ -43,17 +4651,17 @@ _detalhes_database = {
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
 			["updatespeed"] = 1,
-			["showamount"] = false,
+			["enabled"] = true,
 			["animate"] = false,
 			["useplayercolor"] = false,
-			["useclasscolors"] = false,
 			["author"] = "Details! Team",
+			["useclasscolors"] = false,
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 			},
-			["enabled"] = true,
+			["showamount"] = false,
 		},
 		["DETAILS_PLUGIN_RAIDCHECK"] = {
 			["enabled"] = true,
@@ -68,13 +4676,13 @@ _detalhes_database = {
 		},
 		["DETAILS_PLUGIN_VANGUARD"] = {
 			["enabled"] = true,
-			["tank_block_texture"] = "Details Serenity",
 			["tank_block_color"] = {
 				0.24705882, -- [1]
 				0.0039215, -- [2]
 				0, -- [3]
 				0.8, -- [4]
 			},
+			["tank_block_texture"] = "Details Serenity",
 			["show_inc_bars"] = false,
 			["author"] = "Details! Team",
 			["first_run"] = false,
@@ -87,11 +4695,11 @@ _detalhes_database = {
 			["max_emote_segments"] = 3,
 			["author"] = "Details! Team",
 			["window_scale"] = 1,
-			["hide_on_combat"] = false,
-			["show_icon"] = 5,
-			["opened"] = 0,
 			["encounter_timers_dbm"] = {
 			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["font_color"] = {
@@ -118,17 +4726,12 @@ _detalhes_database = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["scale"] = 1,
-			["row_height"] = 20,
-			["point"] = "CENTER",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["y"] = 2.288818359375e-05,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -136,13 +4739,13 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = 2.288818359375e-05,
-			["x"] = 3.0517578125e-05,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -150,162 +4753,74 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 0,
 				["x"] = 3.0517578125e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
-			["author"] = "Details! Team",
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["font_size"] = 10,
+			["x"] = 3.0517578125e-05,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
+	["last_day"] = "03",
 	["cached_talents"] = {
+		["Player-10-007A7583"] = {
+			22338, -- [1]
+			22332, -- [2]
+			19239, -- [3]
+			22122, -- [4]
+			19245, -- [5]
+			22344, -- [6]
+			21186, -- [7]
+		},
+		["Player-10-006F2AD8"] = {
+			22312, -- [1]
+			19758, -- [2]
+			22095, -- [3]
+			21977, -- [4]
+			21754, -- [5]
+			19760, -- [6]
+			21644, -- [7]
+		},
+		["Player-10-0066AC53"] = {
+			22633, -- [1]
+			19676, -- [2]
+			22381, -- [3]
+			22627, -- [4]
+			22383, -- [5]
+			22398, -- [6]
+			16037, -- [7]
+		},
+		["Player-10-00631174"] = {
+			19165, -- [1]
+			19219, -- [2]
+			22134, -- [3]
+			22013, -- [4]
+			19227, -- [5]
+			19231, -- [6]
+			21209, -- [7]
+		},
 	},
 	["announce_prepots"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "17",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
 	},
-	["last_realversion"] = 141,
-	["combat_id"] = 27,
+	["character_data"] = {
+		["logons"] = 14,
+	},
+	["combat_id"] = 30,
 	["savedStyles"] = {
 	},
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["combat_counter"] = 52,
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
-	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["tempo_start"] = 7420.54,
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["combat_counter"] = 46,
-		["totals"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-			["frags_total"] = 0,
-			["voidzone_damage"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["spells_cast_timeline"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["data_inicio"] = 0,
-		["end_time"] = 7420.54,
-		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[3] = 0,
-				[6] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["cooldowns_defensive"] = 0,
-				["dispell"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["cc_break"] = 0,
-				["dead"] = 0,
-			}, -- [4]
-		},
-		["overall_refreshed"] = true,
-		["hasSaved"] = true,
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_timeline"] = {
-		},
-		["CombatSkillCache"] = {
-		},
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["start_time"] = 7420.54,
-		["TimeData"] = {
-		},
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["damage_section"] = {
-			},
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage"] = {
-			},
-		},
-	},
-	["force_font_outline"] = "",
 	["local_instances_config"] = {
 		{
 			["segment"] = 0,
@@ -325,10 +4840,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -318.9999694824219,
-					["x"] = 739.1336669921875,
-					["w"] = 248.4000854492188,
-					["h"] = 128.3999176025391,
+					["y"] = -369.769287109375,
+					["x"] = 829.3900146484375,
+					["w"] = 248.4000701904297,
+					["h"] = 128.39990234375,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -339,13 +4854,2551 @@ _detalhes_database = {
 			},
 		}, -- [1]
 	},
-	["character_data"] = {
-		["logons"] = 7,
-	},
-	["announce_cooldowns"] = {
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
 		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1300,
+					["totalabsorbed"] = 0.016356,
+					["damage_from"] = {
+						["Andrew Vestal"] = true,
+						["Disgregatore Giuranotte"] = true,
+						["Difensore Huojin Frenetico"] = true,
+						["Difensore Huojin"] = true,
+					},
+					["targets"] = {
+						["Manichino d'Allenamento"] = 17162,
+						["Difensore Huojin Frenetico"] = 948172,
+						["Accolito dei Seguaci dell'Ombra"] = 251824,
+						["Manichino d'Allenamento da Incursione"] = 760573,
+						["Tivilix Bangalter"] = 158649,
+						["Disgregatore Giuranotte"] = 577699,
+						["Manichino d'Allenamento da Spedizione"] = 31459,
+						["Difensore Huojin"] = 88281,
+						["Andrew Vestal"] = 109185,
+					},
+					["pets"] = {
+						"Apina <Voidvenom>", -- [1]
+						"Raja <Voidvenom>", -- [2]
+					},
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 2189226.016356,
+					["last_dps"] = 0,
+					["tipo"] = 1,
+					["dps_started"] = false,
+					["total"] = 2943004.016356,
+					["classe"] = "HUNTER",
+					["delay"] = 0,
+					["nome"] = "Voidvenom",
+					["spec"] = 253,
+					["grupo"] = true,
+					["end_time"] = 1625304093,
+					["spells"] = {
+						["_ActorTable"] = {
+							[269031] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 19279,
+								["g_amt"] = 0,
+								["n_max"] = 5002,
+								["targets"] = {
+									["Andrew Vestal"] = 4937,
+									["Accolito dei Seguaci dell'Ombra"] = 5002,
+									["Difensore Huojin Frenetico"] = 19279,
+									["Tivilix Bangalter"] = 4937,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14876,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 34155,
+								["c_max"] = 9874,
+								["id"] = 269031,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[2643] = {
+								["c_amt"] = 8,
+								["b_amt"] = 0,
+								["c_dmg"] = 31298,
+								["g_amt"] = 0,
+								["n_max"] = 2399,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 2700,
+									["Difensore Huojin Frenetico"] = 24461,
+									["Tivilix Bangalter"] = 1919,
+									["Disgregatore Giuranotte"] = 5722,
+									["Accolito dei Seguaci dell'Ombra"] = 2023,
+									["Difensore Huojin"] = 5531,
+									["Andrew Vestal"] = 7197,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 18255,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 18,
+								["total"] = 49553,
+								["c_max"] = 4798,
+								["EVADE"] = 1,
+								["id"] = 2643,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 9,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[317265] = {
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 158208,
+								["g_amt"] = 0,
+								["n_max"] = 29891,
+								["targets"] = {
+									["Manichino d'Allenamento da Spedizione"] = 29891,
+									["Difensore Huojin Frenetico"] = 79104,
+									["Andrew Vestal"] = 79104,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 29891,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 188099,
+								["c_max"] = 79104,
+								["id"] = 317265,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[278565] = {
+								["c_amt"] = 6,
+								["b_amt"] = 0,
+								["c_dmg"] = 27496,
+								["g_amt"] = 0,
+								["n_max"] = 2703,
+								["targets"] = {
+									["Andrew Vestal"] = 8109,
+									["Difensore Huojin Frenetico"] = 19154,
+									["Tivilix Bangalter"] = 2162,
+									["Disgregatore Giuranotte"] = 8444,
+									["Difensore Huojin"] = 4120,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 14493,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 41989,
+								["c_max"] = 5406,
+								["EVADE"] = 1,
+								["id"] = 278565,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[2] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Difensore Huojin Frenetico"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["EVADE"] = 1,
+								["id"] = 2,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[75] = {
+								["c_amt"] = 9,
+								["b_amt"] = 0,
+								["c_dmg"] = 117750,
+								["g_amt"] = 0,
+								["n_max"] = 9714,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 86013,
+									["Accolito dei Seguaci dell'Ombra"] = 36468,
+									["Difensore Huojin Frenetico"] = 61581,
+									["Disgregatore Giuranotte"] = 8911,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 75223,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 192973,
+								["c_max"] = 19262,
+								["id"] = 75,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 10,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[295261] = {
+								["c_amt"] = 15,
+								["b_amt"] = 0,
+								["c_dmg"] = 787435,
+								["g_amt"] = 0,
+								["n_max"] = 26195,
+								["targets"] = {
+									["Difensore Huojin Frenetico"] = 289719,
+									["Disgregatore Giuranotte"] = 471518,
+									["Difensore Huojin"] = 52391,
+									["Tivilix Bangalter"] = 104782,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 130975,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 20,
+								["total"] = 918410,
+								["c_max"] = 53961,
+								["id"] = 295261,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[295835] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 48510,
+								["g_amt"] = 0,
+								["n_max"] = 24982,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 17458,
+									["Difensore Huojin Frenetico"] = 97747,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 66695,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 115205,
+								["c_max"] = 48510,
+								["id"] = 295835,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[193455] = {
+								["c_amt"] = 11,
+								["b_amt"] = 0,
+								["c_dmg"] = 226581,
+								["g_amt"] = 0,
+								["n_max"] = 11988,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 93164,
+									["Difensore Huojin Frenetico"] = 50366,
+									["Tivilix Bangalter"] = 37810,
+									["Accolito dei Seguaci dell'Ombra"] = 76521,
+									["Disgregatore Giuranotte"] = 11988,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 43268,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 17,
+								["total"] = 269849,
+								["c_max"] = 25507,
+								["EVADE"] = 2,
+								["id"] = 193455,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[259756] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 2497,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 13409,
+									["Difensore Huojin Frenetico"] = 6700,
+									["Tivilix Bangalter"] = 1890,
+									["Accolito dei Seguaci dell'Ombra"] = 1898,
+									["Manichino d'Allenamento da Spedizione"] = 1568,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 25465,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 37,
+								["total"] = 25465,
+								["c_max"] = 0,
+								["id"] = 259756,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 37,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[311192] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 73169,
+								["g_amt"] = 0,
+								["n_max"] = 36584,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 53453,
+									["Disgregatore Giuranotte"] = 36584,
+									["Accolito dei Seguaci dell'Ombra"] = 73169,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 90037,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 163206,
+								["c_max"] = 73169,
+								["id"] = 311192,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[83381] = {
+								["c_amt"] = 3,
+								["b_amt"] = 0,
+								["c_dmg"] = 65580,
+								["g_amt"] = 0,
+								["n_max"] = 13076,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 95223,
+									["Accolito dei Seguaci dell'Ombra"] = 26152,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 55795,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 121375,
+								["c_max"] = 26280,
+								["id"] = 83381,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 5,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[217200] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 5149,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 50736,
+									["Difensore Huojin Frenetico"] = 13062,
+									["Tivilix Bangalter"] = 5149,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 68947,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 16,
+								["total"] = 68947,
+								["c_max"] = 0,
+								["id"] = 217200,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 16,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 343377.016356,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["friendlyfire"] = {
+					},
+					["start_time"] = 1625304008,
+					["serial"] = "Player-10-004B3A0C",
+					["on_hold"] = false,
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["totalabsorbed"] = 0.020563,
+					["damage_from"] = {
+						["Disgregatore Giuranotte"] = true,
+						["Difensore Huojin Frenetico"] = true,
+						["Difensore Huojin"] = true,
+					},
+					["targets"] = {
+						["Andrew Vestal"] = 4919,
+						["Manichino d'Allenamento"] = 17162,
+						["Difensore Huojin Frenetico"] = 196076,
+						["Accolito dei Seguaci dell'Ombra"] = 18656,
+						["Disgregatore Giuranotte"] = 25124,
+						["Difensore Huojin"] = 11245,
+						["Manichino d'Allenamento da Incursione"] = 235902,
+					},
+					["pets"] = {
+					},
+					["damage_taken"] = 213.020563,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 509084.020563,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1625304093,
+					["last_dps"] = 0,
+					["ownerName"] = "Voidvenom",
+					["nome"] = "Apina <Voidvenom>",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 18,
+								["b_amt"] = 0,
+								["c_dmg"] = 81076,
+								["g_amt"] = 0,
+								["n_max"] = 2601,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 83399,
+									["Accolito dei Seguaci dell'Ombra"] = 5535,
+									["Difensore Huojin Frenetico"] = 29504,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 37362,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 35,
+								["total"] = 118438,
+								["c_max"] = 5560,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 17,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[201754] = {
+								["c_amt"] = 12,
+								["b_amt"] = 0,
+								["c_dmg"] = 98475,
+								["g_amt"] = 0,
+								["n_max"] = 4919,
+								["targets"] = {
+									["Andrew Vestal"] = 4919,
+									["Manichino d'Allenamento"] = 17162,
+									["Difensore Huojin Frenetico"] = 56832,
+									["Disgregatore Giuranotte"] = 7872,
+									["Difensore Huojin"] = 11245,
+									["Manichino d'Allenamento da Incursione"] = 24916,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 24471,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 19,
+								["total"] = 122946,
+								["c_max"] = 9839,
+								["EVADE"] = 1,
+								["id"] = 201754,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[49966] = {
+								["c_amt"] = 7,
+								["b_amt"] = 0,
+								["c_dmg"] = 111883,
+								["g_amt"] = 0,
+								["n_max"] = 10046,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 103825,
+									["Accolito dei Seguaci dell'Ombra"] = 10046,
+									["Difensore Huojin Frenetico"] = 47993,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 49981,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 161864,
+								["c_max"] = 18887,
+								["id"] = 49966,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[118459] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 17909,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 23762,
+									["Disgregatore Giuranotte"] = 17252,
+									["Difensore Huojin Frenetico"] = 61747,
+									["Accolito dei Seguaci dell'Ombra"] = 3075,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 105836,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 13,
+								["total"] = 105836,
+								["c_max"] = 0,
+								["id"] = 118459,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 13,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "PET",
+					["total"] = 509084.020563,
+					["delay"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1625304018,
+					["serial"] = "Pet-0-0-0-0-0-0008EED0AE",
+					["tipo"] = 1,
+				}, -- [2]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.010939,
+					["damage_from"] = {
+						["Apina <Voidvenom>"] = true,
+						["Voidvenom"] = true,
+						["Raja <Voidvenom>"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.010939,
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1625304093,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Manichino d'Allenamento da Incursione",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 760573.010939,
+					["total"] = 0.010939,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1625304090,
+					["serial"] = "Creature-0-10-1643-0-131983-0000000D4B",
+					["dps_started"] = false,
+				}, -- [3]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.004343,
+					["damage_from"] = {
+						["Fromehel"] = true,
+						["Apina <Voidvenom>"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.004343,
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1625304093,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Manichino d'Allenamento",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 59282.004343,
+					["total"] = 0.004343,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1625304090,
+					["serial"] = "Creature-0-10-1643-0-131989-0000000D55",
+					["dps_started"] = false,
+				}, -- [4]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 0.008248,
+					["damage_from"] = {
+						["Voidvenom"] = true,
+						["Stârsailor"] = true,
+					},
+					["targets"] = {
+						["Stârsailor"] = 347076,
+					},
+					["pets"] = {
+					},
+					["tipo"] = 1,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 347076.0082479999,
+					["last_dps"] = 0,
+					["fight_component"] = true,
+					["end_time"] = 1625304093,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+					["nome"] = "Manichino d'Allenamento da Spedizione",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 36676,
+								["targets"] = {
+									["Stârsailor"] = 262521,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 262521,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 11,
+								["total"] = 262521,
+								["c_max"] = 0,
+								["c_min"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["r_amt"] = 0,
+								["a_dmg"] = 262521,
+								["m_crit"] = 0,
+								["b_dmg"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 8,
+								["n_amt"] = 8,
+								["extra"] = {
+								},
+								["DODGE"] = 3,
+							}, -- [1]
+							[167385] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 84555,
+								["targets"] = {
+									["Stârsailor"] = 84555,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 84555,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 84555,
+								["c_max"] = 0,
+								["id"] = 167385,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["a_dmg"] = 84555,
+								["extra"] = {
+								},
+							},
+						},
+						["tipo"] = 2,
+					},
+					["damage_taken"] = 588053.0082479999,
+					["total"] = 347076.0082479999,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1625304066,
+					["serial"] = "Creature-0-10-1643-0-131992-0000000D52",
+					["dps_started"] = false,
+				}, -- [5]
+				{
+					["flag_original"] = 8465,
+					["totalabsorbed"] = 0.009946,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Manichino d'Allenamento da Incursione"] = 112515,
+						["Difensore Huojin Frenetico"] = 90923,
+						["Accolito dei Seguaci dell'Ombra"] = 11935,
+						["Disgregatore Giuranotte"] = 9408,
+						["Difensore Huojin"] = 14994,
+						["Andrew Vestal"] = 4919,
+					},
+					["pets"] = {
+					},
+					["damage_taken"] = 0.009946,
+					["friendlyfire_total"] = 0,
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 244694.009946,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1625304093,
+					["last_dps"] = 0,
+					["ownerName"] = "Voidvenom",
+					["nome"] = "Raja <Voidvenom>",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 22,
+								["b_amt"] = 0,
+								["c_dmg"] = 97815,
+								["g_amt"] = 0,
+								["n_max"] = 2767,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 88430,
+									["Accolito dei Seguaci dell'Ombra"] = 7128,
+									["Difensore Huojin Frenetico"] = 22905,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 20648,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 31,
+								["total"] = 118463,
+								["c_max"] = 5242,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 9,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							}, -- [1]
+							[201754] = {
+								["c_amt"] = 12,
+								["b_amt"] = 0,
+								["c_dmg"] = 100647,
+								["g_amt"] = 0,
+								["n_max"] = 4919,
+								["targets"] = {
+									["Manichino d'Allenamento da Incursione"] = 24085,
+									["Difensore Huojin Frenetico"] = 66482,
+									["Disgregatore Giuranotte"] = 7872,
+									["Difensore Huojin"] = 14994,
+									["Andrew Vestal"] = 4919,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 17705,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 18,
+								["total"] = 118352,
+								["c_max"] = 9839,
+								["EVADE"] = 2,
+								["id"] = 201754,
+								["r_dmg"] = 0,
+								["c_min"] = 0,
+								["r_amt"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["a_dmg"] = 0,
+								["extra"] = {
+								},
+							},
+							[118459] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 3271,
+								["targets"] = {
+									["Disgregatore Giuranotte"] = 1536,
+									["Difensore Huojin Frenetico"] = 1536,
+									["Accolito dei Seguaci dell'Ombra"] = 4807,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 7879,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 7879,
+								["c_max"] = 0,
+								["id"] = 118459,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["classe"] = "PET",
+					["total"] = 244694.009946,
+					["delay"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["on_hold"] = false,
+					["start_time"] = 1625304021,
+					["serial"] = "Creature-0-10-1643-0-88708-0000006BE9",
+					["tipo"] = 1,
+				}, -- [6]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 71242.022071,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Raja <Voidvenom>"] = true,
+						["Андрюшенька"] = true,
+						["Voidvenom"] = true,
+						["給聖騎點個贊"] = true,
+						["Dirtslicer"] = true,
+						["Apina <Voidvenom>"] = true,
+						["Dejminamaslo"] = true,
+						["Guardiano Tushui"] = true,
+					},
+					["targets"] = {
+						["Voidvenom"] = 38004,
+						["給聖騎點個贊"] = 52796,
+						["Apina <Voidvenom>"] = 4,
+						["Андрюшенька"] = 9170,
+						["Dejminamaslo"] = 55118,
+						["Guardiano Tushui"] = 11744,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 166836.022071,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1625304647,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Difensore Huojin Frenetico",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 17637,
+								["g_amt"] = 0,
+								["n_max"] = 5867,
+								["targets"] = {
+									["Voidvenom"] = 38004,
+									["給聖騎點個贊"] = 41491,
+									["Apina <Voidvenom>"] = 4,
+									["Dejminamaslo"] = 36817,
+									["Андрюшенька"] = 9170,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 107849,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 41,
+								["a_amt"] = 2,
+								["total"] = 125486,
+								["c_max"] = 9513,
+								["DODGE"] = 3,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 9255,
+								["m_crit"] = 0,
+								["PARRY"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 34,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[314083] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 6018,
+								["targets"] = {
+									["給聖騎點個贊"] = 11305,
+									["Dejminamaslo"] = 18301,
+									["Guardiano Tushui"] = 11744,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 41350,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 8,
+								["total"] = 41350,
+								["c_max"] = 0,
+								["id"] = 314083,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 6,
+								["b_dmg"] = 0,
+								["n_amt"] = 8,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 166836.022071,
+					["serial"] = "Creature-0-10-2275-0-159335-0000000707",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 2506739.022071,
+					["start_time"] = 1625304586,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [7]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 21291.007581,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Voidvenom"] = true,
+						["Dejminamaslo"] = true,
+						["給聖騎點個贊"] = true,
+					},
+					["targets"] = {
+						["給聖騎點個贊"] = 26200,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 26200.007581,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1625304647,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Tivilix Bangalter",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 4909,
+								["targets"] = {
+									["給聖騎點個贊"] = 26200,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 26200,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 26200,
+								["c_max"] = 0,
+								["a_amt"] = 1,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 4909,
+								["m_crit"] = 0,
+								["PARRY"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["monster"] = true,
+					["total"] = 26200.007581,
+					["serial"] = "Creature-0-10-2275-0-159360-0000000718",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 402766.007581,
+					["start_time"] = 1625304633,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [8]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.012527,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Voidvenom"] = true,
+						["Apina <Voidvenom>"] = true,
+						["Dejminamaslo"] = true,
+						["Raja <Voidvenom>"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.012527,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1625304718,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Accolito dei Seguaci dell'Ombra",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+						},
+					},
+					["monster"] = true,
+					["total"] = 0.012527,
+					["serial"] = "Creature-0-10-2275-0-156463-000000035A",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 351409.012527,
+					["start_time"] = 1625304715,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [9]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 19934.008972,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Voidvenom"] = true,
+						["給聖騎點個贊"] = true,
+						["Apina <Voidvenom>"] = true,
+						["Андрюшенька"] = true,
+						["Dejminamaslo"] = true,
+						["Raja <Voidvenom>"] = true,
+					},
+					["targets"] = {
+						["Dejminamaslo"] = 6703,
+						["Apina <Voidvenom>"] = 204,
+						["Voidvenom"] = 43205,
+						["Guardiano Tushui"] = 20613,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 70725.00897200001,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1625304718,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Disgregatore Giuranotte",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 9190,
+								["targets"] = {
+									["Voidvenom"] = 43205,
+									["Dejminamaslo"] = 6703,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 49908,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 7,
+								["total"] = 49908,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 6689,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 7,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[296718] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 10307,
+								["targets"] = {
+									["Guardiano Tushui"] = 10307,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10307,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 10307,
+								["c_max"] = 0,
+								["id"] = 296718,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[296733] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 5153,
+								["targets"] = {
+									["Apina <Voidvenom>"] = 204,
+									["Guardiano Tushui"] = 10306,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 10510,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 10510,
+								["c_max"] = 0,
+								["id"] = 296733,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 7,
+								["b_dmg"] = 0,
+								["n_amt"] = 3,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 70725.00897200001,
+					["serial"] = "Creature-0-10-2275-0-154056-0000000709",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 1318369.008972,
+					["start_time"] = 1625304693,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [10]
+				{
+					["flag_original"] = 2600,
+					["totalabsorbed"] = 19742.009546,
+					["damage_from"] = {
+						["Apina <Voidvenom>"] = true,
+						["Андрюшенька"] = true,
+						["Voidvenom"] = true,
+						["Raja <Voidvenom>"] = true,
+					},
+					["targets"] = {
+						["Voidvenom"] = 251112,
+						["Apina <Voidvenom>"] = 5,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 251117.009546,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["end_time"] = 1625304718,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
+					["nome"] = "Difensore Huojin",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 32592,
+								["g_amt"] = 0,
+								["n_max"] = 9262,
+								["targets"] = {
+									["Voidvenom"] = 242477,
+									["Apina <Voidvenom>"] = 5,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 209890,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 35,
+								["total"] = 242482,
+								["c_max"] = 18247,
+								["DODGE"] = 2,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 6674,
+								["m_crit"] = 0,
+								["a_amt"] = 1,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 31,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[314083] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 8635,
+								["targets"] = {
+									["Voidvenom"] = 8635,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8635,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 8635,
+								["c_max"] = 0,
+								["id"] = 314083,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["friendlyfire_total"] = 0,
+					["total"] = 251117.009546,
+					["serial"] = "Creature-0-10-2275-0-159324-000000013B",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 91069.00954600002,
+					["start_time"] = 1625304675,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [11]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 8094.014776999999,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Voidvenom"] = true,
+						["Apina <Voidvenom>"] = true,
+						["Андрюшенька"] = true,
+						["Dejminamaslo"] = true,
+						["Raja <Voidvenom>"] = true,
+					},
+					["targets"] = {
+						["Voidvenom"] = 11056,
+						["Dejminamaslo"] = 8094,
+					},
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 19150.014777,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1625304718,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Andrew Vestal",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 8094,
+								["targets"] = {
+									["Voidvenom"] = 11056,
+									["Dejminamaslo"] = 8094,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 19150,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 19150,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+						},
+					},
+					["monster"] = true,
+					["total"] = 19150.014777,
+					["serial"] = "Creature-0-10-2275-0-159345-00000007D0",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 207040.014777,
+					["start_time"] = 1625304708,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [12]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["targets_overheal"] = {
+						["Voidvenom"] = 130090,
+						["Apina <Voidvenom>"] = 295862,
+					},
+					["pets"] = {
+						"Apina <Voidvenom>", -- [1]
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 471968.011456,
+					["total_without_pet"] = 290668.011456,
+					["total"] = 308993.011456,
+					["targets_absorbs"] = {
+						["Voidvenom"] = 48484,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-10-004B3A0C",
+					["totalabsorb"] = 48484.011456,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Voidvenom"] = 290668,
+						["Apina <Voidvenom>"] = 18325,
+					},
+					["totalover_without_pet"] = 0.011456,
+					["healing_taken"] = 290668.011456,
+					["fight_component"] = true,
+					["end_time"] = 1625304093,
+					["totaldenied"] = 0.011456,
+					["nome"] = "Voidvenom",
+					["spells"] = {
+						["_ActorTable"] = {
+							[269279] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 48484,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 7212,
+								["targets"] = {
+									["Voidvenom"] = 48484,
+								},
+								["n_min"] = 0,
+								["counter"] = 10,
+								["overheal"] = 0,
+								["total"] = 48484,
+								["c_max"] = 0,
+								["id"] = 269279,
+								["targets_absorbs"] = {
+									["Voidvenom"] = 48484,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 48484,
+								["n_amt"] = 10,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[259760] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Voidvenom"] = 3380,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Voidvenom"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 3,
+								["overheal"] = 3380,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 259760,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 3,
+								["n_curado"] = 0,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+							[311201] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Voidvenom"] = 75212,
+								},
+								["n_max"] = 3782,
+								["targets"] = {
+									["Voidvenom"] = 3782,
+								},
+								["n_min"] = 0,
+								["counter"] = 4,
+								["overheal"] = 75212,
+								["total"] = 3782,
+								["c_max"] = 0,
+								["id"] = 311201,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_healed"] = 0,
+								["c_min"] = 0,
+								["totaldenied"] = 0,
+								["n_amt"] = 4,
+								["n_curado"] = 3782,
+								["m_amt"] = 0,
+								["absorbed"] = 0,
+							},
+							[146347] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Voidvenom"] = 14792,
+								},
+								["n_max"] = 44379,
+								["targets"] = {
+									["Voidvenom"] = 189835,
+								},
+								["n_min"] = 0,
+								["counter"] = 93,
+								["overheal"] = 14792,
+								["total"] = 189835,
+								["c_max"] = 0,
+								["id"] = 146347,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 189835,
+								["n_amt"] = 93,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[109304] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Voidvenom"] = 78231,
+								},
+								["n_max"] = 48567,
+								["targets"] = {
+									["Voidvenom"] = 48567,
+								},
+								["n_min"] = 0,
+								["counter"] = 1,
+								["overheal"] = 78231,
+								["total"] = 48567,
+								["c_max"] = 0,
+								["id"] = 109304,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 48567,
+								["n_amt"] = 1,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[128594] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Apina <Voidvenom>"] = 295862,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Apina <Voidvenom>"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 1,
+								["overheal"] = 295862,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 128594,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 1,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["grupo"] = true,
+					["healing_from"] = {
+						["Voidvenom"] = true,
+					},
+					["spec"] = 253,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["tipo"] = 2,
+					["start_time"] = 1625304018,
+					["delay"] = 0,
+					["classe"] = "HUNTER",
+				}, -- [1]
+				{
+					["flag_original"] = 4369,
+					["healing_from"] = {
+						["Apina <Voidvenom>"] = true,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "PET",
+					["totalover"] = 4491.016785999999,
+					["total_without_pet"] = 18325.016786,
+					["total"] = 18325.016786,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Pet-0-0-0-0-0-0008EEDBD4",
+					["totalabsorb"] = 0.016786,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Apina <Voidvenom>"] = 18325,
+					},
+					["totalover_without_pet"] = 0.016786,
+					["healing_taken"] = 18325.016786,
+					["targets_overheal"] = {
+						["Apina <Voidvenom>"] = 4491,
+					},
+					["fight_component"] = true,
+					["end_time"] = 1625304718,
+					["ownerName"] = "Voidvenom",
+					["nome"] = "Apina <Voidvenom>",
+					["heal_enemy_amt"] = 0,
+					["last_event"] = 0,
+					["custom"] = 0,
+					["tipo"] = 2,
+					["start_time"] = 1625304696,
+					["totaldenied"] = 0.016786,
+					["delay"] = 0,
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[146347] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Apina <Voidvenom>"] = 4491,
+								},
+								["n_max"] = 2686,
+								["targets"] = {
+									["Apina <Voidvenom>"] = 18325,
+								},
+								["n_min"] = 0,
+								["counter"] = 21,
+								["overheal"] = 4491,
+								["total"] = 18325,
+								["c_max"] = 0,
+								["id"] = 146347,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 18325,
+								["n_amt"] = 21,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+				}, -- [2]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 0.004808,
+					["resource"] = 0.004808,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["powertype"] = 1,
+					["classe"] = "HUNTER",
+					["passiveover"] = 0.001995,
+					["fight_component"] = true,
+					["total"] = 0.004808,
+					["tipo"] = 3,
+					["nome"] = "Voidvenom",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+						},
+					},
+					["grupo"] = true,
+					["totalover"] = 0.001995,
+					["flag_original"] = 1300,
+					["alternatepower"] = 2040.004808,
+					["last_event"] = 0,
+					["spec"] = 253,
+					["serial"] = "Player-10-004B3A0C",
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[268756] = {
+								["refreshamt"] = 0,
+								["appliedamt"] = 0,
+								["activedamt"] = -1,
+								["uptime"] = 0,
+								["id"] = 268756,
+								["actived_at"] = 1625304647,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[217200] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 3,
+								["id"] = 217200,
+								["uptime"] = 86,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[306427] = {
+								["refreshamt"] = 0,
+								["activedamt"] = -1,
+								["appliedamt"] = 1,
+								["id"] = 306427,
+								["uptime"] = 50,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[295838] = {
+								["counter"] = 0,
+								["activedamt"] = -1,
+								["appliedamt"] = 3,
+								["id"] = 295838,
+								["uptime"] = 71,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[306431] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 2,
+								["id"] = 306431,
+								["uptime"] = 48,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[57723] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 57723,
+								["uptime"] = 36,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[317265] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 3,
+								["id"] = 317265,
+								["uptime"] = 31,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["cooldowns_defensive"] = 1.010199,
+					["pets"] = {
+						"Apina <Voidvenom>", -- [1]
+						"Raja <Voidvenom>", -- [2]
+					},
+					["classe"] = "HUNTER",
+					["cooldowns_defensive_targets"] = {
+						["Voidvenom"] = 1,
+					},
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[246851] = {
+								["counter"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 246851,
+								["uptime"] = 31,
+								["targets"] = {
+								},
+								["refreshamt"] = 2,
+							},
+							[297162] = {
+								["counter"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 297162,
+								["uptime"] = 81,
+								["targets"] = {
+								},
+								["refreshamt"] = 67,
+							},
+							[295248] = {
+								["counter"] = 0,
+								["activedamt"] = 9,
+								["appliedamt"] = 9,
+								["id"] = 295248,
+								["uptime"] = 72,
+								["targets"] = {
+								},
+								["refreshamt"] = 29,
+							},
+							[318227] = {
+								["actived_at"] = 1625304708,
+								["counter"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 318227,
+								["uptime"] = 17,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[264667] = {
+								["refreshamt"] = 2,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 264667,
+								["uptime"] = 31,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[257946] = {
+								["actived_at"] = 1625304703,
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 257946,
+								["uptime"] = 52,
+								["targets"] = {
+								},
+								["refreshamt"] = 9,
+							},
+							[19574] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 19574,
+								["uptime"] = 32,
+								["targets"] = {
+								},
+								["refreshamt"] = 2,
+							},
+							[268877] = {
+								["counter"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 268877,
+								["uptime"] = 32,
+								["targets"] = {
+								},
+								["refreshamt"] = 5,
+							},
+							[299338] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 299338,
+								["uptime"] = 3,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[268769] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 268769,
+								["uptime"] = 7,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[297168] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 297168,
+								["uptime"] = 9,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[246852] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 246852,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[186403] = {
+								["actived_at"] = 1625304649,
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 186403,
+								["uptime"] = 26,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[274443] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 274443,
+								["uptime"] = 29,
+								["targets"] = {
+								},
+								["refreshamt"] = 3,
+							},
+							[246853] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 246853,
+								["uptime"] = 10,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[317859] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 317859,
+								["uptime"] = 24,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[279902] = {
+								["actived_at"] = 1625304711,
+								["counter"] = 0,
+								["activedamt"] = 9,
+								["appliedamt"] = 9,
+								["id"] = 279902,
+								["uptime"] = 67,
+								["targets"] = {
+								},
+								["refreshamt"] = 15,
+							},
+							[305381] = {
+								["actived_at"] = 1625304649,
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 305381,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[246152] = {
+								["actived_at"] = 1625304703,
+								["counter"] = 0,
+								["activedamt"] = 6,
+								["appliedamt"] = 6,
+								["id"] = 246152,
+								["uptime"] = 40,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[269279] = {
+								["counter"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 269279,
+								["uptime"] = 41,
+								["targets"] = {
+								},
+								["refreshamt"] = 9,
+							},
+							[5384] = {
+								["counter"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 5384,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[2479] = {
+								["actived_at"] = 1625304649,
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 2479,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[268904] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 268904,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["refreshamt"] = 1,
+							},
+							[212704] = {
+								["counter"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 212704,
+								["uptime"] = 15,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[264420] = {
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 264420,
+								["uptime"] = 90,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[269083] = {
+								["actived_at"] = 1625304649,
+								["counter"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 269083,
+								["uptime"] = 26,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+							[268905] = {
+								["actived_at"] = 1625304702,
+								["counter"] = 0,
+								["activedamt"] = 4,
+								["appliedamt"] = 4,
+								["id"] = 268905,
+								["uptime"] = 53,
+								["targets"] = {
+								},
+								["refreshamt"] = 10,
+							},
+							[256374] = {
+								["counter"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 256374,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["refreshamt"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 322,
+					["cooldowns_defensive_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[109304] = {
+								["id"] = 109304,
+								["targets"] = {
+									["Voidvenom"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+					},
+					["nome"] = "Voidvenom",
+					["spec"] = 253,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[246851] = 4,
+						[297162] = 68,
+						[34026] = 8,
+						[217200] = 11,
+						[295838] = 4,
+						[269031] = 6,
+						[19574] = 2,
+						[306431] = 2,
+						[311192] = 4,
+						[193455] = 20,
+						[278565] = 6,
+						[2643] = 9,
+						[297168] = 1,
+						[311201] = 4,
+						[274443] = 5,
+						[128594] = 1,
+						[246152] = 5,
+						[299338] = 1,
+						[272678] = 1,
+						[306427] = 1,
+						[295261] = 10,
+						[246852] = 1,
+						[295835] = 4,
+						[268904] = 2,
+						[109304] = 1,
+						[246853] = 1,
+						[295248] = 36,
+						[317265] = 3,
+						[186254] = 4,
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["buff_uptime_targets"] = {
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["serial"] = "Player-10-004B3A0C",
+					["buff_uptime"] = 840,
+				}, -- [1]
+				{
+					["fight_component"] = true,
+					["ownerName"] = "Voidvenom",
+					["nome"] = "Apina <Voidvenom>",
+					["spell_cast"] = {
+						[115804] = 14,
+						[264667] = 1,
+						[263858] = 14,
+						[118459] = 12,
+						[49966] = 26,
+						[201754] = 11,
+						[83381] = 8,
+						[61684] = 4,
+					},
+					["pets"] = {
+					},
+					["flag_original"] = 4369,
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["serial"] = "Pet-0-0-0-0-0-0008EED0AE",
+					["classe"] = "PET",
+				}, -- [2]
+				{
+					["flag_original"] = 8465,
+					["tipo"] = 4,
+					["ownerName"] = "Voidvenom",
+					["nome"] = "Raja <Voidvenom>",
+					["pets"] = {
+					},
+					["classe"] = "PET",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-10-1643-0-88708-0000006BE9",
+					["spell_cast"] = {
+						[201754] = 11,
+						[118459] = 5,
+						[83381] = 8,
+						[61684] = 4,
+					},
+				}, -- [3]
+				{
+					["fight_component"] = true,
+					["nome"] = "Manichino d'Allenamento da Spedizione",
+					["spell_cast"] = {
+						[167385] = 1,
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["classe"] = "UNKNOW",
+					["serial"] = "Creature-0-10-1643-0-131992-0000000D52",
+					["flag_original"] = 2600,
+				}, -- [4]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["nome"] = "Difensore Huojin Frenetico",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[314083] = 6,
+					},
+					["flag_original"] = 2632,
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-10-2275-0-159335-0000000733",
+					["classe"] = "UNKNOW",
+				}, -- [5]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["nome"] = "Disgregatore Giuranotte",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[296718] = 2,
+						[296733] = 7,
+					},
+					["flag_original"] = 2632,
+					["last_event"] = 0,
+					["fight_component"] = true,
+					["serial"] = "Creature-0-10-2275-0-154056-0000000709",
+					["classe"] = "UNKNOW",
+				}, -- [6]
+				{
+					["fight_component"] = true,
+					["nome"] = "Difensore Huojin",
+					["tipo"] = 4,
+					["pets"] = {
+					},
+					["flag_original"] = 2600,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[314083] = 1,
+					},
+					["serial"] = "Creature-0-10-2275-0-159324-000000013B",
+					["last_event"] = 0,
+				}, -- [7]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1625304068,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+			["Voidvenom"] = {
+				["total"] = 2040,
+				["last"] = 0,
+			},
+		},
+		["cleu_timeline"] = {
+		},
+		["combat_counter"] = 65,
+		["totals"] = {
+			5261904.063492999, -- [1]
+			822006.9973830001, -- [2]
+			{
+				9.002980000000008, -- [1]
+				[0] = -0.007959999999994638,
+				["alternatepower"] = 0,
+				[6] = -0.005949000000000204,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 1.004753,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "11:21:08",
+		["end_time"] = 178222.846,
+		["totals_grupo"] = {
+			2943004.015205, -- [1]
+			308993.009618, -- [2]
+			{
+				0.002813, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 1.004753,
+			}, -- [4]
+		},
+		["overall_refreshed"] = true,
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 68.87899999998626,
+				["type"] = 0,
+				["name"] = "Difensore Huojin Frenetico",
+				["clock"] = "11:30:49",
+			}, -- [1]
+			{
+				["elapsed"] = 1.022999999986496,
+				["type"] = 0,
+				["name"] = "Difensore Huojin Frenetico",
+				["clock"] = "11:30:46",
+			}, -- [2]
+			{
+				["elapsed"] = 25.02499999999418,
+				["type"] = 0,
+				["name"] = "Manichino d'Allenamento da Incursione",
+				["clock"] = "11:21:08",
+			}, -- [3]
+		},
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = "11:31:58",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["frags"] = {
+		},
+		["start_time"] = 178127.919,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+	},
+	["combat_counter"] = 69,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 141,
+	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
 		},
+		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -358,8 +7411,10 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-10-006B4962"] = 73,
-		["Player-10-00557CD6"] = 65,
-		["Player-10-004B3A0C"] = 253,
+		["Player-10-00631174"] = 250,
+		["Player-10-006F2AD8"] = 257,
+		["Player-10-0066AC53"] = 72,
+		["Player-10-00360ABC"] = 264,
+		["Player-10-007A7583"] = 259,
 	},
 }

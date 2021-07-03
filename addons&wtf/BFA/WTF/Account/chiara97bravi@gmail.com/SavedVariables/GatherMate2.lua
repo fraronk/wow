@@ -1,10 +1,10 @@
 
 GatherMate2DB = {
-	["profileKeys"] = {
-		["Voidvenom - Sethraliss"] = "Default",
-	},
 	["global"] = {
 		["data_version"] = 5,
+	},
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

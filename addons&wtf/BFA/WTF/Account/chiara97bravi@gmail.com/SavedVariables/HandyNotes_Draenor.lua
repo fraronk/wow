@@ -6,11 +6,11 @@ HandyNotesDraenorDB = {
 	["profiles"] = {
 		["Default"] = {
 			["Integration"] = {
-				["TomTom"] = {
-					["Loaded"] = false,
-				},
 				["DBM"] = {
 					["Loaded"] = true,
+				},
+				["TomTom"] = {
+					["Loaded"] = false,
 				},
 			},
 		},

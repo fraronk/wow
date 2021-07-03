@@ -30,6 +30,13 @@ DataStore_ContainersDB = {
 				["numBagSlots"] = 104,
 				["numFreeBagSlots"] = 98,
 				["Containers"] = {
+					["Bag4"] = {
+						["rarity"] = 2,
+						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
+						["size"] = 22,
+						["icon"] = 348522,
+						["freeslots"] = 22,
+					},
 					["Bag-3"] = {
 						["ids"] = {
 							nil, -- [1]
@@ -186,7 +193,14 @@ DataStore_ContainersDB = {
 							[62] = "|cffffffff|Hitem:152576::::::::120:64:512:::120:::|h[Lino Spruzzato di Mare]|h|r",
 						},
 					},
-					["Bag4"] = {
+					["Bag1"] = {
+						["rarity"] = 2,
+						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
+						["size"] = 22,
+						["icon"] = 348522,
+						["freeslots"] = 22,
+					},
+					["Bag2"] = {
 						["rarity"] = 2,
 						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
 						["size"] = 22,
@@ -248,20 +262,6 @@ DataStore_ContainersDB = {
 							"|cff0070dd|Hitem:152876::::::::120:64:512:::120:::|h[Scheggia Ombrale]|h|r", -- [15]
 						},
 					},
-					["Bag1"] = {
-						["rarity"] = 2,
-						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
-						["size"] = 22,
-						["icon"] = 348522,
-						["freeslots"] = 22,
-					},
-					["Bag2"] = {
-						["rarity"] = 2,
-						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
-						["size"] = 22,
-						["icon"] = 348522,
-						["freeslots"] = 22,
-					},
 					["Bag3"] = {
 						["rarity"] = 2,
 						["link"] = "|cff1eff00|Hitem:54443::::::::120:64:512:::110:::|h[Sacca di Telardente]|h|r",
@@ -314,7 +314,7 @@ DataStore_ContainersDB = {
 					["texture"] = 2178735,
 				},
 				["numBankSlots"] = 92,
-				["lastUpdate"] = 1625243186,
+				["lastUpdate"] = 1625302426,
 				["numFreeBagSlots"] = 38,
 				["numBagSlots"] = 136,
 				["Containers"] = {
@@ -830,9 +830,6 @@ DataStore_ContainersDB = {
 							"|cffffffff|Hitem:152576::::::::120:103:512:::120:::|h[Lino Spruzzato di Mare]|h|r", -- [15]
 						},
 						["icon"] = "Interface\\Buttons\\Button-Backpack-Up",
-						["cooldowns"] = {
-							"82904.935|1800|1", -- [1]
-						},
 						["size"] = 16,
 						["counts"] = {
 							[13] = 3,
@@ -857,20 +854,20 @@ DataStore_ContainersDB = {
 							nil, -- [6]
 							"|cffffffff|Hitem:152512::::::::120:103:512:::120:::|h[Minerale di Monelite]|h|r", -- [7]
 							"|cff0070dd|Hitem:165948::::::::120:103:512:16::120:::|h[Nucleo Mareale]|h|r", -- [8]
-							[11] = "|cff0070dd|Hitem:170553::::::::120:103:512:::120:::|h[Scheggia di Focus del Vuoto]|h|r",
+							[24] = "|cff1eff00|Hitem:166971::::::::120:103:512:11::120:::|h[Cella d'Energia Scarica]|h|r",
 							[13] = "|cff1eff00|Hitem:168802::::::::120:103:512:::120:::|h[Encomio di Battaglia di Nazjatar]|h|r",
 							[14] = "|cff1eff00|Hitem:166846::::::::120:103:512:11::120:::|h[Pezzi di Ricambio]|h|r",
+							[28] = "|cffa335ee|Hitem:174287::::::::120:103:512:9::120:::|h[Scintille della Forza Incrollabile]|h|r",
 							[15] = "|cff1eff00|Hitem:174764::::::::120:103:512:::120:::|h[Frammento di Reliquia dei Tol'vir]|h|r",
 							[16] = "|cff0070dd|Hitem:169332::::::::120:103:512:::120:::|h[Acqua Minerale Strana]|h|r",
 							[17] = "|cffffffff|Hitem:166344::::::::120:103:512:13::120:::|h[Bistecca Marinata e Patate]|h|r",
 							[18] = "|cffffffff|Hitem:152579::::::::120:103:512:::120:::|h[Minerale di Argento della Tempesta]|h|r",
 							[19] = "|cffa335ee|Hitem:173464::::::::120:103:512:28:6:6412:4803:40:6555:1497:4786:120:::|h[Guanti della Fauce Insaziabile]|h|r",
 							[27] = "|cffa335ee|Hitem:86547::::::::120:103:512:::120:::|h[Frammento Celeste]|h|r",
-							[24] = "|cff1eff00|Hitem:166971::::::::120:103:512:11::120:::|h[Cella d'Energia Scarica]|h|r",
+							[11] = "|cff0070dd|Hitem:170553::::::::120:103:512:::120:::|h[Scheggia di Focus del Vuoto]|h|r",
 							[21] = "|cffffffff|Hitem:155838::::::::120:103:512:::120:::|h[Spine di Spinomanto]|h|r",
 							[25] = "|cff1eff00|Hitem:174760::::::::120:103:512:::120:::|h[Frammento di Reliquia dei Mantid]|h|r",
 							[29] = "|cffa335ee|Hitem:168832::::::::120:103:512:11::120:::|h[Oscillatore Galvanico]|h|r",
-							[28] = "|cffa335ee|Hitem:174287::::::::120:103:512:9::120:::|h[Scintille della Forza Incrollabile]|h|r",
 						},
 						["icon"] = 2023243,
 						["size"] = 30,
@@ -883,20 +880,20 @@ DataStore_ContainersDB = {
 							nil, -- [6]
 							152512, -- [7]
 							165948, -- [8]
-							[11] = 170553,
+							[24] = 166971,
 							[13] = 168802,
 							[14] = 166846,
+							[28] = 174287,
 							[15] = 174764,
 							[16] = 169332,
 							[17] = 166344,
 							[18] = 152579,
 							[19] = 173464,
 							[27] = 86547,
-							[24] = 166971,
+							[11] = 170553,
 							[21] = 155838,
 							[25] = 174760,
 							[29] = 168832,
-							[28] = 174287,
 						},
 						["counts"] = {
 							nil, -- [1]

@@ -12,8 +12,8 @@ DataStoreDB = {
 		["Version"] = 1,
 		["Characters"] = {
 			["Default.Sethraliss.Voidvenom"] = {
-				["guildName"] = "Country penguins",
 				["faction"] = "Alliance",
+				["guildName"] = "Country penguins",
 			},
 		},
 		["ShortToLongRealmNames"] = {

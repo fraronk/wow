@@ -32,41 +32,10 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1624787791,
 			},
 			["Default.Sethraliss.Mariagreco"] = {
-				["Contacts"] = {
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-					--[[ skipped entry with table key ]]
-				},
 				["DungeonIDs"] = {
-					["Ny'alotha, la Città Risvegliata Eroica|9545"] = "387213|1625243187|0|1",
+					["Ny'alotha, la Città Risvegliata Eroica|9545"] = "327970|1625302433|0|1",
 				},
-				["lastUpdate"] = 1625243186,
+				["lastUpdate"] = 1625301518,
 			},
 			["Default.Sethraliss.Berlusconi"] = {
 				["lastUpdate"] = 1624983759,

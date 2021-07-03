@@ -9,7 +9,7 @@ H: 170
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -7
+X: -6
 Y: 96
 W: 235
 H: 480
@@ -36,8 +36,8 @@ W: 600
 H: 465
 Frame: WIM3_msgFrame1
 FrameLevel: 2
-Anchor: TOPLEFT
-X: 305
-Y: -146
+Anchor: TOP
+X: -189
+Y: -140
 W: 333
 H: 220

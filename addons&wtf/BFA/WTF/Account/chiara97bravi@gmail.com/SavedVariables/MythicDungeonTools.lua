@@ -5,7 +5,7 @@ MythicDungeonToolsDB = {
 	},
 	["global"] = {
 		["minimap"] = {
-			["minimapPos"] = 249.8142104438549,
+			["minimapPos"] = 323.7884938966966,
 		},
 	},
 }

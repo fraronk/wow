@@ -1,6 +1,18 @@
+VER 3 010000000000000D "CS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Tiro del Cobra
+END
 VER 3 0100000000000004 "cura pet" "INV_MISC_QUESTIONMARK"
 #showtooltip 
 /lancia [@Player] Cura Spirituale(Abilità Esotica)
+END
+VER 3 010000000000000F "FD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petfollow
+/petpassive
+/lancia Morte Apparente
 END
 VER 3 0100000000000005 "follow" "136103"
 /follow focus
@@ -10,6 +22,22 @@ VER 3 0100000000000002 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
 END
 VER 3 0100000000000001 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
 Cicci:g3:ayer-10-0076C68C:1:Maria:g1:ayer-10-003447B7:1:Voidv:p:ayer-10-004B3A0C:1:Drusm:g2:ayer-10-0076C687:1:
+END
+VER 3 0100000000000009 "kill" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Ordine di Morte
+END
+VER 3 010000000000000C "MS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Tiro Multiplo
+END
+VER 3 010000000000000A "pet-passive" "132311"
+/petfollow
+/petpassive
 END
 VER 3 0100000000000008 "RAID" "INV_MISC_QUESTIONMARK"
 eleonora con fidanzato
@@ -26,4 +54,13 @@ VER 3 0100000000000007 "talenti single t" "INV_MISC_QUESTIONMARK"
 3x danza della morte
 2x istinti primordiali
 1x ferocia famelica
+END
+VER 3 010000000000000E "TC" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,exists, harm] Tiro di Contrasto; Tiro di Contrasto
+END
+VER 3 010000000000000B "TL" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/petdefensive
+/lancia Tiro Lacerante
 END

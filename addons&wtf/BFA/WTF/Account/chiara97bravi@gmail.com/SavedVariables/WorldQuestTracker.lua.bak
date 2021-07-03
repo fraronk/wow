@@ -5,6 +5,7 @@ WQTrackerDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["TutorialTaxyMap"] = true,
 			["TutorialPopupID"] = 5,
 			["is_BFA_version"] = true,
 			["quests_tracked"] = {
@@ -13,6 +14,16 @@ WQTrackerDB = {
 			},
 			["quests_all_characters"] = {
 				["Player-10-004B3A0C"] = {
+					[51029] = {
+						["expireAt"] = 1625363861,
+						["rewardAmount"] = 199,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
+					[51035] = {
+						["expireAt"] = 1625363861,
+						["rewardAmount"] = 178,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifact_power",
+					},
 				},
 			},
 			["player_names"] = {

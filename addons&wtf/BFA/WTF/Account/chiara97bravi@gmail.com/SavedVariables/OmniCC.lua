@@ -1,11 +1,11 @@
 
 OmniCCDB = {
+	["profileKeys"] = {
+		["Voidvenom - Sethraliss"] = "Predefinito",
+	},
 	["global"] = {
 		["addonVersion"] = "8.3.6",
 		["dbVersion"] = 5,
-	},
-	["profileKeys"] = {
-		["Voidvenom - Sethraliss"] = "Predefinito",
 	},
 	["profiles"] = {
 		["Predefinito"] = {
@@ -14,9 +14,9 @@ OmniCCDB = {
 					["textStyles"] = {
 						["soon"] = {
 						},
-						["minutes"] = {
-						},
 						["seconds"] = {
+						},
+						["minutes"] = {
 						},
 					},
 				},

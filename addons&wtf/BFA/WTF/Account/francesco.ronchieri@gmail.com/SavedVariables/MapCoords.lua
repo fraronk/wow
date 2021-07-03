@@ -7,6 +7,6 @@ MapCoords2 = {
 	["portrait party1"] = true,
 	["portrait party2"] = true,
 	["portrait player"] = true,
-	["minimap"] = true,
 	["worldmap cursor"] = true,
+	["minimap"] = true,
 }

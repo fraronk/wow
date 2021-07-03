@@ -192,7 +192,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Sethraliss.Mariagreco"] = {
-				["lastUpdate"] = 1625243186,
+				["lastUpdate"] = 1625302432,
 				["CRITTER"] = {
 					141435, -- [1]
 					179831, -- [2]

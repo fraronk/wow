@@ -17,6 +17,78 @@ VExRT = {
 		["Dontuch-Sethraliss"] = "default",
 	},
 	["Encounter"] = {
+		["names"] = {
+			[2268] = "Conclave dei Prescelti",
+			[2142] = "Mchimba l'Imbalsamatore",
+			[2333] = "Mente Alveare",
+			[2111] = "Anziana Leaxa",
+			[2143] = "Re Dazar",
+			[2334] = "Profeta Skitra",
+			[2112] = "Invocatore delle Spore Zancha",
+			[2271] = "Opulenza",
+			[2303] = "Orgozoa",
+			[2335] = "Shad'har l'Insaziabile",
+			[2113] = "Triade delle Frangicuore",
+			[2272] = "Re Rastakhan",
+			[2304] = "Dama Bracescura",
+			[2336] = "Vexiona",
+			[2114] = "Goliath Vincolato",
+			[2305] = "Radiosità di Azshara",
+			[2115] = "Raal l'Ingordo",
+			[2084] = "Sacerdotessa Alun'za",
+			[2116] = "Ser e Dama Crestabianca",
+			[2085] = "Vol'kaal",
+			[2117] = "Gorak Tul",
+			[2086] = "Rezan",
+			[2118] = "Faucilarghe l'Infestato",
+			[2087] = "Yazma",
+			[2311] = "Corte della Regina",
+			[2343] = "Drest'agath",
+			[2312] = "Trixie e Naeno",
+			[2345] = "Il'gynoth, Corruzione Rinata",
+			[2123] = "Abominio Indomabile",
+			[2124] = "Viperis e Aspix",
+			[2093] = "Capitano dei Cieli Kragg",
+			[2125] = "Merektha",
+			[2094] = "Concilio dei Capitani",
+			[2126] = "Galvazzt",
+			[2095] = "Anello del Bottino",
+			[2127] = "Avatar di Sethraliss",
+			[2096] = "Ser Harlan Sweete",
+			[2098] = "Tagliatore Ganciorosso",
+			[2257] = "Giocattoli Rissaioli",
+			[2289] = "Behemoth Acquanera",
+			[2099] = "Hadal Fondoscuro",
+			[2258] = "K.U.-J.0.",
+			[2290] = "Re Gobbamak",
+			[2100] = "Viq'goth",
+			[2259] = "Giardino del Macchinista",
+			[2291] = "Unità di Oppressione Aerea HK-8",
+			[2101] = "Regina delle Sabbie",
+			[2260] = "Re Meccagon",
+			[2292] = "Sporcheria",
+			[2102] = "Jes Ululis",
+			[2293] = "Za'qul",
+			[2103] = "Capitano Cavaliere Valyri",
+			[2104] = "Sovrintendente Korgus",
+			[2327] = "Maut",
+			[2105] = "Sfollagente a Gettoni",
+			[2328] = "Inquisitrice Oscura Xanesh",
+			[2106] = "Azerokk",
+			[2133] = "Vol'zith la Sussurrante",
+			[2130] = "Aqu'sirr",
+			[2329] = "Irathion",
+			[2107] = "Rixxa Flussafumi",
+			[2139] = "Serpente Dorato",
+			[2298] = "Comandante Abissale Sivara",
+			[2131] = "Concilio dei Saggi delle Maree",
+			[2108] = "Magnate Trucirazzi",
+			[2140] = "Concilio delle Tribù",
+			[2299] = "Regina Azshara",
+			[2331] = "Ra-Den il Detronizzato",
+			[2109] = "Capitano del Terrore Serralegno",
+			[2132] = "Ser Sacraonda",
+		},
 		["list"] = {
 			["Dontuch"] = {
 				"^2298^15^1606076770^4^0^15^430.43^", -- [1]
@@ -1172,92 +1244,20 @@ VExRT = {
 			},
 			["Reghiaccio"] = {
 			},
-			["Stempi"] = {
+			["Tonellotto"] = {
 			},
 			["Antonioprete"] = {
 			},
 			["Cimino"] = {
 			},
-			["Corsini"] = {
+			["Picinbono"] = {
 			},
 			["Nuncevedo"] = {
 			},
-			["Picinbono"] = {
+			["Corsini"] = {
 			},
-			["Tonellotto"] = {
+			["Stempi"] = {
 			},
-		},
-		["names"] = {
-			[2268] = "Conclave dei Prescelti",
-			[2142] = "Mchimba l'Imbalsamatore",
-			[2333] = "Mente Alveare",
-			[2111] = "Anziana Leaxa",
-			[2143] = "Re Dazar",
-			[2334] = "Profeta Skitra",
-			[2112] = "Invocatore delle Spore Zancha",
-			[2271] = "Opulenza",
-			[2303] = "Orgozoa",
-			[2335] = "Shad'har l'Insaziabile",
-			[2113] = "Triade delle Frangicuore",
-			[2272] = "Re Rastakhan",
-			[2304] = "Dama Bracescura",
-			[2336] = "Vexiona",
-			[2114] = "Goliath Vincolato",
-			[2305] = "Radiosità di Azshara",
-			[2115] = "Raal l'Ingordo",
-			[2084] = "Sacerdotessa Alun'za",
-			[2116] = "Ser e Dama Crestabianca",
-			[2085] = "Vol'kaal",
-			[2117] = "Gorak Tul",
-			[2086] = "Rezan",
-			[2118] = "Faucilarghe l'Infestato",
-			[2087] = "Yazma",
-			[2311] = "Corte della Regina",
-			[2343] = "Drest'agath",
-			[2312] = "Trixie e Naeno",
-			[2345] = "Il'gynoth, Corruzione Rinata",
-			[2123] = "Abominio Indomabile",
-			[2124] = "Viperis e Aspix",
-			[2093] = "Capitano dei Cieli Kragg",
-			[2125] = "Merektha",
-			[2094] = "Concilio dei Capitani",
-			[2126] = "Galvazzt",
-			[2095] = "Anello del Bottino",
-			[2127] = "Avatar di Sethraliss",
-			[2096] = "Ser Harlan Sweete",
-			[2098] = "Tagliatore Ganciorosso",
-			[2257] = "Giocattoli Rissaioli",
-			[2289] = "Behemoth Acquanera",
-			[2099] = "Hadal Fondoscuro",
-			[2258] = "K.U.-J.0.",
-			[2290] = "Re Gobbamak",
-			[2100] = "Viq'goth",
-			[2259] = "Giardino del Macchinista",
-			[2291] = "Unità di Oppressione Aerea HK-8",
-			[2101] = "Regina delle Sabbie",
-			[2260] = "Re Meccagon",
-			[2292] = "Sporcheria",
-			[2102] = "Jes Ululis",
-			[2293] = "Za'qul",
-			[2103] = "Capitano Cavaliere Valyri",
-			[2104] = "Sovrintendente Korgus",
-			[2327] = "Maut",
-			[2105] = "Sfollagente a Gettoni",
-			[2328] = "Inquisitrice Oscura Xanesh",
-			[2106] = "Azerokk",
-			[2132] = "Ser Sacraonda",
-			[2130] = "Aqu'sirr",
-			[2329] = "Irathion",
-			[2107] = "Rixxa Flussafumi",
-			[2139] = "Serpente Dorato",
-			[2298] = "Comandante Abissale Sivara",
-			[2131] = "Concilio dei Saggi delle Maree",
-			[2108] = "Magnate Trucirazzi",
-			[2140] = "Concilio delle Tribù",
-			[2299] = "Regina Azshara",
-			[2331] = "Ra-Den il Detronizzato",
-			[2109] = "Capitano del Terrore Serralegno",
-			[2133] = "Vol'zith la Sussurrante",
 		},
 	},
 	["Marks"] = {
@@ -1367,75 +1367,352 @@ VExRT = {
 			["Timopo"] = 70,
 			["Thewhisperer"] = 102,
 			["Barthorn"] = 72,
-			["Amymage"] = 64,
-			["Freyga"] = 102,
-			["Bogür"] = 72,
+			["Loaofdonors"] = 270,
+			["Firesmoon"] = 252,
+			["Loslo"] = 102,
 			["Shaxir"] = 105,
-			["Edwardngate"] = 72,
+			["Yamikaze"] = 105,
 			["Kenshji"] = 269,
-			["Chrizmas"] = 251,
-			["Shyngawar"] = 73,
 			["Rootgray"] = 262,
+			["Shyngawar"] = 73,
+			["Ilidastras"] = 577,
 			["Хъюстан"] = 253,
-			["Reghiaccio"] = 64,
-			["Äx"] = 104,
-			["Berlusconi"] = 253,
+			["Mïsticc"] = 63,
+			["Везучка"] = 102,
+			["Fharhenheit"] = 70,
 			["Lobopalido"] = 259,
-			["Chrønøx"] = 252,
-			["Deathwield"] = 252,
-			["Mariagreco"] = 103,
+			["Ssean"] = 259,
+			["Cixalis"] = 255,
+			["Sorkk"] = 71,
 			["Неубит"] = 255,
 			["Haissa"] = 267,
 			["Rehcow"] = 105,
 			["Joemum"] = 104,
 			["Motimoto"] = 64,
-			["Lunany"] = 256,
+			["Äx"] = 104,
 			["Demokingso"] = 577,
 			["Shynga"] = 104,
 			["Hidengreen"] = 270,
-			["Mgnwhitejack"] = 63,
-			["Некрокот"] = 577,
+			["Cherye"] = 70,
+			["Reghiaccio"] = 64,
 			["Juanoor"] = 577,
 			["Lunysse"] = 259,
-			["Deusas"] = 253,
-			["Fharhenheit"] = 70,
-			["Cixalis"] = 255,
-			["Pøwerlight"] = 258,
+			["Edwardngate"] = 72,
+			["Hynísh"] = 72,
+			["Greedyhunt"] = 253,
+			["Awesomehappy"] = 72,
 			["Aaernil"] = 63,
 			["Matazombi"] = 253,
-			["Cherye"] = 70,
+			["Ripto"] = 577,
 			["Héxèn"] = 257,
 			["Anarchyq"] = 266,
 			["Maisú"] = 577,
-			["Jinas"] = 72,
-			["Greedyhunt"] = 253,
-			["Awesomehappy"] = 72,
 			["Milaniari"] = 102,
+			["Berlusconi"] = 253,
+			["Chrønøx"] = 252,
+			["Freyga"] = 102,
 			["Грома"] = 102,
 			["Zatöx"] = 252,
 			["Ttac"] = 259,
 			["Enanaxo"] = 72,
 			["Наазгул"] = 253,
 			["Runewound"] = 72,
-			["Ripto"] = 577,
+			["Mgnwhitejack"] = 63,
 			["Reggullus"] = 253,
 			["Mðanster"] = 270,
-			["Hynísh"] = 72,
-			["Syneva"] = 62,
+			["Deusas"] = 253,
+			["Lunany"] = 256,
 			["Larenthir"] = 577,
-			["Sorkk"] = 71,
-			["危大玩思服"] = 63,
+			["Syneva"] = 62,
+			["Jinas"] = 72,
 			["Ñightside"] = 72,
-			["Ssean"] = 259,
-			["Везучка"] = 102,
+			["Pøwerlight"] = 258,
+			["危大玩思服"] = 63,
 			["Alatins"] = 72,
 			["Milbona"] = 253,
-			["Mïsticc"] = 63,
-			["Yamikaze"] = 105,
-			["Loslo"] = 102,
-			["Firesmoon"] = 252,
-			["Ilidastras"] = 577,
-			["Loaofdonors"] = 270,
+			["Некрокот"] = 577,
+			["Mariagreco"] = 103,
+			["Deathwield"] = 252,
+			["Chrizmas"] = 251,
+			["Bogür"] = 72,
+			["Amymage"] = 64,
+		},
+		["SplitOpt"] = true,
+		["NoRaid"] = true,
+		["CDECol"] = {
+			["17767;1"] = 3,
+			["115781;1"] = 1,
+			["183752;1"] = 1,
+			["147362;2"] = 1,
+			["1766;1"] = 1,
+			["47528;1"] = 1,
+			["6552;1"] = 1,
+			["116705;2"] = 1,
+			["106839;4"] = 1,
+			["91802;1"] = 1,
+			["19647;1"] = 1,
+			["78675;2"] = 1,
+			["106839;3"] = 1,
+			["147362;3"] = 1,
+			["295258;1"] = 1,
+			["96231;4"] = 1,
+			["116705;3"] = 1,
+			["96231;3"] = 1,
+			["57994;1"] = 1,
+			["15487;4"] = 1,
+			["2139;1"] = 1,
+		},
+		["default_userCD"] = {
+		},
+		["Top"] = 264.1664428710938,
+		["Save"] = {
+		},
+		["Left"] = 436.3334350585938,
+		["lock"] = true,
+		["colSet"] = {
+			{
+				["textureAlphaCooldown"] = 0.85,
+				["textureColorTextDefaultR"] = 1,
+				["textureColorTextCastR"] = 1,
+				["textureColorTimeLineActiveR"] = 1,
+				["iconPosition"] = 1,
+				["textureColorBackgroundActiveR"] = 1,
+				["textureColorBackgroundCooldownG"] = 1,
+				["textureColorBackgroundDefaultB"] = 1,
+				["textureColorBackgroundCooldownR"] = 1,
+				["textureColorTextCooldownB"] = 1,
+				["textureColorTextActiveR"] = 0.5,
+				["fontOutline"] = false,
+				["visibilityGeneral"] = true,
+				["textureColorTextCastB"] = 0.5,
+				["textureColorBackgroundDefaultG"] = 1,
+				["textureClassBackground"] = true,
+				["frameLines"] = 12,
+				["textureFile"] = "Interface\\AddOns\\ExRT\\media\\bar19.tga",
+				["textureAnimation"] = true,
+				["textureColorTimeLineCooldownG"] = 1,
+				["textureClassText"] = false,
+				["textureColorTimeLineCooldownB"] = 1,
+				["fontName"] = "Interface\\AddOns\\ExRT\\media\\skurri.ttf",
+				["blacklistGeneral"] = true,
+				["textureColorTimeLineActiveG"] = 1,
+				["textureColorTimeLineActiveB"] = 1,
+				["fontSize"] = 12,
+				["textureColorBackgroundActiveG"] = 1,
+				["textureColorTimeLineDefaultB"] = 1,
+				["textureAlphaBackground"] = 0.15,
+				["frameWidth"] = 110,
+				["textureClassTimeLine"] = true,
+				["textureColorTextCastG"] = 1,
+				["textTemplateCenter"] = "",
+				["textureColorTextDefaultB"] = 1,
+				["iconGray"] = false,
+				["textureColorBackgroundCastR"] = 1,
+				["textureColorTextCooldownG"] = 1,
+				["textureColorBackgroundCastG"] = 1,
+				["textureColorTimeLineCastB"] = 1,
+				["textureColorTimeLineCooldownR"] = 1,
+				["textTemplateLeft"] = "%name%",
+				["posX"] = 40.22218322753906,
+				["textureColorBackgroundDefaultR"] = 1,
+				["iconSize"] = 16,
+				["fontShadow"] = true,
+				["textureColorTimeLineCastR"] = 1,
+				["textureAlphaTimeLine"] = 1,
+				["textureColorTextCooldownR"] = 1,
+				["methodsTimeLineAnimation"] = 2,
+				["posY"] = 802.9445190429688,
+				["textureColorBackgroundCooldownB"] = 1,
+				["textureColorTimeLineDefaultR"] = 1,
+				["textureColorTextActiveB"] = 0.5,
+				["textureColorTimeLineCastG"] = 1,
+				["textureColorBackgroundCastB"] = 1,
+				["textureColorTextActiveG"] = 1,
+				["textureColorTimeLineDefaultG"] = 1,
+				["enabled"] = true,
+				["textTemplateRight"] = "%time%",
+				["methodsStyleAnimation"] = 2,
+				["frameBetweenLines"] = 1,
+				["textureColorBackgroundActiveB"] = 1,
+				["textureColorTextDefaultG"] = 1,
+			}, -- [1]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["methodsGeneral"] = true,
+				["frameBetweenLines"] = 0,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontShadow"] = false,
+				["frameLines"] = 15,
+				["posY"] = 506.8887634277344,
+				["textGeneral"] = true,
+				["posX"] = 159.4441833496094,
+				["blacklistGeneral"] = true,
+				["frameWidth"] = 130,
+				["textureAlphaTimeLine"] = 0.8,
+				["iconGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureGeneral"] = true,
+				["textureAlphaBackground"] = 0.3,
+				["textureAnimation"] = true,
+				["textureAlphaCooldown"] = 1,
+			}, -- [2]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [10]
+			{
+				["fontSize"] = 12,
+				["iconGray"] = true,
+				["frameBetweenLines"] = 0,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontShadow"] = false,
+				["frameLines"] = 15,
+				["textureAlphaTimeLine"] = 0.8,
+				["textureBorderSize"] = 0,
+				["frameWidth"] = 130,
+				["frameBlackBack"] = 0,
+				["textureAlphaBackground"] = 0.3,
+				["blacklistGeneral"] = true,
+				["methodsAlphaNotInRangeNum"] = 90,
+				["textureSmoothAnimationDuration"] = 50,
+				["frameAlpha"] = 100,
+				["frameColumns"] = 1,
+				["iconSize"] = 16,
+				["frameScale"] = 100,
+				["textureAnimation"] = true,
+				["textureAlphaCooldown"] = 1,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+			[91802] = true,
+			[2139] = true,
+			[147362] = true,
+			[47528] = true,
+			[47476] = true,
+			[183752] = true,
+			[6552] = true,
+			[1766] = true,
+			[116705] = true,
+			[96231] = true,
+			[57994] = true,
+			[15487] = true,
+			[106839] = true,
+			[78675] = true,
+			[115781] = true,
+			[19647] = true,
 		},
 		["userDB"] = {
 			{
@@ -1629,283 +1906,6 @@ VExRT = {
 				["user"] = true,
 			}, -- [17]
 		},
-		["NoRaid"] = true,
-		["CDECol"] = {
-			["17767;1"] = 3,
-			["115781;1"] = 1,
-			["183752;1"] = 1,
-			["147362;2"] = 1,
-			["1766;1"] = 1,
-			["47528;1"] = 1,
-			["6552;1"] = 1,
-			["116705;2"] = 1,
-			["106839;4"] = 1,
-			["91802;1"] = 1,
-			["15487;4"] = 1,
-			["57994;1"] = 1,
-			["96231;3"] = 1,
-			["147362;3"] = 1,
-			["295258;1"] = 1,
-			["106839;3"] = 1,
-			["116705;3"] = 1,
-			["96231;4"] = 1,
-			["78675;2"] = 1,
-			["19647;1"] = 1,
-			["2139;1"] = 1,
-		},
-		["SplitOpt"] = true,
-		["Top"] = 264.1664428710938,
-		["Save"] = {
-		},
-		["Left"] = 436.3334350585938,
-		["lock"] = true,
-		["colSet"] = {
-			{
-				["textureColorTextDefaultG"] = 1,
-				["textureColorTextDefaultR"] = 1,
-				["textureColorTextCastR"] = 1,
-				["textureColorBackgroundActiveB"] = 1,
-				["frameBetweenLines"] = 1,
-				["textureColorBackgroundActiveR"] = 1,
-				["methodsStyleAnimation"] = 2,
-				["textureColorTimeLineActiveR"] = 1,
-				["iconPosition"] = 1,
-				["textureColorTextCooldownB"] = 1,
-				["textTemplateRight"] = "%time%",
-				["fontOutline"] = false,
-				["textureColorBackgroundCooldownG"] = 1,
-				["textureColorTextCastB"] = 0.5,
-				["textureColorBackgroundDefaultG"] = 1,
-				["enabled"] = true,
-				["frameLines"] = 12,
-				["textureFile"] = "Interface\\AddOns\\ExRT\\media\\bar19.tga",
-				["textureColorTimeLineDefaultG"] = 1,
-				["textureColorTimeLineCooldownG"] = 1,
-				["textureClassText"] = false,
-				["textureClassTimeLine"] = true,
-				["fontName"] = "Interface\\AddOns\\ExRT\\media\\skurri.ttf",
-				["blacklistGeneral"] = true,
-				["textureColorBackgroundCastB"] = 1,
-				["textureColorTimeLineActiveB"] = 1,
-				["textTemplateCenter"] = "",
-				["textureColorBackgroundActiveG"] = 1,
-				["textureColorTimeLineDefaultB"] = 1,
-				["textureAlphaBackground"] = 0.15,
-				["textureAnimation"] = true,
-				["textureColorTimeLineCooldownB"] = 1,
-				["textureColorTextCastG"] = 1,
-				["fontSize"] = 12,
-				["textureColorTextActiveB"] = 0.5,
-				["iconGray"] = false,
-				["textureColorTimeLineDefaultR"] = 1,
-				["textureColorTextCooldownG"] = 1,
-				["textureColorBackgroundCooldownB"] = 1,
-				["textureColorTimeLineCastB"] = 1,
-				["textTemplateLeft"] = "%name%",
-				["textureColorTimeLineCooldownR"] = 1,
-				["textureColorBackgroundDefaultR"] = 1,
-				["posX"] = 40.22218322753906,
-				["iconSize"] = 16,
-				["textureColorTextCooldownR"] = 1,
-				["textureColorTimeLineCastR"] = 1,
-				["fontShadow"] = true,
-				["textureAlphaTimeLine"] = 1,
-				["methodsTimeLineAnimation"] = 2,
-				["posY"] = 802.9445190429688,
-				["textureColorBackgroundCastG"] = 1,
-				["textureColorBackgroundCastR"] = 1,
-				["textureColorTextDefaultB"] = 1,
-				["textureColorTimeLineCastG"] = 1,
-				["textureColorTimeLineActiveG"] = 1,
-				["textureColorTextActiveG"] = 1,
-				["frameWidth"] = 110,
-				["textureClassBackground"] = true,
-				["textureColorTextActiveR"] = 0.5,
-				["visibilityGeneral"] = true,
-				["textureColorBackgroundCooldownR"] = 1,
-				["textureColorBackgroundDefaultB"] = 1,
-				["textureAlphaCooldown"] = 0.85,
-			}, -- [1]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["methodsGeneral"] = true,
-				["frameBetweenLines"] = 0,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontShadow"] = false,
-				["frameLines"] = 15,
-				["posY"] = 506.8887634277344,
-				["textGeneral"] = true,
-				["posX"] = 159.4441833496094,
-				["blacklistGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureAlphaTimeLine"] = 0.8,
-				["iconGeneral"] = true,
-				["textureGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAlphaBackground"] = 0.3,
-				["frameWidth"] = 130,
-				["textureAlphaCooldown"] = 1,
-			}, -- [2]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [3]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [4]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [5]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [6]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [7]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [8]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [9]
-			{
-				["frameGeneral"] = true,
-				["iconGray"] = true,
-				["textGeneral"] = true,
-				["methodsGeneral"] = true,
-				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
-				["iconGeneral"] = true,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontGeneral"] = true,
-				["textureAnimation"] = true,
-				["textureGeneral"] = true,
-			}, -- [10]
-			{
-				["fontSize"] = 12,
-				["iconGray"] = true,
-				["frameBetweenLines"] = 0,
-				["fontOutline"] = true,
-				["visibilityGeneral"] = true,
-				["fontShadow"] = false,
-				["frameLines"] = 15,
-				["textureAlphaTimeLine"] = 0.8,
-				["textureBorderSize"] = 0,
-				["textureAnimation"] = true,
-				["frameBlackBack"] = 0,
-				["frameScale"] = 100,
-				["blacklistGeneral"] = true,
-				["iconSize"] = 16,
-				["textureSmoothAnimationDuration"] = 50,
-				["frameColumns"] = 1,
-				["frameAlpha"] = 100,
-				["methodsAlphaNotInRangeNum"] = 90,
-				["textureAlphaBackground"] = 0.3,
-				["frameWidth"] = 130,
-				["textureAlphaCooldown"] = 1,
-			}, -- [11]
-		},
-		["Priority"] = {
-		},
-		["CDE"] = {
-			[19647] = true,
-			[2139] = true,
-			[183752] = true,
-			[47528] = true,
-			[47476] = true,
-			[91802] = true,
-			[78675] = true,
-			[15487] = true,
-			[116705] = true,
-			[96231] = true,
-			[57994] = true,
-			[6552] = true,
-			[106839] = true,
-			[1766] = true,
-			[115781] = true,
-			[147362] = true,
-		},
-		["default_userCD"] = {
-		},
 	},
 	["Attendance"] = {
 		["enabled"] = 2,
@@ -1933,13 +1933,13 @@ VExRT = {
 				"CHedalexxa", -- [19]
 				"ABulkyaf", -- [20]
 				"ECamadon", -- [21]
-				["eI"] = 2293,
 				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
-				["eN"] = "Za'qul",
-				["t"] = 1603665230,
-				["g"] = 21,
 				["k"] = true,
+				["t"] = 1603665230,
+				["eN"] = "Za'qul",
+				["d"] = 15,
+				["g"] = 21,
+				["eI"] = 2293,
 			}, -- [1]
 			{
 				"LRipto", -- [1]
@@ -1963,13 +1963,13 @@ VExRT = {
 				"GKreferis", -- [19]
 				"GThewatergød", -- [20]
 				"CKetelyn", -- [21]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
 				["eN"] = "Comandante Abissale Sivara",
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1604521371,
-				["g"] = 21,
 				["eI"] = 2298,
+				["d"] = 15,
+				["g"] = 21,
+				["k"] = true,
 			}, -- [2]
 			{
 				"GBertoldo", -- [1]
@@ -2001,13 +2001,13 @@ VExRT = {
 				"CVoidvenom", -- [27]
 				"CBerlusconi", -- [28]
 				"KDùplex", -- [29]
-				["c"] = "Berlusconi-Sethraliss",
-				["k"] = true,
-				["d"] = 15,
 				["eI"] = 2298,
+				["k"] = true,
 				["t"] = 1604608108,
-				["g"] = 29,
 				["eN"] = "Comandante Abissale Sivara",
+				["d"] = 15,
+				["g"] = 29,
+				["c"] = "Berlusconi-Sethraliss",
 			}, -- [3]
 			{
 				"CVoidvenom", -- [1]
@@ -2023,13 +2023,13 @@ VExRT = {
 				"BTreviar", -- [11]
 				"HLectorice", -- [12]
 				"KOutofmind", -- [13]
-				["eN"] = "Comandante Abissale Sivara",
 				["k"] = true,
-				["t"] = 1605128814,
-				["eI"] = 2298,
-				["d"] = 15,
-				["g"] = 13,
 				["c"] = "Mariagreco-Sethraliss",
+				["d"] = 15,
+				["eI"] = 2298,
+				["t"] = 1605128814,
+				["g"] = 13,
+				["eN"] = "Comandante Abissale Sivara",
 			}, -- [4]
 			{
 				"BArianisha", -- [1]
@@ -2052,13 +2052,13 @@ VExRT = {
 				"CVoidvenom", -- [18]
 				"ECitto", -- [19]
 				"LFelaigan", -- [20]
-				["k"] = true,
-				["c"] = "Berlusconi-Sethraliss",
-				["d"] = 15,
 				["eN"] = "Comandante Abissale Sivara",
+				["c"] = "Berlusconi-Sethraliss",
 				["t"] = 1605213004,
-				["g"] = 20,
 				["eI"] = 2298,
+				["d"] = 15,
+				["g"] = 20,
+				["k"] = true,
 			}, -- [5]
 			{
 				"LScriptø", -- [1]
@@ -2071,13 +2071,13 @@ VExRT = {
 				"IVaajj", -- [8]
 				"EHéxèn", -- [9]
 				"KHeliur", -- [10]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
 				["eI"] = 2298,
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1605731999,
-				["g"] = 10,
 				["eN"] = "Comandante Abissale Sivara",
+				["d"] = 15,
+				["g"] = 10,
+				["k"] = true,
 			}, -- [6]
 			{
 				"LScriptø", -- [1]
@@ -2091,13 +2091,13 @@ VExRT = {
 				"KHeliur", -- [9]
 				"CBerlusconi", -- [10]
 				"BVinli", -- [11]
-				["eI"] = 2289,
 				["c"] = "Berlusconi-Sethraliss",
-				["t"] = 1605734082,
-				["eN"] = "Behemoth Acquanera",
-				["d"] = 15,
-				["g"] = 11,
 				["k"] = true,
+				["d"] = 15,
+				["eN"] = "Behemoth Acquanera",
+				["t"] = 1605734082,
+				["g"] = 11,
+				["eI"] = 2289,
 			}, -- [7]
 			{
 				"CVoidvenom", -- [1]
@@ -2122,14 +2122,14 @@ VExRT = {
 				"CRyuend", -- [20]
 				"KAigan", -- [21]
 				"LScriptø", -- [22]
-				["c"] = "Berlusconi-Sethraliss",
-				["eI"] = 2305,
-				["k"] = true,
-				["t"] = 1605819180,
-				["eN"] = "Radiosità di Azshara",
 				[26] = "KHeliur",
-				["g"] = 22,
+				["eN"] = "Radiosità di Azshara",
+				["k"] = true,
 				["d"] = 15,
+				["eI"] = 2305,
+				["t"] = 1605819180,
+				["g"] = 22,
+				["c"] = "Berlusconi-Sethraliss",
 			}, -- [8]
 			{
 				"BJairol", -- [1]
@@ -2158,13 +2158,13 @@ VExRT = {
 				"LHazgalord", -- [24]
 				"CVoidvenom", -- [25]
 				"BTreviar", -- [26]
-				["eN"] = "Blackwater Behemoth",
 				["k"] = true,
-				["t"] = 1605827428,
-				["eI"] = 2289,
-				["d"] = 15,
-				["g"] = 22,
 				["c"] = "Berlusconi-Sethraliss",
+				["d"] = 15,
+				["eI"] = 2289,
+				["t"] = 1605827428,
+				["g"] = 22,
+				["eN"] = "Blackwater Behemoth",
 			}, -- [9]
 			{
 				"LRipto", -- [1]
@@ -2198,8 +2198,8 @@ VExRT = {
 				["g"] = 21,
 				["k"] = true,
 				["eI"] = 2299,
-				["t"] = 1605999416,
 				[26] = "CBerlusconi",
+				["t"] = 1605999416,
 			}, -- [10]
 			{
 				"HDeltaecho", -- [1]
@@ -2222,13 +2222,13 @@ VExRT = {
 				"LSarfdh", -- [18]
 				"GThewatergød", -- [19]
 				"AMahonri", -- [20]
-				["k"] = true,
-				["c"] = "Dontuch-Sethraliss",
-				["d"] = 15,
 				["eN"] = "Comandante Abissale Sivara",
+				["c"] = "Dontuch-Sethraliss",
 				["t"] = 1606077772,
-				["g"] = 20,
 				["eI"] = 2298,
+				["d"] = 15,
+				["g"] = 20,
+				["k"] = true,
 			}, -- [11]
 			{
 				"HDeltaecho", -- [1]
@@ -2254,13 +2254,13 @@ VExRT = {
 				"GThewatergød", -- [21]
 				"ECamadon", -- [22]
 				"CBerlusconi", -- [23]
-				["eN"] = "Orgozoa",
 				["k"] = true,
-				["t"] = 1606082564,
-				["eI"] = 2303,
-				["d"] = 15,
-				["g"] = 22,
 				["c"] = "Berlusconi-Sethraliss",
+				["d"] = 15,
+				["eI"] = 2303,
+				["t"] = 1606082564,
+				["g"] = 22,
+				["eN"] = "Orgozoa",
 			}, -- [12]
 			{
 				"HDeltaecho", -- [1]
@@ -2285,13 +2285,13 @@ VExRT = {
 				"AMahonri", -- [20]
 				"GThewatergød", -- [21]
 				"ECamadon", -- [22]
-				["k"] = true,
-				["c"] = "Dontuch-Sethraliss",
-				["d"] = 15,
 				["eI"] = 2311,
+				["c"] = "Dontuch-Sethraliss",
 				["t"] = 1606083645,
-				["g"] = 22,
 				["eN"] = "Corte della Regina",
+				["d"] = 15,
+				["g"] = 22,
+				["k"] = true,
 			}, -- [13]
 			{
 				"HDeltaecho", -- [1]
@@ -2315,13 +2315,13 @@ VExRT = {
 				"AMahonri", -- [19]
 				"EDarkmistress", -- [20]
 				"ECamadon", -- [21]
-				["eI"] = 2293,
 				["c"] = "Berlusconi-Sethraliss",
-				["t"] = 1606085785,
-				["eN"] = "Za'qul",
-				["d"] = 15,
-				["g"] = 21,
 				["k"] = true,
+				["d"] = 15,
+				["eN"] = "Za'qul",
+				["t"] = 1606085785,
+				["g"] = 21,
+				["eI"] = 2293,
 			}, -- [14]
 			{
 				"LRipto", -- [1]
@@ -2344,13 +2344,13 @@ VExRT = {
 				"GThewatergød", -- [18]
 				"KStebry", -- [19]
 				"HDeltaecho", -- [20]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["t"] = 1606337266,
 				["eI"] = 2298,
+				["c"] = "Mariagreco-Sethraliss",
 				["d"] = 16,
-				["g"] = 20,
 				["eN"] = "Comandante Abissale Sivara",
+				["t"] = 1606337266,
+				["g"] = 20,
+				["k"] = true,
 			}, -- [15]
 			{
 				"HDeltaecho", -- [1]
@@ -2376,13 +2376,13 @@ VExRT = {
 				"BVinli", -- [21]
 				"HMagopotabio", -- [22]
 				"ABulkyaf", -- [23]
-				["c"] = "Berlusconi-Sethraliss",
-				["k"] = true,
-				["d"] = 15,
 				["eI"] = 2299,
+				["k"] = true,
 				["t"] = 1606856624,
-				["g"] = 23,
 				["eN"] = "Regina Azshara",
+				["d"] = 15,
+				["g"] = 23,
+				["c"] = "Berlusconi-Sethraliss",
 			}, -- [16]
 			{
 				"BVinli", -- [1]
@@ -2399,13 +2399,13 @@ VExRT = {
 				"CMichelaccio", -- [12]
 				"KZanxo", -- [13]
 				"KBigrip", -- [14]
-				["eI"] = 2298,
 				["c"] = "Dontuch-Sethraliss",
-				["d"] = 14,
-				["eN"] = "Comandante Abissale Sivara",
-				["t"] = 1606944070,
-				["g"] = 14,
 				["k"] = true,
+				["t"] = 1606944070,
+				["eN"] = "Comandante Abissale Sivara",
+				["d"] = 14,
+				["g"] = 14,
+				["eI"] = 2298,
 			}, -- [17]
 			{
 				"AFuriousguy", -- [1]
@@ -2431,8 +2431,8 @@ VExRT = {
 				[18] = "GGildarella",
 				[19] = "CHedalexxa",
 				["eI"] = 2305,
-				["k"] = true,
 				["t"] = 1606948136,
+				["k"] = true,
 			}, -- [18]
 			{
 				"IBigsavos", -- [1]
@@ -2458,13 +2458,13 @@ VExRT = {
 				"CForgrin", -- [21]
 				"HEzizzo", -- [22]
 				"KHeliur", -- [23]
-				["eN"] = "Comandante Abissale Sivara",
 				["k"] = true,
-				["t"] = 1607114120,
-				["eI"] = 2298,
-				["d"] = 15,
-				["g"] = 22,
 				["c"] = "Berlusconi-Sethraliss",
+				["d"] = 15,
+				["eI"] = 2298,
+				["t"] = 1607114120,
+				["g"] = 22,
+				["eN"] = "Comandante Abissale Sivara",
 			}, -- [19]
 			{
 				"HArkandiel", -- [1]
@@ -2488,13 +2488,13 @@ VExRT = {
 				"DLusielserph", -- [19]
 				"AБебокобойн", -- [20]
 				"ABulkyaf", -- [21]
-				["k"] = true,
-				["c"] = "Berlusconi-Sethraliss",
-				["d"] = 15,
 				["eN"] = "Regina Azshara",
+				["c"] = "Berlusconi-Sethraliss",
 				["t"] = 1607206064,
-				["g"] = 21,
 				["eI"] = 2299,
+				["d"] = 15,
+				["g"] = 21,
+				["k"] = true,
 			}, -- [20]
 			{
 				"LRipto", -- [1]
@@ -2514,13 +2514,13 @@ VExRT = {
 				"AThànatoss", -- [15]
 				"KShynga", -- [16]
 				"AFellazzo", -- [17]
-				["eI"] = 2329,
 				["c"] = "Mariagreco-Sethraliss",
-				["t"] = 1619964667,
-				["eN"] = "Irathion",
-				["d"] = 14,
-				["g"] = 17,
 				["k"] = true,
+				["d"] = 14,
+				["eN"] = "Irathion",
+				["t"] = 1619964667,
+				["g"] = 17,
+				["eI"] = 2329,
 			}, -- [21]
 			{
 				"LRipto", -- [1]
@@ -2542,13 +2542,13 @@ VExRT = {
 				"KOutofmind", -- [17]
 				"JKundozen", -- [18]
 				"BFharhenheit", -- [19]
-				["c"] = "Mariagreco-Sethraliss",
-				["k"] = true,
-				["d"] = 14,
 				["eI"] = 2333,
+				["k"] = true,
 				["t"] = 1619968429,
-				["g"] = 19,
 				["eN"] = "Mente Alveare",
+				["d"] = 14,
+				["g"] = 19,
+				["c"] = "Mariagreco-Sethraliss",
 			}, -- [22]
 			{
 				"LRipto", -- [1]
@@ -2571,13 +2571,13 @@ VExRT = {
 				"ECædrel", -- [18]
 				"KMariagreco", -- [19]
 				"CVoidvenom", -- [20]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 16,
 				["eN"] = "Opulenza",
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1620075866,
-				["g"] = 20,
 				["eI"] = 2271,
+				["d"] = 16,
+				["g"] = 20,
+				["k"] = true,
 			}, -- [23]
 			{
 				"KShynga", -- [1]
@@ -2606,13 +2606,13 @@ VExRT = {
 				"BHellonfire", -- [24]
 				"GRyumajin", -- [25]
 				"CVoidvenom", -- [26]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
 				["eI"] = 2333,
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1620245607,
-				["g"] = 25,
 				["eN"] = "Mente Alveare",
+				["d"] = 15,
+				["g"] = 25,
+				["k"] = true,
 			}, -- [24]
 			{
 				"LRipto", -- [1]
@@ -2630,13 +2630,13 @@ VExRT = {
 				"HJamme", -- [13]
 				"EHéxèn", -- [14]
 				"FDiiogosantos", -- [15]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
 				["eI"] = 2329,
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1620679727,
-				["g"] = 15,
 				["eN"] = "Irathion",
+				["d"] = 15,
+				["g"] = 15,
+				["k"] = true,
 			}, -- [25]
 			{
 				"EHéxèn", -- [1]
@@ -2663,13 +2663,13 @@ VExRT = {
 				"ECædrel", -- [22]
 				"FUtcher", -- [23]
 				"ILapatagna", -- [24]
-				["eI"] = 2333,
 				["k"] = true,
-				["t"] = 1620849615,
-				["eN"] = "Mente Alveare",
-				["d"] = 15,
-				["g"] = 24,
 				["c"] = "Mariagreco-Sethraliss",
+				["d"] = 15,
+				["eN"] = "Mente Alveare",
+				["t"] = 1620849615,
+				["g"] = 24,
+				["eI"] = 2333,
 			}, -- [26]
 			{
 				"LRipto", -- [1]
@@ -2700,13 +2700,13 @@ VExRT = {
 				"BBabyruth", -- [26]
 				"LSarfdh", -- [27]
 				"CVoidvenom", -- [28]
-				["eI"] = 2331,
 				["c"] = "Mariagreco-Sethraliss",
-				["t"] = 1621454874,
-				["eN"] = "Ra-Den il Detronizzato",
-				["d"] = 15,
-				["g"] = 28,
 				["k"] = true,
+				["d"] = 15,
+				["eN"] = "Ra-Den il Detronizzato",
+				["t"] = 1621454874,
+				["g"] = 28,
+				["eI"] = 2331,
 			}, -- [27]
 			{
 				"EHéxèn", -- [1]
@@ -2723,13 +2723,13 @@ VExRT = {
 				"LDemonutcher", -- [12]
 				"LVilblade", -- [13]
 				"JTobako", -- [14]
-				["c"] = "Mariagreco-Sethraliss",
-				["k"] = true,
-				["d"] = 15,
 				["eN"] = "Comandante Abissale Sivara",
+				["k"] = true,
 				["t"] = 1621883904,
-				["g"] = 14,
 				["eI"] = 2298,
+				["d"] = 15,
+				["g"] = 14,
+				["c"] = "Mariagreco-Sethraliss",
 			}, -- [28]
 			{
 				"EHéxèn", -- [1]
@@ -2751,13 +2751,13 @@ VExRT = {
 				"ESudeky", -- [17]
 				"KDainar", -- [18]
 				"CRakumajin", -- [19]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
 				["eN"] = "Mente Alveare",
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1622056450,
-				["g"] = 19,
 				["eI"] = 2333,
+				["d"] = 15,
+				["g"] = 19,
+				["k"] = true,
 			}, -- [29]
 			{
 				"CFlavià", -- [1]
@@ -2785,13 +2785,13 @@ VExRT = {
 				"HFavatron", -- [23]
 				"HMgnwhitejack", -- [24]
 				"KNojak", -- [25]
-				["k"] = true,
-				["c"] = "Mariagreco-Sethraliss",
-				["d"] = 15,
 				["eN"] = "Irathion",
+				["c"] = "Mariagreco-Sethraliss",
 				["t"] = 1622060565,
-				["g"] = 25,
 				["eI"] = 2329,
+				["d"] = 15,
+				["g"] = 25,
+				["k"] = true,
 			}, -- [30]
 			{
 				"LRipto", -- [1]
@@ -2809,13 +2809,13 @@ VExRT = {
 				"ABulkyaf", -- [13]
 				"DLunysse", -- [14]
 				"ESpacebabe", -- [15]
-				["c"] = "Mariagreco-Sethraliss",
-				["k"] = true,
-				["d"] = 15,
 				["eN"] = "Irathion",
+				["k"] = true,
 				["t"] = 1622639129,
-				["g"] = 15,
 				["eI"] = 2329,
+				["d"] = 15,
+				["g"] = 15,
+				["c"] = "Mariagreco-Sethraliss",
 			}, -- [31]
 			{
 				"IDarthdat", -- [1]
@@ -2838,13 +2838,13 @@ VExRT = {
 				"ABulkyaf", -- [18]
 				"KOutofmind", -- [19]
 				"FIstardron", -- [20]
-				["eN"] = "Ra-Den il Detronizzato",
 				["k"] = true,
-				["d"] = 15,
-				["eI"] = 2331,
-				["t"] = 1622842709,
-				["g"] = 18,
 				["c"] = "Mariagreco-Sethraliss",
+				["t"] = 1622842709,
+				["eI"] = 2331,
+				["d"] = 15,
+				["g"] = 18,
+				["eN"] = "Ra-Den il Detronizzato",
 			}, -- [32]
 			{
 				"CRakumajin", -- [1]
@@ -2862,13 +2862,13 @@ VExRT = {
 				"BBeboko", -- [13]
 				"AKõhai", -- [14]
 				"HOrlandoboom", -- [15]
-				["eI"] = 2335,
 				["c"] = "Mariagreco-Sethraliss",
-				["t"] = 1622987011,
-				["eN"] = "Shad'har l'Insaziabile",
-				["d"] = 15,
-				["g"] = 15,
 				["k"] = true,
+				["d"] = 15,
+				["eN"] = "Shad'har l'Insaziabile",
+				["t"] = 1622987011,
+				["g"] = 15,
+				["eI"] = 2335,
 			}, -- [33]
 			{
 				"LRipto", -- [1]
@@ -2882,13 +2882,13 @@ VExRT = {
 				"ABulkyaf", -- [9]
 				"GGildarella", -- [10]
 				"KShynga", -- [11]
-				["eN"] = "Vexiona",
 				["k"] = true,
-				["t"] = 1623442971,
-				["eI"] = 2336,
-				["d"] = 15,
-				["g"] = 11,
 				["c"] = "Mariagreco-Sethraliss",
+				["d"] = 15,
+				["eI"] = 2336,
+				["t"] = 1623442971,
+				["g"] = 11,
+				["eN"] = "Vexiona",
 			}, -- [34]
 			{
 				"ATwitchlev", -- [1]
@@ -2905,13 +2905,13 @@ VExRT = {
 				"BHolytachi", -- [12]
 				"CAphrö", -- [13]
 				"FGaudee", -- [14]
-				["eN"] = "Irathion",
 				["k"] = true,
-				["t"] = 1623444822,
-				["eI"] = 2329,
-				["d"] = 15,
-				["g"] = 13,
 				["c"] = "Mariagreco-Sethraliss",
+				["d"] = 15,
+				["eI"] = 2329,
+				["t"] = 1623444822,
+				["g"] = 13,
+				["eN"] = "Irathion",
 			}, -- [35]
 			{
 				"HMotimoto", -- [1]
@@ -2930,13 +2930,13 @@ VExRT = {
 				nil, -- [14]
 				nil, -- [15]
 				"ABarthorn", -- [16]
-				["eI"] = 2334,
 				["c"] = "Mariagreco-Sethraliss",
-				["t"] = 1625070641,
-				["eN"] = "Profeta Skitra",
-				["d"] = 15,
-				["g"] = 12,
 				["k"] = true,
+				["d"] = 15,
+				["eN"] = "Profeta Skitra",
+				["t"] = 1625070641,
+				["g"] = 12,
+				["eI"] = 2334,
 			}, -- [36]
 		},
 		["alts"] = {
@@ -2946,19 +2946,32 @@ VExRT = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeLowIlvl"] = true,
 		["ColorizeNoTopEnchGems"] = false,
+		["ColorizeLowIlvl"] = true,
 		["ColorizeNoValorUpgrade"] = false,
 	},
-	["WhoPulled"] = {
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["Ranks"] = {
+			true, -- [1]
+		},
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
 	},
 	["Addon"] = {
 		["Version"] = 4170,
-		["IconMiniMapTop"] = -28.04867612946189,
 		["PreVersion"] = 4170,
-		["IconMiniMapLeft"] = 80,
-		["Timer"] = 0.1,
 		["Scale"] = 1.29,
+		["Timer"] = 0.1,
+		["IconMiniMapLeft"] = 80,
+		["IconMiniMapTop"] = -28.04867612946189,
 	},
 	["Timers"] = {
 		["specTimes"] = {
@@ -2992,15 +3005,17 @@ VExRT = {
 			[72] = 10,
 			[104] = 10,
 			[73] = 10,
-			[581] = 10,
-			[105] = 10,
-			[577] = 10,
-			[256] = 10,
-			[254] = 10,
 			[252] = 10,
+			[105] = 10,
+			[254] = 10,
+			[256] = 10,
+			[577] = 10,
+			[581] = 10,
 		},
 		["Strata"] = "HIGH",
 		["timeToKillAnalyze"] = 15,
+	},
+	["Profiles"] = {
 	},
 	["BossWatcher"] = {
 		["optionsDamageGraph"] = true,
@@ -3009,8 +3024,6 @@ VExRT = {
 		["optionsHealingGraph"] = true,
 		["trackingDamageSpells"] = {
 		},
-	},
-	["Profiles"] = {
 	},
 	["Profile"] = "default",
 	["LootLink"] = {
@@ -3021,18 +3034,18 @@ VExRT = {
 		["FontSize"] = 12,
 		["AutoLoad"] = {
 		},
-		["Width"] = 199.9995422363281,
+		["Width"] = 199.9993896484375,
 		["BlackLastUpdateName"] = {
 		},
 		["OnlyPromoted"] = true,
 		["Strata"] = "HIGH",
-		["Height"] = 99.99990844726562,
+		["Height"] = 99.9999008178711,
+		["BlackLastUpdateTime"] = {
+		},
 		["Black"] = {
 			"", -- [1]
 			"", -- [2]
 			"", -- [3]
-		},
-		["BlackLastUpdateTime"] = {
 		},
 		["OptionsFormatting"] = true,
 	},
@@ -3041,22 +3054,22 @@ VExRT = {
 		["BuffsCheck"] = true,
 		["ReadyCheckFrame"] = true,
 		["ReadyCheckFrameTimerFade"] = 4,
-		["ReadyCheckFrameOnlyRL"] = true,
-		["ReadyCheckLeft"] = 1430.000122070313,
 		["ReadyCheckTop"] = 833.500244140625,
+		["ReadyCheckLeft"] = 1430.000122070313,
+		["ReadyCheckFrameOnlyRL"] = true,
 	},
 	["Logging"] = {
 	},
 	["MarksBar"] = {
 		["pulltimer"] = 10,
 		["Strata"] = "HIGH",
-		["pulltimer_right"] = 10,
 		["Show"] = {
 			true, -- [1]
 			true, -- [2]
 			true, -- [3]
 			true, -- [4]
 		},
+		["pulltimer_right"] = 10,
 	},
 	["VisNote"] = {
 		["data"] = {
@@ -3067,19 +3080,6 @@ VExRT = {
 		["sync_data"] = {
 		},
 	},
-	["InviteTool"] = {
-		["Words"] = "инв inv byd штм 123",
-		["InvByChat"] = true,
-		["RaidDiff"] = 16,
-		["PromoteRank"] = 3,
-		["Ranks"] = {
-			true, -- [1]
-		},
-		["LootThreshold"] = 2,
-		["MasterLooters"] = "",
-		["LootMethod"] = "group",
-		["PromoteNames"] = "",
-		["OnlyGuild"] = true,
-		["Rank"] = 1,
+	["WhoPulled"] = {
 	},
 }

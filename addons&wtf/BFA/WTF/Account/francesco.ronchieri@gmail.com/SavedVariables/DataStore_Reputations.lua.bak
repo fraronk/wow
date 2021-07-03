@@ -46,7 +46,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "Country penguins",
 			},
 			["Default.Sethraliss.Mariagreco"] = {
-				["lastUpdate"] = 1625242185,
+				["lastUpdate"] = 1625301519,
 				["Factions"] = {
 					4135, -- [1]
 					3235, -- [2]
@@ -68,7 +68,7 @@ DataStore_ReputationsDB = {
 					[152] = 49123,
 					[77] = 135,
 					[82] = 630,
-					[164] = 18100,
+					[164] = 18225,
 					[137] = 5775,
 					[75] = 3310,
 					[12] = 280,

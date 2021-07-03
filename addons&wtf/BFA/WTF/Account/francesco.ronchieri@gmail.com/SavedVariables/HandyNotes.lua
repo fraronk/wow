@@ -10,8 +10,8 @@ HandyNotesDB = {
 		["Antonioprete - Sethraliss"] = "Antonioprete - Sethraliss",
 		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
 		["Tonellotto - Sethraliss"] = "Tonellotto - Sethraliss",
-		["Dontuch - Sethraliss"] = "Dontuch - Sethraliss",
 		["Mariagreco - Sethraliss"] = "AAAA COMUNE",
+		["Dontuch - Sethraliss"] = "Dontuch - Sethraliss",
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
 	["profiles"] = {
@@ -33,11 +33,11 @@ HandyNotesDB = {
 		},
 		["Stempi - Sethraliss"] = {
 		},
-		["Mariagreco - Sethraliss"] = {
+		["Dontuch - Sethraliss"] = {
 		},
 		["AAAA COMUNE"] = {
 		},
-		["Dontuch - Sethraliss"] = {
+		["Mariagreco - Sethraliss"] = {
 		},
 		["Corsini - Sethraliss"] = {
 		},
@@ -54,8 +54,8 @@ HandyNotes_HandyNotesDB = {
 		["Antonioprete - Sethraliss"] = "Antonioprete - Sethraliss",
 		["Stempi - Sethraliss"] = "Stempi - Sethraliss",
 		["Tonellotto - Sethraliss"] = "Tonellotto - Sethraliss",
-		["Dontuch - Sethraliss"] = "Dontuch - Sethraliss",
 		["Mariagreco - Sethraliss"] = "Mariagreco - Sethraliss",
+		["Dontuch - Sethraliss"] = "Dontuch - Sethraliss",
 		["Corsini - Sethraliss"] = "Corsini - Sethraliss",
 	},
 	["profiles"] = {
@@ -77,9 +77,9 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Tonellotto - Sethraliss"] = {
 		},
-		["Dontuch - Sethraliss"] = {
-		},
 		["Mariagreco - Sethraliss"] = {
+		},
+		["Dontuch - Sethraliss"] = {
 		},
 		["Corsini - Sethraliss"] = {
 		},

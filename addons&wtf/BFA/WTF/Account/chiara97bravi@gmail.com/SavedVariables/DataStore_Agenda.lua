@@ -7,11 +7,10 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 3,
-			["NextWeeklyReset"] = "2021-06-23",
+			["NextWeeklyReset"] = "2021-07-07",
 		},
 		["Characters"] = {
 			["Default.Sethraliss.Voidvenom"] = {
-				["lastUpdate"] = 1623946701,
 				["Contacts"] = {
 					--[[ skipped entry with table key ]]
 					--[[ skipped entry with table key ]]
@@ -64,6 +63,7 @@ DataStore_AgendaDB = {
 					--[[ skipped entry with table key ]]
 					--[[ skipped entry with table key ]]
 				},
+				["lastUpdate"] = 1625302784,
 			},
 		},
 	},
