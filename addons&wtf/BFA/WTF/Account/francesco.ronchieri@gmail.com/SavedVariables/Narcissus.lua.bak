@@ -51,6 +51,8 @@ NarcissusDB = {
 	},
 	["WeatherEffect"] = true,
 	["CameraOrbit"] = true,
+	["FadeButton"] = false,
+	["ShowMinimapButton"] = true,
 	["Tutorials"] = {
 		["ExitConfirmation"] = false,
 		["Movement"] = false,
@@ -61,8 +63,6 @@ NarcissusDB = {
 		["NPCBrowser"] = true,
 	},
 	["BorderTheme"] = "Bright",
-	["FadeButton"] = false,
-	["ShowMinimapButton"] = true,
 	["FadeMusic"] = true,
 	["FontHeightItemName"] = 10,
 	["DetailedIlvlInfo"] = true,

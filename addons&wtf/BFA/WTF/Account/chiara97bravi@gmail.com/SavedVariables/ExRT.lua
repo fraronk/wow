@@ -43,7 +43,7 @@ VExRT = {
 			["Héxèn"] = 257,
 			["Voidvenom"] = 253,
 			["Aphrö"] = 253,
-			["Mariagreco"] = 104,
+			["Mariagreco"] = 103,
 			["Lunysse"] = 259,
 			["Bentleyaland"] = 268,
 			["Deathlove"] = 250,
@@ -279,7 +279,7 @@ VExRT = {
 		["FontSize"] = 12,
 		["AutoLoad"] = {
 		},
-		["Width"] = 199.9999084472656,
+		["Width"] = 199.9999237060547,
 		["BlackLastUpdateName"] = {
 		},
 		["OnlyPromoted"] = true,

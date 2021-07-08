@@ -46,6 +46,50 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["semver"] = "1.0.0",
+			["parent"] = "Luxthos - Hunter Specifics",
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["xOffset"] = 0,
+			["version"] = 1,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = " ",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
+					["text_fontSize"] = 13,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [1]
+			},
+			["height"] = 40,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -85,50 +129,6 @@ WeakAurasSaved = {
 				["disjunctive"] = "all",
 				["activeTriggerMode"] = -10,
 			},
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "Luxthos - Hunter Specifics",
-			["version"] = 1,
-			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text"] = " ",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
-					["text_fontSize"] = 13,
-					["anchorXOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-				}, -- [1]
-			},
-			["height"] = 40,
-			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -174,11 +174,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_vehicleUi"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -284,25 +284,23 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["debuffType"] = "HARMFUL",
-						["auranames"] = {
-							"202797", -- [1]
-						},
-						["unevent"] = "auto",
+						["duration"] = "1",
+						["useGroup_count"] = false,
+						["unit"] = "target",
 						["ownOnly"] = true,
 						["genericShowOn"] = "showAlways",
-						["use_specific_unit"] = false,
-						["duration"] = "1",
+						["use_unit"] = true,
+						["use_totemName"] = true,
 						["use_tooltip"] = false,
-						["unit"] = "target",
-						["spellName"] = 202797,
 						["names"] = {
 							"A Murder of Crows", -- [1]
 						},
 						["subeventPrefix"] = "SPELL",
-						["use_genericShowOn"] = true,
 						["buffShowOn"] = "showOnActive",
+						["debuffType"] = "HARMFUL",
 						["type"] = "aura2",
+						["spellName"] = 202797,
+						["unevent"] = "auto",
 						["useName"] = true,
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -315,11 +313,13 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							131894, -- [1]
 						},
+						["use_genericShowOn"] = true,
 						["matchesShowOn"] = "showOnActive",
-						["use_totemName"] = true,
 						["combineMatches"] = "showLowest",
-						["use_unit"] = true,
-						["useGroup_count"] = false,
+						["use_specific_unit"] = false,
+						["auranames"] = {
+							"202797", -- [1]
+						},
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -334,7 +334,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["cooldownTextDisabled"] = false,
 			["auto"] = true,
-			["cooldownEdge"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -342,7 +342,27 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["easeStrength"] = 3,
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -398,27 +418,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "preset",
-					["easeType"] = "none",
-					["preset"] = "alphaPulse",
-					["duration_type"] = "seconds",
-					["easeStrength"] = 3,
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
+			["cooldownEdge"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -560,13 +560,13 @@ WeakAurasSaved = {
 						},
 						["unit"] = "target",
 						["use_tooltip"] = false,
-						["buffShowOn"] = "showOnActive",
 						["use_unit"] = true,
-						["unevent"] = "auto",
-						["spellName"] = 120360,
+						["subeventPrefix"] = "SPELL",
 						["use_totemName"] = true,
 						["debuffType"] = "HARMFUL",
 						["useName"] = true,
+						["spellName"] = 120360,
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -579,8 +579,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							131894, -- [1]
 						},
+						["buffShowOn"] = "showOnActive",
 						["ownOnly"] = true,
-						["subeventPrefix"] = "SPELL",
 						["combineMatches"] = "showLowest",
 						["matchesShowOn"] = "showOnActive",
 						["useGroup_count"] = false,
@@ -724,17 +724,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 				["talent3"] = {
 					["single"] = 6,
 					["multi"] = {
 						[6] = true,
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
+				["use_vehicleUi"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -855,8 +855,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -893,7 +893,7 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["auto"] = true,
-			["useglowColor"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -901,7 +901,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["cooldownEdge"] = false,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -957,7 +957,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -1136,11 +1136,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -1203,50 +1203,7 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["semver"] = "1.0.0",
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["useGroup_count"] = false,
-						["ownOnly"] = true,
-						["use_unit"] = true,
-						["unevent"] = "auto",
-						["use_tooltip"] = false,
-						["debuffType"] = "HARMFUL",
-						["unit"] = "target",
-						["matchesShowOn"] = "showOnActive",
-						["subeventPrefix"] = "SPELL",
-						["names"] = {
-							"A Murder of Crows", -- [1]
-						},
-						["buffShowOn"] = "showOnActive",
-						["useName"] = true,
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["use_showOn"] = true,
-						["spellName"] = 120360,
-						["event"] = "Cooldown Progress (Spell)",
-						["totemName"] = "Darkglare",
-						["realSpellName"] = "Barrage",
-						["use_spellName"] = true,
-						["spellIds"] = {
-							131894, -- [1]
-						},
-						["use_totemName"] = true,
-						["use_specific_unit"] = false,
-						["combineMatches"] = "showLowest",
-						["use_absorbMode"] = true,
-						["auranames"] = {
-							"131894", -- [1]
-						},
-					},
-					["untrigger"] = {
-						["spellName"] = 120360,
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -1254,7 +1211,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["xOffset"] = 0,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -1310,7 +1267,50 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["xOffset"] = 0,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["useGroup_count"] = false,
+						["ownOnly"] = true,
+						["use_unit"] = true,
+						["unit"] = "target",
+						["use_tooltip"] = false,
+						["matchesShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["names"] = {
+							"A Murder of Crows", -- [1]
+						},
+						["buffShowOn"] = "showOnActive",
+						["useName"] = true,
+						["debuffType"] = "HARMFUL",
+						["unevent"] = "auto",
+						["type"] = "aura2",
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["use_showOn"] = true,
+						["spellName"] = 120360,
+						["event"] = "Cooldown Progress (Spell)",
+						["totemName"] = "Darkglare",
+						["realSpellName"] = "Barrage",
+						["use_spellName"] = true,
+						["spellIds"] = {
+							131894, -- [1]
+						},
+						["use_totemName"] = true,
+						["use_specific_unit"] = false,
+						["combineMatches"] = "showLowest",
+						["use_absorbMode"] = true,
+						["auranames"] = {
+							"131894", -- [1]
+						},
+					},
+					["untrigger"] = {
+						["spellName"] = 120360,
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
 			["load"] = {
 				["use_petbattle"] = false,
 				["class"] = {
@@ -1345,7 +1345,7 @@ WeakAurasSaved = {
 						true, -- [1]
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -1354,14 +1354,14 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
+				["use_vehicleUi"] = false,
 				["talent3"] = {
 					["single"] = 6,
 				},
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 				["ingroup"] = {
 					["multi"] = {
 					},
@@ -1545,11 +1545,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -1589,12 +1589,12 @@ WeakAurasSaved = {
 			["stagger"] = 0,
 			["anchorFrameParent"] = false,
 			["constantFactor"] = "RADIUS",
-			["gridWidth"] = 5,
+			["sort"] = "none",
 			["borderOffset"] = 16,
 			["semver"] = "1.0.0",
 			["tocversion"] = 80200,
 			["id"] = "Luxthos - Hunter Specifics",
-			["sort"] = "none",
+			["gridWidth"] = 5,
 			["frameStrata"] = 1,
 			["anchorFrameType"] = "SELECTFRAME",
 			["borderInset"] = 0,
@@ -1634,13 +1634,13 @@ WeakAurasSaved = {
 						},
 						["use_tooltip"] = false,
 						["unit"] = "player",
-						["type"] = "aura2",
 						["use_totemName"] = true,
-						["buffShowOn"] = "showOnActive",
-						["subeventSuffix"] = "_CAST_START",
-						["debuffType"] = "HELPFUL",
+						["use_specific_unit"] = false,
 						["spellName"] = 120360,
 						["useName"] = true,
+						["debuffType"] = "HELPFUL",
+						["subeventSuffix"] = "_CAST_START",
+						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["unevent"] = "auto",
 						["use_showOn"] = true,
@@ -1652,8 +1652,8 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							131894, -- [1]
 						},
+						["buffShowOn"] = "showOnActive",
 						["subeventPrefix"] = "SPELL",
-						["use_specific_unit"] = false,
 						["combineMatches"] = "showLowest",
 						["auranames"] = {
 							"268552", -- [1]
@@ -1736,21 +1736,21 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
 				["faction"] = {
 					["multi"] = {
 					},
 				},
+				["use_vehicleUi"] = false,
 				["race"] = {
 					["multi"] = {
 					},
 				},
 				["use_combat"] = true,
 				["use_petbattle"] = false,
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 			},
 			["desaturate"] = false,
 			["glowColor"] = {
@@ -1915,23 +1915,23 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["buffShowOn"] = "showOnActive",
-						["auranames"] = {
-							"202914", -- [1]
-						},
-						["unevent"] = "auto",
+						["duration"] = "1",
+						["useGroup_count"] = false,
+						["unit"] = "target",
 						["use_absorbMode"] = true,
 						["genericShowOn"] = "showAlways",
-						["use_unit"] = true,
-						["duration"] = "1",
+						["names"] = {
+							"A Murder of Crows", -- [1]
+						},
+						["use_totemName"] = true,
 						["use_tooltip"] = false,
-						["unit"] = "target",
-						["spellName"] = 202797,
 						["use_specific_unit"] = false,
 						["subeventPrefix"] = "SPELL",
-						["matchesShowOn"] = "showOnActive",
 						["debuffType"] = "HARMFUL",
+						["buffShowOn"] = "showOnActive",
 						["useName"] = true,
+						["spellName"] = 202797,
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -1944,13 +1944,13 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							131894, -- [1]
 						},
+						["matchesShowOn"] = "showOnActive",
 						["ownOnly"] = true,
-						["use_totemName"] = true,
 						["combineMatches"] = "showLowest",
-						["names"] = {
-							"A Murder of Crows", -- [1]
+						["use_unit"] = true,
+						["auranames"] = {
+							"202914", -- [1]
 						},
-						["useGroup_count"] = false,
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -2269,7 +2269,7 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = false,
 			["auto"] = true,
-			["cooldownEdge"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -2277,7 +2277,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["glowXOffset"] = 0,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -2333,7 +2333,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["glowXOffset"] = 0,
+			["cooldownEdge"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -2536,25 +2536,21 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["debuffType"] = "HARMFUL",
-						["auranames"] = {
-							"202900", -- [1]
-						},
-						["unevent"] = "auto",
+						["matchesShowOn"] = "showOnActive",
+						["useGroup_count"] = false,
+						["unit"] = "target",
 						["use_absorbMode"] = true,
 						["genericShowOn"] = "showAlways",
-						["names"] = {
-							"A Murder of Crows", -- [1]
-						},
-						["matchesShowOn"] = "showOnActive",
+						["subeventPrefix"] = "SPELL",
+						["use_totemName"] = true,
 						["use_tooltip"] = false,
-						["unit"] = "target",
-						["buffShowOn"] = "showOnActive",
 						["use_unit"] = true,
 						["use_specific_unit"] = false,
-						["duration"] = "1",
 						["spellName"] = 202797,
+						["debuffType"] = "HARMFUL",
 						["type"] = "aura2",
+						["buffShowOn"] = "showOnActive",
+						["unevent"] = "auto",
 						["useName"] = true,
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -2567,11 +2563,15 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							131894, -- [1]
 						},
+						["duration"] = "1",
 						["ownOnly"] = true,
-						["use_totemName"] = true,
 						["combineMatches"] = "showLowest",
-						["subeventPrefix"] = "SPELL",
-						["useGroup_count"] = false,
+						["names"] = {
+							"A Murder of Crows", -- [1]
+						},
+						["auranames"] = {
+							"202900", -- [1]
+						},
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -2832,15 +2832,16 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = true,
 			["semver"] = "1.0.0",
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
-			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["authorOptions"] = {
+			},
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -2897,8 +2898,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["use_petbattle"] = false,
 				["class"] = {
@@ -2941,11 +2941,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
 				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
+				["use_vehicleUi"] = false,
 				["ingroup"] = {
 					["multi"] = {
 					},
@@ -3013,15 +3013,15 @@ WeakAurasSaved = {
 						["genericShowOn"] = "showAlways",
 						["use_specific_unit"] = false,
 						["use_unit"] = true,
-						["unevent"] = "auto",
 						["names"] = {
 							"Vampiric Blood", -- [1]
 						},
-						["spellName"] = 162488,
 						["unit"] = "player",
-						["type"] = "aura2",
+						["spellName"] = 162488,
 						["use_genericShowOn"] = true,
+						["type"] = "aura2",
 						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["use_showOn"] = true,
 						["useName"] = true,
 						["event"] = "Cooldown Progress (Spell)",
@@ -3122,8 +3122,8 @@ WeakAurasSaved = {
 						["event"] = "Chat Message",
 						["use_unit"] = true,
 						["unevent"] = "timed",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -3142,14 +3142,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["cooldownTextDisabled"] = false,
 			["auto"] = true,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -3157,7 +3150,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["glowXOffset"] = 0,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -3213,7 +3206,14 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["glowXOffset"] = 0,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["load"] = {
 				["use_petbattle"] = false,
 				["use_never"] = false,
@@ -3261,7 +3261,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -3271,10 +3271,7 @@ WeakAurasSaved = {
 						[4] = true,
 					},
 				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
+				["use_vehicleUi"] = false,
 				["ingroup"] = {
 					["multi"] = {
 					},
@@ -3284,7 +3281,10 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 			},
 			["conditions"] = {
 				{
@@ -3375,8 +3375,8 @@ WeakAurasSaved = {
 			["glowType"] = "buttonOverlay",
 			["glowThickness"] = 1,
 			["uid"] = "vY3wBdpRdS3",
-			["anchorFrameType"] = "SCREEN",
 			["glowYOffset"] = 0,
+			["anchorFrameType"] = "SCREEN",
 			["regionType"] = "icon",
 			["frameStrata"] = 1,
 			["cooldownEdge"] = true,
@@ -3468,6 +3468,70 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["semver"] = "1.0.0",
+			["parent"] = "Luxthos - Hunter Specifics",
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["xOffset"] = 0,
+			["version"] = 1,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = " ",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
+					["text_fontSize"] = 13,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["glow"] = false,
+					["useGlowColor"] = false,
+					["glowScale"] = 1,
+					["glowLength"] = 10,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowXOffset"] = 0,
+					["type"] = "subglow",
+					["glowType"] = "buttonOverlay",
+					["glowThickness"] = 1,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+			},
+			["height"] = 40,
 			["triggers"] = {
 				{
 					["trigger"] = {
@@ -3540,70 +3604,6 @@ WeakAurasSaved = {
 				["customTriggerLogic"] = "function(t)\n    if t[1] and t[2] then\n        return t[1]\n    end\nend",
 				["activeTriggerMode"] = -10,
 			},
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "Luxthos - Hunter Specifics",
-			["version"] = 1,
-			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text"] = " ",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
-					["text_fontSize"] = 13,
-					["anchorXOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["glow"] = false,
-					["useGlowColor"] = false,
-					["glowScale"] = 1,
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowXOffset"] = 0,
-					["type"] = "subglow",
-					["glowType"] = "buttonOverlay",
-					["glowThickness"] = 1,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
-			},
-			["height"] = 40,
-			["xOffset"] = 0,
 			["load"] = {
 				["use_petbattle"] = false,
 				["class"] = {
@@ -3643,11 +3643,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -3832,15 +3832,25 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = false,
 			["semver"] = "1.0.0",
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
-			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["authorOptions"] = {
+				{
+					["type"] = "toggle",
+					["key"] = "glow",
+					["width"] = 1,
+					["name"] = "Glow - A Murder of Crows",
+					["useDesc"] = true,
+					["default"] = false,
+					["desc"] = "By toggling this option you will enable glow functionality for this cooldown.",
+				}, -- [1]
+			},
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -3896,17 +3906,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["authorOptions"] = {
-				{
-					["type"] = "toggle",
-					["key"] = "glow",
-					["width"] = 1,
-					["name"] = "Glow - A Murder of Crows",
-					["useDesc"] = true,
-					["default"] = false,
-					["desc"] = "By toggling this option you will enable glow functionality for this cooldown.",
-				}, -- [1]
-			},
+			["stickyDuration"] = false,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -3951,17 +3951,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 				["talent3"] = {
 					["single"] = 6,
 					["multi"] = {
 						[6] = true,
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
+				["use_vehicleUi"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -4136,8 +4136,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -4265,8 +4265,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -4304,7 +4304,7 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["auto"] = true,
-			["useglowColor"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -4312,7 +4312,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["cooldownEdge"] = true,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -4368,7 +4368,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["cooldownEdge"] = true,
+			["useglowColor"] = false,
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -4539,20 +4539,20 @@ WeakAurasSaved = {
 						true, -- [1]
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
+				["use_vehicleUi"] = false,
 				["use_talent2"] = true,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
+				["faction"] = {
+					["multi"] = {
+					},
+				},
 				["talent3"] = {
 					["single"] = 6,
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -5353,8 +5353,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -5392,15 +5392,15 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = false,
 			["auto"] = true,
-			["selfPoint"] = "CENTER",
-			["desaturate"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["desaturate"] = false,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -5456,7 +5456,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
+			["selfPoint"] = "CENTER",
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -5513,8 +5513,8 @@ WeakAurasSaved = {
 			["glowType"] = "buttonOverlay",
 			["glowThickness"] = 1,
 			["uid"] = "5fEKwQjEYv4",
-			["width"] = 40,
 			["glowYOffset"] = 0,
+			["width"] = 40,
 			["regionType"] = "icon",
 			["frameStrata"] = 1,
 			["glowXOffset"] = 0,
@@ -5578,17 +5578,17 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 				["talent3"] = {
 					["multi"] = {
 						[5] = true,
 						[4] = true,
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
+				["use_vehicleUi"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
@@ -5706,11 +5706,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -5990,25 +5990,23 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["buffShowOn"] = "showOnActive",
-						["auranames"] = {
-							"268552", -- [1]
-						},
-						["use_unit"] = true,
-						["duration"] = "1",
-						["genericShowOn"] = "showAlways",
 						["use_specific_unit"] = false,
+						["useGroup_count"] = false,
+						["duration"] = "1",
 						["use_absorbMode"] = true,
-						["use_tooltip"] = false,
-						["unevent"] = "auto",
+						["genericShowOn"] = "showAlways",
+						["use_unit"] = true,
 						["unit"] = "player",
+						["use_tooltip"] = false,
 						["names"] = {
 							"A Murder of Crows", -- [1]
 						},
 						["subeventPrefix"] = "SPELL",
 						["use_totemName"] = true,
-						["spellName"] = 202797,
+						["buffShowOn"] = "showOnActive",
 						["type"] = "status",
+						["spellName"] = 202797,
+						["unevent"] = "auto",
 						["useName"] = true,
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -6025,7 +6023,9 @@ WeakAurasSaved = {
 						["use_genericShowOn"] = true,
 						["combineMatches"] = "showLowest",
 						["use_track"] = true,
-						["useGroup_count"] = false,
+						["auranames"] = {
+							"268552", -- [1]
+						},
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -6058,8 +6058,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -6078,15 +6078,34 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["cooldownTextDisabled"] = false,
 			["auto"] = true,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
-			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -6142,26 +6161,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
+			["desaturate"] = false,
 			["load"] = {
 				["use_petbattle"] = false,
 				["class"] = {
@@ -6383,23 +6383,25 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["spellName"] = 202900,
-						["useGroup_count"] = false,
-						["subeventPrefix"] = "SPELL",
-						["use_genericShowOn"] = true,
-						["genericShowOn"] = "showAlways",
 						["use_unit"] = true,
+						["auranames"] = {
+							"268552", -- [1]
+						},
+						["use_genericShowOn"] = true,
 						["use_totemName"] = true,
-						["use_tooltip"] = false,
-						["unevent"] = "auto",
+						["genericShowOn"] = "showAlways",
+						["subeventPrefix"] = "SPELL",
 						["names"] = {
 							"A Murder of Crows", -- [1]
 						},
+						["use_tooltip"] = false,
 						["use_specific_unit"] = false,
 						["unit"] = "player",
 						["use_absorbMode"] = true,
-						["buffShowOn"] = "showOnActive",
+						["spellName"] = 202900,
 						["type"] = "status",
+						["buffShowOn"] = "showOnActive",
+						["unevent"] = "auto",
 						["useName"] = true,
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -6416,9 +6418,7 @@ WeakAurasSaved = {
 						["duration"] = "1",
 						["combineMatches"] = "showLowest",
 						["use_track"] = true,
-						["auranames"] = {
-							"268552", -- [1]
-						},
+						["useGroup_count"] = false,
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -6466,7 +6466,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["cooldownTextDisabled"] = false,
 			["auto"] = true,
-			["cooldownEdge"] = true,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -6474,7 +6474,26 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -6530,26 +6549,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
+			["cooldownEdge"] = true,
 			["load"] = {
 				["use_petbattle"] = false,
 				["class"] = {
@@ -6809,15 +6809,16 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["zoom"] = 0.33,
 			["auto"] = true,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
-			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["authorOptions"] = {
+			},
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -6873,15 +6874,14 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["authorOptions"] = {
-			},
+			["stickyDuration"] = false,
 			["load"] = {
-				["pvptalent"] = {
+				["talent2"] = {
 					["multi"] = {
 					},
 				},
 				["use_petbattle"] = false,
-				["race"] = {
+				["ingroup"] = {
 					["multi"] = {
 					},
 				},
@@ -6898,34 +6898,34 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["ingroup"] = {
-					["multi"] = {
-					},
-				},
-				["use_class"] = true,
 				["role"] = {
 					["multi"] = {
 					},
 				},
 				["use_vehicleUi"] = false,
-				["use_spec"] = false,
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = false,
+				["use_class"] = true,
 				["spec"] = {
 					["single"] = 1,
 					["multi"] = {
 						true, -- [1]
 						[3] = true,
-					},
-				},
-				["talent2"] = {
-					["multi"] = {
 					},
 				},
 				["size"] = {
@@ -7014,26 +7014,7 @@ WeakAurasSaved = {
 			["selfPoint"] = "CENTER",
 			["zoom"] = 0.33,
 			["auto"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
+			["parent"] = "Luxthos - Hunter Specifics",
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -7041,7 +7022,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["xOffset"] = 0,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -7097,7 +7078,26 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["xOffset"] = 0,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -7140,19 +7140,19 @@ WeakAurasSaved = {
 							"257284", -- [1]
 						},
 						["use_totemName"] = true,
-						["buffShowOn"] = "showAlways",
+						["ownOnly"] = true,
 						["names"] = {
 							"Hunter's Mark", -- [1]
 						},
 						["unitExists"] = true,
 						["use_tooltip"] = false,
-						["unevent"] = "auto",
-						["ownOnly"] = true,
 						["debuffType"] = "HARMFUL",
 						["matchesShowOn"] = "showAlways",
 						["use_unit"] = true,
 						["spellName"] = 257284,
 						["useName"] = true,
+						["buffShowOn"] = "showAlways",
+						["unevent"] = "auto",
 						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -7247,11 +7247,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -7621,875 +7621,6 @@ WeakAurasSaved = {
 			["uid"] = "6)tDAFWvj9y",
 			["slanted"] = false,
 		},
-		["Barrage (Beast Mastery) 2"] = {
-			["glow"] = false,
-			["authorOptions"] = {
-				{
-					["type"] = "toggle",
-					["key"] = "glow",
-					["width"] = 1,
-					["name"] = "Glow - Barrage",
-					["useDesc"] = true,
-					["default"] = false,
-					["desc"] = "By toggling this option you will enable glow functionality for this cooldown.",
-				}, -- [1]
-			},
-			["preferToUpdate"] = false,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownSwipe"] = true,
-			["customTextUpdate"] = "update",
-			["cooldownEdge"] = true,
-			["icon"] = true,
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["duration"] = "1",
-						["genericShowOn"] = "showAlways",
-						["subeventPrefix"] = "SPELL",
-						["use_showgcd"] = true,
-						["debuffType"] = "HELPFUL",
-						["type"] = "status",
-						["names"] = {
-						},
-						["subeventSuffix"] = "_CAST_START",
-						["use_showOn"] = true,
-						["spellName"] = 120360,
-						["event"] = "Cooldown Progress (Spell)",
-						["use_genericShowOn"] = true,
-						["realSpellName"] = "Sbarramento",
-						["use_spellName"] = true,
-						["spellIds"] = {
-						},
-						["unevent"] = "auto",
-						["use_unit"] = true,
-						["unit"] = "player",
-						["use_track"] = true,
-						["use_absorbMode"] = true,
-					},
-					["untrigger"] = {
-						["showOn"] = "showAlways",
-						["spellName"] = 120679,
-					},
-				}, -- [1]
-				{
-					["trigger"] = {
-						["type"] = "custom",
-						["subeventSuffix"] = "_CAST_START",
-						["use_absorbMode"] = true,
-						["event"] = "Health",
-						["use_unit"] = true,
-						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
-						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
-						["subeventPrefix"] = "SPELL",
-						["check"] = "event",
-						["duration"] = "1",
-						["custom_type"] = "status",
-						["unit"] = "player",
-					},
-					["untrigger"] = {
-					},
-				}, -- [2]
-				["disjunctive"] = "any",
-				["customTriggerLogic"] = "function(t)\n    if t[1] and t[2] then\n        return t[1]\n    end\nend",
-				["activeTriggerMode"] = 1,
-			},
-			["internalVersion"] = 33,
-			["keepAspectRatio"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
-			["url"] = "https://wago.io/8_blHXDbG/1",
-			["zoom"] = 0.33,
-			["load"] = {
-				["use_petbattle"] = false,
-				["use_never"] = false,
-				["class"] = {
-					["single"] = "HUNTER",
-					["multi"] = {
-					},
-				},
-				["use_talent"] = true,
-				["use_class"] = true,
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["use_spec"] = true,
-				["size"] = {
-					["multi"] = {
-					},
-				},
-				["talent2"] = {
-					["single"] = 12,
-					["multi"] = {
-						[3] = true,
-						[6] = true,
-						[12] = true,
-					},
-				},
-				["talent"] = {
-					["single"] = 17,
-					["multi"] = {
-						true, -- [1]
-						true, -- [2]
-					},
-				},
-				["use_vehicle"] = false,
-				["spec"] = {
-					["single"] = 1,
-					["multi"] = {
-						true, -- [1]
-						true, -- [2]
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["use_vehicleUi"] = false,
-				["talent3"] = {
-					["multi"] = {
-						[12] = true,
-					},
-				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["use_combat"] = true,
-				["ingroup"] = {
-					["multi"] = {
-					},
-				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "Luxthos - Hunter Specifics",
-			["version"] = 1,
-			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text"] = " ",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
-					["text_fontSize"] = 13,
-					["anchorXOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["glow"] = false,
-					["useGlowColor"] = false,
-					["glowScale"] = 1,
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowXOffset"] = 0,
-					["type"] = "subglow",
-					["glowType"] = "buttonOverlay",
-					["glowThickness"] = 1,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
-			},
-			["height"] = 40,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["glowLines"] = 8,
-			["conditions"] = {
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["variable"] = "onCooldown",
-						["value"] = 1,
-					},
-					["changes"] = {
-						{
-							["value"] = true,
-							["property"] = "desaturate",
-						}, -- [1]
-						{
-							["property"] = "sub.2.glow",
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["check"] = {
-						["trigger"] = -2,
-						["variable"] = "AND",
-						["checks"] = {
-							{
-								["trigger"] = 1,
-								["variable"] = "onCooldown",
-								["value"] = 0,
-							}, -- [1]
-							{
-								["trigger"] = 2,
-								["variable"] = "show",
-								["value"] = 1,
-							}, -- [2]
-						},
-					},
-					["changes"] = {
-						{
-							["value"] = true,
-							["property"] = "sub.2.glow",
-						}, -- [1]
-					},
-				}, -- [2]
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["variable"] = "insufficientResources",
-						["value"] = 1,
-					},
-					["changes"] = {
-						{
-							["value"] = true,
-							["property"] = "desaturate",
-						}, -- [1]
-						{
-							["value"] = {
-								0.31764705882353, -- [1]
-								0.40392156862745, -- [2]
-								0.78039215686274, -- [3]
-								1, -- [4]
-							},
-							["property"] = "color",
-						}, -- [2]
-					},
-				}, -- [3]
-			},
-			["glowFrequency"] = 0.25,
-			["width"] = 40,
-			["glowXOffset"] = 0,
-			["glowType"] = "buttonOverlay",
-			["glowThickness"] = 1,
-			["config"] = {
-				["glow"] = false,
-			},
-			["anchorFrameType"] = "SCREEN",
-			["alpha"] = 1,
-			["regionType"] = "icon",
-			["useglowColor"] = false,
-			["selfPoint"] = "CENTER",
-			["glowScale"] = 1,
-			["auto"] = true,
-			["glowLength"] = 10,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.0",
-			["tocversion"] = 80200,
-			["id"] = "Barrage (Beast Mastery) 2",
-			["stickyDuration"] = false,
-			["frameStrata"] = 1,
-			["glowYOffset"] = 0,
-			["xOffset"] = 0,
-			["uid"] = "Eu0PMCA78dn",
-			["inverse"] = true,
-			["desaturate"] = false,
-			["displayIcon"] = 132176,
-			["cooldown"] = true,
-			["glowBorder"] = false,
-		},
-		["Sniper Shot - Active"] = {
-			["glow"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["preferToUpdate"] = false,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownSwipe"] = true,
-			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["use_alwaystrue"] = true,
-						["auranames"] = {
-							"203155", -- [1]
-						},
-						["use_charges"] = false,
-						["subeventPrefix"] = "SPELL",
-						["use_unit"] = true,
-						["use_tooltip"] = false,
-						["unevent"] = "auto",
-						["names"] = {
-							"Master Marksman", -- [1]
-						},
-						["useName"] = true,
-						["use_specific_unit"] = false,
-						["charges"] = "0",
-						["buffShowOn"] = "showAlways",
-						["charges_operator"] = ">",
-						["type"] = "aura2",
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["use_showOn"] = true,
-						["matchesShowOn"] = "showOnActive",
-						["event"] = "Cooldown Progress (Spell)",
-						["spellName"] = 131894,
-						["realSpellName"] = "A Murder of Crows",
-						["use_spellName"] = true,
-						["spellIds"] = {
-							269576, -- [1]
-						},
-						["debuffType"] = "HELPFUL",
-						["unit"] = "player",
-						["combineMatches"] = "showLowest",
-						["use_absorbMode"] = true,
-						["useGroup_count"] = false,
-					},
-					["untrigger"] = {
-						["showOn"] = "showAlways",
-						["spellName"] = 131894,
-					},
-				}, -- [1]
-				["disjunctive"] = "any",
-				["customTriggerLogic"] = "function(t)\n    if t[2] and t[3] and t[4] and t[5] and t[6] then\n        if t[7] or t[8] then\n            if t[9] then\n                if t[10] then\n                    aura_env.region:SetGlow(true) \n                else\n                    aura_env.region:SetGlow(false)\n                end\n            else \n                aura_env.region:SetGlow(true) \n            end\n        else\n            if t[11] then\n                aura_env.region:SetGlow(false)\n            else\n                aura_env.region:SetGlow(true) \n            end\n        end\n    else\n        aura_env.region:SetGlow(false)\n    end\n    return true\nend",
-				["activeTriggerMode"] = -10,
-			},
-			["internalVersion"] = 33,
-			["glowXOffset"] = 0,
-			["selfPoint"] = "CENTER",
-			["authorOptions"] = {
-			},
-			["cooldownTextDisabled"] = false,
-			["useglowColor"] = false,
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "Luxthos - Hunter Specifics",
-			["version"] = 1,
-			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text_format_s_format"] = "none",
-					["text_text"] = "%s ",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "CENTER",
-					["text_fontSize"] = 18,
-					["anchorXOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["glow"] = true,
-					["useGlowColor"] = false,
-					["glowScale"] = 1,
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowType"] = "ACShine",
-					["type"] = "subglow",
-					["glowXOffset"] = 0,
-					["glowThickness"] = 4,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
-			},
-			["height"] = 40,
-			["url"] = "https://wago.io/8_blHXDbG/1",
-			["glowLines"] = 8,
-			["conditions"] = {
-			},
-			["glowFrequency"] = 0.25,
-			["keepAspectRatio"] = true,
-			["icon"] = true,
-			["glowType"] = "buttonOverlay",
-			["glowThickness"] = 1,
-			["uid"] = "geQLkdNA)A4",
-			["width"] = 40,
-			["glowYOffset"] = 0,
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
-			["load"] = {
-				["use_petbattle"] = false,
-				["use_never"] = false,
-				["class"] = {
-					["single"] = "HUNTER",
-					["multi"] = {
-					},
-				},
-				["use_class"] = true,
-				["race"] = {
-					["multi"] = {
-					},
-				},
-				["use_spec"] = true,
-				["size"] = {
-					["multi"] = {
-						["arena"] = true,
-						["pvp"] = true,
-						["none"] = true,
-					},
-				},
-				["use_size"] = false,
-				["talent"] = {
-					["single"] = 10,
-					["multi"] = {
-						[10] = true,
-						[16] = true,
-					},
-				},
-				["use_vehicle"] = false,
-				["spec"] = {
-					["single"] = 2,
-					["multi"] = {
-						true, -- [1]
-						true, -- [2]
-					},
-				},
-				["ingroup"] = {
-					["multi"] = {
-					},
-				},
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["use_spellknown"] = true,
-				["pvptalent"] = {
-					["single"] = 6,
-					["multi"] = {
-						[6] = true,
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["use_vehicleUi"] = false,
-				["use_combat"] = true,
-				["spellknown"] = 203155,
-				["talent2"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["glowScale"] = 1,
-			["auto"] = true,
-			["xOffset"] = 0,
-			["stickyDuration"] = false,
-			["zoom"] = 0.33,
-			["semver"] = "1.0.0",
-			["tocversion"] = 80200,
-			["id"] = "Sniper Shot - Active",
-			["glowLength"] = 10,
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["desaturate"] = false,
-			["config"] = {
-			},
-			["inverse"] = false,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["colorR"] = 1,
-					["scalex"] = 1,
-					["alphaType"] = "custom",
-					["colorB"] = 1,
-					["colorG"] = 1,
-					["alphaFunc"] = "function(progress, start, delta)\n    if WeakAuras.GetActiveConditions(aura_env.id,aura_env.cloneId)[1] then\n        local angle = (progress * 2 * math.pi) - (math.pi / 2)\n        return start + (((math.sin(angle) + 1)/2) * delta)\n    end\nend",
-					["use_alpha"] = true,
-					["type"] = "preset",
-					["easeType"] = "none",
-					["preset"] = "alphaPulse",
-					["alpha"] = 0.4,
-					["y"] = 0,
-					["x"] = 0,
-					["duration_type"] = "seconds",
-					["scaley"] = 1,
-					["rotate"] = 0,
-					["easeStrength"] = 3,
-					["duration"] = "0.7",
-					["colorA"] = 1,
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
-			["displayIcon"] = 1033905,
-			["cooldown"] = true,
-			["glowBorder"] = false,
-		},
-		["Steel Trap - Active"] = {
-			["glow"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["preferToUpdate"] = false,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownSwipe"] = true,
-			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["useGroup_count"] = true,
-						["use_totemName"] = true,
-						["genericShowOn"] = "showAlways",
-						["use_specific_unit"] = false,
-						["use_unit"] = true,
-						["unevent"] = "auto",
-						["useName"] = true,
-						["group_count"] = "1",
-						["names"] = {
-							"Vampiric Blood", -- [1]
-						},
-						["debuffType"] = "HARMFUL",
-						["spellName"] = 162488,
-						["unit"] = "multi",
-						["type"] = "aura2",
-						["use_genericShowOn"] = true,
-						["subeventSuffix"] = "_CAST_START",
-						["use_showOn"] = true,
-						["ownOnly"] = true,
-						["event"] = "Cooldown Progress (Spell)",
-						["totemName"] = "Darkglare",
-						["realSpellName"] = "Steel Trap",
-						["use_spellName"] = true,
-						["spellIds"] = {
-							55233, -- [1]
-						},
-						["group_countOperator"] = ">=",
-						["subeventPrefix"] = "SPELL",
-						["duration"] = "1",
-						["use_absorbMode"] = true,
-						["auranames"] = {
-							"162480", -- [1]
-						},
-					},
-					["untrigger"] = {
-						["showOn"] = "showAlways",
-						["spellName"] = 162488,
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
-			["internalVersion"] = 33,
-			["keepAspectRatio"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-				["main"] = {
-					["type"] = "preset",
-					["easeType"] = "none",
-					["duration_type"] = "seconds",
-					["preset"] = "alphaPulse",
-					["easeStrength"] = 3,
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-					["easeStrength"] = 3,
-					["easeType"] = "none",
-				},
-			},
-			["cooldownTextDisabled"] = false,
-			["auto"] = true,
-			["desaturate"] = false,
-			["stickyDuration"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "Luxthos - Hunter Specifics",
-			["version"] = 1,
-			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text"] = " ",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
-					["text_fontSize"] = 13,
-					["anchorXOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["glow"] = true,
-					["useGlowColor"] = false,
-					["glowScale"] = 1,
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowType"] = "ACShine",
-					["type"] = "subglow",
-					["glowXOffset"] = 0,
-					["glowThickness"] = 4,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
-			},
-			["height"] = 40,
-			["icon"] = true,
-			["load"] = {
-				["use_petbattle"] = false,
-				["class"] = {
-					["single"] = "HUNTER",
-					["multi"] = {
-					},
-				},
-				["use_talent"] = true,
-				["use_class"] = true,
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["use_spec"] = true,
-				["size"] = {
-					["multi"] = {
-					},
-				},
-				["talent2"] = {
-					["multi"] = {
-					},
-				},
-				["talent"] = {
-					["single"] = 11,
-					["multi"] = {
-						[17] = true,
-						[20] = true,
-					},
-				},
-				["use_vehicle"] = false,
-				["spec"] = {
-					["single"] = 3,
-					["multi"] = {
-						true, -- [1]
-						true, -- [2]
-						true, -- [3]
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["use_vehicleUi"] = false,
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
-				["ingroup"] = {
-					["multi"] = {
-					},
-				},
-				["use_combat"] = true,
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["race"] = {
-					["multi"] = {
-					},
-				},
-			},
-			["conditions"] = {
-			},
-			["glowFrequency"] = 0.25,
-			["url"] = "https://wago.io/8_blHXDbG/1",
-			["glowXOffset"] = 0,
-			["glowType"] = "buttonOverlay",
-			["glowThickness"] = 1,
-			["config"] = {
-			},
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
-			["glowYOffset"] = 0,
-			["regionType"] = "icon",
-			["alpha"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["authorOptions"] = {
-			},
-			["glowScale"] = 1,
-			["useglowColor"] = false,
-			["glowLength"] = 10,
-			["zoom"] = 0.33,
-			["semver"] = "1.0.0",
-			["tocversion"] = 80200,
-			["id"] = "Steel Trap - Active",
-			["xOffset"] = 0,
-			["frameStrata"] = 1,
-			["width"] = 40,
-			["selfPoint"] = "CENTER",
-			["uid"] = "YxjtcRaJg6t",
-			["inverse"] = false,
-			["glowLines"] = 8,
-			["displayIcon"] = 458718,
-			["cooldown"] = true,
-			["glowBorder"] = false,
-		},
 		["Chakrams"] = {
 			["glow"] = false,
 			["color"] = {
@@ -8579,11 +7710,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -8861,6 +7992,282 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["glowBorder"] = false,
 		},
+		["Sniper Shot - Active"] = {
+			["glow"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["use_alwaystrue"] = true,
+						["auranames"] = {
+							"203155", -- [1]
+						},
+						["use_charges"] = false,
+						["subeventPrefix"] = "SPELL",
+						["use_unit"] = true,
+						["use_tooltip"] = false,
+						["names"] = {
+							"Master Marksman", -- [1]
+						},
+						["use_specific_unit"] = false,
+						["charges"] = "0",
+						["type"] = "aura2",
+						["unevent"] = "auto",
+						["debuffType"] = "HELPFUL",
+						["charges_operator"] = ">",
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["use_showOn"] = true,
+						["matchesShowOn"] = "showOnActive",
+						["event"] = "Cooldown Progress (Spell)",
+						["spellName"] = 131894,
+						["realSpellName"] = "A Murder of Crows",
+						["use_spellName"] = true,
+						["spellIds"] = {
+							269576, -- [1]
+						},
+						["buffShowOn"] = "showAlways",
+						["unit"] = "player",
+						["combineMatches"] = "showLowest",
+						["use_absorbMode"] = true,
+						["useGroup_count"] = false,
+					},
+					["untrigger"] = {
+						["showOn"] = "showAlways",
+						["spellName"] = 131894,
+					},
+				}, -- [1]
+				["disjunctive"] = "any",
+				["customTriggerLogic"] = "function(t)\n    if t[2] and t[3] and t[4] and t[5] and t[6] then\n        if t[7] or t[8] then\n            if t[9] then\n                if t[10] then\n                    aura_env.region:SetGlow(true) \n                else\n                    aura_env.region:SetGlow(false)\n                end\n            else \n                aura_env.region:SetGlow(true) \n            end\n        else\n            if t[11] then\n                aura_env.region:SetGlow(false)\n            else\n                aura_env.region:SetGlow(true) \n            end\n        end\n    else\n        aura_env.region:SetGlow(false)\n    end\n    return true\nend",
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 33,
+			["glowXOffset"] = 0,
+			["selfPoint"] = "CENTER",
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["useglowColor"] = false,
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["url"] = "https://wago.io/8_blHXDbG/1",
+			["version"] = 1,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text_format_s_format"] = "none",
+					["text_text"] = "%s ",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "CENTER",
+					["text_fontSize"] = 18,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["glow"] = true,
+					["useGlowColor"] = false,
+					["glowScale"] = 1,
+					["glowLength"] = 10,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowType"] = "ACShine",
+					["type"] = "subglow",
+					["glowXOffset"] = 0,
+					["glowThickness"] = 4,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+			},
+			["height"] = 40,
+			["authorOptions"] = {
+			},
+			["glowLines"] = 8,
+			["conditions"] = {
+			},
+			["glowFrequency"] = 0.25,
+			["parent"] = "Luxthos - Hunter Specifics",
+			["keepAspectRatio"] = true,
+			["glowType"] = "buttonOverlay",
+			["glowThickness"] = 1,
+			["uid"] = "geQLkdNA)A4",
+			["icon"] = true,
+			["width"] = 40,
+			["regionType"] = "icon",
+			["frameStrata"] = 1,
+			["glowYOffset"] = 0,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "HUNTER",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+						["arena"] = true,
+						["pvp"] = true,
+						["none"] = true,
+					},
+				},
+				["use_size"] = false,
+				["talent"] = {
+					["single"] = 10,
+					["multi"] = {
+						[10] = true,
+						[16] = true,
+					},
+				},
+				["use_vehicle"] = false,
+				["spec"] = {
+					["single"] = 2,
+					["multi"] = {
+						true, -- [1]
+						true, -- [2]
+					},
+				},
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["use_spellknown"] = true,
+				["pvptalent"] = {
+					["single"] = 6,
+					["multi"] = {
+						[6] = true,
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["use_vehicleUi"] = false,
+				["use_combat"] = true,
+				["spellknown"] = 203155,
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["glowScale"] = 1,
+			["xOffset"] = 0,
+			["stickyDuration"] = false,
+			["zoom"] = 0.33,
+			["semver"] = "1.0.0",
+			["tocversion"] = 80200,
+			["id"] = "Sniper Shot - Active",
+			["glowLength"] = 10,
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["desaturate"] = false,
+			["config"] = {
+			},
+			["inverse"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["colorR"] = 1,
+					["scalex"] = 1,
+					["alphaType"] = "custom",
+					["colorB"] = 1,
+					["colorG"] = 1,
+					["alphaFunc"] = "function(progress, start, delta)\n    if WeakAuras.GetActiveConditions(aura_env.id,aura_env.cloneId)[1] then\n        local angle = (progress * 2 * math.pi) - (math.pi / 2)\n        return start + (((math.sin(angle) + 1)/2) * delta)\n    end\nend",
+					["use_alpha"] = true,
+					["type"] = "preset",
+					["easeType"] = "none",
+					["preset"] = "alphaPulse",
+					["alpha"] = 0.4,
+					["y"] = 0,
+					["x"] = 0,
+					["duration_type"] = "seconds",
+					["scaley"] = 1,
+					["rotate"] = 0,
+					["easeStrength"] = 3,
+					["duration"] = "0.7",
+					["colorA"] = 1,
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
+			["displayIcon"] = 1033905,
+			["cooldown"] = true,
+			["glowBorder"] = false,
+		},
 		["Aimed Shot 2.2"] = {
 			["sparkWidth"] = 10,
 			["modelIsUnit"] = false,
@@ -8979,37 +8386,37 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["use_track"] = true,
-						["unevent"] = "auto",
-						["power"] = "4",
+						["subeventPrefix"] = "SPELL",
+						["use_genericShowOn"] = true,
 						["use_absorbMode"] = true,
 						["genericShowOn"] = "showAlways",
-						["subeventPrefix"] = "SPELL",
-						["custom_hide"] = "custom",
+						["unit"] = "player",
+						["use_power"] = true,
 						["powertype"] = 7,
 						["events"] = "WA_SOUL_FRAG_UPDATE",
-						["use_genericShowOn"] = true,
-						["use_power"] = true,
 						["use_powertype"] = true,
+						["custom_hide"] = "custom",
+						["trackcharge"] = "2",
 						["use_trackcharge"] = true,
 						["spellName"] = 19434,
-						["debuffType"] = "HELPFUL",
-						["trackcharge"] = "2",
+						["custom_type"] = "event",
 						["type"] = "status",
 						["subeventSuffix"] = "_CAST_START",
+						["power"] = "4",
 						["power_operator"] = ">=",
-						["custom_type"] = "event",
+						["unevent"] = "auto",
 						["event"] = "Cooldown Progress (Spell)",
 						["use_percentpower"] = false,
 						["realSpellName"] = "Tiro Mirato",
 						["use_spellName"] = true,
 						["spellIds"] = {
 						},
+						["debuffType"] = "HELPFUL",
 						["duration"] = "1",
-						["use_unit"] = true,
-						["unit"] = "player",
+						["names"] = {
+						},
 						["percentpower"] = "10",
 						["percentpower_operator"] = ">",
 					},
@@ -9231,6 +8638,258 @@ WeakAurasSaved = {
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["model_z"] = 0,
 		},
+		["Steel Trap - Active"] = {
+			["glow"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["preferToUpdate"] = false,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["useGroup_count"] = true,
+						["use_totemName"] = true,
+						["genericShowOn"] = "showAlways",
+						["use_specific_unit"] = false,
+						["use_unit"] = true,
+						["names"] = {
+							"Vampiric Blood", -- [1]
+						},
+						["spellName"] = 162488,
+						["group_count"] = "1",
+						["unit"] = "multi",
+						["type"] = "aura2",
+						["group_countOperator"] = ">=",
+						["use_genericShowOn"] = true,
+						["useName"] = true,
+						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
+						["use_showOn"] = true,
+						["ownOnly"] = true,
+						["event"] = "Cooldown Progress (Spell)",
+						["totemName"] = "Darkglare",
+						["realSpellName"] = "Steel Trap",
+						["use_spellName"] = true,
+						["spellIds"] = {
+							55233, -- [1]
+						},
+						["debuffType"] = "HARMFUL",
+						["subeventPrefix"] = "SPELL",
+						["duration"] = "1",
+						["use_absorbMode"] = true,
+						["auranames"] = {
+							"162480", -- [1]
+						},
+					},
+					["untrigger"] = {
+						["showOn"] = "showAlways",
+						["spellName"] = 162488,
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["internalVersion"] = 33,
+			["keepAspectRatio"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["duration_type"] = "seconds",
+					["preset"] = "alphaPulse",
+					["easeStrength"] = 3,
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["parent"] = "Luxthos - Hunter Specifics",
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["icon"] = true,
+			["version"] = 1,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = " ",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
+					["text_fontSize"] = 13,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["glow"] = true,
+					["useGlowColor"] = false,
+					["glowScale"] = 1,
+					["glowLength"] = 10,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowType"] = "ACShine",
+					["type"] = "subglow",
+					["glowXOffset"] = 0,
+					["glowThickness"] = 4,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+			},
+			["height"] = 40,
+			["stickyDuration"] = false,
+			["load"] = {
+				["use_petbattle"] = false,
+				["class"] = {
+					["single"] = "HUNTER",
+					["multi"] = {
+					},
+				},
+				["use_talent"] = true,
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["multi"] = {
+					},
+				},
+				["talent"] = {
+					["single"] = 11,
+					["multi"] = {
+						[17] = true,
+						[20] = true,
+					},
+				},
+				["use_vehicle"] = false,
+				["spec"] = {
+					["single"] = 3,
+					["multi"] = {
+						true, -- [1]
+						true, -- [2]
+						true, -- [3]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["use_vehicleUi"] = false,
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["conditions"] = {
+			},
+			["glowFrequency"] = 0.25,
+			["url"] = "https://wago.io/8_blHXDbG/1",
+			["glowXOffset"] = 0,
+			["glowType"] = "buttonOverlay",
+			["glowThickness"] = 1,
+			["config"] = {
+			},
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
+			["glowYOffset"] = 0,
+			["regionType"] = "icon",
+			["alpha"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["authorOptions"] = {
+			},
+			["glowScale"] = 1,
+			["useglowColor"] = false,
+			["glowLength"] = 10,
+			["zoom"] = 0.33,
+			["semver"] = "1.0.0",
+			["tocversion"] = 80200,
+			["id"] = "Steel Trap - Active",
+			["xOffset"] = 0,
+			["frameStrata"] = 1,
+			["width"] = 40,
+			["selfPoint"] = "CENTER",
+			["uid"] = "YxjtcRaJg6t",
+			["inverse"] = false,
+			["glowLines"] = 8,
+			["displayIcon"] = 458718,
+			["cooldown"] = true,
+			["glowBorder"] = false,
+		},
 		["Double Tap - Active"] = {
 			["glow"] = false,
 			["authorOptions"] = {
@@ -9290,8 +8949,8 @@ WeakAurasSaved = {
 			["internalVersion"] = 33,
 			["glowXOffset"] = 0,
 			["selfPoint"] = "CENTER",
-			["useglowColor"] = false,
 			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.0",
 			["load"] = {
 				["use_petbattle"] = false,
 				["use_never"] = false,
@@ -9339,7 +8998,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -9349,7 +9008,7 @@ WeakAurasSaved = {
 						[4] = true,
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -9371,7 +9030,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["useglowColor"] = false,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -9427,23 +9086,23 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["glowLength"] = 10,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["glowLines"] = 8,
 			["conditions"] = {
 			},
 			["glowFrequency"] = 0.25,
-			["width"] = 40,
+			["glowLength"] = 10,
 			["keepAspectRatio"] = true,
 			["glowType"] = "buttonOverlay",
 			["glowThickness"] = 1,
 			["uid"] = "2BDcVLdkcmB",
 			["glowYOffset"] = 0,
-			["frameStrata"] = 1,
+			["width"] = 40,
 			["regionType"] = "icon",
+			["frameStrata"] = 1,
 			["icon"] = true,
 			["stickyDuration"] = false,
 			["glowScale"] = 1,
-			["semver"] = "1.0.0",
 			["xOffset"] = 0,
 			["animation"] = {
 				["start"] = {
@@ -9487,30 +9146,16 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["glowBorder"] = false,
 		},
-		["Luxthos - Hunter Resources"] = {
-			["controlledChildren"] = {
-				"Frenzy", -- [1]
-				"Brivido Della caccia", -- [2]
-				"Shrapnel Bomb - Active", -- [3]
-				"Volatile Bomb - Active", -- [4]
-				"Pheromone Bomb - Active", -- [5]
-				"Wildfire Bomb - Active", -- [6]
-				"Aimed Shot 2.2", -- [7]
-				"Aimed Shot 2.1", -- [8]
-			},
-			["borderBackdrop"] = "Blizzard Tooltip",
+		["Beast Cleave"] = {
+			["glow"] = false,
 			["authorOptions"] = {
 			},
 			["preferToUpdate"] = false,
-			["yOffset"] = -198.5095825195313,
-			["anchorPoint"] = "LEFT",
-			["borderColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
-			["url"] = "https://wago.io/orZdImv3r/1",
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["url"] = "https://wago.io/8_blHXDbG/1",
 			["actions"] = {
 				["start"] = {
 				},
@@ -9519,28 +9164,9 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["type"] = "aura",
-						["subeventSuffix"] = "_CAST_START",
-						["event"] = "Health",
-						["unit"] = "player",
-						["spellIds"] = {
-						},
-						["buffShowOn"] = "showOnActive",
-						["names"] = {
-						},
-						["subeventPrefix"] = "SPELL",
-						["debuffType"] = "HELPFUL",
-					},
-					["untrigger"] = {
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
+			["useglowColor"] = false,
 			["internalVersion"] = 33,
+			["keepAspectRatio"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -9561,18 +9187,133 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
+			["zoom"] = 0.33,
+			["semver"] = "1.0.0",
+			["parent"] = "Luxthos - Hunter Specifics",
+			["desaturate"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["xOffset"] = 0,
 			["version"] = 1,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = " ",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
+					["text_fontSize"] = 13,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["glow"] = false,
+					["useGlowColor"] = false,
+					["glowScale"] = 1,
+					["glowLength"] = 10,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowType"] = "buttonOverlay",
+					["type"] = "subglow",
+					["glowXOffset"] = 0,
+					["glowThickness"] = 4,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+			},
+			["height"] = 40,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["auranames"] = {
+							"118459", -- [1]
+						},
+						["use_totemName"] = true,
+						["use_unit"] = true,
+						["use_specific_unit"] = false,
+						["use_tooltip"] = false,
+						["ownOnly"] = true,
+						["names"] = {
+							"Beast Cleave", -- [1]
+						},
+						["matchesShowOn"] = "showAlways",
+						["debuffType"] = "HELPFUL",
+						["type"] = "aura2",
+						["spellName"] = 120360,
+						["unevent"] = "auto",
+						["useName"] = true,
+						["use_debuffClass"] = false,
+						["subeventSuffix"] = "_CAST_START",
+						["use_showOn"] = true,
+						["buffShowOn"] = "showOnActive",
+						["event"] = "Cooldown Progress (Spell)",
+						["totemName"] = "Darkglare",
+						["realSpellName"] = "Barrage",
+						["use_spellName"] = true,
+						["spellIds"] = {
+							118459, -- [1]
+						},
+						["unit"] = "player",
+						["subeventPrefix"] = "SPELL",
+						["combineMatches"] = "showLowest",
+						["use_absorbMode"] = true,
+						["useGroup_count"] = false,
+					},
+					["untrigger"] = {
+						["spellName"] = 120360,
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
 					},
 				},
-				["talent"] = {
+				["class"] = {
+					["single"] = "HUNTER",
 					["multi"] = {
 					},
 				},
-				["spec"] = {
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
 					["multi"] = {
 					},
 				},
@@ -9580,11 +9321,20 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["difficulty"] = {
+				["talent"] = {
+					["single"] = 20,
 					["multi"] = {
+						[20] = true,
 					},
 				},
-				["role"] = {
+				["use_vehicle"] = false,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+					},
+				},
+				["difficulty"] = {
 					["multi"] = {
 					},
 				},
@@ -9592,52 +9342,94 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
+				["use_vehicleUi"] = false,
 				["faction"] = {
 					["multi"] = {
 					},
 				},
+				["use_combat"] = true,
+				["use_petbattle"] = false,
 				["race"] = {
 					["multi"] = {
 					},
 				},
-				["use_class"] = "true",
-				["class"] = {
-					["single"] = "HUNTER",
-					["multi"] = {
-					},
-				},
-				["size"] = {
-					["multi"] = {
-					},
-				},
 			},
-			["backdropColor"] = {
+			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "buffed",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = true,
+							["property"] = "desaturate",
+						}, -- [1]
+						{
+							["value"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0.5, -- [4]
+							},
+							["property"] = "color",
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "buffed",
+						["value"] = 1,
+					},
+					["changes"] = {
+						{
+							["value"] = true,
+							["property"] = "sub.2.glow",
+						}, -- [1]
+						{
+							["value"] = "ACShine",
+							["property"] = "sub.2.glowType",
+						}, -- [2]
+					},
+				}, -- [2]
+			},
+			["glowFrequency"] = 0.25,
+			["selfPoint"] = "CENTER",
+			["icon"] = true,
+			["glowType"] = "buttonOverlay",
+			["glowThickness"] = 1,
+			["config"] = {
+			},
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
+			["glowYOffset"] = 0,
+			["regionType"] = "icon",
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
-				0.5, -- [4]
+				1, -- [4]
 			},
-			["scale"] = 1,
-			["border"] = false,
-			["anchorFrameFrame"] = "WeakAuras:Luxthos - Hunter Rotations",
-			["regionType"] = "group",
-			["borderSize"] = 16,
-			["anchorFrameParent"] = false,
-			["borderOffset"] = 5,
-			["semver"] = "1.0.0",
+			["glowScale"] = 1,
+			["glowLines"] = 8,
+			["glowXOffset"] = 0,
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
 			["tocversion"] = 80200,
-			["id"] = "Luxthos - Hunter Resources",
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SELECTFRAME",
-			["selfPoint"] = "BOTTOMLEFT",
-			["uid"] = "zzhHyIj5x5t",
-			["xOffset"] = 1014.922607421875,
-			["borderInset"] = 11,
-			["conditions"] = {
-			},
-			["config"] = {
-			},
-			["borderEdge"] = "None",
+			["id"] = "Beast Cleave",
+			["glowLength"] = 10,
+			["alpha"] = 1,
+			["width"] = 40,
+			["stickyDuration"] = false,
+			["uid"] = "gM(DZ7grUuw",
+			["inverse"] = false,
+			["cooldownEdge"] = false,
+			["displayIcon"] = 458718,
+			["cooldown"] = true,
+			["glowBorder"] = false,
 		},
 		["Frenzy"] = {
 			["sparkWidth"] = 10,
@@ -10011,9 +9803,9 @@ WeakAurasSaved = {
 					["do_custom"] = false,
 				},
 				["finish"] = {
-					["custom"] = "aura_env.region:SetFrameStrata(\"BACKGROUND\")",
 					["do_custom"] = false,
 					["do_message"] = false,
+					["custom"] = "aura_env.region:SetFrameStrata(\"BACKGROUND\")",
 				},
 				["init"] = {
 					["custom"] = "",
@@ -10359,6 +10151,275 @@ WeakAurasSaved = {
 			["startAngle"] = 0,
 			["slanted"] = false,
 		},
+		["Dire Beast: Hawk - Active"] = {
+			["glow"] = false,
+			["glowLength"] = 10,
+			["preferToUpdate"] = false,
+			["yOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["cooldownSwipe"] = true,
+			["customTextUpdate"] = "update",
+			["cooldownEdge"] = false,
+			["icon"] = true,
+			["useglowColor"] = false,
+			["internalVersion"] = 33,
+			["keepAspectRatio"] = true,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+				["main"] = {
+					["type"] = "preset",
+					["easeType"] = "none",
+					["preset"] = "alphaPulse",
+					["duration_type"] = "seconds",
+					["easeStrength"] = 3,
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+					["easeStrength"] = 3,
+					["easeType"] = "none",
+				},
+			},
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.0",
+			["glowLines"] = 8,
+			["stickyDuration"] = false,
+			["glowColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["parent"] = "Luxthos - Hunter Specifics",
+			["version"] = 1,
+			["subRegions"] = {
+				{
+					["text_shadowXOffset"] = 0,
+					["text_text"] = " ",
+					["text_shadowColor"] = {
+						0, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["text_selfPoint"] = "AUTO",
+					["text_automaticWidth"] = "Auto",
+					["text_fixedWidth"] = 64,
+					["anchorYOffset"] = 0,
+					["text_justify"] = "CENTER",
+					["rotateText"] = "NONE",
+					["type"] = "subtext",
+					["text_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["text_font"] = "Friz Quadrata TT",
+					["text_shadowYOffset"] = 0,
+					["text_wordWrap"] = "WordWrap",
+					["text_visible"] = true,
+					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
+					["text_fontSize"] = 13,
+					["anchorXOffset"] = 0,
+					["text_fontType"] = "OUTLINE",
+				}, -- [1]
+				{
+					["glowFrequency"] = 0.25,
+					["glow"] = true,
+					["useGlowColor"] = false,
+					["glowScale"] = 1,
+					["glowLength"] = 10,
+					["glowYOffset"] = 0,
+					["glowColor"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						1, -- [4]
+					},
+					["glowType"] = "ACShine",
+					["type"] = "subglow",
+					["glowXOffset"] = 0,
+					["glowThickness"] = 4,
+					["glowLines"] = 8,
+					["glowBorder"] = false,
+				}, -- [2]
+			},
+			["height"] = 40,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["spellId"] = "208652",
+						["ownOnly"] = true,
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showAlways",
+						["unit"] = "player",
+						["use_totemName"] = true,
+						["use_absorbMode"] = true,
+						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
+						["duration"] = "10",
+						["use_spellName"] = false,
+						["debuffType"] = "HELPFUL",
+						["spellName"] = 208652,
+						["subeventSuffix"] = "_CAST_SUCCESS",
+						["type"] = "event",
+						["unevent"] = "timed",
+						["custom_type"] = "event",
+						["use_showOn"] = true,
+						["custom_hide"] = "timed",
+						["event"] = "Combat Log",
+						["totemName"] = "Darkglare",
+						["realSpellName"] = "Dire Beast: Hawk",
+						["use_spellId"] = true,
+						["spellIds"] = {
+							55233, -- [1]
+						},
+						["use_sourceUnit"] = true,
+						["check"] = "event",
+						["use_specific_unit"] = false,
+						["sourceUnit"] = "player",
+						["names"] = {
+							"Vampiric Blood", -- [1]
+						},
+					},
+					["untrigger"] = {
+						["showOn"] = "showAlways",
+						["spellName"] = 120360,
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
+			["load"] = {
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["class"] = {
+					["single"] = "HUNTER",
+					["multi"] = {
+					},
+				},
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+						["arena"] = true,
+						["pvp"] = true,
+						["none"] = true,
+					},
+				},
+				["talent2"] = {
+					["single"] = 12,
+					["multi"] = {
+						true, -- [1]
+						true, -- [2]
+						[12] = true,
+					},
+				},
+				["use_petbattle"] = false,
+				["talent"] = {
+					["single"] = 17,
+					["multi"] = {
+						[17] = true,
+						[20] = true,
+					},
+				},
+				["use_vehicle"] = false,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+						true, -- [2]
+					},
+				},
+				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["single"] = 5,
+					["multi"] = {
+						[5] = true,
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["use_spellknown"] = true,
+				["talent3"] = {
+					["single"] = 12,
+					["multi"] = {
+						[5] = true,
+						[4] = true,
+					},
+				},
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["spellknown"] = 208652,
+				["use_size"] = false,
+			},
+			["conditions"] = {
+			},
+			["glowFrequency"] = 0.25,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["url"] = "https://wago.io/8_blHXDbG/1",
+			["glowType"] = "buttonOverlay",
+			["glowThickness"] = 1,
+			["config"] = {
+			},
+			["anchorFrameType"] = "SCREEN",
+			["glowYOffset"] = 0,
+			["regionType"] = "icon",
+			["frameStrata"] = 1,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["desaturate"] = false,
+			["glowScale"] = 1,
+			["selfPoint"] = "CENTER",
+			["glowXOffset"] = 0,
+			["zoom"] = 0.33,
+			["auto"] = false,
+			["tocversion"] = 80200,
+			["id"] = "Dire Beast: Hawk - Active",
+			["xOffset"] = 0,
+			["alpha"] = 1,
+			["width"] = 40,
+			["authorOptions"] = {
+			},
+			["uid"] = "HvYPZOsSIpC",
+			["inverse"] = false,
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
+			["displayIcon"] = 612363,
+			["cooldown"] = true,
+			["glowBorder"] = false,
+		},
 		["Hi-Explosive Trap"] = {
 			["glow"] = false,
 			["xOffset"] = 0,
@@ -10379,23 +10440,25 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["spellName"] = 236776,
-						["useGroup_count"] = false,
-						["subeventPrefix"] = "SPELL",
-						["use_genericShowOn"] = true,
-						["genericShowOn"] = "showAlways",
 						["names"] = {
 							"A Murder of Crows", -- [1]
 						},
+						["auranames"] = {
+							"268552", -- [1]
+						},
+						["use_genericShowOn"] = true,
 						["use_totemName"] = true,
-						["use_tooltip"] = false,
-						["unevent"] = "auto",
+						["genericShowOn"] = "showAlways",
+						["subeventPrefix"] = "SPELL",
 						["use_unit"] = true,
+						["use_tooltip"] = false,
 						["use_specific_unit"] = false,
 						["unit"] = "player",
 						["use_absorbMode"] = true,
-						["buffShowOn"] = "showOnActive",
+						["spellName"] = 236776,
 						["type"] = "status",
+						["buffShowOn"] = "showOnActive",
+						["unevent"] = "auto",
 						["useName"] = true,
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -10412,9 +10475,7 @@ WeakAurasSaved = {
 						["matchesShowOn"] = "showOnActive",
 						["combineMatches"] = "showLowest",
 						["use_track"] = true,
-						["auranames"] = {
-							"268552", -- [1]
-						},
+						["useGroup_count"] = false,
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -10429,8 +10490,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["subeventPrefix"] = "SPELL",
 						["check"] = "event",
 						["duration"] = "1",
@@ -10829,37 +10890,37 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["use_unit"] = true,
-						["use_track"] = true,
-						["unevent"] = "auto",
-						["custom_type"] = "event",
 						["use_absorbMode"] = true,
-						["genericShowOn"] = "showAlways",
+						["use_track"] = true,
 						["unit"] = "player",
-						["debuffType"] = "HELPFUL",
+						["use_genericShowOn"] = true,
+						["duration"] = "1",
+						["genericShowOn"] = "showAlways",
+						["names"] = {
+						},
+						["subeventPrefix"] = "SPELL",
 						["powertype"] = 7,
 						["spellIds"] = {
 						},
-						["use_genericShowOn"] = true,
-						["subeventPrefix"] = "SPELL",
 						["use_powertype"] = true,
+						["debuffType"] = "HELPFUL",
+						["type"] = "status",
 						["use_trackcharge"] = true,
 						["custom_hide"] = "custom",
-						["spellName"] = 19434,
-						["type"] = "status",
+						["power"] = "2",
 						["trackcharge"] = "1",
 						["subeventSuffix"] = "_CAST_START",
+						["custom_type"] = "event",
 						["power_operator"] = ">=",
-						["power"] = "2",
+						["unevent"] = "auto",
 						["event"] = "Cooldown Progress (Spell)",
 						["use_percentpower"] = false,
 						["realSpellName"] = "Tiro Mirato",
 						["use_spellName"] = true,
 						["events"] = "WA_SOUL_FRAG_UPDATE",
+						["spellName"] = 19434,
 						["use_power"] = true,
-						["duration"] = "1",
-						["names"] = {
-						},
+						["use_unit"] = true,
 						["percentpower"] = "10",
 						["percentpower_operator"] = ">",
 					},
@@ -11081,17 +11142,80 @@ WeakAurasSaved = {
 			},
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 		},
-		["Dire Beast: Hawk - Active"] = {
+		["Barrage (Beast Mastery) 2"] = {
 			["glow"] = false,
-			["glowLength"] = 10,
+			["authorOptions"] = {
+				{
+					["type"] = "toggle",
+					["key"] = "glow",
+					["width"] = 1,
+					["name"] = "Glow - Barrage",
+					["useDesc"] = true,
+					["default"] = false,
+					["desc"] = "By toggling this option you will enable glow functionality for this cooldown.",
+				}, -- [1]
+			},
 			["preferToUpdate"] = false,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
 			["cooldownSwipe"] = true,
 			["customTextUpdate"] = "update",
-			["cooldownEdge"] = false,
+			["cooldownEdge"] = true,
 			["icon"] = true,
-			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["duration"] = "1",
+						["genericShowOn"] = "showAlways",
+						["subeventPrefix"] = "SPELL",
+						["use_showgcd"] = true,
+						["debuffType"] = "HELPFUL",
+						["type"] = "status",
+						["names"] = {
+						},
+						["subeventSuffix"] = "_CAST_START",
+						["use_showOn"] = true,
+						["spellName"] = 120360,
+						["event"] = "Cooldown Progress (Spell)",
+						["use_genericShowOn"] = true,
+						["realSpellName"] = "Sbarramento",
+						["use_spellName"] = true,
+						["spellIds"] = {
+						},
+						["unevent"] = "auto",
+						["use_unit"] = true,
+						["unit"] = "player",
+						["use_track"] = true,
+						["use_absorbMode"] = true,
+					},
+					["untrigger"] = {
+						["showOn"] = "showAlways",
+						["spellName"] = 120679,
+					},
+				}, -- [1]
+				{
+					["trigger"] = {
+						["type"] = "custom",
+						["subeventSuffix"] = "_CAST_START",
+						["use_absorbMode"] = true,
+						["event"] = "Health",
+						["use_unit"] = true,
+						["unevent"] = "auto",
+						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
+						["subeventPrefix"] = "SPELL",
+						["check"] = "event",
+						["duration"] = "1",
+						["custom_type"] = "status",
+						["unit"] = "player",
+					},
+					["untrigger"] = {
+					},
+				}, -- [2]
+				["disjunctive"] = "any",
+				["customTriggerLogic"] = "function(t)\n    if t[1] and t[2] then\n        return t[1]\n    end\nend",
+				["activeTriggerMode"] = 1,
+			},
 			["internalVersion"] = 33,
 			["keepAspectRatio"] = true,
 			["animation"] = {
@@ -11102,11 +11226,10 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 				["main"] = {
-					["type"] = "preset",
-					["easeType"] = "none",
-					["preset"] = "alphaPulse",
 					["duration_type"] = "seconds",
+					["type"] = "none",
 					["easeStrength"] = 3,
+					["easeType"] = "none",
 				},
 				["finish"] = {
 					["duration_type"] = "seconds",
@@ -11115,17 +11238,86 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["cooldownTextDisabled"] = false,
-			["semver"] = "1.0.0",
-			["glowLines"] = 8,
-			["stickyDuration"] = false,
+			["zoom"] = 0.33,
+			["auto"] = true,
+			["load"] = {
+				["use_petbattle"] = false,
+				["use_never"] = false,
+				["class"] = {
+					["single"] = "HUNTER",
+					["multi"] = {
+					},
+				},
+				["use_talent"] = true,
+				["use_class"] = true,
+				["role"] = {
+					["multi"] = {
+					},
+				},
+				["use_spec"] = true,
+				["size"] = {
+					["multi"] = {
+					},
+				},
+				["talent2"] = {
+					["single"] = 12,
+					["multi"] = {
+						[3] = true,
+						[6] = true,
+						[12] = true,
+					},
+				},
+				["talent"] = {
+					["single"] = 17,
+					["multi"] = {
+						true, -- [1]
+						true, -- [2]
+					},
+				},
+				["use_vehicle"] = false,
+				["spec"] = {
+					["single"] = 1,
+					["multi"] = {
+						true, -- [1]
+						true, -- [2]
+					},
+				},
+				["difficulty"] = {
+					["multi"] = {
+					},
+				},
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
+				["talent3"] = {
+					["multi"] = {
+						[12] = true,
+					},
+				},
+				["use_vehicleUi"] = false,
+				["faction"] = {
+					["multi"] = {
+					},
+				},
+				["use_combat"] = true,
+				["ingroup"] = {
+					["multi"] = {
+					},
+				},
+				["race"] = {
+					["multi"] = {
+					},
+				},
+			},
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
 			["glowColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["url"] = "https://wago.io/8_blHXDbG/1",
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -11161,7 +11353,7 @@ WeakAurasSaved = {
 				}, -- [1]
 				{
 					["glowFrequency"] = 0.25,
-					["glow"] = true,
+					["glow"] = false,
 					["useGlowColor"] = false,
 					["glowScale"] = 1,
 					["glowLength"] = 10,
@@ -11172,142 +11364,102 @@ WeakAurasSaved = {
 						1, -- [3]
 						1, -- [4]
 					},
-					["glowType"] = "ACShine",
-					["type"] = "subglow",
 					["glowXOffset"] = 0,
-					["glowThickness"] = 4,
+					["type"] = "subglow",
+					["glowType"] = "buttonOverlay",
+					["glowThickness"] = 1,
 					["glowLines"] = 8,
 					["glowBorder"] = false,
 				}, -- [2]
 			},
 			["height"] = 40,
-			["triggers"] = {
+			["parent"] = "Luxthos - Hunter Specifics",
+			["glowLines"] = 8,
+			["conditions"] = {
 				{
-					["trigger"] = {
-						["spellId"] = "208652",
-						["use_spellName"] = false,
-						["use_genericShowOn"] = true,
-						["genericShowOn"] = "showAlways",
-						["names"] = {
-							"Vampiric Blood", -- [1]
-						},
-						["ownOnly"] = true,
-						["unevent"] = "timed",
-						["use_totemName"] = true,
-						["use_absorbMode"] = true,
-						["use_unit"] = true,
-						["debuffType"] = "HELPFUL",
-						["subeventPrefix"] = "SPELL",
-						["spellName"] = 208652,
-						["duration"] = "10",
-						["type"] = "event",
-						["custom_type"] = "event",
-						["subeventSuffix"] = "_CAST_SUCCESS",
-						["use_showOn"] = true,
-						["custom_hide"] = "timed",
-						["event"] = "Combat Log",
-						["totemName"] = "Darkglare",
-						["realSpellName"] = "Dire Beast: Hawk",
-						["use_spellId"] = true,
-						["spellIds"] = {
-							55233, -- [1]
-						},
-						["use_sourceUnit"] = true,
-						["check"] = "event",
-						["use_specific_unit"] = false,
-						["sourceUnit"] = "player",
-						["unit"] = "player",
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "onCooldown",
+						["value"] = 1,
 					},
-					["untrigger"] = {
-						["showOn"] = "showAlways",
-						["spellName"] = 120360,
+					["changes"] = {
+						{
+							["value"] = true,
+							["property"] = "desaturate",
+						}, -- [1]
+						{
+							["property"] = "sub.2.glow",
+						}, -- [2]
 					},
 				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
-			["load"] = {
-				["ingroup"] = {
-					["multi"] = {
+				{
+					["check"] = {
+						["trigger"] = -2,
+						["variable"] = "AND",
+						["checks"] = {
+							{
+								["trigger"] = 1,
+								["variable"] = "onCooldown",
+								["value"] = 0,
+							}, -- [1]
+							{
+								["trigger"] = 2,
+								["variable"] = "show",
+								["value"] = 1,
+							}, -- [2]
+						},
 					},
-				},
-				["class"] = {
-					["single"] = "HUNTER",
-					["multi"] = {
+					["changes"] = {
+						{
+							["value"] = true,
+							["property"] = "sub.2.glow",
+						}, -- [1]
 					},
-				},
-				["use_class"] = true,
-				["role"] = {
-					["multi"] = {
+				}, -- [2]
+				{
+					["check"] = {
+						["trigger"] = 1,
+						["variable"] = "insufficientResources",
+						["value"] = 1,
 					},
-				},
-				["use_spec"] = true,
-				["size"] = {
-					["multi"] = {
-						["arena"] = true,
-						["pvp"] = true,
-						["none"] = true,
+					["changes"] = {
+						{
+							["value"] = true,
+							["property"] = "desaturate",
+						}, -- [1]
+						{
+							["value"] = {
+								0.31764705882353, -- [1]
+								0.40392156862745, -- [2]
+								0.78039215686274, -- [3]
+								1, -- [4]
+							},
+							["property"] = "color",
+						}, -- [2]
 					},
-				},
-				["talent2"] = {
-					["single"] = 12,
-					["multi"] = {
-						true, -- [1]
-						true, -- [2]
-						[12] = true,
-					},
-				},
-				["use_petbattle"] = false,
-				["talent"] = {
-					["single"] = 17,
-					["multi"] = {
-						[17] = true,
-						[20] = true,
-					},
-				},
-				["use_vehicle"] = false,
-				["spec"] = {
-					["single"] = 1,
-					["multi"] = {
-						true, -- [1]
-						true, -- [2]
-					},
-				},
-				["pvptalent"] = {
-					["single"] = 5,
-					["multi"] = {
-						[5] = true,
-					},
-				},
-				["faction"] = {
-					["multi"] = {
-					},
-				},
-				["difficulty"] = {
-					["multi"] = {
-					},
-				},
-				["use_spellknown"] = true,
-				["talent3"] = {
-					["single"] = 12,
-					["multi"] = {
-						[5] = true,
-						[4] = true,
-					},
-				},
-				["use_vehicleUi"] = false,
-				["race"] = {
-					["multi"] = {
-					},
-				},
-				["use_combat"] = true,
-				["spellknown"] = 208652,
-				["use_size"] = false,
-			},
-			["conditions"] = {
+				}, -- [3]
 			},
 			["glowFrequency"] = 0.25,
-			["glowYOffset"] = 0,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["glowXOffset"] = 0,
+			["glowType"] = "buttonOverlay",
+			["glowThickness"] = 1,
+			["config"] = {
+				["glow"] = false,
+			},
+			["anchorFrameType"] = "SCREEN",
+			["width"] = 40,
+			["regionType"] = "icon",
+			["alpha"] = 1,
+			["useglowColor"] = false,
+			["selfPoint"] = "CENTER",
+			["glowScale"] = 1,
+			["glowLength"] = 10,
 			["actions"] = {
 				["start"] = {
 				},
@@ -11316,37 +11468,18 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["glowType"] = "buttonOverlay",
-			["glowThickness"] = 1,
-			["config"] = {
-			},
-			["url"] = "https://wago.io/8_blHXDbG/1",
-			["anchorFrameType"] = "SCREEN",
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["desaturate"] = false,
-			["glowScale"] = 1,
-			["selfPoint"] = "CENTER",
-			["glowXOffset"] = 0,
-			["zoom"] = 0.33,
-			["auto"] = false,
+			["cooldownTextDisabled"] = false,
+			["semver"] = "1.0.0",
 			["tocversion"] = 80200,
-			["id"] = "Dire Beast: Hawk - Active",
+			["id"] = "Barrage (Beast Mastery) 2",
+			["stickyDuration"] = false,
+			["frameStrata"] = 1,
+			["glowYOffset"] = 0,
 			["xOffset"] = 0,
-			["alpha"] = 1,
-			["width"] = 40,
-			["authorOptions"] = {
-			},
-			["uid"] = "HvYPZOsSIpC",
-			["inverse"] = false,
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
-			["displayIcon"] = 612363,
+			["uid"] = "Eu0PMCA78dn",
+			["inverse"] = true,
+			["desaturate"] = false,
+			["displayIcon"] = 132176,
 			["cooldown"] = true,
 			["glowBorder"] = false,
 		},
@@ -11363,25 +11496,23 @@ WeakAurasSaved = {
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["buffShowOn"] = "showOnActive",
-						["auranames"] = {
-							"268552", -- [1]
-						},
-						["use_unit"] = true,
-						["matchesShowOn"] = "showOnActive",
-						["genericShowOn"] = "showAlways",
 						["subeventPrefix"] = "SPELL",
+						["useGroup_count"] = false,
+						["matchesShowOn"] = "showOnActive",
 						["use_absorbMode"] = true,
-						["use_tooltip"] = false,
-						["unevent"] = "auto",
+						["genericShowOn"] = "showAlways",
+						["use_unit"] = true,
 						["use_specific_unit"] = false,
+						["use_tooltip"] = false,
 						["names"] = {
 							"A Murder of Crows", -- [1]
 						},
 						["unit"] = "player",
 						["use_totemName"] = true,
-						["spellName"] = 202914,
+						["buffShowOn"] = "showOnActive",
 						["useName"] = true,
+						["spellName"] = 202914,
+						["unevent"] = "auto",
 						["type"] = "status",
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
@@ -11398,7 +11529,9 @@ WeakAurasSaved = {
 						["use_genericShowOn"] = true,
 						["combineMatches"] = "showLowest",
 						["use_track"] = true,
-						["useGroup_count"] = false,
+						["auranames"] = {
+							"268552", -- [1]
+						},
 					},
 					["untrigger"] = {
 						["genericShowOn"] = "showAlways",
@@ -11465,7 +11598,7 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["auto"] = true,
-			["glowXOffset"] = 0,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desaturate"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -11473,7 +11606,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["url"] = "https://wago.io/8_blHXDbG/1",
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -11529,7 +11662,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["url"] = "https://wago.io/8_blHXDbG/1",
+			["glowXOffset"] = 0,
 			["load"] = {
 				["use_petbattle"] = false,
 				["class"] = {
@@ -11762,14 +11895,14 @@ WeakAurasSaved = {
 						["use_specific_unit"] = false,
 						["unit"] = "player",
 						["use_tooltip"] = false,
-						["unevent"] = "auto",
 						["use_unit"] = true,
-						["type"] = "aura2",
 						["subeventPrefix"] = "SPELL",
 						["useName"] = true,
-						["buffShowOn"] = "showAlways",
-						["charges_operator"] = ">",
 						["charges"] = "0",
+						["unevent"] = "auto",
+						["debuffType"] = "HELPFUL",
+						["charges_operator"] = ">",
+						["type"] = "aura2",
 						["use_debuffClass"] = false,
 						["subeventSuffix"] = "_CAST_START",
 						["use_showOn"] = true,
@@ -11783,7 +11916,7 @@ WeakAurasSaved = {
 						["spellIds"] = {
 							269576, -- [1]
 						},
-						["debuffType"] = "HELPFUL",
+						["buffShowOn"] = "showAlways",
 						["use_charges"] = false,
 						["combineMatches"] = "showLowest",
 						["use_absorbMode"] = true,
@@ -11825,8 +11958,8 @@ WeakAurasSaved = {
 					["x"] = 0,
 					["colorA"] = 1,
 					["duration"] = "0.7",
-					["easeStrength"] = 3,
 					["rotate"] = 0,
+					["easeStrength"] = 3,
 					["duration_type"] = "seconds",
 				},
 				["finish"] = {
@@ -11838,7 +11971,7 @@ WeakAurasSaved = {
 			},
 			["cooldownTextDisabled"] = true,
 			["auto"] = true,
-			["useglowColor"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
 			["glowColor"] = {
 				1, -- [1]
@@ -11846,7 +11979,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["cooldownEdge"] = false,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -11903,7 +12036,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["cooldownEdge"] = false,
+			["useglowColor"] = false,
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -11964,8 +12097,8 @@ WeakAurasSaved = {
 			["glowThickness"] = 1,
 			["config"] = {
 			},
-			["width"] = 40,
 			["glowYOffset"] = 0,
+			["width"] = 40,
 			["regionType"] = "icon",
 			["alpha"] = 1,
 			["authorOptions"] = {
@@ -12014,21 +12147,21 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
-					["multi"] = {
-					},
-				},
 				["faction"] = {
 					["multi"] = {
 					},
 				},
+				["use_vehicleUi"] = false,
 				["use_petbattle"] = false,
 				["use_combat"] = true,
 				["race"] = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 			},
 			["glowScale"] = 1,
 			["glowLength"] = 10,
@@ -12048,16 +12181,30 @@ WeakAurasSaved = {
 			["cooldown"] = true,
 			["glowBorder"] = false,
 		},
-		["Beast Cleave"] = {
-			["glow"] = false,
+		["Luxthos - Hunter Resources"] = {
+			["controlledChildren"] = {
+				"Frenzy", -- [1]
+				"Brivido Della caccia", -- [2]
+				"Shrapnel Bomb - Active", -- [3]
+				"Volatile Bomb - Active", -- [4]
+				"Pheromone Bomb - Active", -- [5]
+				"Wildfire Bomb - Active", -- [6]
+				"Aimed Shot 2.2", -- [7]
+				"Aimed Shot 2.1", -- [8]
+			},
+			["borderBackdrop"] = "Blizzard Tooltip",
 			["authorOptions"] = {
 			},
 			["preferToUpdate"] = false,
-			["yOffset"] = 0,
-			["anchorPoint"] = "CENTER",
-			["cooldownSwipe"] = true,
-			["customTextUpdate"] = "update",
-			["url"] = "https://wago.io/8_blHXDbG/1",
+			["yOffset"] = -198.5095825195313,
+			["anchorPoint"] = "LEFT",
+			["borderColor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["url"] = "https://wago.io/orZdImv3r/1",
 			["actions"] = {
 				["start"] = {
 				},
@@ -12066,9 +12213,28 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["useglowColor"] = false,
+			["triggers"] = {
+				{
+					["trigger"] = {
+						["type"] = "aura",
+						["subeventSuffix"] = "_CAST_START",
+						["event"] = "Health",
+						["unit"] = "player",
+						["spellIds"] = {
+						},
+						["buffShowOn"] = "showOnActive",
+						["names"] = {
+						},
+						["subeventPrefix"] = "SPELL",
+						["debuffType"] = "HELPFUL",
+					},
+					["untrigger"] = {
+					},
+				}, -- [1]
+				["disjunctive"] = "all",
+				["activeTriggerMode"] = -10,
+			},
 			["internalVersion"] = 33,
-			["keepAspectRatio"] = true,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -12089,133 +12255,18 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["zoom"] = 0.33,
-			["semver"] = "1.0.0",
-			["triggers"] = {
-				{
-					["trigger"] = {
-						["auranames"] = {
-							"118459", -- [1]
-						},
-						["use_totemName"] = true,
-						["use_unit"] = true,
-						["unevent"] = "auto",
-						["use_tooltip"] = false,
-						["spellName"] = 120360,
-						["use_specific_unit"] = false,
-						["ownOnly"] = true,
-						["names"] = {
-							"Beast Cleave", -- [1]
-						},
-						["matchesShowOn"] = "showAlways",
-						["debuffType"] = "HELPFUL",
-						["type"] = "aura2",
-						["useName"] = true,
-						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
-						["use_showOn"] = true,
-						["buffShowOn"] = "showOnActive",
-						["event"] = "Cooldown Progress (Spell)",
-						["totemName"] = "Darkglare",
-						["realSpellName"] = "Barrage",
-						["use_spellName"] = true,
-						["spellIds"] = {
-							118459, -- [1]
-						},
-						["unit"] = "player",
-						["subeventPrefix"] = "SPELL",
-						["combineMatches"] = "showLowest",
-						["use_absorbMode"] = true,
-						["useGroup_count"] = false,
-					},
-					["untrigger"] = {
-						["spellName"] = 120360,
-					},
-				}, -- [1]
-				["disjunctive"] = "all",
-				["activeTriggerMode"] = -10,
-			},
-			["desaturate"] = false,
-			["glowColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
 			["version"] = 1,
-			["subRegions"] = {
-				{
-					["text_shadowXOffset"] = 0,
-					["text_text"] = " ",
-					["text_shadowColor"] = {
-						0, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["text_selfPoint"] = "AUTO",
-					["text_automaticWidth"] = "Auto",
-					["text_fixedWidth"] = 64,
-					["anchorYOffset"] = 0,
-					["text_justify"] = "CENTER",
-					["rotateText"] = "NONE",
-					["type"] = "subtext",
-					["text_color"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["text_font"] = "Friz Quadrata TT",
-					["text_shadowYOffset"] = 0,
-					["text_wordWrap"] = "WordWrap",
-					["text_visible"] = true,
-					["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
-					["text_fontSize"] = 13,
-					["anchorXOffset"] = 0,
-					["text_fontType"] = "OUTLINE",
-				}, -- [1]
-				{
-					["glowFrequency"] = 0.25,
-					["glow"] = false,
-					["useGlowColor"] = false,
-					["glowScale"] = 1,
-					["glowLength"] = 10,
-					["glowYOffset"] = 0,
-					["glowColor"] = {
-						1, -- [1]
-						1, -- [2]
-						1, -- [3]
-						1, -- [4]
-					},
-					["glowType"] = "buttonOverlay",
-					["type"] = "subglow",
-					["glowXOffset"] = 0,
-					["glowThickness"] = 4,
-					["glowLines"] = 8,
-					["glowBorder"] = false,
-				}, -- [2]
-			},
-			["height"] = 40,
-			["xOffset"] = 0,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
 					},
 				},
-				["class"] = {
-					["single"] = "HUNTER",
+				["talent"] = {
 					["multi"] = {
 					},
 				},
-				["use_class"] = true,
-				["role"] = {
-					["multi"] = {
-					},
-				},
-				["use_spec"] = true,
-				["size"] = {
+				["spec"] = {
 					["multi"] = {
 					},
 				},
@@ -12223,25 +12274,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["talent"] = {
-					["single"] = 20,
-					["multi"] = {
-						[20] = true,
-					},
-				},
-				["use_vehicle"] = false,
-				["spec"] = {
-					["single"] = 1,
-					["multi"] = {
-						true, -- [1]
-					},
-				},
 				["difficulty"] = {
 					["multi"] = {
 					},
 				},
-				["use_vehicleUi"] = false,
-				["pvptalent"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -12249,89 +12286,52 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["use_combat"] = true,
-				["use_petbattle"] = false,
+				["pvptalent"] = {
+					["multi"] = {
+					},
+				},
 				["race"] = {
 					["multi"] = {
 					},
 				},
+				["use_class"] = "true",
+				["class"] = {
+					["single"] = "HUNTER",
+					["multi"] = {
+					},
+				},
+				["size"] = {
+					["multi"] = {
+					},
+				},
 			},
-			["conditions"] = {
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["variable"] = "buffed",
-						["value"] = 0,
-					},
-					["changes"] = {
-						{
-							["value"] = true,
-							["property"] = "desaturate",
-						}, -- [1]
-						{
-							["value"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								0.5, -- [4]
-							},
-							["property"] = "color",
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["check"] = {
-						["trigger"] = 1,
-						["variable"] = "buffed",
-						["value"] = 1,
-					},
-					["changes"] = {
-						{
-							["value"] = true,
-							["property"] = "sub.2.glow",
-						}, -- [1]
-						{
-							["value"] = "ACShine",
-							["property"] = "sub.2.glowType",
-						}, -- [2]
-					},
-				}, -- [2]
-			},
-			["glowFrequency"] = 0.25,
-			["selfPoint"] = "CENTER",
-			["icon"] = true,
-			["glowType"] = "buttonOverlay",
-			["glowThickness"] = 1,
-			["config"] = {
-			},
-			["desc"] = "Created by Luxthos\nhttps://www.twitch.tv/luxthos",
-			["glowYOffset"] = 0,
-			["regionType"] = "icon",
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
-			["color"] = {
+			["backdropColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
-				1, -- [4]
+				0.5, -- [4]
 			},
-			["glowScale"] = 1,
-			["glowLines"] = 8,
-			["glowXOffset"] = 0,
-			["cooldownTextDisabled"] = false,
-			["auto"] = true,
+			["scale"] = 1,
+			["border"] = false,
+			["anchorFrameFrame"] = "WeakAuras:Luxthos - Hunter Rotations",
+			["regionType"] = "group",
+			["borderSize"] = 16,
+			["anchorFrameParent"] = false,
+			["borderOffset"] = 5,
+			["semver"] = "1.0.0",
 			["tocversion"] = 80200,
-			["id"] = "Beast Cleave",
-			["glowLength"] = 10,
-			["alpha"] = 1,
-			["width"] = 40,
-			["stickyDuration"] = false,
-			["uid"] = "gM(DZ7grUuw",
-			["inverse"] = false,
-			["cooldownEdge"] = false,
-			["displayIcon"] = 458718,
-			["cooldown"] = true,
-			["glowBorder"] = false,
+			["id"] = "Luxthos - Hunter Resources",
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SELECTFRAME",
+			["config"] = {
+			},
+			["borderInset"] = 11,
+			["selfPoint"] = "BOTTOMLEFT",
+			["xOffset"] = 1014.922607421875,
+			["conditions"] = {
+			},
+			["borderEdge"] = "None",
+			["uid"] = "zzhHyIj5x5t",
 		},
 		["Volatile Bomb - Active"] = {
 			["sparkWidth"] = 10,
@@ -12737,8 +12737,8 @@ WeakAurasSaved = {
 					["x"] = 0,
 					["colorA"] = 1,
 					["scalex"] = 1,
-					["easeStrength"] = 3,
 					["rotate"] = 0,
+					["easeStrength"] = 3,
 					["duration_type"] = "seconds",
 				},
 				["finish"] = {
@@ -12748,8 +12748,8 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["cooldownEdge"] = true,
 			["zoom"] = 0.33,
+			["auto"] = true,
 			["load"] = {
 				["use_petbattle"] = false,
 				["use_never"] = false,
@@ -12825,7 +12825,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["cooldownEdge"] = true,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -12882,7 +12882,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["selfPoint"] = "CENTER",
+			["parent"] = "Luxthos - Hunter Specifics",
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -12971,48 +12971,48 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["glowFrequency"] = 0.25,
-			["width"] = 40,
+			["selfPoint"] = "CENTER",
 			["triggers"] = {
 				{
 					["trigger"] = {
-						["buffShowOn"] = "showAlways",
-						["use_genericShowOn"] = true,
-						["use_alwaystrue"] = true,
-						["auranames"] = {
-							"203155", -- [1]
-						},
-						["charges"] = "0",
 						["matchesShowOn"] = "showAlways",
-						["genericShowOn"] = "showAlways",
 						["names"] = {
 							"Master Marksman", -- [1]
 						},
+						["use_alwaystrue"] = true,
+						["useGroup_count"] = false,
+						["use_absorbMode"] = true,
+						["use_genericShowOn"] = true,
+						["genericShowOn"] = "showAlways",
 						["use_specific_unit"] = false,
-						["use_tooltip"] = false,
-						["debuffType"] = "HELPFUL",
 						["type"] = "status",
+						["use_tooltip"] = false,
 						["use_unit"] = true,
-						["use_charges"] = false,
 						["duration"] = "1",
 						["spellName"] = 203155,
-						["charges_operator"] = ">",
+						["buffShowOn"] = "showAlways",
 						["useName"] = true,
+						["debuffType"] = "HELPFUL",
+						["charges_operator"] = ">",
+						["charges"] = "0",
 						["use_debuffClass"] = false,
-						["subeventSuffix"] = "_CAST_START",
+						["unevent"] = "auto",
 						["use_showOn"] = true,
 						["subeventPrefix"] = "SPELL",
 						["event"] = "Cooldown Progress (Spell)",
-						["unevent"] = "auto",
+						["subeventSuffix"] = "_CAST_START",
 						["realSpellName"] = "Colpo da Cecchino",
 						["use_spellName"] = true,
 						["spellIds"] = {
 							269576, -- [1]
 						},
+						["use_charges"] = false,
 						["unit"] = "player",
-						["use_absorbMode"] = true,
 						["combineMatches"] = "showLowest",
 						["use_track"] = true,
-						["useGroup_count"] = false,
+						["auranames"] = {
+							"203155", -- [1]
+						},
 					},
 					["untrigger"] = {
 						["showOn"] = "showAlways",
@@ -13061,12 +13061,12 @@ WeakAurasSaved = {
 				["glow"] = false,
 			},
 			["glowYOffset"] = 0,
-			["frameStrata"] = 1,
+			["width"] = 40,
 			["regionType"] = "icon",
+			["frameStrata"] = 1,
 			["icon"] = true,
 			["glowXOffset"] = 0,
 			["glowScale"] = 1,
-			["auto"] = true,
 			["glowLength"] = 10,
 			["xOffset"] = 0,
 			["cooldownTextDisabled"] = false,
@@ -13162,8 +13162,8 @@ WeakAurasSaved = {
 						["event"] = "Health",
 						["use_unit"] = true,
 						["unevent"] = "auto",
-						["events"] = "LUXTHOS_EVENT",
 						["custom"] = "function()\n    return aura_env.config[\"glow\"] == true\nend",
+						["events"] = "LUXTHOS_EVENT",
 						["unit"] = "player",
 						["check"] = "event",
 						["duration"] = "1",
@@ -13201,7 +13201,7 @@ WeakAurasSaved = {
 			},
 			["zoom"] = 0.33,
 			["auto"] = true,
-			["useglowColor"] = false,
+			["parent"] = "Luxthos - Hunter Specifics",
 			["stickyDuration"] = false,
 			["glowColor"] = {
 				1, -- [1]
@@ -13209,7 +13209,7 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["parent"] = "Luxthos - Hunter Specifics",
+			["cooldownEdge"] = true,
 			["version"] = 1,
 			["subRegions"] = {
 				{
@@ -13265,7 +13265,7 @@ WeakAurasSaved = {
 				}, -- [2]
 			},
 			["height"] = 40,
-			["cooldownEdge"] = true,
+			["useglowColor"] = false,
 			["glowLines"] = 8,
 			["conditions"] = {
 				{
@@ -13444,11 +13444,11 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},

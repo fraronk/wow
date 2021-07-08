@@ -69,12 +69,12 @@ AzeritePowerWeightsDB = {
 				["tooltipScales"] = {
 				},
 				["preferBiSMarjor"] = true,
-				["enableEssences"] = true,
+				["onlyOwnClassDefaults"] = true,
 				["rolePowers"] = true,
 				["defensivePowers"] = true,
 				["enableTraits"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
+				["enableEssences"] = true,
 				["onlyOwnClassCustoms"] = false,
 				["professionPowers"] = false,
 				["showOnlyUpgrades"] = false,
@@ -214,12 +214,12 @@ AzeritePowerWeightsDB = {
 				["tooltipScales"] = {
 				},
 				["preferBiSMarjor"] = true,
-				["enableEssences"] = true,
+				["onlyOwnClassDefaults"] = true,
 				["rolePowers"] = true,
 				["defensivePowers"] = true,
 				["enableTraits"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
+				["enableEssences"] = true,
 				["outlineScores"] = true,
 				["onlyOwnClassCustoms"] = false,
 				["showOnlyUpgrades"] = false,
@@ -293,12 +293,12 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["preferBiSMarjor"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
+				["onlyOwnClassCustoms"] = false,
 				["outlineScores"] = true,
 				["debug"] = false,
 				["showOnlyUpgrades"] = false,
 				["professionPowers"] = false,
-				["onlyOwnClassCustoms"] = false,
+				["onlyOwnClassDefaults"] = true,
 			},
 			["Tonellotto"] = {
 				["specScales"] = {
@@ -418,19 +418,19 @@ AzeritePowerWeightsDB = {
 				["onlyOwnClassCustoms"] = false,
 				["preferBiSMarjor"] = true,
 			},
-			["Vallati"] = {
+			["Antonioprete"] = {
 				["specScales"] = {
-					[70] = {
+					[255] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/2/3/Default",
+						["scaleID"] = "D/3/3/Default",
 					},
-					[65] = {
+					[254] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/2/1/Default",
+						["scaleID"] = "D/3/2/Default",
 					},
-					[66] = {
-						["scaleName"] = "Defensive",
-						["scaleID"] = "D/2/2/Defensive",
+					[253] = {
+						["scaleName"] = "Default",
+						["scaleID"] = "D/3/1/Default",
 					},
 				},
 				["addPrimaryStatToScore"] = false,
@@ -449,12 +449,12 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["enableTraits"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["enableEssences"] = true,
+				["onlyOwnClassCustoms"] = false,
 				["outlineScores"] = true,
 				["professionPowers"] = false,
 				["showOnlyUpgrades"] = false,
-				["onlyOwnClassCustoms"] = false,
 				["onlyOwnClassDefaults"] = true,
+				["enableEssences"] = true,
 			},
 			["Cabobo"] = {
 				["specScales"] = {
@@ -524,12 +524,12 @@ AzeritePowerWeightsDB = {
 				["tooltipScales"] = {
 				},
 				["outlineScores"] = true,
-				["onlyOwnClassDefaults"] = true,
+				["enableEssences"] = true,
 				["rolePowers"] = true,
 				["defensivePowers"] = true,
 				["enableTraits"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["enableEssences"] = true,
+				["onlyOwnClassDefaults"] = true,
 				["onlyOwnClassCustoms"] = false,
 				["professionPowers"] = false,
 				["showOnlyUpgrades"] = false,
@@ -567,11 +567,11 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["enableTraits"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassDefaults"] = true,
+				["enableEssences"] = true,
 				["onlyOwnClassCustoms"] = false,
 				["professionPowers"] = false,
 				["showOnlyUpgrades"] = false,
-				["enableEssences"] = true,
+				["onlyOwnClassDefaults"] = true,
 				["preferBiSMarjor"] = true,
 			},
 			["Dontuch"] = {
@@ -612,19 +612,19 @@ AzeritePowerWeightsDB = {
 				["enableEssences"] = true,
 				["preferBiSMarjor"] = true,
 			},
-			["Antonioprete"] = {
+			["Vallati"] = {
 				["specScales"] = {
-					[255] = {
+					[70] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/3/3/Default",
+						["scaleID"] = "D/2/3/Default",
 					},
-					[254] = {
+					[65] = {
 						["scaleName"] = "Default",
-						["scaleID"] = "D/3/2/Default",
+						["scaleID"] = "D/2/1/Default",
 					},
-					[253] = {
-						["scaleName"] = "Default",
-						["scaleID"] = "D/3/1/Default",
+					[66] = {
+						["scaleName"] = "Defensive",
+						["scaleID"] = "D/2/2/Defensive",
 					},
 				},
 				["addPrimaryStatToScore"] = false,
@@ -643,12 +643,12 @@ AzeritePowerWeightsDB = {
 				["defensivePowers"] = true,
 				["enableTraits"] = true,
 				["scaleByAzeriteEmpowered"] = false,
-				["onlyOwnClassCustoms"] = false,
+				["enableEssences"] = true,
 				["outlineScores"] = true,
 				["professionPowers"] = false,
 				["showOnlyUpgrades"] = false,
+				["onlyOwnClassCustoms"] = false,
 				["onlyOwnClassDefaults"] = true,
-				["enableEssences"] = true,
 			},
 		},
 	},

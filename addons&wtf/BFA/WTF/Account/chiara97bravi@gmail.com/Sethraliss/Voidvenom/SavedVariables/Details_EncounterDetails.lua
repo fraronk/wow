@@ -173,12 +173,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Artiglio Volante",
 		},
-		[314397] = {
-			["school"] = 32,
+		[294855] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Sangue del Corruttore",
+			["source"] = "Pianta Incospicua",
 		},
 		[285020] = {
 			["school"] = 1,
@@ -189,13 +191,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Flagellatore Platinato",
 		},
-		[314387] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[291626] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Crescita Malvagia",
+			["source"] = "Unità Aerea R-21/X",
 		},
 		[291856] = {
 			["school"] = 8,
@@ -204,6 +207,31 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Globo di Plasma",
+		},
+		[292264] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Demolitore Omega",
+		},
+		[291972] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "K.U.-J.0.",
+		},
+		[283640] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+			},
+			["source"] = "Gnom-O-Pietà X-T3",
 		},
 		[283551] = {
 			["school"] = 1,
@@ -215,40 +243,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Demolitore Omega",
 		},
-		[292267] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[291613] = {
+			["school"] = 4,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
-			},
-			["source"] = "Demolitore Omega",
-		},
-		[292264] = {
-			["school"] = 8,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
-			},
-			["source"] = "Demolitore Omega",
-		},
-		[291974] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
-			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Re Meccagon",
-		},
-		[291626] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Unità Aerea R-21/X",
 		},
@@ -282,16 +284,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Artiglio Volante",
 		},
-		[291613] = {
-			["school"] = 4,
-			["type"] = "BUFF",
+		[314397] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Unità Aerea R-21/X",
+			["source"] = "Sangue del Corruttore",
 		},
 		[206150] = {
 			["school"] = 1,
@@ -367,13 +365,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Pianta Incospicua",
 		},
-		[283640] = {
-			["school"] = 1,
+		[292267] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Gnom-O-Pietà X-T3",
+			["source"] = "Demolitore Omega",
 		},
 		[285388] = {
 			["school"] = 1,
@@ -392,23 +393,22 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gnom-O-Pietà X-T3",
 		},
-		[291972] = {
+		[292035] = {
+			["school"] = 4,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
+			},
+			["source"] = "K.U.-J.0.",
+		},
+		[291974] = {
 			["school"] = 1,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "K.U.-J.0.",
-		},
-		[294855] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Pianta Incospicua",
+			["source"] = "Re Meccagon",
 		},
 		[284885] = {
 			["school"] = 1,
@@ -424,13 +424,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gnom-O-Pietà X-T3",
 		},
-		[292035] = {
-			["school"] = 4,
+		[314387] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "K.U.-J.0.",
+			["source"] = "Crescita Malvagia",
 		},
 	},
 	["emotes"] = {

@@ -274,14 +274,14 @@ ElvDB = {
 				["ZoneAbility"] = "BOTTOM,ElvUIParent,BOTTOM,-336,370",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 				["MinimapMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-4,-4",
-				["ElvUI_RMBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,4,-4",
+				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,4",
 				["ElvUF_FocusMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-256,335",
 				["MicrobarMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-204,4",
 				["RightChatMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,4",
-				["VehicleSeatMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-121,-435",
-				["DurabilityFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-236,-320",
-				["TotemBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,4,-409",
 				["SLE_GarrisonToolMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,43,-453",
+				["DurabilityFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-236,-320",
+				["ElvUI_RMBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,4,-4",
+				["VehicleSeatMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-121,-435",
 				["BossHeaderMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-323,-292",
 				["ExperienceBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,533,4",
 				["ElvUF_TargetTargetMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-360,236",
@@ -294,10 +294,10 @@ ElvDB = {
 				["ElvAB_1"] = "BOTTOM,ElvUIParent,BOTTOM,0,41",
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,4",
 				["BelowMinimapContainerMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-32,-293",
-				["TalkingHeadFrameMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,189,318",
 				["ElvAB_4"] = "BOTTOM,ElvUIParent,BOTTOM,-302,6",
+				["TalkingHeadFrameMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,189,318",
 				["AzeriteBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,532,4",
-				["AltPowerBarMover"] = "BOTTOM,ElvUIParent,BOTTOM,-273,545",
+				["SLE_FarmSeedMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,46,274",
 				["ElvAB_3"] = "BOTTOM,ElvUIParent,BOTTOM,302,6",
 				["ReputationBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,499,4",
 				["VehicleLeaveButton"] = "BOTTOM,ElvUIParent,BOTTOM,-316,72",
@@ -306,14 +306,14 @@ ElvDB = {
 				["ObjectiveFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-59,-204",
 				["BNETMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-274,-200",
 				["ShiftAB"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,971,78",
-				["SLE_FarmSeedMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,46,274",
+				["AltPowerBarMover"] = "BOTTOM,ElvUIParent,BOTTOM,-273,545",
 				["RaidUtility_Mover"] = "TOPLEFT,ElvUIParent,TOPLEFT,438,-4",
 				["ArenaHeaderMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-323,-292",
 				["TooltipMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,439",
 				["ElvUF_TankMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,4,-214",
 				["SLE_Location_Mover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,0,0",
+				["TotemBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,4,-409",
 				["ElvUF_PetMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,366,560",
-				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,4",
 				["ElvUF_PartyMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,201",
 				["AlertFrameMover"] = "BOTTOM,ElvUIParent,BOTTOM,-282,480",
 				["DebuffsMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-213,-150",
@@ -422,24 +422,6 @@ ElvDB = {
 							["font"] = "Friz Quadrata TT",
 						},
 					},
-					["assist"] = {
-						["enable"] = false,
-					},
-					["raid"] = {
-						["debuffs"] = {
-							["sizeOverride"] = 16,
-						},
-						["height"] = 35,
-						["buffs"] = {
-							["sizeOverride"] = 22,
-						},
-						["horizontalSpacing"] = 1,
-						["rdebuffs"] = {
-							["font"] = "Friz Quadrata TT",
-						},
-						["growthDirection"] = "DOWN_RIGHT",
-						["width"] = 91,
-					},
 					["target"] = {
 						["debuffs"] = {
 							["yOffset"] = -66,
@@ -459,11 +441,11 @@ ElvDB = {
 						["width"] = 225,
 						["portrait"] = {
 							["overlay"] = true,
-							["xOffset"] = 0.6799999999999999,
+							["enable"] = true,
 							["rotation"] = 294,
 							["paused"] = true,
 							["fullOverlay"] = true,
-							["enable"] = true,
+							["xOffset"] = 0.6799999999999999,
 							["camDistanceScale"] = 4,
 							["overlayAlpha"] = 0.8,
 						},
@@ -481,6 +463,24 @@ ElvDB = {
 							["anchorPoint"] = "BOTTOMRIGHT",
 							["numrows"] = 3,
 						},
+					},
+					["raid"] = {
+						["debuffs"] = {
+							["sizeOverride"] = 16,
+						},
+						["height"] = 35,
+						["buffs"] = {
+							["sizeOverride"] = 22,
+						},
+						["horizontalSpacing"] = 1,
+						["rdebuffs"] = {
+							["font"] = "Friz Quadrata TT",
+						},
+						["growthDirection"] = "DOWN_RIGHT",
+						["width"] = 91,
+					},
+					["assist"] = {
+						["enable"] = false,
 					},
 					["player"] = {
 						["CombatIcon"] = {
@@ -551,11 +551,11 @@ ElvDB = {
 						},
 						["portrait"] = {
 							["overlay"] = true,
-							["xOffset"] = -0.49,
+							["enable"] = true,
 							["rotation"] = 360,
 							["paused"] = true,
 							["fullOverlay"] = true,
-							["enable"] = true,
+							["xOffset"] = -0.49,
 							["camDistanceScale"] = 4,
 							["overlayAlpha"] = 0.8,
 						},
@@ -746,18 +746,18 @@ ElvDB = {
 	["profileKeys"] = {
 		["Voidvenom - Sethraliss"] = "Mariagreco-2.0",
 	},
-	["faction"] = {
+	["gold"] = {
 		["Sethraliss"] = {
-			["Voidvenom"] = "Alliance",
+			["Voidvenom"] = 1071155964,
 		},
 	},
 	["LuaErrorDisabledAddOns"] = {
 	},
 	["SLErrorDisabledAddOns"] = {
 	},
-	["gold"] = {
+	["faction"] = {
 		["Sethraliss"] = {
-			["Voidvenom"] = 1071155964,
+			["Voidvenom"] = "Alliance",
 		},
 	},
 	["SLEMinimize"] = {

@@ -41,19 +41,19 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = true,
 			},
-			["arena"] = {
-				["keepfocus"] = false,
-				["supress"] = false,
-				["onSend"] = false,
-				["autofocus"] = false,
-				["onReceive"] = false,
-			},
 			["raid"] = {
 				["keepfocus"] = false,
 				["supress"] = true,
 				["onSend"] = true,
 				["autofocus"] = false,
 				["onReceive"] = true,
+			},
+			["arena"] = {
+				["keepfocus"] = false,
+				["supress"] = false,
+				["onSend"] = false,
+				["autofocus"] = false,
+				["onReceive"] = false,
 			},
 			["alwaysOther"] = false,
 		},
@@ -102,14 +102,14 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["arena"] = {
+			["raid"] = {
 				["keepfocus"] = false,
 				["supress"] = false,
 				["onSend"] = false,
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["raid"] = {
+			["arena"] = {
 				["keepfocus"] = false,
 				["supress"] = false,
 				["onSend"] = false,
@@ -200,12 +200,12 @@ WIM3_Data = {
 			["g"] = 0,
 			["b"] = 0,
 		},
+		["useSkin"] = true,
 		["BNwispIn"] = {
 			["r"] = 0,
 			["g"] = 0.4862745098039216,
 			["b"] = 0.6549019607843137,
 		},
-		["useSkin"] = true,
 		["historyOut"] = {
 			["r"] = 0.7058823529411764,
 			["g"] = 0.7058823529411764,
@@ -221,8 +221,8 @@ WIM3_Data = {
 	["showToolTips"] = true,
 	["minimap"] = {
 		["free_position"] = {
-			["y"] = -136.0180224910066,
-			["x"] = -160.0001003742225,
+			["y"] = -153.0203514099121,
+			["x"] = -179.9998989105225,
 			["point"] = "TOPRIGHT",
 		},
 		["position"] = 210.1413102432948,
@@ -302,11 +302,11 @@ WIM3_Data = {
 		},
 	},
 	["ignoreArrowKeys"] = true,
+	["coloredNames"] = true,
 	["winLoc"] = {
 		["left"] = 217,
 		["top"] = 664,
 	},
-	["coloredNames"] = true,
 	["clampToScreen"] = true,
 	["stats"] = {
 		["startDate"] = "",
@@ -320,6 +320,21 @@ WIM3_Data = {
 		["selected"] = "WIM Classic",
 		["font"] = "ChatFontNormal",
 		["suggest"] = true,
+	},
+	["ClickControl"] = {
+		["clickSensitivity"] = 0.2,
+	},
+	["tabs"] = {
+		["sortBy"] = 2,
+		["whispers"] = {
+			["enabled"] = false,
+			["guild"] = false,
+			["friends"] = false,
+		},
+		["chat"] = {
+			["enabled"] = false,
+			["aswhisper"] = false,
+		},
 	},
 	["history"] = {
 		["ageLimit"] = true,
@@ -341,21 +356,6 @@ WIM3_Data = {
 			["maxCount"] = 500,
 			["previewCount"] = 25,
 		},
-	},
-	["tabs"] = {
-		["sortBy"] = 2,
-		["whispers"] = {
-			["enabled"] = false,
-			["guild"] = false,
-			["friends"] = false,
-		},
-		["chat"] = {
-			["enabled"] = false,
-			["aswhisper"] = false,
-		},
-	},
-	["ClickControl"] = {
-		["clickSensitivity"] = 0.2,
 	},
 	["chat"] = {
 		["bn"] = {
@@ -633,345 +633,345 @@ WIM3_Cache = {
 				["Angroboda"] = 33,
 				["Peewéè"] = 385,
 				["Rheshur"] = 143,
-				["Tobako"] = 544,
 				["Lìlìthx"] = 335,
-				["Soulstorm"] = 542,
-				["Nightingales"] = 537,
 				["Nemeral"] = 122,
 				["Cøser"] = 55,
 				["Roddys"] = 145,
-				["Monksparrow"] = 536,
 				["Dàmakos"] = 60,
-				["Magmafist"] = 534,
-				["Cartonio"] = 533,
 				["Horfeius"] = 89,
-				["Arcassian"] = 530,
-				["Xubuntu"] = 529,
-				["Utcher"] = 528,
-				["Pinturicchìo"] = 525,
 				["Robertagemma"] = 395,
-				["Faccioschifo"] = 519,
-				["Vinegar"] = 514,
-				["Thewatergød"] = 512,
-				["Sarfdh"] = 511,
 				["Darthdat"] = 261,
 				["Maexana"] = 336,
-				["Mgnwhitejack"] = 505,
-				["Luiji"] = 330,
-				["Mastrobirro"] = 504,
+				["Faccioschifo"] = 519,
 				["Bonbonette"] = 240,
 				["Mirrormask"] = 522,
 				["Vicros"] = 465,
-				["Maccio"] = 502,
 				["Larkano"] = 106,
-				["Leezard"] = 500,
-				["Gennarinodk"] = 496,
-				["Diiogosantos"] = 494,
 				["Mindshock"] = 197,
-				["Dainar"] = 493,
-				["Cded"] = 491,
 				["Rakumajin"] = 137,
-				["Betrakill"] = 490,
 				["Dudubau"] = 268,
-				["Катнячи"] = 486,
-				["Zopporior"] = 485,
-				["Zomgasm"] = 484,
 				["Fiontann"] = 279,
-				["Zerosen"] = 483,
-				["Yursan"] = 480,
-				["Yajsha"] = 476,
-				["Worgnareff"] = 473,
 				["Torinlak"] = 449,
-				["Warcurie"] = 470,
 				["Ildaran"] = 298,
-				["Warbike"] = 469,
-				["Voidaok"] = 468,
-				["Vergilisaak"] = 463,
 				["Zeddo"] = 482,
 				["Glimmerisbae"] = 16,
-				["Vergator"] = 462,
 				["Veonn"] = 461,
 				["Vixeñt"] = 467,
-				["Utargo"] = 459,
-				["Tteco"] = 457,
 				["Ömegasoül"] = 192,
-				["Trodin"] = 456,
 				["Azritardo"] = 233,
 				["Erotis"] = 63,
 				["Furiousguy"] = 281,
-				["Sírøp"] = 438,
-				["Sílkan"] = 437,
-				["Demonutcher"] = 57,
-				["Swan"] = 433,
+				["Cded"] = 491,
 				["Vinniy"] = 466,
-				["Sunsone"] = 432,
-				["Sucren"] = 429,
 				["Yuksana"] = 187,
 				["Thyrsus"] = 513,
-				["Stendipanni"] = 428,
-				["Ssuckerpunch"] = 427,
 				["Babyruth"] = 531,
-				["Spiedo"] = 425,
-				["Mikyr"] = 352,
-				["Slamarr"] = 421,
+				["Sílkan"] = 437,
 				["Molfred"] = 354,
-				["Skydeòla"] = 420,
-				["Shyvàr"] = 418,
-				["Shdiame"] = 413,
-				["Shankàr"] = 411,
 				["Addolorata"] = 29,
-				["Scontroso"] = 404,
-				["Rtpi"] = 398,
-				["Rrayne"] = 397,
 				["Gesùhcristho"] = 75,
 				["Mòrningstar"] = 362,
-				["Roybeard"] = 396,
-				["Porcoss"] = 393,
-				["Porcojisus"] = 392,
-				["Pertekk"] = 388,
-				["Penna"] = 386,
-				["Pappona"] = 383,
-				["Panzerotto"] = 382,
-				["Orkrux"] = 380,
 				["Vincenth"] = 181,
 				["Occhidifalco"] = 377,
-				["Mondom"] = 355,
 				["Bigrip"] = 532,
-				["Oblider"] = 376,
-				["Obelixos"] = 375,
-				["Nileen"] = 369,
-				["Newroz"] = 368,
 				["Lostaigan"] = 501,
-				["Nathalfire"] = 367,
-				["Narsarian"] = 366,
-				["Myrddyn"] = 361,
-				["Mentorallo"] = 349,
-				["Maziken"] = 347,
 				["Ezizzo"] = 65,
-				["Matomaz"] = 344,
-				["Mascalzone"] = 343,
 				["Marò"] = 503,
-				["Mapam"] = 342,
 				["Limoncé"] = 324,
-				["Malasil"] = 340,
 				["Hellonfire"] = 86,
-				["Stagncare"] = 160,
-				["Mahonri"] = 338,
+				["Ssuckerpunch"] = 427,
 				["Alastõr"] = 517,
-				["Arghal"] = 34,
-				["Magüwu"] = 337,
+				["Sucren"] = 429,
 				["Hedalexxa"] = 520,
-				["Lunabianca"] = 331,
-				["Lucanø"] = 329,
 				["Movediamo"] = 116,
-				["Lohacker"] = 326,
-				["Lodolfan"] = 325,
-				["Kàtsumoto"] = 319,
-				["Kyreogun"] = 317,
 				["Corsini"] = 53,
 				["Michelaccio"] = 350,
-				["Kravio"] = 314,
-				["Klaplongen"] = 312,
-				["Jainasky"] = 302,
-				["Immortaris"] = 300,
-				["Madamachips"] = 112,
-				["Illidanstorn"] = 299,
+				["Porcojisus"] = 392,
 				["Malphasat"] = 341,
-				["Hérmione"] = 297,
 				["Annalhix"] = 226,
-				["Hynco"] = 296,
-				["Holytankdps"] = 294,
-				["Helvera"] = 292,
 				["Ylvina"] = 477,
-				["Hellondon"] = 291,
-				["Hazgalord"] = 289,
-				["Citto"] = 51,
-				["Havocado"] = 288,
+				["Maziken"] = 347,
 				["Bigsavof"] = 488,
 				["Karkna"] = 305,
 				["Radern"] = 539,
-				["Gaudee"] = 283,
-				["Enboss"] = 272,
-				["Ellenafrost"] = 271,
-				["Elizabethya"] = 270,
-				["Darkvincent"] = 260,
-				["Colonnello"] = 255,
-				["Codyellow"] = 254,
-				["Clemanthis"] = 253,
 				["Khaterian"] = 100,
-				["Brutum"] = 244,
 				["Sgnaccherona"] = 410,
 				["Lupioppu"] = 333,
-				["Bretaren"] = 242,
-				["Beddamagra"] = 236,
-				["Arturoduro"] = 229,
-				["Pataturk"] = 212,
-				["Dulsar"] = 269,
+				["Hynco"] = 296,
 				["Seyw"] = 409,
-				["Atrèyu"] = 210,
 				["Vescken"] = 464,
 				["Reghiaccio"] = 540,
-				["Stanach"] = 207,
-				["Kakashyx"] = 206,
-				["Soulgyrl"] = 424,
-				["Aleregor"] = 223,
-				["Chulest"] = 204,
-				["Lunany"] = 109,
-				["Tepiallo"] = 195,
+				["Soulstorm"] = 542,
+				["Scontroso"] = 404,
+				["Sunsone"] = 432,
 				["Nemeas"] = 121,
 				["Arkimmonde"] = 37,
 				["Lanadelgay"] = 3,
 				["Zeramos"] = 546,
-				["Xylya"] = 185,
-				["Whiskyno"] = 183,
-				["Hersik"] = 293,
-				["Torandil"] = 172,
+				["Pappona"] = 383,
 				["Anfame"] = 32,
-				["Tonante"] = 171,
 				["Blackfatdudu"] = 238,
 				["Nakut"] = 365,
 				["Spongeboob"] = 159,
-				["Ripto"] = 13,
+				["Warcurie"] = 470,
 				["Silkan"] = 155,
 				["Bischero"] = 45,
-				["Tayalos"] = 167,
-				["Slore"] = 158,
 				["Remuus"] = 140,
 				["Nylon"] = 372,
-				["Shinigaming"] = 153,
 				["Arianisha"] = 35,
-				["Scortese"] = 151,
-				["Sandokaz"] = 147,
-				["Ramigno"] = 138,
-				["Pippomio"] = 132,
 				["Zacharael"] = 481,
 				["Kreferis"] = 521,
-				["Pasticciotto"] = 129,
 				["Veòn"] = 5,
-				["Motinculo"] = 115,
 				["Pìobotte"] = 136,
-				["Joemum"] = 96,
-				["Redaemon"] = 139,
-				["Trikì"] = 173,
+				["Tayalos"] = 167,
+				["Mentorallo"] = 349,
 				["Cerediirn"] = 250,
-				["Icura"] = 92,
-				["Hellhaimh"] = 85,
-				["Halbuz"] = 81,
 				["Texnort"] = 441,
 				["Kayronz"] = 499,
 				["Xerazon"] = 475,
-				["Furchetta"] = 72,
-				["Fharhenheit"] = 70,
+				["Tobako"] = 544,
 				["Aphraw"] = 19,
-				["Notcøser"] = 371,
+				["Maccio"] = 502,
+				["Nightingales"] = 537,
+				["Magmafist"] = 534,
 				["Favatron"] = 66,
-				["Expelliamus"] = 277,
-				["Fharhenhait"] = 69,
+				["Arcassian"] = 530,
+				["Zomgasm"] = 484,
+				["Xubuntu"] = 529,
+				["Betrakill"] = 490,
 				["Phelpsina"] = 390,
+				["Pinturicchìo"] = 525,
+				["Vergilisaak"] = 463,
+				["Holytankdps"] = 294,
+				["Mapam"] = 342,
+				["Luiji"] = 330,
+				["Mastrobirro"] = 504,
+				["Mikyr"] = 352,
 				["Missitalia"] = 353,
+				["Diiogosantos"] = 494,
+				["Катнячи"] = 486,
 				["Synshin"] = 166,
+				["Shankàr"] = 411,
+				["Rrayne"] = 397,
+				["Orkrux"] = 380,
+				["Worgnareff"] = 473,
 				["Adrenym"] = 516,
+				["Mgnwhitejack"] = 505,
 				["Cunken"] = 54,
 				["Joibe"] = 304,
-				["Flavià"] = 71,
+				["Sarfdh"] = 511,
+				["Mahonri"] = 338,
+				["Chulest"] = 204,
 				["Picchialo"] = 130,
+				["Vergator"] = 462,
 				["Palmino"] = 128,
+				["Utargo"] = 459,
 				["Thodo"] = 208,
+				["Tteco"] = 457,
 				["Notanhealer"] = 370,
-				["Dleeygh"] = 266,
-				["Shishield"] = 14,
+				["Illidanstorn"] = 299,
+				["Dainar"] = 493,
 				["Ryumajin"] = 400,
+				["Gennarinodk"] = 496,
+				["Thewatergød"] = 512,
 				["Venticello"] = 177,
 				["Yukeyuk"] = 479,
-				["Orlandoboom"] = 1,
-				["Menfro"] = 348,
+				["Swan"] = 433,
+				["Elizabethya"] = 270,
+				["Spiedo"] = 425,
+				["Kàtsumoto"] = 319,
+				["Porcoss"] = 393,
+				["Nathalfire"] = 367,
+				["Slamarr"] = 421,
 				["Cyou"] = 258,
+				["Skydeòla"] = 420,
 				["Nojak"] = 124,
 				["Xellallaro"] = 515,
 				["Bölim"] = 48,
-				["Gangki"] = 73,
-				["Supernàna"] = 165,
+				["Ripto"] = 13,
+				["Slore"] = 158,
+				["Mascalzone"] = 343,
+				["Joemum"] = 96,
+				["Redaemon"] = 139,
 				["Scriptø"] = 405,
+				["Enboss"] = 272,
+				["Yursan"] = 480,
+				["Roybeard"] = 396,
+				["Pertekk"] = 388,
 				["Bâal"] = 246,
 				["Goldbrake"] = 18,
 				["Heliur"] = 83,
-				["Xophob"] = 22,
+				["Brutum"] = 244,
+				["Helvera"] = 292,
+				["Expelliamus"] = 277,
+				["Mondom"] = 355,
+				["Dleeygh"] = 266,
 				["Vergillsaak"] = 178,
+				["Obelixos"] = 375,
+				["Nileen"] = 369,
 				["Krystrid"] = 316,
 				["Rhytta"] = 144,
+				["Monksparrow"] = 536,
+				["Newroz"] = 368,
 				["Kèisèr"] = 105,
 				["Taalrasha"] = 439,
-				["Seslena"] = 408,
+				["Warbike"] = 469,
 				["Whualla"] = 184,
+				["Arturoduro"] = 229,
 				["Nitro"] = 538,
-				["Arkandiel"] = 36,
+				["Myrddyn"] = 361,
+				["Pippomio"] = 132,
+				["Utcher"] = 528,
+				["Sírøp"] = 438,
 				["Adrenya"] = 30,
-				["Arhamiss"] = 227,
+				["Hérmione"] = 297,
+				["Stagncare"] = 160,
 				["Arteidas"] = 228,
 				["Shweppès"] = 417,
+				["Arhamiss"] = 227,
 				["Treviar"] = 452,
-				["Xanatar"] = 213,
-				["Knùt"] = 23,
+				["Cartonio"] = 533,
 				["Vergilsaak"] = 179,
+				["Xanatar"] = 213,
+				["Zerosen"] = 483,
+				["Lohacker"] = 326,
+				["Magüwu"] = 337,
 				["Mariagreco"] = 535,
+				["Lunabianca"] = 331,
 				["Scipione"] = 150,
+				["Gangki"] = 73,
+				["Lodolfan"] = 325,
 				["Abù"] = 221,
+				["Trodin"] = 456,
 				["Istardrona"] = 95,
 				["Pisellonus"] = 133,
 				["Monsone"] = 357,
 				["Chentherba"] = 251,
+				["Kyreogun"] = 317,
+				["Shishield"] = 14,
+				["Fharhenhait"] = 69,
 				["Roarwolf"] = 541,
+				["Notcøser"] = 371,
+				["Immortaris"] = 300,
 				["Nyrtica"] = 374,
 				["Tachinano"] = 21,
+				["Madamachips"] = 112,
 				["Polpettøne"] = 391,
 				["Joepapa"] = 97,
+				["Panzerotto"] = 382,
 				["Cædrel"] = 259,
 				["Gbciaciolo"] = 284,
+				["Penna"] = 386,
+				["Hellondon"] = 291,
+				["Hazgalord"] = 289,
 				["Sudeky"] = 162,
 				["Wlaud"] = 471,
 				["Worryor"] = 474,
 				["Sinaestroz"] = 527,
+				["Citto"] = 51,
+				["Havocado"] = 288,
+				["Gaudee"] = 283,
+				["Sandokaz"] = 147,
+				["Ellenafrost"] = 271,
+				["Shinigaming"] = 153,
+				["Darkvincent"] = 260,
 				["Silentkarma"] = 154,
+				["Colonnello"] = 255,
 				["Spinta"] = 426,
+				["Codyellow"] = 254,
+				["Xylya"] = 185,
+				["Beddamagra"] = 236,
+				["Lunany"] = 109,
+				["Pataturk"] = 212,
 				["Lyndiel"] = 110,
+				["Aleregor"] = 223,
+				["Atrèyu"] = 210,
+				["Stanach"] = 207,
+				["Kakashyx"] = 206,
+				["Soulgyrl"] = 424,
 				["Calliut"] = 50,
+				["Malasil"] = 340,
 				["Aeriet"] = 222,
+				["Tepiallo"] = 195,
 				["Ellorie"] = 62,
+				["Whiskyno"] = 183,
+				["Hersik"] = 293,
+				["Tonante"] = 171,
 				["Sdentato"] = 406,
+				["Scortese"] = 151,
 				["Kokkonut"] = 313,
+				["Ramigno"] = 138,
+				["Matomaz"] = 344,
+				["Pasticciotto"] = 129,
+				["Bretaren"] = 242,
+				["Motinculo"] = 115,
+				["Icura"] = 92,
 				["Smashingrey"] = 423,
+				["Hellhaimh"] = 85,
+				["Halbuz"] = 81,
 				["Brember"] = 241,
 				["Korlly"] = 102,
 				["Ceolwulf"] = 249,
+				["Orlandoboom"] = 1,
 				["Grandag"] = 24,
+				["Narsarian"] = 366,
 				["Horfeo"] = 295,
+				["Supernàna"] = 165,
+				["Xophob"] = 22,
+				["Knùt"] = 23,
 				["Atralmoore"] = 230,
 				["Kereman"] = 308,
+				["Arghal"] = 34,
 				["Suocera"] = 164,
 				["Afflipotato"] = 31,
+				["Arkandiel"] = 36,
 				["Motimoto"] = 7,
+				["Seslena"] = 408,
 				["Presideny"] = 134,
+				["Kravio"] = 314,
+				["Menfro"] = 348,
 				["Paciccio"] = 127,
+				["Flavià"] = 71,
 				["Helldør"] = 216,
 				["Garlaw"] = 74,
+				["Fharhenheit"] = 70,
+				["Furchetta"] = 72,
+				["Trikì"] = 173,
 				["Lkwhitejack"] = 108,
 				["Elferico"] = 200,
 				["Kanthena"] = 218,
 				["Mattewus"] = 345,
+				["Torandil"] = 172,
+				["Dulsar"] = 269,
 				["Castorina"] = 248,
+				["Clemanthis"] = 253,
 				["Berlusconi"] = 44,
+				["Rtpi"] = 398,
 				["Peppetto"] = 387,
 				["Auryarmy"] = 231,
+				["Jainasky"] = 302,
+				["Klaplongen"] = 312,
+				["Lucanø"] = 329,
 				["Ziapina"] = 191,
 				["Shernyl"] = 415,
 				["Moonquake"] = 358,
+				["Oblider"] = 376,
 				["Bàrbablu"] = 245,
 				["Edwardngate"] = 9,
 				["Thyej"] = 445,
+				["Shdiame"] = 413,
+				["Shyvàr"] = 418,
 				["Bruciali"] = 46,
+				["Stendipanni"] = 428,
+				["Demonutcher"] = 57,
 				["Starshine"] = 161,
 				["Grrdragone"] = 287,
 				["Kyuzz"] = 318,
+				["Voidaok"] = 468,
+				["Yajsha"] = 476,
+				["Zopporior"] = 485,
+				["Leezard"] = 500,
+				["Vinegar"] = 514,
 				["Barbera"] = 235,
 			},
 		},
@@ -1397,21 +1397,21 @@ WIM3_Cache = {
 				["Whualla"] = 182,
 				["Presideny"] = 134,
 				["Nitro"] = 534,
-				["Adrenya"] = 27,
+				["Sírøp"] = 431,
 				["Arturoduro"] = 226,
 				["Utcher"] = 524,
-				["Sírøp"] = 431,
-				["Arhamiss"] = 224,
+				["Adrenya"] = 27,
 				["Hérmione"] = 294,
+				["Arhamiss"] = 224,
 				["Afflipotato"] = 28,
 				["Arteidas"] = 225,
 				["Shweppès"] = 410,
 				["Arghal"] = 32,
 				["Treviar"] = 445,
-				["Zerosen"] = 4,
+				["Knùt"] = 20,
 				["Vergilsaak"] = 177,
 				["Xanatar"] = 208,
-				["Knùt"] = 20,
+				["Zerosen"] = 4,
 				["Lohacker"] = 322,
 				["Atralmoore"] = 227,
 				["Mariagreco"] = 531,
@@ -1442,7 +1442,7 @@ WIM3_Cache = {
 				["Furchetta"] = 71,
 				["Immortaris"] = 297,
 				["Hellhaimh"] = 84,
-				["Bretaren"] = 239,
+				["Sudeky"] = 161,
 				["Wlaud"] = 463,
 				["Worryor"] = 466,
 				["Sinaestroz"] = 523,
@@ -1460,8 +1460,8 @@ WIM3_Cache = {
 				["Hersik"] = 290,
 				["Xylya"] = 183,
 				["Tepiallo"] = 191,
-				["Malasil"] = 335,
 				["Lyndiel"] = 109,
+				["Malasil"] = 335,
 				["Lunany"] = 107,
 				["Kakashyx"] = 201,
 				["Aleregor"] = 209,
@@ -1483,7 +1483,7 @@ WIM3_Cache = {
 				["Hellondon"] = 288,
 				["Thewatergød"] = 506,
 				["Citto"] = 49,
-				["Sudeky"] = 161,
+				["Bretaren"] = 239,
 				["Smashingrey"] = 416,
 				["Kravio"] = 310,
 				["Tonante"] = 170,
@@ -1559,579 +1559,580 @@ WIM3_Cache = {
 				["Majogari"] = 1,
 				["Làdygàgà"] = 1,
 				["Keshà"] = 1,
-				["Caprafocosa"] = 1,
-				["Spirkicklølz"] = 1,
+				["Mahayana"] = 1,
 				["Yùnìe"] = 1,
+				["Fryan"] = 1,
 				["Nuoce"] = 1,
-				["Ranhdalf"] = 1,
+				["Codyellow"] = 1,
 				["Rihänña"] = 1,
 				["Queikiwi"] = 1,
 				["Bigrip"] = 1,
 				["Shàññýæl"] = 1,
-				["Clorofylla"] = 1,
+				["Marrosso"] = 1,
 				["Arrowqt"] = 1,
 				["Voidvenom"] = 1,
 				["Osvaldinoo"] = 1,
 				["Majingari"] = 1,
-				["Codyellow"] = 1,
 				["Tugozzi"] = 1,
-				["Ripto"] = 1,
+				["Caprafocosa"] = 1,
+				["Jhøn"] = 1,
 				["Bellavista"] = 1,
-				["Mahayana"] = 1,
+				["Ranhdalf"] = 1,
 				["Zlatanbtw"] = 1,
-				["Marrosso"] = 1,
+				["Ripto"] = 1,
 				["Ironbloodaxe"] = 1,
 				["Shàkìrà"] = 1,
-				["Fryan"] = 1,
+				["Clorofylla"] = 1,
 				["Tumamirica"] = 1,
 			},
 			["guildList"] = {
-				["Tispacco"] = 169,
-				["Grazugh"] = 14,
-				["Cseven"] = 3,
-				["Marhauter"] = 201,
-				["Enchantia"] = 271,
-				["Lothbròk"] = 326,
-				["Tespanolano"] = 167,
-				["Odettah"] = 504,
-				["Talden"] = 437,
-				["Nìhìl"] = 503,
-				["Ilnonmorto"] = 93,
-				["Pheber"] = 386,
-				["Bloberta"] = 237,
-				["Grisù"] = 79,
-				["Hellgodness"] = 83,
-				["Worazio"] = 203,
-				["Sbismu"] = 147,
-				["Utal"] = 175,
-				["Voidvenom"] = 545,
-				["Zanxo"] = 188,
-				["Kravits"] = 313,
-				["Beboko"] = 41,
-				["Outofmind"] = 378,
-				["Forgialucee"] = 194,
-				["Avazor"] = 39,
-				["Malarkeyz"] = 336,
-				["Tsubestia"] = 173,
-				["Kundozen"] = 103,
+				["Tispacco"] = 172,
+				["Grazugh"] = 18,
+				["Cseven"] = 260,
+				["Marhauter"] = 205,
+				["Enchantia"] = 275,
+				["Lothbròk"] = 330,
+				["Tespanolano"] = 170,
+				["Odettah"] = 506,
+				["Talden"] = 440,
+				["Nìhìl"] = 505,
+				["Ilnonmorto"] = 96,
+				["Pheber"] = 392,
+				["Bloberta"] = 241,
+				["Grisù"] = 83,
+				["Hellgodness"] = 87,
+				["Worazio"] = 207,
+				["Sbismu"] = 148,
+				["Utal"] = 178,
+				["Voidvenom"] = 546,
+				["Zanxo"] = 191,
+				["Kravits"] = 316,
+				["Beboko"] = 45,
+				["Siikvak"] = 154,
+				["Outofmind"] = 6,
+				["Forgialucee"] = 198,
+				["Avazor"] = 43,
+				["Malarkeyz"] = 342,
+				["Tsubestia"] = 176,
+				["Kundozen"] = 106,
 				["Nexsacrament"] = 122,
-				["Feinroarsh"] = 276,
-				["Graffia"] = 284,
-				["Namadiel"] = 117,
-				["Bulkyaf"] = 46,
-				["Sylxp"] = 432,
-				["Waedrel"] = 181,
-				["Serarthur"] = 404,
-				["Sartener"] = 399,
-				["Ryunijam"] = 145,
-				["Dùplex"] = 8,
-				["Raluf"] = 506,
-				["Sulyeob"] = 427,
-				["Slean"] = 419,
-				["Schefe"] = 400,
-				["Lupodrogato"] = 6,
-				["Yuvad"] = 187,
-				["Trappista"] = 448,
-				["Triplo"] = 451,
-				["Sfigatto"] = 207,
-				["Lèon"] = 110,
-				["Morngrim"] = 357,
-				["Accendilo"] = 27,
-				["Namuel"] = 521,
-				["Jamme"] = 301,
-				["Naizor"] = 361,
-				["Mcgaiyver"] = 113,
-				["Lapatagna"] = 318,
-				["Calboni"] = 48,
-				["Ryuend"] = 396,
-				["Brunovespa"] = 241,
-				["Saloppino"] = 196,
-				["Dhroof"] = 262,
-				["Defedrjl"] = 260,
-				["Hellgød"] = 288,
-				["Amiam"] = 222,
-				["Vametria"] = 457,
-				["Kataross"] = 304,
-				["Divinitass"] = 57,
-				["Yougoboom"] = 475,
-				["Uciddon"] = 455,
-				["Fantozzo"] = 16,
-				["Camadon"] = 516,
-				["Drhaerion"] = 265,
-				["Mavhi"] = 343,
-				["Donpippone"] = 58,
-				["Balabam"] = 232,
-				["Riundo"] = 391,
-				["Ormox"] = 522,
-				["Azhräel"] = 230,
-				["Bellafrigna"] = 42,
-				["Leehara"] = 319,
-				["Lunysse"] = 5,
+				["Feinroarsh"] = 280,
+				["Graffia"] = 287,
+				["Namadiel"] = 118,
+				["Bulkyaf"] = 50,
+				["Sylxp"] = 435,
+				["Waedrel"] = 184,
+				["Serarthur"] = 409,
+				["Sartener"] = 404,
+				["Ryunijam"] = 146,
+				["Dùplex"] = 12,
+				["Raluf"] = 508,
+				["Sulyeob"] = 430,
+				["Slean"] = 423,
+				["Schefe"] = 405,
+				["Lupodrogato"] = 337,
+				["Yuvad"] = 190,
+				["Trappista"] = 451,
+				["Triplo"] = 454,
+				["Sfigatto"] = 211,
+				["Lèon"] = 112,
+				["Morngrim"] = 363,
+				["Accendilo"] = 31,
+				["Namuel"] = 523,
+				["Jamme"] = 304,
+				["Naizor"] = 367,
+				["Mcgaiyver"] = 3,
+				["Lapatagna"] = 322,
+				["Calboni"] = 52,
+				["Ryuend"] = 402,
+				["Brunovespa"] = 245,
+				["Saloppino"] = 200,
+				["Dhroof"] = 266,
+				["Defedrjl"] = 264,
+				["Hellgød"] = 291,
+				["Amiam"] = 226,
+				["Vametria"] = 459,
+				["Kataross"] = 307,
+				["Divinitass"] = 61,
+				["Yougoboom"] = 477,
+				["Uciddon"] = 457,
+				["Fantozzo"] = 20,
+				["Camadon"] = 517,
+				["Drhaerion"] = 269,
+				["Mavhi"] = 349,
+				["Donpippone"] = 62,
+				["Balabam"] = 236,
+				["Riundo"] = 397,
+				["Ormox"] = 524,
+				["Azhräel"] = 234,
+				["Bellafrigna"] = 46,
+				["Leehara"] = 323,
+				["Lunysse"] = 335,
 				["Nonnopeppe"] = 124,
-				["Chròma"] = 250,
-				["Educata"] = 60,
-				["Bigboiilliil"] = 235,
-				["Toscano"] = 447,
-				["Vilblade"] = 179,
-				["Leronida"] = 321,
-				["Maltazars"] = 218,
-				["Cittø"] = 51,
-				["Nagashar"] = 360,
-				["Nyrda"] = 370,
-				["Fantozzino"] = 213,
-				["Kimarit"] = 308,
-				["Eziz"] = 63,
-				["Asgharn"] = 37,
-				["Sandrixis"] = 19,
-				["Toravion"] = 544,
-				["Orkamadonna"] = 215,
-				["Aneras"] = 223,
-				["Bafmir"] = 40,
-				["Hàrtigan"] = 90,
-				["Sipario"] = 156,
-				["Sylvys"] = 431,
-				["Eralas"] = 273,
-				["Mëgrimm"] = 116,
-				["Gheràlt"] = 76,
-				["Cripster"] = 255,
-				["Gnorante"] = 78,
-				["Juggor"] = 97,
-				["Lennart"] = 320,
-				["Skarfaccia"] = 416,
-				["Spitlight"] = 542,
-				["Reaptan"] = 507,
-				["Togrim"] = 444,
-				["Sacranima"] = 199,
-				["Trixter"] = 452,
-				["Glithyen"] = 77,
-				["Tharundil"] = 440,
-				["Reydarth"] = 141,
-				["Throen"] = 441,
-				["Sílikan"] = 433,
-				["Deleyna"] = 261,
-				["Caiazzo"] = 245,
-				["Ggirorammuss"] = 75,
-				["Fellazzo"] = 67,
-				["Omegasoul"] = 375,
-				["Mikeze"] = 197,
-				["Lunartep"] = 330,
-				["나와함께있어"] = 484,
-				["Istardron"] = 495,
-				["Scortese"] = 150,
-				["Krokow"] = 102,
-				["Shebaì"] = 411,
-				["Kerendrhas"] = 307,
-				["Derowere"] = 209,
-				["Eldhoras"] = 200,
-				["Kmeerr"] = 100,
-				["Deltaecho"] = 11,
-				["Hygwirn"] = 89,
-				["Vairæ"] = 217,
-				["Michizane"] = 348,
-				["Scassacaiser"] = 148,
-				["Monkapo"] = 353,
-				["Haromm"] = 81,
-				["Enkìdu"] = 272,
-				["Cramila"] = 254,
-				["Gildarella"] = 494,
-				["Ashlèy"] = 38,
-				["Dawesuma"] = 55,
-				["Morghil"] = 356,
-				["Oloudin"] = 505,
-				["Abbondanzio"] = 26,
-				["Restinpace"] = 140,
-				["Fabioalpha"] = 192,
-				["Keepl"] = 305,
-				["Føzzy"] = 280,
-				["Pierceval"] = 130,
-				["Suledin"] = 162,
-				["Lorgaran"] = 325,
-				["Khyor"] = 212,
-				["Shielis"] = 151,
-				["Cioccolatino"] = 489,
-				["Felaigan"] = 66,
-				["Yehudiel"] = 185,
-				["Shaxir"] = 409,
-				["Prewte"] = 134,
-				["Kequing"] = 98,
+				["Chròma"] = 254,
+				["Educata"] = 64,
+				["Bigboiilliil"] = 239,
+				["Toscano"] = 450,
+				["Vilblade"] = 182,
+				["Leronida"] = 325,
+				["Maltazars"] = 222,
+				["Cittø"] = 55,
+				["Nagashar"] = 366,
+				["Nyrda"] = 377,
+				["Fantozzino"] = 217,
+				["Kimarit"] = 311,
+				["Eziz"] = 67,
+				["Asgharn"] = 41,
+				["Sandrixis"] = 23,
+				["Toravion"] = 545,
+				["Orkamadonna"] = 219,
+				["Aneras"] = 227,
+				["Bafmir"] = 44,
+				["Hàrtigan"] = 94,
+				["Sipario"] = 158,
+				["Sylvys"] = 434,
+				["Eralas"] = 277,
+				["Mëgrimm"] = 117,
+				["Gheràlt"] = 80,
+				["Cripster"] = 259,
+				["Gnorante"] = 82,
+				["Juggor"] = 100,
+				["Lennart"] = 324,
+				["Skarfaccia"] = 420,
+				["Spitlight"] = 543,
+				["Reaptan"] = 509,
+				["Thewatergød"] = 511,
+				["Sacranima"] = 203,
+				["Trixter"] = 455,
+				["Glithyen"] = 81,
+				["Tharundil"] = 443,
+				["Reydarth"] = 142,
+				["Throen"] = 444,
+				["Sílikan"] = 436,
+				["Deleyna"] = 265,
+				["Caiazzo"] = 249,
+				["Icura"] = 1,
+				["Fellazzo"] = 71,
+				["Omegasoul"] = 382,
+				["Mikeze"] = 201,
+				["Lunartep"] = 334,
+				["Diiogosantos"] = 11,
+				["Istardron"] = 496,
+				["Scortese"] = 151,
+				["Krokow"] = 105,
+				["Shebaì"] = 415,
+				["Kerendrhas"] = 310,
+				["Derowere"] = 213,
+				["Eldhoras"] = 204,
+				["Kmeerr"] = 103,
+				["Deltaecho"] = 15,
+				["Hygwirn"] = 93,
+				["Vairæ"] = 221,
+				["Michizane"] = 354,
+				["Scassacaiser"] = 149,
+				["Monkapo"] = 359,
+				["Haromm"] = 85,
+				["Enkìdu"] = 276,
+				["Cramila"] = 258,
+				["Gildarella"] = 495,
+				["Ashlèy"] = 42,
+				["Dawesuma"] = 59,
+				["Morghil"] = 362,
+				["Oloudin"] = 507,
+				["Abbondanzio"] = 30,
+				["Restinpace"] = 141,
+				["Fabioalpha"] = 196,
+				["Keepl"] = 308,
+				["Pierceval"] = 131,
+				["Suledin"] = 165,
+				["Lorgaran"] = 329,
+				["Khyor"] = 216,
+				["Shielis"] = 152,
+				["Cioccolatino"] = 491,
+				["Felaigan"] = 70,
+				["Yehudiel"] = 188,
+				["Shaxir"] = 8,
+				["Prewte"] = 135,
+				["Kequing"] = 101,
 				["Nathanalgren"] = 119,
-				["Ihealyoualot"] = 92,
-				["Tezzerek"] = 439,
-				["Hexeris"] = 86,
-				["Sumphiè"] = 428,
-				["Passerina"] = 381,
+				["Ihealyoualot"] = 95,
+				["Tezzerek"] = 442,
+				["Hexeris"] = 90,
+				["Sumphiè"] = 431,
+				["Passerina"] = 387,
 				["Notready"] = 125,
-				["Tachitank"] = 25,
-				["Altrove"] = 486,
-				["Héxèn"] = 532,
-				["Shimdra"] = 413,
-				["Zetior"] = 189,
-				["Tomare"] = 445,
-				["Tricex"] = 450,
-				["Rãzer"] = 398,
-				["Silveross"] = 155,
-				["Maronnø"] = 112,
-				["Elfalassion"] = 492,
-				["Tiaprodicure"] = 168,
-				["Likius"] = 106,
-				["Horbus"] = 87,
-				["Wolvg"] = 469,
-				["Napellus"] = 118,
-				["Orepain"] = 376,
-				["Diofaii"] = 263,
-				["Monktcher"] = 24,
-				["Kiritonaruto"] = 309,
-				["Aphrö"] = 515,
-				["Scisma"] = 524,
-				["Forgrin"] = 278,
-				["Invèl"] = 299,
-				["Erfreddo"] = 274,
-				["Thànatoss"] = 443,
-				["Giroorrammus"] = 283,
-				["Tweekay"] = 174,
-				["Angroboda"] = 32,
-				["Peewéè"] = 382,
-				["Rheshur"] = 142,
-				["Lìlìthx"] = 332,
+				["Tachitank"] = 29,
+				["Altrove"] = 488,
+				["Héxèn"] = 533,
+				["Shimdra"] = 417,
+				["Zetior"] = 192,
+				["Tomare"] = 448,
+				["Tricex"] = 453,
+				["Rãzer"] = 403,
+				["Silveross"] = 157,
+				["Maronnø"] = 114,
+				["Elfalassion"] = 493,
+				["Tiaprodicure"] = 171,
+				["Likius"] = 109,
+				["Horbus"] = 91,
+				["Wolvg"] = 471,
+				["Napellus"] = 369,
+				["Orepain"] = 383,
+				["Diofaii"] = 267,
+				["Monktcher"] = 28,
+				["Kiritonaruto"] = 312,
+				["Aphrö"] = 13,
+				["Scisma"] = 526,
+				["Forgrin"] = 282,
+				["Invèl"] = 302,
+				["Erfreddo"] = 278,
+				["Thànatoss"] = 446,
+				["Giroorrammus"] = 286,
+				["Tweekay"] = 177,
+				["Angroboda"] = 36,
+				["Peewéè"] = 388,
+				["Rheshur"] = 143,
+				["Tobako"] = 544,
+				["Soulstorm"] = 542,
+				["Lìlìthx"] = 338,
+				["Nightingales"] = 537,
+				["Monksparrow"] = 536,
 				["Nemeral"] = 121,
-				["Cøser"] = 54,
-				["Roddys"] = 144,
-				["Dàmakos"] = 59,
-				["Horfeius"] = 88,
-				["Robertagemma"] = 392,
-				["Darthdat"] = 259,
-				["Maexana"] = 333,
-				["Faccioschifo"] = 517,
-				["Bonbonette"] = 238,
-				["Mirrormask"] = 520,
-				["Vicros"] = 462,
-				["Larkano"] = 105,
-				["Mindshock"] = 195,
-				["Rakumajin"] = 136,
-				["Dudubau"] = 266,
-				["Fiontann"] = 277,
-				["Torinlak"] = 446,
-				["Ildaran"] = 296,
-				["Zeddo"] = 479,
-				["Glimmerisbae"] = 15,
-				["Veonn"] = 458,
-				["Vixeñt"] = 464,
-				["Ömegasoül"] = 191,
-				["Azritardo"] = 231,
-				["Erotis"] = 62,
-				["Furiousguy"] = 279,
-				["Cded"] = 488,
-				["Vinniy"] = 463,
-				["Yuksana"] = 186,
-				["Thyrsus"] = 510,
-				["Babyruth"] = 529,
-				["Sílkan"] = 434,
-				["Molfred"] = 351,
-				["Addolorata"] = 28,
-				["Gesùhcristho"] = 74,
-				["Mòrningstar"] = 359,
-				["Vincenth"] = 180,
-				["Occhidifalco"] = 374,
-				["Bigrip"] = 530,
-				["Lostaigan"] = 498,
-				["Ezizzo"] = 64,
-				["Marò"] = 500,
-				["Limoncé"] = 322,
-				["Hellonfire"] = 85,
-				["Ssuckerpunch"] = 424,
-				["Alastõr"] = 514,
-				["Sucren"] = 426,
-				["Hedalexxa"] = 518,
-				["Movediamo"] = 115,
-				["Corsini"] = 52,
-				["Michelaccio"] = 347,
-				["Porcojisus"] = 389,
-				["Malphasat"] = 338,
-				["Annalhix"] = 224,
-				["Ylvina"] = 474,
-				["Maziken"] = 344,
-				["Bigsavof"] = 485,
-				["Karkna"] = 303,
-				["Radern"] = 538,
-				["Khaterian"] = 99,
-				["Sgnaccherona"] = 407,
-				["Lupioppu"] = 331,
-				["Hynco"] = 294,
-				["Seyw"] = 406,
-				["Vescken"] = 461,
-				["Reghiaccio"] = 539,
-				["Soulstorm"] = 541,
-				["Scontroso"] = 401,
-				["Sunsone"] = 429,
+				["Cøser"] = 58,
+				["Roddys"] = 145,
+				["Magmafist"] = 534,
+				["Dàmakos"] = 63,
+				["Cartonio"] = 532,
+				["Arcassian"] = 529,
+				["Horfeius"] = 92,
+				["Xubuntu"] = 528,
+				["Pinturicchìo"] = 525,
+				["Faccioschifo"] = 519,
+				["Edwardngate"] = 518,
+				["Robertagemma"] = 398,
+				["Vinegar"] = 513,
+				["Sarfdh"] = 510,
+				["Motimoto"] = 504,
+				["Mgnwhitejack"] = 503,
+				["Darthdat"] = 263,
+				["Maexana"] = 339,
+				["Mastrobirro"] = 502,
+				["Luiji"] = 332,
+				["Maccio"] = 500,
+				["Bonbonette"] = 242,
+				["Mirrormask"] = 522,
+				["Vicros"] = 464,
+				["Leezard"] = 498,
+				["Larkano"] = 108,
+				["Gennarinodk"] = 494,
+				["Dainar"] = 492,
+				["Cded"] = 490,
+				["Mindshock"] = 199,
+				["Betrakill"] = 489,
+				["나와함께있어"] = 486,
+				["Rakumajin"] = 137,
+				["Катнячи"] = 485,
+				["Dudubau"] = 270,
+				["Zopporior"] = 484,
+				["Zomgasm"] = 483,
+				["Zerosen"] = 482,
+				["Fiontann"] = 281,
+				["Yursan"] = 479,
+				["Yajsha"] = 475,
+				["Worgnareff"] = 472,
+				["Warcurie"] = 469,
+				["Torinlak"] = 449,
+				["Warbike"] = 468,
+				["Ildaran"] = 299,
+				["Voidaok"] = 467,
+				["Vergilisaak"] = 462,
+				["Vergator"] = 461,
+				["Zeddo"] = 481,
+				["Glimmerisbae"] = 19,
+				["Utargo"] = 458,
+				["Veonn"] = 460,
+				["Vixeñt"] = 466,
+				["Tteco"] = 9,
+				["Trodin"] = 456,
+				["Ömegasoül"] = 194,
+				["Togrim"] = 447,
+				["Azritardo"] = 235,
+				["Erotis"] = 66,
+				["Furiousguy"] = 283,
+				["Sírøp"] = 438,
+				["Sílkan"] = 437,
+				["Demonutcher"] = 60,
+				["Swan"] = 433,
+				["Vinniy"] = 465,
+				["Sunsone"] = 432,
+				["Sucren"] = 429,
+				["Yuksana"] = 189,
+				["Thyrsus"] = 512,
+				["Stendipanni"] = 428,
+				["Ssuckerpunch"] = 427,
+				["Babyruth"] = 530,
+				["Slamarr"] = 422,
+				["Mikyr"] = 355,
+				["Skydeòla"] = 421,
+				["Molfred"] = 357,
+				["Shyvàr"] = 419,
+				["Shdiame"] = 414,
+				["Shankàr"] = 413,
+				["Scontroso"] = 406,
+				["Addolorata"] = 32,
+				["Rtpi"] = 401,
+				["Roybeard"] = 399,
+				["Porcoss"] = 396,
+				["Gesùhcristho"] = 78,
+				["Mòrningstar"] = 365,
+				["Porcojisus"] = 395,
+				["Pertekk"] = 391,
+				["Penna"] = 389,
+				["Pappona"] = 386,
+				["Panzerotto"] = 385,
+				["Orkrux"] = 384,
+				["Occhidifalco"] = 381,
+				["Oblider"] = 380,
+				["Vincenth"] = 183,
+				["Obelixos"] = 379,
+				["Mondom"] = 358,
+				["Bigrip"] = 531,
+				["Nileen"] = 373,
+				["Newroz"] = 372,
+				["Nathalfire"] = 371,
+				["Narsarian"] = 370,
+				["Lostaigan"] = 499,
+				["Myrddyn"] = 364,
+				["Mentorallo"] = 352,
+				["Maziken"] = 350,
+				["Matomaz"] = 347,
+				["Mascalzone"] = 346,
+				["Ezizzo"] = 68,
+				["Mapam"] = 345,
+				["Malasil"] = 343,
+				["Marò"] = 501,
+				["Mahonri"] = 341,
+				["Limoncé"] = 326,
+				["Magüwu"] = 340,
+				["Hellonfire"] = 89,
+				["Stagncare"] = 162,
+				["Lunabianca"] = 333,
+				["Alastõr"] = 516,
+				["Arghal"] = 37,
+				["Lucanø"] = 331,
+				["Hedalexxa"] = 520,
+				["Lohacker"] = 328,
+				["Lodolfan"] = 327,
+				["Movediamo"] = 116,
+				["Kàtsumoto"] = 320,
+				["Kyreogun"] = 318,
+				["Kravio"] = 315,
+				["Klaplongen"] = 313,
+				["Corsini"] = 56,
+				["Michelaccio"] = 353,
+				["Jainasky"] = 303,
+				["Immortaris"] = 301,
+				["Illidanstorn"] = 300,
+				["Hérmione"] = 298,
+				["Madamachips"] = 113,
+				["Hynco"] = 297,
+				["Malphasat"] = 344,
+				["Holytankdps"] = 295,
+				["Annalhix"] = 228,
+				["Helvera"] = 293,
+				["Hellondon"] = 292,
+				["Hazgalord"] = 290,
+				["Ylvina"] = 476,
+				["Havocado"] = 289,
+				["Gaudee"] = 284,
+				["Citto"] = 54,
+				["Enboss"] = 274,
+				["Bigsavof"] = 487,
+				["Karkna"] = 306,
+				["Radern"] = 539,
+				["Ellenafrost"] = 273,
+				["Elizabethya"] = 272,
+				["Darkvincent"] = 262,
+				["Colonnello"] = 257,
+				["Codyellow"] = 256,
+				["Clemanthis"] = 255,
+				["Brutum"] = 246,
+				["Bretaren"] = 244,
+				["Khaterian"] = 102,
+				["Beddamagra"] = 238,
+				["Sgnaccherona"] = 412,
+				["Lupioppu"] = 336,
+				["Pataturk"] = 214,
+				["Atrèyu"] = 212,
+				["Stanach"] = 209,
+				["Kakashyx"] = 208,
+				["Dulsar"] = 271,
+				["Seyw"] = 411,
+				["Chulest"] = 206,
+				["Vescken"] = 10,
+				["Reghiaccio"] = 540,
+				["Tepiallo"] = 197,
+				["喝得开心"] = 195,
+				["Soulgyrl"] = 425,
+				["Aleregor"] = 225,
+				["Xylya"] = 187,
+				["Lunany"] = 2,
+				["Whiskyno"] = 185,
 				["Nemeas"] = 120,
-				["Arkimmonde"] = 36,
-				["Lanadelgay"] = 4,
-				["Zeramos"] = 546,
-				["Pappona"] = 380,
-				["Anfame"] = 31,
-				["Blackfatdudu"] = 236,
-				["Nakut"] = 362,
-				["Spongeboob"] = 158,
-				["Ripto"] = 12,
-				["Silkan"] = 154,
-				["Bischero"] = 44,
-				["Remuus"] = 139,
-				["Nylon"] = 369,
-				["Arianisha"] = 34,
-				["Zacharael"] = 478,
-				["Kreferis"] = 519,
-				["Veòn"] = 7,
-				["Pìobotte"] = 135,
-				["Tayalos"] = 166,
-				["Mentorallo"] = 346,
-				["Cerediirn"] = 248,
-				["Texnort"] = 438,
-				["Kayronz"] = 496,
-				["Xerazon"] = 472,
-				["Tobako"] = 543,
-				["Aphraw"] = 18,
-				["Maccio"] = 499,
-				["Vinegar"] = 511,
-				["Leezard"] = 497,
-				["Favatron"] = 65,
-				["Zopporior"] = 482,
-				["Zomgasm"] = 481,
-				["Yajsha"] = 473,
-				["Betrakill"] = 487,
-				["Phelpsina"] = 387,
-				["Vergilisaak"] = 460,
-				["Vergator"] = 459,
-				["Grrdragone"] = 285,
-				["Starshine"] = 160,
-				["Demonutcher"] = 56,
-				["Spiedo"] = 422,
-				["Skydeòla"] = 417,
-				["Missitalia"] = 350,
-				["Shdiame"] = 410,
-				["Shankàr"] = 408,
-				["Synshin"] = 165,
-				["Rtpi"] = 395,
-				["Edwardngate"] = 10,
-				["Oblider"] = 373,
-				["Mondom"] = 352,
-				["Adrenym"] = 513,
-				["Mgnwhitejack"] = 502,
-				["Cunken"] = 53,
-				["Joibe"] = 302,
-				["Sarfdh"] = 508,
-				["Stagncare"] = 159,
-				["Chulest"] = 202,
-				["Picchialo"] = 129,
-				["Lucanø"] = 327,
-				["Palmino"] = 127,
-				["Klaplongen"] = 310,
-				["Thodo"] = 206,
-				["Jainasky"] = 300,
-				["Notanhealer"] = 367,
-				["Illidanstorn"] = 297,
-				["Dainar"] = 490,
-				["Ryumajin"] = 397,
-				["Auryarmy"] = 229,
-				["Thewatergød"] = 509,
-				["Venticello"] = 176,
-				["Yukeyuk"] = 476,
-				["Yursan"] = 477,
-				["Elizabethya"] = 268,
-				["Clemanthis"] = 251,
-				["Kàtsumoto"] = 317,
-				["Porcoss"] = 390,
-				["Myrddyn"] = 358,
-				["Atrèyu"] = 208,
-				["Cyou"] = 256,
-				["Hersik"] = 291,
+				["Arkimmonde"] = 40,
+				["Lanadelgay"] = 321,
+				["Zeramos"] = 547,
+				["Torandil"] = 174,
+				["Tonante"] = 173,
+				["Hersik"] = 294,
+				["Tayalos"] = 169,
+				["Anfame"] = 35,
+				["Spiedo"] = 160,
+				["Blackfatdudu"] = 240,
+				["Nakut"] = 368,
+				["Spongeboob"] = 161,
+				["Ripto"] = 16,
+				["Silkan"] = 156,
+				["Bischero"] = 48,
+				["Slore"] = 159,
+				["Shinigaming"] = 153,
+				["Remuus"] = 140,
+				["Nylon"] = 376,
+				["Sandokaz"] = 147,
+				["Arianisha"] = 38,
+				["Ramigno"] = 138,
+				["Pippomio"] = 132,
+				["Pasticciotto"] = 129,
+				["Motinculo"] = 115,
+				["Zacharael"] = 480,
+				["Kreferis"] = 521,
+				["Joemum"] = 98,
+				["Veòn"] = 463,
+				["Hellhaimh"] = 88,
+				["Pìobotte"] = 136,
+				["Halbuz"] = 84,
+				["Redaemon"] = 139,
+				["Trikì"] = 175,
+				["Cerediirn"] = 252,
+				["Ggirorammuss"] = 79,
+				["Furchetta"] = 75,
+				["Fharhenheit"] = 73,
+				["Texnort"] = 441,
+				["Kayronz"] = 497,
+				["Xerazon"] = 474,
+				["Arkandiel"] = 39,
+				["Aphraw"] = 22,
+				["Notcøser"] = 375,
+				["Favatron"] = 69,
+				["Expelliamus"] = 279,
+				["Fharhenhait"] = 72,
+				["Phelpsina"] = 393,
+				["Missitalia"] = 356,
+				["Synshin"] = 168,
+				["Adrenym"] = 515,
+				["Cunken"] = 57,
+				["Joibe"] = 305,
+				["Flavià"] = 74,
+				["Picchialo"] = 130,
+				["Palmino"] = 128,
+				["Thodo"] = 210,
+				["Notanhealer"] = 374,
+				["Dleeygh"] = 268,
+				["Shishield"] = 17,
+				["Ryumajin"] = 7,
+				["Venticello"] = 179,
+				["Yukeyuk"] = 478,
+				["Orlandoboom"] = 126,
+				["Menfro"] = 351,
+				["Cyou"] = 261,
 				["Nojak"] = 123,
-				["Xellallaro"] = 512,
-				["Bölim"] = 47,
-				["Joemum"] = 95,
-				["Slore"] = 157,
-				["Mascalzone"] = 340,
-				["Icura"] = 91,
-				["Redaemon"] = 138,
-				["Scriptø"] = 402,
-				["Lkwhitejack"] = 107,
-				["Furchetta"] = 71,
-				["Fharhenheit"] = 69,
-				["Obelixos"] = 372,
-				["Bâal"] = 244,
-				["Goldbrake"] = 17,
-				["Heliur"] = 82,
-				["Brutum"] = 242,
-				["Garlaw"] = 73,
-				["Expelliamus"] = 275,
-				["Nileen"] = 366,
-				["Dleeygh"] = 264,
-				["Vergillsaak"] = 177,
-				["Menfro"] = 345,
-				["Presideny"] = 133,
-				["Krystrid"] = 314,
-				["Rhytta"] = 143,
-				["Kravio"] = 312,
-				["Warbike"] = 466,
-				["Kèisèr"] = 104,
-				["Taalrasha"] = 436,
-				["Seslena"] = 405,
-				["Whualla"] = 183,
-				["Motimoto"] = 9,
-				["Nitro"] = 537,
-				["Arkandiel"] = 35,
-				["Afflipotato"] = 30,
-				["Utcher"] = 526,
-				["Adrenya"] = 29,
-				["Mahonri"] = 335,
-				["Hérmione"] = 295,
-				["Arhamiss"] = 225,
-				["Arteidas"] = 226,
-				["Shweppès"] = 414,
-				["Arghal"] = 33,
-				["Treviar"] = 449,
-				["Atralmoore"] = 228,
-				["Vergilsaak"] = 178,
-				["Xanatar"] = 211,
-				["Zerosen"] = 480,
-				["Lohacker"] = 324,
-				["Xophob"] = 21,
-				["Mariagreco"] = 534,
-				["Lodolfan"] = 323,
-				["Scipione"] = 149,
-				["Gangki"] = 72,
-				["Chentherba"] = 249,
-				["Abù"] = 219,
-				["Grandag"] = 23,
-				["Istardrona"] = 94,
-				["Pisellonus"] = 132,
-				["Monsone"] = 354,
-				["Narsarian"] = 363,
-				["Orlandoboom"] = 1,
-				["Fharhenhait"] = 68,
-				["Notcøser"] = 368,
-				["Roarwolf"] = 540,
-				["Immortaris"] = 298,
-				["Halbuz"] = 80,
-				["Nyrtica"] = 371,
-				["Tachinano"] = 20,
-				["Tonante"] = 170,
-				["Polpettøne"] = 388,
-				["Panzerotto"] = 379,
-				["Joepapa"] = 96,
-				["Cædrel"] = 257,
-				["Gbciaciolo"] = 282,
-				["Trikì"] = 172,
-				["Motinculo"] = 114,
-				["Sudeky"] = 161,
-				["Bretaren"] = 240,
-				["Wlaud"] = 468,
-				["Worryor"] = 471,
-				["Sinaestroz"] = 525,
-				["Pasticciotto"] = 128,
-				["Matomaz"] = 341,
-				["Ramigno"] = 137,
-				["Sandokaz"] = 146,
-				["Shinigaming"] = 152,
-				["Warcurie"] = 467,
-				["Torandil"] = 171,
-				["Silentkarma"] = 153,
-				["Whiskyno"] = 182,
-				["Spinta"] = 423,
-				["Xylya"] = 184,
-				["喝得开心"] = 2,
-				["Lunany"] = 108,
-				["Tepiallo"] = 193,
-				["Lyndiel"] = 109,
-				["Malasil"] = 337,
-				["Aleregor"] = 221,
-				["Soulgyrl"] = 421,
-				["Kakashyx"] = 204,
-				["Stanach"] = 205,
-				["Dulsar"] = 267,
-				["Calliut"] = 49,
-				["Pataturk"] = 210,
-				["Aeriet"] = 220,
-				["Beddamagra"] = 234,
-				["Ellorie"] = 61,
-				["Codyellow"] = 252,
-				["Colonnello"] = 253,
-				["Darkvincent"] = 258,
-				["Sdentato"] = 403,
-				["Ellenafrost"] = 269,
-				["Kokkonut"] = 311,
-				["Gaudee"] = 281,
-				["Citto"] = 50,
-				["Havocado"] = 286,
-				["Hazgalord"] = 287,
-				["Hellondon"] = 289,
-				["Orkrux"] = 377,
-				["Smashingrey"] = 420,
-				["Hellhaimh"] = 84,
-				["Madamachips"] = 111,
-				["Brember"] = 239,
-				["Korlly"] = 101,
-				["Ceolwulf"] = 247,
-				["Shishield"] = 13,
-				["Trodin"] = 453,
-				["Kyreogun"] = 315,
-				["Horfeo"] = 293,
-				["Supernàna"] = 164,
-				["Lunabianca"] = 329,
-				["Knùt"] = 22,
-				["Cartonio"] = 531,
-				["Kereman"] = 306,
-				["Magüwu"] = 334,
-				["Suocera"] = 163,
-				["Pippomio"] = 131,
-				["Sírøp"] = 435,
-				["Arturoduro"] = 227,
-				["Voidaok"] = 465,
-				["Monksparrow"] = 535,
-				["Nathalfire"] = 364,
-				["Newroz"] = 365,
-				["Paciccio"] = 126,
-				["Flavià"] = 70,
-				["Helldør"] = 214,
-				["Helvera"] = 290,
-				["Penna"] = 383,
-				["Pertekk"] = 385,
-				["Roybeard"] = 393,
-				["Enboss"] = 270,
-				["Elferico"] = 198,
-				["Kanthena"] = 216,
-				["Mattewus"] = 342,
-				["Shyvàr"] = 415,
-				["Mikyr"] = 349,
-				["Castorina"] = 246,
-				["Slamarr"] = 418,
-				["Berlusconi"] = 43,
-				["Stendipanni"] = 425,
-				["Peppetto"] = 384,
-				["Gennarinodk"] = 493,
-				["Swan"] = 430,
-				["Tteco"] = 454,
-				["Utargo"] = 456,
-				["Ziapina"] = 190,
-				["Shernyl"] = 412,
-				["Moonquake"] = 355,
-				["Worgnareff"] = 470,
-				["Bàrbablu"] = 243,
-				["Rrayne"] = 394,
-				["Thyej"] = 442,
-				["Катнячи"] = 483,
-				["Diiogosantos"] = 491,
-				["Bruciali"] = 45,
-				["Luiji"] = 328,
-				["Mastrobirro"] = 501,
-				["Mapam"] = 339,
-				["Holytankdps"] = 292,
-				["Kyuzz"] = 316,
-				["Pinturicchìo"] = 523,
-				["Xubuntu"] = 527,
-				["Arcassian"] = 528,
-				["Magmafist"] = 533,
-				["Nightingales"] = 536,
-				["Barbera"] = 233,
+				["Xellallaro"] = 514,
+				["Bölim"] = 51,
+				["Gangki"] = 76,
+				["Supernàna"] = 167,
+				["Scriptø"] = 407,
+				["Bâal"] = 248,
+				["Goldbrake"] = 21,
+				["Heliur"] = 86,
+				["Xophob"] = 25,
+				["Vergillsaak"] = 180,
+				["Krystrid"] = 317,
+				["Rhytta"] = 144,
+				["Kèisèr"] = 107,
+				["Taalrasha"] = 439,
+				["Seslena"] = 410,
+				["Whualla"] = 186,
+				["Nitro"] = 538,
+				["Utcher"] = 14,
+				["Adrenya"] = 33,
+				["Arhamiss"] = 229,
+				["Arteidas"] = 230,
+				["Shweppès"] = 418,
+				["Treviar"] = 452,
+				["Xanatar"] = 215,
+				["Knùt"] = 26,
+				["Vergilsaak"] = 181,
+				["Mariagreco"] = 535,
+				["Scipione"] = 150,
+				["Abù"] = 223,
+				["Istardrona"] = 97,
+				["Pisellonus"] = 133,
+				["Monsone"] = 360,
+				["Chentherba"] = 253,
+				["Roarwolf"] = 541,
+				["Nyrtica"] = 378,
+				["Tachinano"] = 24,
+				["Polpettøne"] = 394,
+				["Joepapa"] = 99,
+				["Cædrel"] = 4,
+				["Gbciaciolo"] = 285,
+				["Sudeky"] = 164,
+				["Wlaud"] = 470,
+				["Worryor"] = 473,
+				["Sinaestroz"] = 527,
+				["Silentkarma"] = 155,
+				["Spinta"] = 426,
+				["Lyndiel"] = 111,
+				["Calliut"] = 53,
+				["Aeriet"] = 224,
+				["Ellorie"] = 65,
+				["Sdentato"] = 408,
+				["Kokkonut"] = 314,
+				["Smashingrey"] = 424,
+				["Brember"] = 243,
+				["Korlly"] = 104,
+				["Ceolwulf"] = 251,
+				["Grandag"] = 27,
+				["Horfeo"] = 296,
+				["Atralmoore"] = 232,
+				["Kereman"] = 309,
+				["Suocera"] = 166,
+				["Afflipotato"] = 34,
+				["Arturoduro"] = 231,
+				["Presideny"] = 134,
+				["Paciccio"] = 127,
+				["Helldør"] = 218,
+				["Garlaw"] = 77,
+				["Lkwhitejack"] = 110,
+				["Elferico"] = 202,
+				["Kanthena"] = 220,
+				["Mattewus"] = 348,
+				["Castorina"] = 250,
+				["Berlusconi"] = 47,
+				["Peppetto"] = 390,
+				["Auryarmy"] = 233,
+				["Liomi"] = 5,
+				["Ziapina"] = 193,
+				["Shernyl"] = 416,
+				["Moonquake"] = 361,
+				["Bàrbablu"] = 247,
+				["Rrayne"] = 400,
+				["Thyej"] = 445,
+				["Bruciali"] = 49,
+				["Starshine"] = 163,
+				["Grrdragone"] = 288,
+				["Kyuzz"] = 319,
+				["Barbera"] = 237,
 			},
 		},
 	},
@@ -2850,20 +2851,12 @@ WIM3_History = {
 			["Codyellow"] = {
 				{
 					["type"] = 1,
-					["time"] = 1624310777,
-					["from"] = "Codyellow",
-					["msg"] = "fai tu dps?",
-					["inbound"] = true,
-					["convo"] = "Codyellow",
-				}, -- [1]
-				{
-					["type"] = 1,
 					["time"] = 1624546257,
 					["from"] = "Mariagreco",
 					["msg"] = "chi siete per la chiave?",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [2]
+				}, -- [1]
 				{
 					["type"] = 1,
 					["time"] = 1624633906,
@@ -2871,7 +2864,7 @@ WIM3_History = {
 					["msg"] = "hai una 15?",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [3]
+				}, -- [2]
 				{
 					["type"] = 1,
 					["time"] = 1624633909,
@@ -2879,7 +2872,7 @@ WIM3_History = {
 					["msg"] = "sisi",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [4]
+				}, -- [3]
 				{
 					["type"] = 1,
 					["time"] = 1624633916,
@@ -2887,7 +2880,7 @@ WIM3_History = {
 					["msg"] = "ma la tengo per falra con chiara",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [5]
+				}, -- [4]
 				{
 					["type"] = 1,
 					["time"] = 1624633920,
@@ -2895,7 +2888,7 @@ WIM3_History = {
 					["msg"] = "ah okok",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [6]
+				}, -- [5]
 				{
 					["type"] = 1,
 					["time"] = 1624633931,
@@ -2903,7 +2896,7 @@ WIM3_History = {
 					["msg"] = "sto cercando da 2 giorni di farla fare a tommy",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [7]
+				}, -- [6]
 				{
 					["type"] = 1,
 					["time"] = 1624633934,
@@ -2911,7 +2904,7 @@ WIM3_History = {
 					["msg"] = "poi se vuoi partecipare quando si farà ben venga",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [8]
+				}, -- [7]
 				{
 					["type"] = 1,
 					["time"] = 1624633938,
@@ -2919,7 +2912,7 @@ WIM3_History = {
 					["msg"] = "ma dio caro la gente lefta le chiavi",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [9]
+				}, -- [8]
 				{
 					["type"] = 1,
 					["time"] = 1624633949,
@@ -2927,7 +2920,7 @@ WIM3_History = {
 					["msg"] = "perchè lefta?",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [10]
+				}, -- [9]
 				{
 					["type"] = 1,
 					["time"] = 1624633974,
@@ -2935,7 +2928,7 @@ WIM3_History = {
 					["msg"] = "comunque io tommy non lo conosco e penso di non averci mai parlato, però non è la prima volta che sento che elemosina una 15",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [11]
+				}, -- [10]
 				{
 					["type"] = 1,
 					["time"] = 1624633993,
@@ -2943,7 +2936,7 @@ WIM3_History = {
 					["msg"] = "perche piu che altro lui vuole farla di gilda",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [12]
+				}, -- [11]
 				{
 					["type"] = 1,
 					["time"] = 1624633995,
@@ -2951,7 +2944,7 @@ WIM3_History = {
 					["msg"] = "non puggarla",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [13]
+				}, -- [12]
 				{
 					["type"] = 1,
 					["time"] = 1624634029,
@@ -2959,7 +2952,7 @@ WIM3_History = {
 					["msg"] = "ma una domanda... lui che chiave ha? ",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [14]
+				}, -- [13]
 				{
 					["type"] = 1,
 					["time"] = 1624634034,
@@ -2967,7 +2960,7 @@ WIM3_History = {
 					["msg"] = "una 14 scommetto",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [15]
+				}, -- [14]
 				{
 					["type"] = 1,
 					["time"] = 1624634042,
@@ -2975,7 +2968,7 @@ WIM3_History = {
 					["msg"] = "ora si ",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [16]
+				}, -- [15]
 				{
 					["type"] = 1,
 					["time"] = 1624634050,
@@ -2983,7 +2976,7 @@ WIM3_History = {
 					["msg"] = "dio caro avevamo appena startato underoot 15",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [17]
+				}, -- [16]
 				{
 					["type"] = 1,
 					["time"] = 1624634058,
@@ -2991,7 +2984,7 @@ WIM3_History = {
 					["msg"] = "l'healer ha leftato appena ingaggiato il primo boss",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [18]
+				}, -- [17]
 				{
 					["type"] = 1,
 					["time"] = 1624634070,
@@ -2999,7 +2992,7 @@ WIM3_History = {
 					["msg"] = "dovevi chiamare me |Helvmoji:%OlA=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\StuckOutTongue:16:16|t",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [19]
+				}, -- [18]
 				{
 					["type"] = 1,
 					["time"] = 1624634078,
@@ -3007,7 +3000,7 @@ WIM3_History = {
 					["msg"] = "eh stavo a sistema sto pc del cazzo",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [20]
+				}, -- [19]
 				{
 					["type"] = 1,
 					["time"] = 1624634081,
@@ -3015,7 +3008,7 @@ WIM3_History = {
 					["msg"] = "mi facevo il sangue marcio ma sarei rimasto",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [21]
+				}, -- [20]
 				{
 					["type"] = 1,
 					["time"] = 1624634332,
@@ -3023,7 +3016,7 @@ WIM3_History = {
 					["msg"] = "si esatto anche io mi farei il sangue marcio per finirla",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [22]
+				}, -- [21]
 				{
 					["type"] = 1,
 					["time"] = 1624634343,
@@ -3031,7 +3024,7 @@ WIM3_History = {
 					["msg"] = "perche rispetto a tanta gente io aiuto pure a fare m0",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [23]
+				}, -- [22]
 				{
 					["type"] = 1,
 					["time"] = 1624634399,
@@ -3039,7 +3032,7 @@ WIM3_History = {
 					["msg"] = "ora devo staccare, ci vediamo Ale!",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [24]
+				}, -- [23]
 				{
 					["type"] = 1,
 					["time"] = 1624634409,
@@ -3047,7 +3040,7 @@ WIM3_History = {
 					["msg"] = "ciao fra",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [25]
+				}, -- [24]
 				{
 					["type"] = 1,
 					["time"] = 1625070906,
@@ -3055,7 +3048,7 @@ WIM3_History = {
 					["msg"] = "che dici fra?",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [26]
+				}, -- [25]
 				{
 					["type"] = 1,
 					["time"] = 1625070922,
@@ -3063,7 +3056,7 @@ WIM3_History = {
 					["msg"] = "ma nulla, ho visto che stremmavano, poi ho visto il raid",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [27]
+				}, -- [26]
 				{
 					["type"] = 1,
 					["time"] = 1625070930,
@@ -3071,7 +3064,7 @@ WIM3_History = {
 					["msg"] = "|cffe6cc80|Hitem:173885::::::::120:102:512:::120:::|h[Goccia del Vuoto Instabile]|h|r a me serviva per questa",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [28]
+				}, -- [27]
 				{
 					["type"] = 1,
 					["time"] = 1625070932,
@@ -3079,7 +3072,7 @@ WIM3_History = {
 					["msg"] = "idem hahaah",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [29]
+				}, -- [28]
 				{
 					["type"] = 1,
 					["time"] = 1625070962,
@@ -3087,7 +3080,7 @@ WIM3_History = {
 					["msg"] = "la usi come minor?",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [30]
+				}, -- [29]
 				{
 					["type"] = 1,
 					["time"] = 1625070975,
@@ -3095,7 +3088,7 @@ WIM3_History = {
 					["msg"] = "in realtà non la uso proprio, ma la volevo",
 					["inbound"] = false,
 					["convo"] = "Codyellow",
-				}, -- [31]
+				}, -- [30]
 				{
 					["type"] = 1,
 					["time"] = 1625070981,
@@ -3103,7 +3096,7 @@ WIM3_History = {
 					["msg"] = "ah ok hahaha",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [32]
+				}, -- [31]
 				{
 					["type"] = 1,
 					["time"] = 1625070984,
@@ -3111,111 +3104,219 @@ WIM3_History = {
 					["msg"] = "giusto cosi",
 					["inbound"] = true,
 					["convo"] = "Codyellow",
-				}, -- [33]
+				}, -- [32]
 				["info"] = {
 				},
 			},
-			["Hedalexxa"] = {
+			["Grisù"] = {
 				{
 					["type"] = 1,
-					["time"] = 1624178637,
+					["time"] = 1624692388,
 					["from"] = "Mariagreco",
-					["msg"] = "|Helvmoji:%PDM=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Heart:16:16|t",
+					["msg"] = "sei leo o suo figlio?",
 					["inbound"] = false,
-					["convo"] = "Hedalexxa",
+					["convo"] = "Grisù",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1624178643,
-					["from"] = "Mariagreco",
-					["msg"] = "sei tu?",
-					["inbound"] = false,
-					["convo"] = "Hedalexxa",
+					["time"] = 1624692406,
+					["from"] = "Grisù",
+					["msg"] = "nessuno dei 2 sono il tuo incubo",
+					["inbound"] = true,
+					["convo"] = "Grisù",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1624178660,
-					["from"] = "Hedalexxa",
-					["msg"] = "ciao fra, sisi sono io |Helvmoji:%WEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Hedalexxa",
+					["time"] = 1624692412,
+					["from"] = "Mariagreco",
+					["msg"] = "D:",
+					["inbound"] = false,
+					["convo"] = "Grisù",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1624178666,
-					["from"] = "Mariagreco",
-					["msg"] = "ritorni?",
-					["inbound"] = false,
-					["convo"] = "Hedalexxa",
+					["time"] = 1624692420,
+					["from"] = "Grisù",
+					["msg"] = "francesco ho una bella chiave",
+					["inbound"] = true,
+					["convo"] = "Grisù",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1624178693,
-					["from"] = "Hedalexxa",
-					["msg"] = "per adesso si, anche se a fine mese esce patch nuova su retail e non so che fare",
+					["time"] = 1624692426,
+					["from"] = "Grisù",
+					["msg"] = "|Helvmoji:%Oik=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Smile:16:16|t",
 					["inbound"] = true,
-					["convo"] = "Hedalexxa",
+					["convo"] = "Grisù",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1624178701,
+					["time"] = 1624692430,
 					["from"] = "Mariagreco",
-					["msg"] = "ti capisco",
+					["msg"] = "tipo?",
 					["inbound"] = false,
-					["convo"] = "Hedalexxa",
+					["convo"] = "Grisù",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1624178986,
+					["time"] = 1624692443,
 					["from"] = "Mariagreco",
-					["msg"] = "io spero tornino su retail anzi altre persone che sono tornate",
+					["msg"] = "Shrine 17",
 					["inbound"] = false,
-					["convo"] = "Hedalexxa",
+					["convo"] = "Grisù",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1624179058,
-					["from"] = "Hedalexxa",
-					["msg"] = "io so che namu tornerà",
+					["time"] = 1624692484,
+					["from"] = "Grisù",
+					["msg"] = "ti ricordi quel martedì passato con |cffc59a6cnamuel|r e gli altri fino alle 1.30 di notte?",
 					["inbound"] = true,
-					["convo"] = "Hedalexxa",
+					["convo"] = "Grisù",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1624179074,
-					["from"] = "Hedalexxa",
-					["msg"] = "ma molti altri torneranno a settembre",
-					["inbound"] = true,
-					["convo"] = "Hedalexxa",
+					["time"] = 1624692506,
+					["from"] = "Mariagreco",
+					["msg"] = "eh si",
+					["inbound"] = false,
+					["convo"] = "Grisù",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1624179079,
-					["from"] = "Mariagreco",
-					["msg"] = "eh ma non è lui una di quelle persone",
-					["inbound"] = false,
-					["convo"] = "Hedalexxa",
-				}, -- [10]
-				["info"] = {
-				},
-			},
-			["Scisma"] = {
-				{
-					["type"] = 1,
-					["time"] = 1624190425,
-					["from"] = "Mariagreco",
-					["msg"] = "logga l'hunter",
-					["inbound"] = false,
-					["convo"] = "Scisma",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1624190431,
-					["from"] = "Scisma",
-					["msg"] = "arrivo",
+					["time"] = 1624692517,
+					["from"] = "Grisù",
+					["msg"] = "santuarioo della tempesta che ti dice?",
 					["inbound"] = true,
-					["convo"] = "Scisma",
-				}, -- [2]
+					["convo"] = "Grisù",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1624692526,
+					["from"] = "Mariagreco",
+					["msg"] = "allora avevo azzeccato",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1624692527,
+					["from"] = "Grisù",
+					["msg"] = "la vuoi fare? ",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1624692539,
+					["from"] = "Grisù",
+					["msg"] = "il numero non hai azzeccato",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1624692541,
+					["from"] = "Grisù",
+					["msg"] = "però",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1624692546,
+					["from"] = "Grisù",
+					["msg"] = "non è 17",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1624692548,
+					["from"] = "Mariagreco",
+					["msg"] = "DDDD:",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1624692584,
+					["from"] = "Grisù",
+					["msg"] = "la vuoi fare?",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1624692592,
+					["from"] = "Mariagreco",
+					["msg"] = "quant'è?",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1624692598,
+					["from"] = "Grisù",
+					["msg"] = "18",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1624692602,
+					["from"] = "Mariagreco",
+					["msg"] = "DDD:",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1624692608,
+					["from"] = "Mariagreco",
+					["msg"] = "ora non c'è gente per farla",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1624692625,
+					["from"] = "Grisù",
+					["msg"] = "ti va una grottamarcia 14 adesso?",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1624692631,
+					["from"] = "Grisù",
+					["msg"] = "veloce veloce",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1624692640,
+					["from"] = "Mariagreco",
+					["msg"] = "sisi",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1624692641,
+					["from"] = "Grisù",
+					["msg"] = "per portarla a 15 a tommaso",
+					["inbound"] = true,
+					["convo"] = "Grisù",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1624692652,
+					["from"] = "Mariagreco",
+					["msg"] = "eh per fare +1 ci vogliono i danni",
+					["inbound"] = false,
+					["convo"] = "Grisù",
+				}, -- [26]
 				["info"] = {
 				},
 			},
@@ -3827,6 +3928,250 @@ WIM3_History = {
 				["info"] = {
 				},
 			},
+			["Dùplex"] = {
+				{
+					["type"] = 1,
+					["time"] = 1625071128,
+					["from"] = "Mariagreco",
+					["msg"] = "comunque bel danno in raid",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1625071142,
+					["from"] = "Dùplex",
+					["msg"] = "Sicuro?? mi hann detto che stavo basso",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1625071146,
+					["from"] = "Dùplex",
+					["msg"] = "con 40k",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1625071164,
+					["from"] = "Mariagreco",
+					["msg"] = "ma non ascoltare Marco",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1625071168,
+					["from"] = "Dùplex",
+					["msg"] = "|Helvmoji:%WEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1625071190,
+					["from"] = "Dùplex",
+					["msg"] = "patch scorsa ero sempre bassissimo come dps",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1625071200,
+					["from"] = "Mariagreco",
+					["msg"] = "aspetta di droppare ",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1625071202,
+					["from"] = "Dùplex",
+					["msg"] = "per questo devo capire quanto danno mi serve",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1625071211,
+					["from"] = "Mariagreco",
+					["msg"] = "|cffa335ee|Hitem:172191:5962:::::::120:102:512:5:5:4823:6567:6579:1502:4786:120:::|h[An'zig Vra]|h|r",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1625071229,
+					["from"] = "Dùplex",
+					["msg"] = "eh mannaggia quel monk di merda me l'ha tolta dai sotto i denti",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1625071244,
+					["from"] = "Mariagreco",
+					["msg"] = "40K non sono tantissimi, ma sei 450...",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1625071260,
+					["from"] = "Mariagreco",
+					["msg"] = "io sono 470 da balance praticamente e ne ho fatti 42",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1625071264,
+					["from"] = "Mariagreco",
+					["msg"] = "non ho le mani",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1625071287,
+					["from"] = "Dùplex",
+					["msg"] = "mah se ti puo consolare manco io riesco a fare bene i danni col balance",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1625071296,
+					["from"] = "Dùplex",
+					["msg"] = "c'ha na rotazione fissa da rispettare",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1625071334,
+					["from"] = "Mariagreco",
+					["msg"] = "in mitica in AOE quanto fai?",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1625071345,
+					["from"] = "Dùplex",
+					["msg"] = "Ancora non ho provato",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1625071363,
+					["from"] = "Dùplex",
+					["msg"] = "anche perche normalmente in chiave non avendo mai fatto dps da feral vado da healer",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1625071381,
+					["from"] = "Dùplex",
+					["msg"] = "ero sempre bassissimo patch scorsa",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1625071426,
+					["from"] = "Dùplex",
+					["msg"] = "pero la spec la tengo preparata devo testare",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1625071447,
+					["from"] = "Mariagreco",
+					["msg"] = "a me piace il feral",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1625071455,
+					["from"] = "Mariagreco",
+					["msg"] = "ma faccio schifo",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1625071468,
+					["from"] = "Dùplex",
+					["msg"] = "Eh è divertente ma non rende bene in pve purtroppo",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1625071485,
+					["from"] = "Dùplex",
+					["msg"] = "è un po castratello, non ha un buon cleave",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1625071496,
+					["from"] = "Dùplex",
+					["msg"] = "ed è full burst",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1625071626,
+					["from"] = "Mariagreco",
+					["msg"] = "mi faccio2 skirmish",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1625071633,
+					["from"] = "Mariagreco",
+					["msg"] = "mi guardi giocare?",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1625071637,
+					["from"] = "Dùplex",
+					["msg"] = "Si",
+					["inbound"] = true,
+					["convo"] = "Dùplex",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1625071642,
+					["from"] = "Mariagreco",
+					["msg"] = "sto nel canale sotto",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1625071821,
+					["from"] = "Mariagreco",
+					["msg"] = "ci asfaltano male",
+					["inbound"] = false,
+					["convo"] = "Dùplex",
+				}, -- [30]
+				["info"] = {
+				},
+			},
 			["Edwardngate"] = {
 				{
 					["type"] = 1,
@@ -3866,380 +4211,12 @@ WIM3_History = {
 			["Orlandoboom"] = {
 				{
 					["type"] = 1,
-					["time"] = 1624103060,
-					["from"] = "Orlandoboom",
-					["msg"] = "tra 500 conquest",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1624103062,
-					["from"] = "Orlandoboom",
-					["msg"] = "trinkettino",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1624103069,
-					["from"] = "Orlandoboom",
-					["msg"] = "e si vola",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1624103072,
-					["from"] = "Mariagreco",
-					["msg"] = "che trinket?",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1624103076,
-					["from"] = "Orlandoboom",
-					["msg"] = "|cffa335ee|Hitem:172669::::::::120:63:512:8:5:6360:42:6389:1542:4786:120:::|h[Corrupted Gladiator's Badge]|h|r",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1624103089,
-					["from"] = "Mariagreco",
-					["msg"] = "io ho trinket di merda per PVP",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1624103090,
-					["from"] = "Orlandoboom",
-					["msg"] = "445",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1624103095,
-					["from"] = "Orlandoboom",
-					["msg"] = "ma perche fai bg?",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1624103096,
-					["from"] = "Orlandoboom",
-					["msg"] = "noia?",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1624103098,
-					["from"] = "Orlandoboom",
-					["msg"] = "o altro",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1624103105,
-					["from"] = "Mariagreco",
-					["msg"] = "voglio imparare a fare PVP da feral",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1624103110,
-					["from"] = "Orlandoboom",
-					["msg"] = "bello spec",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1624103125,
-					["from"] = "Orlandoboom",
-					["msg"] = "pero",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1624103125,
-					["from"] = "Mariagreco",
-					["msg"] = "si è divertente e anche forte, solo che faccio pena con i CC",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1624103131,
-					["from"] = "Orlandoboom",
-					["msg"] = "ti manca il crit",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1624103140,
-					["from"] = "Orlandoboom",
-					["msg"] = "o sbaglio",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1624103142,
-					["from"] = "Mariagreco",
-					["msg"] = "Versa Mastery sono le stat",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1624103155,
-					["from"] = "Mariagreco",
-					["msg"] = "Alcuni dicono Mastery Versa",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1624103157,
-					["from"] = "Orlandoboom",
-					["msg"] = "io sapevo crit versa",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1624103314,
-					["from"] = "Orlandoboom",
-					["msg"] = "sta afk",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1624103316,
-					["from"] = "Orlandoboom",
-					["msg"] = "comunque",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1624103322,
-					["from"] = "Mariagreco",
-					["msg"] = "?",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1624103327,
-					["from"] = "Orlandoboom",
-					["msg"] = "meglio far arene",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1624103331,
-					["from"] = "Orlandoboom",
-					["msg"] = "skirmish",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1624103333,
-					["from"] = "Orlandoboom",
-					["msg"] = "per imparare",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1624103336,
-					["from"] = "Orlandoboom",
-					["msg"] = "secondo me",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1624103338,
-					["from"] = "Mariagreco",
-					["msg"] = "vero",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1624103345,
-					["from"] = "Orlandoboom",
-					["msg"] = "almeno non hai tutto il casino della bg intorno",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1624103347,
-					["from"] = "Mariagreco",
-					["msg"] = "però 1 bg giornaliero lo volevo vincere |Helvmoji:%OlA=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\StuckOutTongue:16:16|t",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1624103371,
-					["from"] = "Orlandoboom",
-					["msg"] = "si ma gli orda che abbiamp contro so grossissimi",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1624103377,
-					["from"] = "Mariagreco",
-					["msg"] = "si troppo",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1624103389,
-					["from"] = "Orlandoboom",
-					["msg"] = "e noi abbiamo i dh con 160 k ",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1624103390,
-					["from"] = "Orlandoboom",
-					["msg"] = ":V",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1624103413,
-					["from"] = "Mariagreco",
-					["msg"] = "rip",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1624103621,
-					["from"] = "Mariagreco",
-					["msg"] = "che tristezza",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1624103640,
-					["from"] = "Orlandoboom",
-					["msg"] = "ma poi",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1624103649,
-					["from"] = "Orlandoboom",
-					["msg"] = "quelli che stanno a fa tutto il lavoro nell'orda",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1624103651,
-					["from"] = "Orlandoboom",
-					["msg"] = "sono ally",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1624103654,
-					["from"] = "Orlandoboom",
-					["msg"] = "ho visto :V",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1624103681,
-					["from"] = "Mariagreco",
-					["msg"] = "lol",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1624103732,
-					["from"] = "Orlandoboom",
-					["msg"] = "fai skirmish",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1624103751,
-					["from"] = "Mariagreco",
-					["msg"] = "vado a pranzo",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1624103755,
-					["from"] = "Mariagreco",
-					["msg"] = "semmai dopo",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [43]
-				{
-					["type"] = 1,
-					["time"] = 1624103755,
-					["from"] = "Orlandoboom",
-					["msg"] = "kk",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [44]
-				{
-					["type"] = 1,
-					["time"] = 1624103762,
-					["from"] = "Orlandoboom",
-					["msg"] = "+",
-					["inbound"] = true,
-					["convo"] = "Orlandoboom",
-				}, -- [45]
-				{
-					["type"] = 1,
-					["time"] = 1624103764,
-					["from"] = "Mariagreco",
-					["msg"] = "buon proseguimento",
-					["inbound"] = false,
-					["convo"] = "Orlandoboom",
-				}, -- [46]
-				{
-					["type"] = 1,
 					["time"] = 1624544301,
 					["from"] = "Orlandoboom",
 					["msg"] = "ooooohhhh",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [47]
+				}, -- [1]
 				{
 					["type"] = 1,
 					["time"] = 1624544306,
@@ -4247,7 +4224,7 @@ WIM3_History = {
 					["msg"] = "we",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [48]
+				}, -- [2]
 				{
 					["type"] = 1,
 					["time"] = 1624544309,
@@ -4255,7 +4232,7 @@ WIM3_History = {
 					["msg"] = "rated arena?",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [49]
+				}, -- [3]
 				{
 					["type"] = 1,
 					["time"] = 1624544314,
@@ -4263,7 +4240,7 @@ WIM3_History = {
 					["msg"] = "possiamo rpovare",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [50]
+				}, -- [4]
 				{
 					["type"] = 1,
 					["time"] = 1624544348,
@@ -4271,7 +4248,7 @@ WIM3_History = {
 					["msg"] = "vai feral?",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [51]
+				}, -- [5]
 				{
 					["type"] = 1,
 					["time"] = 1624544352,
@@ -4279,7 +4256,7 @@ WIM3_History = {
 					["msg"] = "speciale",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [52]
+				}, -- [6]
 				{
 					["type"] = 1,
 					["time"] = 1624544354,
@@ -4287,7 +4264,7 @@ WIM3_History = {
 					["msg"] = "sono feral",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [53]
+				}, -- [7]
 				{
 					["type"] = 1,
 					["time"] = 1624544367,
@@ -4295,7 +4272,7 @@ WIM3_History = {
 					["msg"] = "vengo su DS",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [54]
+				}, -- [8]
 				{
 					["type"] = 1,
 					["time"] = 1624544371,
@@ -4303,7 +4280,7 @@ WIM3_History = {
 					["msg"] = "non posso ds",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [55]
+				}, -- [9]
 				{
 					["type"] = 1,
 					["time"] = 1624544372,
@@ -4311,7 +4288,7 @@ WIM3_History = {
 					["msg"] = " : /",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [56]
+				}, -- [10]
 				{
 					["type"] = 1,
 					["time"] = 1624544393,
@@ -4319,7 +4296,7 @@ WIM3_History = {
 					["msg"] = "ah okay",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [57]
+				}, -- [11]
 				{
 					["type"] = 1,
 					["time"] = 1624544396,
@@ -4327,7 +4304,7 @@ WIM3_History = {
 					["msg"] = "allora vai pure",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [58]
+				}, -- [12]
 				{
 					["type"] = 1,
 					["time"] = 1624544427,
@@ -4335,7 +4312,7 @@ WIM3_History = {
 					["msg"] = "sfortunatamente",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [59]
+				}, -- [13]
 				{
 					["type"] = 1,
 					["time"] = 1624544433,
@@ -4343,7 +4320,7 @@ WIM3_History = {
 					["msg"] = "a me finisce prima l'invisibilita",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [60]
+				}, -- [14]
 				{
 					["type"] = 1,
 					["time"] = 1624544438,
@@ -4351,7 +4328,7 @@ WIM3_History = {
 					["msg"] = "quindi apriranno loro su di me",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [61]
+				}, -- [15]
 				{
 					["type"] = 1,
 					["time"] = 1624544452,
@@ -4359,7 +4336,7 @@ WIM3_History = {
 					["msg"] = "ahia",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [62]
+				}, -- [16]
 				{
 					["type"] = 1,
 					["time"] = 1624544457,
@@ -4367,7 +4344,7 @@ WIM3_History = {
 					["msg"] = "dobbiamo apri il druido",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [63]
+				}, -- [17]
 				{
 					["type"] = 1,
 					["time"] = 1624544463,
@@ -4375,7 +4352,7 @@ WIM3_History = {
 					["msg"] = "e pecoro l'hunt",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [64]
+				}, -- [18]
 				{
 					["type"] = 1,
 					["time"] = 1624544555,
@@ -4383,7 +4360,7 @@ WIM3_History = {
 					["msg"] = "si poteva fa ",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [65]
+				}, -- [19]
 				{
 					["type"] = 1,
 					["time"] = 1624544565,
@@ -4391,7 +4368,7 @@ WIM3_History = {
 					["msg"] = "fose l'ho giocata amle",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [66]
+				}, -- [20]
 				{
 					["type"] = 1,
 					["time"] = 1624544577,
@@ -4399,7 +4376,7 @@ WIM3_History = {
 					["msg"] = "se burstiamo l'hunter e CC sul druido?",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [67]
+				}, -- [21]
 				{
 					["type"] = 1,
 					["time"] = 1624544588,
@@ -4407,7 +4384,7 @@ WIM3_History = {
 					["msg"] = "il dudu era piu low",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [68]
+				}, -- [22]
 				{
 					["type"] = 1,
 					["time"] = 1624544591,
@@ -4415,7 +4392,7 @@ WIM3_History = {
 					["msg"] = "rispetto all'hunt",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [69]
+				}, -- [23]
 				{
 					["type"] = 1,
 					["time"] = 1624544597,
@@ -4423,7 +4400,7 @@ WIM3_History = {
 					["msg"] = "l'ha carriata l'hunt coi danni",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [70]
+				}, -- [24]
 				{
 					["type"] = 1,
 					["time"] = 1624544618,
@@ -4431,7 +4408,7 @@ WIM3_History = {
 					["msg"] = "ma la corruption con i vermini si può evitare?",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [71]
+				}, -- [25]
 				{
 					["type"] = 1,
 					["time"] = 1624544620,
@@ -4439,7 +4416,7 @@ WIM3_History = {
 					["msg"] = "io il cc che ho ",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [72]
+				}, -- [26]
 				{
 					["type"] = 1,
 					["time"] = 1624544623,
@@ -4447,7 +4424,7 @@ WIM3_History = {
 					["msg"] = "ossia poly",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [73]
+				}, -- [27]
 				{
 					["type"] = 1,
 					["time"] = 1624544627,
@@ -4455,7 +4432,7 @@ WIM3_History = {
 					["msg"] = "non lo posso tira sul dudu",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [74]
+				}, -- [28]
 				{
 					["type"] = 1,
 					["time"] = 1624544631,
@@ -4463,7 +4440,7 @@ WIM3_History = {
 					["msg"] = "che è difficile prenderlo",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [75]
+				}, -- [29]
 				{
 					["type"] = 1,
 					["time"] = 1624544637,
@@ -4471,7 +4448,7 @@ WIM3_History = {
 					["msg"] = "i tentacoli?",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [76]
+				}, -- [30]
 				{
 					["type"] = 1,
 					["time"] = 1624544639,
@@ -4479,7 +4456,7 @@ WIM3_History = {
 					["msg"] = "intendi?",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [77]
+				}, -- [31]
 				{
 					["type"] = 1,
 					["time"] = 1624544640,
@@ -4487,7 +4464,7 @@ WIM3_History = {
 					["msg"] = "si",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [78]
+				}, -- [32]
 				{
 					["type"] = 1,
 					["time"] = 1624544644,
@@ -4495,7 +4472,7 @@ WIM3_History = {
 					["msg"] = "in los",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [79]
+				}, -- [33]
 				{
 					["type"] = 1,
 					["time"] = 1624544650,
@@ -4503,7 +4480,7 @@ WIM3_History = {
 					["msg"] = "ma quella è una corruption forte",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [80]
+				}, -- [34]
 				{
 					["type"] = 1,
 					["time"] = 1624544651,
@@ -4511,7 +4488,7 @@ WIM3_History = {
 					["msg"] = "in pvp",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [81]
+				}, -- [35]
 				{
 					["type"] = 1,
 					["time"] = 1624544658,
@@ -4519,7 +4496,7 @@ WIM3_History = {
 					["msg"] = "si lo so",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [82]
+				}, -- [36]
 				{
 					["type"] = 1,
 					["time"] = 1624544665,
@@ -4527,7 +4504,7 @@ WIM3_History = {
 					["msg"] = "la gente ci scoglie le persone",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [83]
+				}, -- [37]
 				{
 					["type"] = 1,
 					["time"] = 1624544695,
@@ -4535,7 +4512,7 @@ WIM3_History = {
 					["msg"] = "comunque",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [84]
+				}, -- [38]
 				{
 					["type"] = 1,
 					["time"] = 1624544698,
@@ -4543,7 +4520,7 @@ WIM3_History = {
 					["msg"] = "il trinket |cffa335ee|Hitem:173943::::::::120:63:512::3:4823:1502:4786:120:::|h[Torment in a Jar]|h|r",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [85]
+				}, -- [39]
 				{
 					["type"] = 1,
 					["time"] = 1624544702,
@@ -4551,7 +4528,7 @@ WIM3_History = {
 					["msg"] = "ti ha fatto 6 k di danno",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [86]
+				}, -- [40]
 				{
 					["type"] = 1,
 					["time"] = 1624544706,
@@ -4559,7 +4536,7 @@ WIM3_History = {
 					["msg"] = "quindi è inutile xd",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [87]
+				}, -- [41]
 				{
 					["type"] = 1,
 					["time"] = 1624544714,
@@ -4567,7 +4544,7 @@ WIM3_History = {
 					["msg"] = "non credo di avere nulla di meglio",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [88]
+				}, -- [42]
 				{
 					["type"] = 1,
 					["time"] = 1624544719,
@@ -4575,7 +4552,7 @@ WIM3_History = {
 					["msg"] = "mi serve quello del raid",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [89]
+				}, -- [43]
 				{
 					["type"] = 1,
 					["time"] = 1624544722,
@@ -4583,7 +4560,7 @@ WIM3_History = {
 					["msg"] = "ehhhh",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [90]
+				}, -- [44]
 				{
 					["type"] = 1,
 					["time"] = 1624544727,
@@ -4591,7 +4568,7 @@ WIM3_History = {
 					["msg"] = "quello è tanta roba",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [91]
+				}, -- [45]
 				{
 					["type"] = 1,
 					["time"] = 1624544734,
@@ -4599,7 +4576,7 @@ WIM3_History = {
 					["msg"] = "ieri sera era tra i roll",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [92]
+				}, -- [46]
 				{
 					["type"] = 1,
 					["time"] = 1624544746,
@@ -4607,7 +4584,7 @@ WIM3_History = {
 					["msg"] = "eh non vengo mai a fare raid",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [93]
+				}, -- [47]
 				{
 					["type"] = 1,
 					["time"] = 1624544754,
@@ -4615,7 +4592,7 @@ WIM3_History = {
 					["msg"] = "ma dopo ieri sera",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [94]
+				}, -- [48]
 				{
 					["type"] = 1,
 					["time"] = 1624544762,
@@ -4623,7 +4600,7 @@ WIM3_History = {
 					["msg"] = "penso non ci vado manco io",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [95]
+				}, -- [49]
 				{
 					["type"] = 1,
 					["time"] = 1624544768,
@@ -4631,7 +4608,7 @@ WIM3_History = {
 					["msg"] = "ma che è successo?",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [96]
+				}, -- [50]
 				{
 					["type"] = 1,
 					["time"] = 1624544777,
@@ -4639,7 +4616,7 @@ WIM3_History = {
 					["msg"] = "gaetano pure si è lamentato",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [97]
+				}, -- [51]
 				{
 					["type"] = 1,
 					["time"] = 1624544785,
@@ -4647,7 +4624,7 @@ WIM3_History = {
 					["msg"] = "non mi piace come si sta gestendo raid",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [98]
+				}, -- [52]
 				{
 					["type"] = 1,
 					["time"] = 1624544802,
@@ -4655,7 +4632,7 @@ WIM3_History = {
 					["msg"] = "tanto raid o c'è roberto o è inutile farlo",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [99]
+				}, -- [53]
 				{
 					["type"] = 1,
 					["time"] = 1624544803,
@@ -4663,7 +4640,7 @@ WIM3_History = {
 					["msg"] = "nelle altre gilde è tutto molto piu efficiente",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [100]
+				}, -- [54]
 				{
 					["type"] = 1,
 					["time"] = 1624544809,
@@ -4671,7 +4648,7 @@ WIM3_History = {
 					["msg"] = "in raid pare di sta al mercato da noi",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [101]
+				}, -- [55]
 				{
 					["type"] = 1,
 					["time"] = 1624544824,
@@ -4679,7 +4656,7 @@ WIM3_History = {
 					["msg"] = "la gestione ieri non mi piaceva",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [102]
+				}, -- [56]
 				{
 					["type"] = 1,
 					["time"] = 1624544831,
@@ -4687,7 +4664,7 @@ WIM3_History = {
 					["msg"] = "poi dicono di porta i main",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [103]
+				}, -- [57]
 				{
 					["type"] = 1,
 					["time"] = 1624544834,
@@ -4695,7 +4672,7 @@ WIM3_History = {
 					["msg"] = "chi è che \"gestiva?",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [104]
+				}, -- [58]
 				{
 					["type"] = 1,
 					["time"] = 1624544839,
@@ -4703,7 +4680,7 @@ WIM3_History = {
 					["msg"] = "e la gente sta tutta con gli off",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [105]
+				}, -- [59]
 				{
 					["type"] = 1,
 					["time"] = 1624544845,
@@ -4711,7 +4688,7 @@ WIM3_History = {
 					["msg"] = "mi sa namu",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [106]
+				}, -- [60]
 				{
 					["type"] = 1,
 					["time"] = 1624544852,
@@ -4719,7 +4696,7 @@ WIM3_History = {
 					["msg"] = "poi boh",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [107]
+				}, -- [61]
 				{
 					["type"] = 1,
 					["time"] = 1624544855,
@@ -4727,7 +4704,7 @@ WIM3_History = {
 					["msg"] = "io non ero su discord",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [108]
+				}, -- [62]
 				{
 					["type"] = 1,
 					["time"] = 1624544858,
@@ -4735,7 +4712,7 @@ WIM3_History = {
 					["msg"] = "eh vabbè allora ve la cercate però |Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [109]
+				}, -- [63]
 				{
 					["type"] = 1,
 					["time"] = 1624544865,
@@ -4743,7 +4720,7 @@ WIM3_History = {
 					["msg"] = "colpa loro",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [110]
+				}, -- [64]
 				{
 					["type"] = 1,
 					["time"] = 1624544892,
@@ -4751,7 +4728,7 @@ WIM3_History = {
 					["msg"] = "stesso discord",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [111]
+				}, -- [65]
 				{
 					["type"] = 1,
 					["time"] = 1624544896,
@@ -4759,7 +4736,7 @@ WIM3_History = {
 					["msg"] = "il rogue aprira su di me",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [112]
+				}, -- [66]
 				{
 					["type"] = 1,
 					["time"] = 1624544914,
@@ -4767,7 +4744,7 @@ WIM3_History = {
 					["msg"] = "tu stunni il dudu",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [113]
+				}, -- [67]
 				{
 					["type"] = 1,
 					["time"] = 1624544918,
@@ -4775,7 +4752,7 @@ WIM3_History = {
 					["msg"] = "io poly sul rogue",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [114]
+				}, -- [68]
 				{
 					["type"] = 1,
 					["time"] = 1624545021,
@@ -4783,7 +4760,7 @@ WIM3_History = {
 					["msg"] = "le arene contro i 2k di cr",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [115]
+				}, -- [69]
 				{
 					["type"] = 1,
 					["time"] = 1624545028,
@@ -4791,7 +4768,7 @@ WIM3_History = {
 					["msg"] = "famo skirmish",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [116]
+				}, -- [70]
 				{
 					["type"] = 1,
 					["time"] = 1624545031,
@@ -4799,7 +4776,7 @@ WIM3_History = {
 					["msg"] = "lol",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [117]
+				}, -- [71]
 				{
 					["type"] = 1,
 					["time"] = 1624545070,
@@ -4807,7 +4784,7 @@ WIM3_History = {
 					["msg"] = "il dudu heal",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [118]
+				}, -- [72]
 				{
 					["type"] = 1,
 					["time"] = 1624545071,
@@ -4815,7 +4792,7 @@ WIM3_History = {
 					["msg"] = "di prima",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [119]
+				}, -- [73]
 				{
 					["type"] = 1,
 					["time"] = 1624545076,
@@ -4823,7 +4800,7 @@ WIM3_History = {
 					["msg"] = "aveva 600k di salute",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [120]
+				}, -- [74]
 				{
 					["type"] = 1,
 					["time"] = 1624545077,
@@ -4831,7 +4808,7 @@ WIM3_History = {
 					["msg"] = "da healer",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [121]
+				}, -- [75]
 				{
 					["type"] = 1,
 					["time"] = 1624545078,
@@ -4839,7 +4816,7 @@ WIM3_History = {
 					["msg"] = "LOL",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [122]
+				}, -- [76]
 				{
 					["type"] = 1,
 					["time"] = 1624545083,
@@ -4847,7 +4824,7 @@ WIM3_History = {
 					["msg"] = "GG EZ",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [123]
+				}, -- [77]
 				{
 					["type"] = 1,
 					["time"] = 1624545090,
@@ -4855,7 +4832,7 @@ WIM3_History = {
 					["msg"] = "ha rfullato con 2 spell",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [124]
+				}, -- [78]
 				{
 					["type"] = 1,
 					["time"] = 1624545261,
@@ -4863,7 +4840,7 @@ WIM3_History = {
 					["msg"] = "si va sul pala",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [125]
+				}, -- [79]
 				{
 					["type"] = 1,
 					["time"] = 1624545263,
@@ -4871,7 +4848,7 @@ WIM3_History = {
 					["msg"] = "penso",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [126]
+				}, -- [80]
 				{
 					["type"] = 1,
 					["time"] = 1624545266,
@@ -4879,7 +4856,7 @@ WIM3_History = {
 					["msg"] = "o sul low",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [127]
+				}, -- [81]
 				{
 					["type"] = 1,
 					["time"] = 1624545275,
@@ -4887,7 +4864,7 @@ WIM3_History = {
 					["msg"] = "low",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [128]
+				}, -- [82]
 				{
 					["type"] = 1,
 					["time"] = 1624545399,
@@ -4895,7 +4872,7 @@ WIM3_History = {
 					["msg"] = "io vado a fuma",
 					["inbound"] = true,
 					["convo"] = "Orlandoboom",
-				}, -- [129]
+				}, -- [83]
 				{
 					["type"] = 1,
 					["time"] = 1624545407,
@@ -4903,339 +4880,7 @@ WIM3_History = {
 					["msg"] = "okok",
 					["inbound"] = false,
 					["convo"] = "Orlandoboom",
-				}, -- [130]
-				["info"] = {
-				},
-			},
-			["Dùplex"] = {
-				{
-					["type"] = 1,
-					["time"] = 1624465515,
-					["from"] = "Mariagreco",
-					["msg"] = "Ciao Jim!",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1624465521,
-					["from"] = "Mariagreco",
-					["msg"] = "Insegnami a fare PVP",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1624465524,
-					["from"] = "Dùplex",
-					["msg"] = "|Helvmoji:%WEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1624465530,
-					["from"] = "Dùplex",
-					["msg"] = "quando vuoi",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1624465544,
-					["from"] = "Mariagreco",
-					["msg"] = "bella, sto facendo PVPV da feral",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1624465564,
-					["from"] = "Dùplex",
-					["msg"] = "la vedo dura, fosse stato da healer era piu facile",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1624465578,
-					["from"] = "Mariagreco",
-					["msg"] = "come? |Helvmoji:%Oig=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\SlightFrown:16:16|t",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1624465585,
-					["from"] = "Dùplex",
-					["msg"] = "stai su ds?",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1624465585,
-					["from"] = "Mariagreco",
-					["msg"] = "non è forte il feral?",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1624465593,
-					["from"] = "Mariagreco",
-					["msg"] = "no a brevissimo stacco",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1624465603,
-					["from"] = "Mariagreco",
-					["msg"] = "fatti inspectare",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1625071128,
-					["from"] = "Mariagreco",
-					["msg"] = "comunque bel danno in raid",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1625071142,
-					["from"] = "Dùplex",
-					["msg"] = "Sicuro?? mi hann detto che stavo basso",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1625071146,
-					["from"] = "Dùplex",
-					["msg"] = "con 40k",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1625071164,
-					["from"] = "Mariagreco",
-					["msg"] = "ma non ascoltare Marco",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1625071168,
-					["from"] = "Dùplex",
-					["msg"] = "|Helvmoji:%WEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1625071190,
-					["from"] = "Dùplex",
-					["msg"] = "patch scorsa ero sempre bassissimo come dps",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1625071200,
-					["from"] = "Mariagreco",
-					["msg"] = "aspetta di droppare ",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1625071202,
-					["from"] = "Dùplex",
-					["msg"] = "per questo devo capire quanto danno mi serve",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1625071211,
-					["from"] = "Mariagreco",
-					["msg"] = "|cffa335ee|Hitem:172191:5962:::::::120:102:512:5:5:4823:6567:6579:1502:4786:120:::|h[An'zig Vra]|h|r",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1625071229,
-					["from"] = "Dùplex",
-					["msg"] = "eh mannaggia quel monk di merda me l'ha tolta dai sotto i denti",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1625071244,
-					["from"] = "Mariagreco",
-					["msg"] = "40K non sono tantissimi, ma sei 450...",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1625071260,
-					["from"] = "Mariagreco",
-					["msg"] = "io sono 470 da balance praticamente e ne ho fatti 42",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1625071264,
-					["from"] = "Mariagreco",
-					["msg"] = "non ho le mani",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1625071287,
-					["from"] = "Dùplex",
-					["msg"] = "mah se ti puo consolare manco io riesco a fare bene i danni col balance",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1625071296,
-					["from"] = "Dùplex",
-					["msg"] = "c'ha na rotazione fissa da rispettare",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1625071334,
-					["from"] = "Mariagreco",
-					["msg"] = "in mitica in AOE quanto fai?",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1625071345,
-					["from"] = "Dùplex",
-					["msg"] = "Ancora non ho provato",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1625071363,
-					["from"] = "Dùplex",
-					["msg"] = "anche perche normalmente in chiave non avendo mai fatto dps da feral vado da healer",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1625071381,
-					["from"] = "Dùplex",
-					["msg"] = "ero sempre bassissimo patch scorsa",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1625071426,
-					["from"] = "Dùplex",
-					["msg"] = "pero la spec la tengo preparata devo testare",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1625071447,
-					["from"] = "Mariagreco",
-					["msg"] = "a me piace il feral",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1625071455,
-					["from"] = "Mariagreco",
-					["msg"] = "ma faccio schifo",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1625071468,
-					["from"] = "Dùplex",
-					["msg"] = "Eh è divertente ma non rende bene in pve purtroppo",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1625071485,
-					["from"] = "Dùplex",
-					["msg"] = "è un po castratello, non ha un buon cleave",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1625071496,
-					["from"] = "Dùplex",
-					["msg"] = "ed è full burst",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1625071626,
-					["from"] = "Mariagreco",
-					["msg"] = "mi faccio2 skirmish",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1625071633,
-					["from"] = "Mariagreco",
-					["msg"] = "mi guardi giocare?",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1625071637,
-					["from"] = "Dùplex",
-					["msg"] = "Si",
-					["inbound"] = true,
-					["convo"] = "Dùplex",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1625071642,
-					["from"] = "Mariagreco",
-					["msg"] = "sto nel canale sotto",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1625071821,
-					["from"] = "Mariagreco",
-					["msg"] = "ci asfaltano male",
-					["inbound"] = false,
-					["convo"] = "Dùplex",
-				}, -- [41]
+				}, -- [84]
 				["info"] = {
 				},
 			},
@@ -5272,238 +4917,62 @@ WIM3_History = {
 					["inbound"] = false,
 					["convo"] = "Deltaecho",
 				}, -- [4]
-				["info"] = {
-				},
-			},
-			["Grisù"] = {
 				{
 					["type"] = 1,
-					["time"] = 1624692388,
+					["time"] = 1625691400,
 					["from"] = "Mariagreco",
-					["msg"] = "sei leo o suo figlio?",
+					["msg"] = "a che boss state?",
 					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1624692406,
-					["from"] = "Grisù",
-					["msg"] = "nessuno dei 2 sono il tuo incubo",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1624692412,
-					["from"] = "Mariagreco",
-					["msg"] = "D:",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1624692420,
-					["from"] = "Grisù",
-					["msg"] = "francesco ho una bella chiave",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1624692426,
-					["from"] = "Grisù",
-					["msg"] = "|Helvmoji:%Oik=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Smile:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Grisù",
+					["convo"] = "Deltaecho",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1624692430,
-					["from"] = "Mariagreco",
-					["msg"] = "tipo?",
-					["inbound"] = false,
-					["convo"] = "Grisù",
+					["time"] = 1625691424,
+					["from"] = "Deltaecho",
+					["msg"] = "mh dobbiamo fare cane ed occhi",
+					["inbound"] = true,
+					["convo"] = "Deltaecho",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1624692443,
-					["from"] = "Mariagreco",
-					["msg"] = "Shrine 17",
-					["inbound"] = false,
-					["convo"] = "Grisù",
+					["time"] = 1625691425,
+					["from"] = "Deltaecho",
+					["msg"] = "|Helvmoji:%WEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Deltaecho",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1624692484,
-					["from"] = "Grisù",
-					["msg"] = "ti ricordi quel martedì passato con |cffc59a6cnamuel|r e gli altri fino alle 1.30 di notte?",
+					["time"] = 1625691433,
+					["from"] = "Deltaecho",
+					["msg"] = "abbiamo fatto calcetto e vexiona",
 					["inbound"] = true,
-					["convo"] = "Grisù",
+					["convo"] = "Deltaecho",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1624692506,
+					["time"] = 1625691449,
 					["from"] = "Mariagreco",
-					["msg"] = "eh si",
+					["msg"] = "ilgynoth o come cazzo si chiama va fatto?",
 					["inbound"] = false,
-					["convo"] = "Grisù",
+					["convo"] = "Deltaecho",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1624692517,
-					["from"] = "Grisù",
-					["msg"] = "santuarioo della tempesta che ti dice?",
+					["time"] = 1625691453,
+					["from"] = "Deltaecho",
+					["msg"] = "si ",
 					["inbound"] = true,
-					["convo"] = "Grisù",
+					["convo"] = "Deltaecho",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1624692526,
-					["from"] = "Mariagreco",
-					["msg"] = "allora avevo azzeccato",
-					["inbound"] = false,
-					["convo"] = "Grisù",
+					["time"] = 1625691460,
+					["from"] = "Deltaecho",
+					["msg"] = "dobbiamo fare quello tra poco",
+					["inbound"] = true,
+					["convo"] = "Deltaecho",
 				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1624692527,
-					["from"] = "Grisù",
-					["msg"] = "la vuoi fare? ",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1624692539,
-					["from"] = "Grisù",
-					["msg"] = "il numero non hai azzeccato",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1624692541,
-					["from"] = "Grisù",
-					["msg"] = "però",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1624692546,
-					["from"] = "Grisù",
-					["msg"] = "non è 17",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1624692548,
-					["from"] = "Mariagreco",
-					["msg"] = "DDDD:",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1624692584,
-					["from"] = "Grisù",
-					["msg"] = "la vuoi fare?",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1624692592,
-					["from"] = "Mariagreco",
-					["msg"] = "quant'è?",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1624692598,
-					["from"] = "Grisù",
-					["msg"] = "18",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1624692602,
-					["from"] = "Mariagreco",
-					["msg"] = "DDD:",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1624692608,
-					["from"] = "Mariagreco",
-					["msg"] = "ora non c'è gente per farla",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1624692625,
-					["from"] = "Grisù",
-					["msg"] = "ti va una grottamarcia 14 adesso?",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1624692631,
-					["from"] = "Grisù",
-					["msg"] = "veloce veloce",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1624692640,
-					["from"] = "Mariagreco",
-					["msg"] = "sisi",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1624692641,
-					["from"] = "Grisù",
-					["msg"] = "per portarla a 15 a tommaso",
-					["inbound"] = true,
-					["convo"] = "Grisù",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1624692652,
-					["from"] = "Mariagreco",
-					["msg"] = "eh per fare +1 ci vogliono i danni",
-					["inbound"] = false,
-					["convo"] = "Grisù",
-				}, -- [26]
-				["info"] = {
-				},
-			},
-			["Nojak"] = {
-				{
-					["type"] = 1,
-					["time"] = 1624311176,
-					["from"] = "Nojak",
-					["msg"] = "ci sono",
-					["inbound"] = true,
-					["convo"] = "Nojak",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1624311188,
-					["from"] = "Mariagreco",
-					["msg"] = "se vuoi siamo su doungeon 4",
-					["inbound"] = false,
-					["convo"] = "Nojak",
-				}, -- [2]
 				["info"] = {
 				},
 			},

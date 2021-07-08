@@ -397,6 +397,11 @@ MythicDungeonToolsDB = {
 						["beguiling"] = 1,
 						["freehold"] = 1,
 					},
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
+					["text"] = "Default 3",
 					["value"] = {
 						["selection"] = {
 							1, -- [1]
@@ -568,11 +573,6 @@ MythicDungeonToolsDB = {
 							},
 						},
 					},
-					["text"] = "Default 3",
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
-					},
 					["uid"] = "zCjCnFfq6Uc",
 				}, -- [2]
 				{
@@ -710,7 +710,8 @@ MythicDungeonToolsDB = {
 								[17] = {
 									3, -- [1]
 								},
-								[10] = {
+								[39] = {
+									7, -- [1]
 								},
 								["color"] = "3e3eff",
 								[19] = {
@@ -721,8 +722,7 @@ MythicDungeonToolsDB = {
 								[16] = {
 									3, -- [1]
 								},
-								[39] = {
-									7, -- [1]
+								[10] = {
 								},
 							}, -- [10]
 							{
@@ -832,7 +832,9 @@ MythicDungeonToolsDB = {
 									1, -- [1]
 									2, -- [2]
 								},
-								["color"] = "ff3e9e",
+								[29] = {
+									1, -- [1]
+								},
 								[15] = {
 									2, -- [1]
 									3, -- [2]
@@ -841,9 +843,7 @@ MythicDungeonToolsDB = {
 								[9] = {
 									6, -- [1]
 								},
-								[29] = {
-									1, -- [1]
-								},
+								["color"] = "ff3e9e",
 							}, -- [18]
 							{
 								{
@@ -915,9 +915,7 @@ MythicDungeonToolsDB = {
 								},
 								[18] = {
 								},
-								[19] = {
-									6, -- [1]
-									7, -- [2]
+								[10] = {
 								},
 								[38] = {
 									10, -- [1]
@@ -935,7 +933,9 @@ MythicDungeonToolsDB = {
 									17, -- [4]
 									18, -- [5]
 								},
-								[10] = {
+								[19] = {
+									6, -- [1]
+									7, -- [2]
 								},
 							}, -- [21]
 						},
@@ -1226,12 +1226,11 @@ MythicDungeonToolsDB = {
 								["color"] = "ff3eff",
 							}, -- [12]
 							{
-								[8] = {
-								},
-								[31] = {
-									1, -- [1]
-								},
 								[28] = {
+								},
+								[13] = {
+								},
+								[8] = {
 								},
 								[10] = {
 								},
@@ -1240,33 +1239,34 @@ MythicDungeonToolsDB = {
 								},
 								[5] = {
 								},
-								[13] = {
+								[31] = {
+									1, -- [1]
 								},
 							}, -- [13]
 							{
-								[8] = {
-									5, -- [1]
-									6, -- [2]
+								[28] = {
+									12, -- [1]
 								},
 								[13] = {
 									7, -- [1]
 								},
-								[28] = {
-									12, -- [1]
+								[8] = {
+									5, -- [1]
+									6, -- [2]
 								},
 								[10] = {
 									6, -- [1]
 									5, -- [2]
 								},
-								["color"] = "ff3e3e",
+								[12] = {
+								},
 								[29] = {
 									4, -- [1]
 								},
 								[5] = {
 									11, -- [1]
 								},
-								[12] = {
-								},
+								["color"] = "ff3e3e",
 							}, -- [14]
 							{
 								["color"] = "3e9eff",
@@ -1539,8 +1539,12 @@ MythicDungeonToolsDB = {
 								[11] = {
 									2, -- [1]
 								},
-								[3] = {
-									1, -- [1]
+								[40] = {
+									24, -- [1]
+									25, -- [2]
+									26, -- [3]
+									8, -- [4]
+									9, -- [5]
 								},
 								[2] = {
 									4, -- [1]
@@ -1549,12 +1553,8 @@ MythicDungeonToolsDB = {
 								},
 								[12] = {
 								},
-								[40] = {
-									24, -- [1]
-									25, -- [2]
-									26, -- [3]
-									8, -- [4]
-									9, -- [5]
+								[3] = {
+									1, -- [1]
 								},
 							}, -- [1]
 						},
@@ -1584,6 +1584,10 @@ MythicDungeonToolsDB = {
 						["freeholdJoined"] = false,
 					},
 					["week"] = 9,
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 2,
@@ -1772,10 +1776,6 @@ MythicDungeonToolsDB = {
 							},
 						},
 					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
-					},
 					["text"] = "Default 2",
 					["objects"] = {
 					},
@@ -1828,9 +1828,11 @@ MythicDungeonToolsDB = {
 									10, -- [1]
 									2, -- [2]
 								},
-								[11] = {
-									3, -- [1]
-									4, -- [2]
+								[3] = {
+									2, -- [1]
+									1, -- [2]
+									15, -- [3]
+									16, -- [4]
 								},
 								[6] = {
 									3, -- [1]
@@ -1839,11 +1841,9 @@ MythicDungeonToolsDB = {
 									2, -- [1]
 									1, -- [2]
 								},
-								[3] = {
-									2, -- [1]
-									1, -- [2]
-									15, -- [3]
-									16, -- [4]
+								[11] = {
+									3, -- [1]
+									4, -- [2]
 								},
 							}, -- [1]
 							{
@@ -1962,17 +1962,17 @@ MythicDungeonToolsDB = {
 									3, -- [2]
 								},
 								["color"] = "a1ff3e",
-								[3] = {
+								[11] = {
+									6, -- [1]
+									1, -- [2]
+									2, -- [3]
 								},
 								[6] = {
 									2, -- [1]
 								},
 								[12] = {
 								},
-								[11] = {
-									6, -- [1]
-									1, -- [2]
-									2, -- [3]
+								[3] = {
 								},
 							}, -- [11]
 							{
@@ -2267,16 +2267,6 @@ MythicDungeonToolsDB = {
 					["week"] = 12,
 					["objects"] = {
 					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
-					},
-					["text"] = "Preset 2",
-					["mdi"] = {
-						["freeholdJoined"] = false,
-						["freehold"] = 1,
-						["beguiling"] = 1,
-					},
 					["value"] = {
 						["currentPull"] = 1,
 						["currentSublevel"] = 1,
@@ -2294,6 +2284,16 @@ MythicDungeonToolsDB = {
 							[12] = {
 							},
 						},
+					},
+					["text"] = "Preset 2",
+					["mdi"] = {
+						["freeholdJoined"] = false,
+						["freehold"] = 1,
+						["beguiling"] = 1,
+					},
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
 					},
 				}, -- [2]
 				{
@@ -2336,6 +2336,10 @@ MythicDungeonToolsDB = {
 					["objects"] = {
 					},
 					["week"] = 12,
+					["colorPaletteInfo"] = {
+						["autoColoring"] = true,
+						["colorPaletteIdx"] = 4,
+					},
 					["value"] = {
 						["currentPull"] = 2,
 						["currentSublevel"] = 1,
@@ -2553,10 +2557,6 @@ MythicDungeonToolsDB = {
 								},
 							},
 						},
-					},
-					["colorPaletteInfo"] = {
-						["autoColoring"] = true,
-						["colorPaletteIdx"] = 4,
 					},
 					["text"] = "Default 2",
 					["difficulty"] = 10,
